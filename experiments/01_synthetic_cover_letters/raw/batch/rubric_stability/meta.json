@@ -1,0 +1,7 @@
+{
+  "batch_id": "batch_6a4fae7b03008190885fda958d906432",
+  "input_file_id": "file-KFbtQV3KLmwSi9YqXAsRUo",
+  "endpoint": "/v1/responses",
+  "status": "validating",
+  "completion_window": "24h"
+}

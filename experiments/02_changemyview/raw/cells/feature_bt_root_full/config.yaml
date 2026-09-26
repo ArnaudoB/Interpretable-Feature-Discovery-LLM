@@ -1,0 +1,38 @@
+cell:
+  label: winning_args_feature_bt_root_full
+  dataset: winning_args_cmv
+  seed: 42
+
+source:
+  pair_units: experiments/winning_args/data/pair_units.parquet
+  discovery_items: experiments/winning_args/feature_discovery_root/results/graph/essays.parquet
+  features: experiments/winning_args/feature_bt_root_full/features.json
+  challenge_field: root_reply
+  n_pairs: 3411
+  test_from_heldout: true
+  n_test: null
+  test_frac: 0.0
+  min_words: 20
+  max_words: 1200
+  seed: 42
+
+graph:
+  anchor_degree: 16
+  test_anchors: 16
+  seed: 42
+  out_dir: experiments/winning_args/feature_bt_root_full/results/graph
+
+judge:
+  comparative_model: gpt-5.4-mini-2026-03-17
+  judge_effort: none
+  max_out_comparative: 4000
+  smoke_pairs: 8
+  sync_workers: 16
+  seed: 42
+  cache_dir: experiments/winning_args/feature_bt_root_full/cache/responses
+  out_dir:   experiments/winning_args/feature_bt_root_full/results
+
+model:
+  ridge: 1.0e-3
+  tol: 1.0e-6
+  max_iter: 2000

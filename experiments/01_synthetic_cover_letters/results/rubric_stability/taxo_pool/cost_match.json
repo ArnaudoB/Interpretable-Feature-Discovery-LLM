@@ -1,0 +1,55 @@
+{
+  "basis": "batch",
+  "note": "all phases priced at batch rates; `mode` records what was actually submitted where",
+  "modes": {
+    "comparative_judging": "batch",
+    "taxonomy_ours": "sync",
+    "elicitations": "sync",
+    "taxonomy_pool": "batch",
+    "scoring": "batch"
+  },
+  "target_ours_usd": 3.4497113750000055,
+  "target_breakdown": {
+    "comparative_judging": 3.2144201250000055,
+    "taxonomy": 0.23529125,
+    "n_comparative_calls": 4000
+  },
+  "fixed_usd": 2.161500875,
+  "fixed_breakdown": {
+    "E": 27,
+    "usd_per_elicitation": 0.07450435,
+    "usd_per_elicitation_source": "ledger (50 reps, sync)",
+    "usd_elicitations": 2.01161745,
+    "usd_taxonomy_fusion": 0.149883425
+  },
+  "K": 23,
+  "per_spec_model": {
+    "a": 0.0003322434074413652,
+    "b": 2.573791616491312e-05,
+    "points": [
+      {
+        "arm": "M3a",
+        "K": 27,
+        "n_specs": 1576,
+        "usd_per_spec": 0.0010056269035532994
+      },
+      {
+        "arm": "M3b",
+        "K": 33,
+        "n_specs": 1176,
+        "usd_per_spec": 0.001213076530612245
+      },
+      {
+        "arm": "M3c",
+        "K": 46,
+        "n_specs": 976,
+        "usd_per_spec": 0.0015062459016393444
+      }
+    ]
+  },
+  "usd_per_spec": 0.000924215479234367,
+  "usd_per_rep": 0.1848430958468734,
+  "budget_for_scoring_usd": 1.2882105000000053,
+  "n_star": 6,
+  "projected_total_usd": 3.2705594500812403
+}

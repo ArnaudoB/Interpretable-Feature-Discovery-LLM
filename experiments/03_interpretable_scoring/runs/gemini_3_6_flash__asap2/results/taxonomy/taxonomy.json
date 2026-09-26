@@ -1,0 +1,1418 @@
+{
+  "model": "gpt-5.4-2026-03-05",
+  "reasoning_effort": "high",
+  "min_cite": 3,
+  "n_phrases": 327,
+  "criteria": [
+    {
+      "name": "Thesis and Stance",
+      "definition": "Captures how clearly, explicitly, and consistently the essay states and maintains its central argumentative position.",
+      "members": [
+        {
+          "index": 19,
+          "name": "argumentative clarity"
+        },
+        {
+          "index": 20,
+          "name": "argumentative coherence"
+        },
+        {
+          "index": 21,
+          "name": "argumentative cohesion"
+        },
+        {
+          "index": 23,
+          "name": "argumentative consistency"
+        },
+        {
+          "index": 35,
+          "name": "argumentative stance"
+        },
+        {
+          "index": 41,
+          "name": "clarity of argument"
+        },
+        {
+          "index": 42,
+          "name": "clarity of argumentative position"
+        },
+        {
+          "index": 43,
+          "name": "clarity of claim"
+        },
+        {
+          "index": 45,
+          "name": "clarity of position"
+        },
+        {
+          "index": 47,
+          "name": "clarity of stance"
+        },
+        {
+          "index": 48,
+          "name": "clear thesis statement"
+        },
+        {
+          "index": 189,
+          "name": "logical consistency"
+        },
+        {
+          "index": 222,
+          "name": "position consistency"
+        },
+        {
+          "index": 223,
+          "name": "positional clarity"
+        },
+        {
+          "index": 267,
+          "name": "stance clarity"
+        },
+        {
+          "index": 268,
+          "name": "stance consistency"
+        },
+        {
+          "index": 303,
+          "name": "thesis clarity"
+        },
+        {
+          "index": 304,
+          "name": "thesis clarity and focus"
+        },
+        {
+          "index": 305,
+          "name": "thesis focus"
+        },
+        {
+          "index": 306,
+          "name": "thesis statement clarity"
+        }
+      ]
+    },
+    {
+      "name": "Focus and Task Relevance",
+      "definition": "Measures whether the essay stays on topic, addresses the prompt directly, and avoids irrelevant digressions.",
+      "members": [
+        {
+          "index": 28,
+          "name": "argumentative focus"
+        },
+        {
+          "index": 29,
+          "name": "argumentative focus and coherence"
+        },
+        {
+          "index": 164,
+          "name": "focus and coherence"
+        },
+        {
+          "index": 165,
+          "name": "focus and relevance"
+        },
+        {
+          "index": 166,
+          "name": "focus and stance maintenance"
+        },
+        {
+          "index": 290,
+          "name": "task alignment"
+        },
+        {
+          "index": 291,
+          "name": "task focus"
+        },
+        {
+          "index": 292,
+          "name": "task relevance"
+        },
+        {
+          "index": 309,
+          "name": "topic focus"
+        },
+        {
+          "index": 311,
+          "name": "topical focus"
+        }
+      ]
+    },
+    {
+      "name": "Reasoning and Elaboration",
+      "definition": "Captures the depth with which the essay develops claims by analyzing evidence, explaining implications, and extending ideas beyond surface summary.",
+      "members": [
+        {
+          "index": 5,
+          "name": "analytical depth"
+        },
+        {
+          "index": 6,
+          "name": "analytical elaboration"
+        },
+        {
+          "index": 7,
+          "name": "analytical reasoning"
+        },
+        {
+          "index": 15,
+          "name": "argument depth"
+        },
+        {
+          "index": 16,
+          "name": "argument development"
+        },
+        {
+          "index": 17,
+          "name": "argument elaboration"
+        },
+        {
+          "index": 22,
+          "name": "argumentative complexity"
+        },
+        {
+          "index": 24,
+          "name": "argumentative depth"
+        },
+        {
+          "index": 25,
+          "name": "argumentative development"
+        },
+        {
+          "index": 26,
+          "name": "argumentative elaboration"
+        },
+        {
+          "index": 27,
+          "name": "argumentative elaborations"
+        },
+        {
+          "index": 32,
+          "name": "argumentative reasoning"
+        },
+        {
+          "index": 33,
+          "name": "argumentative scope"
+        },
+        {
+          "index": 40,
+          "name": "breadth of argument"
+        },
+        {
+          "index": 46,
+          "name": "clarity of reasoning"
+        },
+        {
+          "index": 105,
+          "name": "critical analysis"
+        },
+        {
+          "index": 106,
+          "name": "critical reasoning"
+        },
+        {
+          "index": 107,
+          "name": "depth of analysis"
+        },
+        {
+          "index": 108,
+          "name": "depth of argument"
+        },
+        {
+          "index": 109,
+          "name": "depth of argumentation"
+        },
+        {
+          "index": 110,
+          "name": "depth of argumentative analysis"
+        },
+        {
+          "index": 111,
+          "name": "depth of argumentative development"
+        },
+        {
+          "index": 112,
+          "name": "depth of argumentative reasoning"
+        },
+        {
+          "index": 113,
+          "name": "depth of argumentative support"
+        },
+        {
+          "index": 115,
+          "name": "depth of critical analysis"
+        },
+        {
+          "index": 116,
+          "name": "depth of critical thinking"
+        },
+        {
+          "index": 117,
+          "name": "depth of elaboration"
+        },
+        {
+          "index": 119,
+          "name": "depth of explanation"
+        },
+        {
+          "index": 120,
+          "name": "depth of reasoning"
+        },
+        {
+          "index": 123,
+          "name": "elaborated reasoning"
+        },
+        {
+          "index": 124,
+          "name": "elaboration"
+        },
+        {
+          "index": 125,
+          "name": "elaboration and analysis"
+        },
+        {
+          "index": 126,
+          "name": "elaboration and commentary"
+        },
+        {
+          "index": 127,
+          "name": "elaboration and depth"
+        },
+        {
+          "index": 128,
+          "name": "elaboration and depth of analysis"
+        },
+        {
+          "index": 129,
+          "name": "elaboration and depth of argument"
+        },
+        {
+          "index": 130,
+          "name": "elaboration and depth of reasoning"
+        },
+        {
+          "index": 131,
+          "name": "elaboration and evidence integration"
+        },
+        {
+          "index": 132,
+          "name": "elaboration and explanation"
+        },
+        {
+          "index": 133,
+          "name": "elaboration and idea development"
+        },
+        {
+          "index": 134,
+          "name": "elaboration and reasoning"
+        },
+        {
+          "index": 135,
+          "name": "elaboration and scenario building"
+        },
+        {
+          "index": 136,
+          "name": "elaboration of argument"
+        },
+        {
+          "index": 137,
+          "name": "elaboration of arguments"
+        },
+        {
+          "index": 138,
+          "name": "elaboration of evidence"
+        },
+        {
+          "index": 139,
+          "name": "elaboration of ideas"
+        },
+        {
+          "index": 140,
+          "name": "elaboration of points"
+        },
+        {
+          "index": 141,
+          "name": "elaboration of reasoning"
+        },
+        {
+          "index": 142,
+          "name": "elaboration of supporting claims"
+        },
+        {
+          "index": 143,
+          "name": "elaboration of supporting details"
+        },
+        {
+          "index": 144,
+          "name": "elaboration of supporting ideas"
+        },
+        {
+          "index": 145,
+          "name": "elaboration of supporting points"
+        },
+        {
+          "index": 146,
+          "name": "elaboration on evidence"
+        },
+        {
+          "index": 148,
+          "name": "elaborative analysis"
+        },
+        {
+          "index": 149,
+          "name": "elaborative explanation"
+        },
+        {
+          "index": 150,
+          "name": "elaborative reasoning"
+        },
+        {
+          "index": 158,
+          "name": "evidence analysis"
+        },
+        {
+          "index": 159,
+          "name": "evidence elaboration"
+        },
+        {
+          "index": 185,
+          "name": "logical argument development"
+        },
+        {
+          "index": 186,
+          "name": "logical argumentation"
+        },
+        {
+          "index": 187,
+          "name": "logical coherence"
+        },
+        {
+          "index": 190,
+          "name": "logical elaboration"
+        },
+        {
+          "index": 193,
+          "name": "logical reasoning"
+        },
+        {
+          "index": 224,
+          "name": "reasoning and analysis"
+        },
+        {
+          "index": 225,
+          "name": "reasoning and argument development"
+        },
+        {
+          "index": 226,
+          "name": "reasoning and argumentation"
+        },
+        {
+          "index": 227,
+          "name": "reasoning and critical thinking"
+        },
+        {
+          "index": 228,
+          "name": "reasoning and elaboration"
+        },
+        {
+          "index": 229,
+          "name": "reasoning and explanation"
+        },
+        {
+          "index": 230,
+          "name": "reasoning and logical flow"
+        },
+        {
+          "index": 231,
+          "name": "reasoning depth"
+        },
+        {
+          "index": 232,
+          "name": "reasoning development"
+        },
+        {
+          "index": 233,
+          "name": "reasoning quality"
+        },
+        {
+          "index": 281,
+          "name": "substantive argumentation"
+        },
+        {
+          "index": 282,
+          "name": "substantive reasoning"
+        }
+      ]
+    },
+    {
+      "name": "Counterargument and Nuance",
+      "definition": "Measures how well the essay acknowledges opposing views, weighs complexity, and responds to counterarguments within its position.",
+      "members": [
+        {
+          "index": 34,
+          "name": "argumentative sophistication"
+        },
+        {
+          "index": 38,
+          "name": "balanced argumentation"
+        },
+        {
+          "index": 39,
+          "name": "balanced perspective"
+        },
+        {
+          "index": 86,
+          "name": "counter-argument addressing"
+        },
+        {
+          "index": 87,
+          "name": "counter-argument integration"
+        },
+        {
+          "index": 88,
+          "name": "counterargument acknowledgment"
+        },
+        {
+          "index": 89,
+          "name": "counterargument addressing"
+        },
+        {
+          "index": 90,
+          "name": "counterargument analysis"
+        },
+        {
+          "index": 91,
+          "name": "counterargument and complexity"
+        },
+        {
+          "index": 92,
+          "name": "counterargument and concession"
+        },
+        {
+          "index": 93,
+          "name": "counterargument and rebuttal"
+        },
+        {
+          "index": 94,
+          "name": "counterargument and rebuttal integration"
+        },
+        {
+          "index": 95,
+          "name": "counterargument and risk analysis"
+        },
+        {
+          "index": 96,
+          "name": "counterargument consideration"
+        },
+        {
+          "index": 97,
+          "name": "counterargument engagement"
+        },
+        {
+          "index": 98,
+          "name": "counterargument handling"
+        },
+        {
+          "index": 99,
+          "name": "counterargument integration"
+        },
+        {
+          "index": 100,
+          "name": "counterargument presentation"
+        },
+        {
+          "index": 101,
+          "name": "counterargument recognition"
+        },
+        {
+          "index": 102,
+          "name": "counterargumentation"
+        },
+        {
+          "index": 103,
+          "name": "counterargumentation and nuance"
+        },
+        {
+          "index": 104,
+          "name": "counterargumentation and rebuttal"
+        },
+        {
+          "index": 114,
+          "name": "depth of counterargumentation"
+        },
+        {
+          "index": 174,
+          "name": "handling of counterarguments"
+        },
+        {
+          "index": 197,
+          "name": "nuanced argumentation"
+        },
+        {
+          "index": 198,
+          "name": "nuanced counterargument integration"
+        },
+        {
+          "index": 199,
+          "name": "nuanced counterargumentation"
+        },
+        {
+          "index": 200,
+          "name": "nuanced reasoning"
+        }
+      ]
+    },
+    {
+      "name": "Source Evidence Integration",
+      "definition": "Captures how effectively the essay selects, incorporates, and synthesizes details from the source text to support its argument.",
+      "members": [
+        {
+          "index": 18,
+          "name": "argument synthesis"
+        },
+        {
+          "index": 30,
+          "name": "argumentative framing"
+        },
+        {
+          "index": 31,
+          "name": "argumentative purpose"
+        },
+        {
+          "index": 37,
+          "name": "argumentative synthesis"
+        },
+        {
+          "index": 118,
+          "name": "depth of evidence integration"
+        },
+        {
+          "index": 122,
+          "name": "effective use of evidence"
+        },
+        {
+          "index": 160,
+          "name": "evidence integration"
+        },
+        {
+          "index": 161,
+          "name": "evidence integration and analysis"
+        },
+        {
+          "index": 162,
+          "name": "evidence-based argument development"
+        },
+        {
+          "index": 163,
+          "name": "evidence-based reasoning"
+        },
+        {
+          "index": 178,
+          "name": "integration of source details"
+        },
+        {
+          "index": 179,
+          "name": "integration of source evidence"
+        },
+        {
+          "index": 180,
+          "name": "integration of text evidence"
+        },
+        {
+          "index": 260,
+          "name": "source evidence integration"
+        },
+        {
+          "index": 261,
+          "name": "source integration"
+        },
+        {
+          "index": 262,
+          "name": "source material integration"
+        },
+        {
+          "index": 263,
+          "name": "source text integration"
+        },
+        {
+          "index": 264,
+          "name": "source textual integration"
+        },
+        {
+          "index": 265,
+          "name": "source-based evidence integration"
+        },
+        {
+          "index": 289,
+          "name": "synthesis of source material"
+        },
+        {
+          "index": 293,
+          "name": "text-based evidence integration"
+        },
+        {
+          "index": 296,
+          "name": "textual engagement"
+        },
+        {
+          "index": 297,
+          "name": "textual evidence"
+        },
+        {
+          "index": 298,
+          "name": "textual evidence integration"
+        },
+        {
+          "index": 299,
+          "name": "textual evidence support"
+        },
+        {
+          "index": 300,
+          "name": "textual evidence usage"
+        },
+        {
+          "index": 301,
+          "name": "textual evidence utilization"
+        },
+        {
+          "index": 302,
+          "name": "textual integration"
+        },
+        {
+          "index": 316,
+          "name": "use of source evidence"
+        },
+        {
+          "index": 317,
+          "name": "use of source material"
+        },
+        {
+          "index": 318,
+          "name": "use of source text"
+        },
+        {
+          "index": 319,
+          "name": "use of source text evidence"
+        },
+        {
+          "index": 320,
+          "name": "use of textual evidence"
+        }
+      ]
+    },
+    {
+      "name": "Source Accuracy",
+      "definition": "Captures whether the essay represents and uses the source text faithfully and without factual or interpretive distortion.",
+      "members": [
+        {
+          "index": 2,
+          "name": "accuracy of source integration"
+        },
+        {
+          "index": 294,
+          "name": "textual accuracy"
+        }
+      ]
+    },
+    {
+      "name": "Structural Organization",
+      "definition": "Measures the macro-level organization of the essay, including the completeness and logical ordering of its major parts.",
+      "members": [
+        {
+          "index": 36,
+          "name": "argumentative structure"
+        },
+        {
+          "index": 54,
+          "name": "cohesive essay structure"
+        },
+        {
+          "index": 157,
+          "name": "essay structure"
+        },
+        {
+          "index": 269,
+          "name": "structural clarity"
+        },
+        {
+          "index": 270,
+          "name": "structural coherence"
+        },
+        {
+          "index": 271,
+          "name": "structural coherence and organization"
+        },
+        {
+          "index": 272,
+          "name": "structural cohesion"
+        },
+        {
+          "index": 274,
+          "name": "structural completeness"
+        },
+        {
+          "index": 275,
+          "name": "structural flow"
+        },
+        {
+          "index": 277,
+          "name": "structural organization"
+        },
+        {
+          "index": 278,
+          "name": "structural organization and flow"
+        },
+        {
+          "index": 279,
+          "name": "structural progression"
+        }
+      ]
+    },
+    {
+      "name": "Cohesion and Transitions",
+      "definition": "Captures how smoothly ideas are linked across sentences and paragraphs through transitions, connectors, and flowing progression.",
+      "members": [
+        {
+          "index": 49,
+          "name": "coherence and flow"
+        },
+        {
+          "index": 50,
+          "name": "cohesion and flow"
+        },
+        {
+          "index": 51,
+          "name": "cohesion and paragraph development"
+        },
+        {
+          "index": 52,
+          "name": "cohesion and transitional flow"
+        },
+        {
+          "index": 53,
+          "name": "cohesion and transitions"
+        },
+        {
+          "index": 55,
+          "name": "cohesive paragraph structure"
+        },
+        {
+          "index": 56,
+          "name": "cohesive paragraph transitions"
+        },
+        {
+          "index": 57,
+          "name": "cohesive progression"
+        },
+        {
+          "index": 58,
+          "name": "cohesive structural organization"
+        },
+        {
+          "index": 59,
+          "name": "cohesive transitions"
+        },
+        {
+          "index": 188,
+          "name": "logical cohesion"
+        },
+        {
+          "index": 191,
+          "name": "logical flow"
+        },
+        {
+          "index": 217,
+          "name": "paragraph transitions"
+        },
+        {
+          "index": 273,
+          "name": "structural cohesion and flow"
+        },
+        {
+          "index": 280,
+          "name": "structural transitions"
+        },
+        {
+          "index": 295,
+          "name": "textual cohesion"
+        },
+        {
+          "index": 310,
+          "name": "topical cohesion"
+        },
+        {
+          "index": 312,
+          "name": "topical progression"
+        },
+        {
+          "index": 313,
+          "name": "transitional cohesion"
+        },
+        {
+          "index": 314,
+          "name": "transitional flow"
+        },
+        {
+          "index": 315,
+          "name": "transitions and flow"
+        },
+        {
+          "index": 321,
+          "name": "use of transitional devices"
+        }
+      ]
+    },
+    {
+      "name": "Paragraph Development",
+      "definition": "Measures how well individual paragraphs are focused, structured, and developed around distinct supporting ideas.",
+      "members": [
+        {
+          "index": 192,
+          "name": "logical paragraph organization"
+        },
+        {
+          "index": 210,
+          "name": "paragraph coherence"
+        },
+        {
+          "index": 211,
+          "name": "paragraph development"
+        },
+        {
+          "index": 212,
+          "name": "paragraph focus"
+        },
+        {
+          "index": 213,
+          "name": "paragraph organization"
+        },
+        {
+          "index": 214,
+          "name": "paragraph structure"
+        },
+        {
+          "index": 215,
+          "name": "paragraph structure and development"
+        },
+        {
+          "index": 216,
+          "name": "paragraph structure and flow"
+        }
+      ]
+    },
+    {
+      "name": "Introduction and Framing",
+      "definition": "Captures the effectiveness of the essay's opening in engaging the reader, establishing context, and framing the argument.",
+      "members": [
+        {
+          "index": 151,
+          "name": "engaging hook"
+        },
+        {
+          "index": 152,
+          "name": "engaging introduction"
+        },
+        {
+          "index": 153,
+          "name": "engaging introductory hook"
+        },
+        {
+          "index": 154,
+          "name": "engaging narrative hook"
+        },
+        {
+          "index": 181,
+          "name": "introduction quality"
+        },
+        {
+          "index": 182,
+          "name": "introductory engagement"
+        },
+        {
+          "index": 183,
+          "name": "introductory framing"
+        },
+        {
+          "index": 184,
+          "name": "introductory hook"
+        },
+        {
+          "index": 276,
+          "name": "structural framing"
+        }
+      ]
+    },
+    {
+      "name": "Conclusion",
+      "definition": "Measures how effectively the essay closes by synthesizing its main points and reinforcing its judgment.",
+      "members": [
+        {
+          "index": 79,
+          "name": "concluding synthesis"
+        },
+        {
+          "index": 80,
+          "name": "conclusion effectiveness"
+        }
+      ]
+    },
+    {
+      "name": "Rhetorical Engagement",
+      "definition": "Captures the use of voice, analogy, framing, and other persuasive techniques to engage the reader and make the argument vivid.",
+      "members": [
+        {
+          "index": 4,
+          "name": "analogical reasoning"
+        },
+        {
+          "index": 78,
+          "name": "comparative reasoning"
+        },
+        {
+          "index": 121,
+          "name": "effective use of analogy"
+        },
+        {
+          "index": 147,
+          "name": "elaboration through concrete examples"
+        },
+        {
+          "index": 155,
+          "name": "engaging rhetorical framing"
+        },
+        {
+          "index": 156,
+          "name": "engaging voice"
+        },
+        {
+          "index": 175,
+          "name": "illustrative reasoning"
+        },
+        {
+          "index": 218,
+          "name": "persuasive framing"
+        },
+        {
+          "index": 219,
+          "name": "persuasive reasoning"
+        },
+        {
+          "index": 220,
+          "name": "persuasive tone"
+        },
+        {
+          "index": 221,
+          "name": "persuasive voice"
+        },
+        {
+          "index": 235,
+          "name": "rhetorical effectiveness"
+        },
+        {
+          "index": 236,
+          "name": "rhetorical engagement"
+        },
+        {
+          "index": 237,
+          "name": "rhetorical framing"
+        },
+        {
+          "index": 238,
+          "name": "rhetorical skill"
+        },
+        {
+          "index": 239,
+          "name": "rhetorical sophistication"
+        },
+        {
+          "index": 240,
+          "name": "rhetorical strategy"
+        },
+        {
+          "index": 324,
+          "name": "voice and audience engagement"
+        },
+        {
+          "index": 325,
+          "name": "voice and engagement"
+        },
+        {
+          "index": 326,
+          "name": "voice and rhetorical engagement"
+        }
+      ]
+    },
+    {
+      "name": "Academic Tone and Register",
+      "definition": "Measures whether the essay sustains a formal, objective, task-appropriate academic voice.",
+      "members": [
+        {
+          "index": 0,
+          "name": "academic register"
+        },
+        {
+          "index": 1,
+          "name": "academic tone"
+        },
+        {
+          "index": 8,
+          "name": "appropriate academic register"
+        },
+        {
+          "index": 9,
+          "name": "appropriate academic tone"
+        },
+        {
+          "index": 10,
+          "name": "appropriate argumentative tone"
+        },
+        {
+          "index": 11,
+          "name": "appropriate tone"
+        },
+        {
+          "index": 12,
+          "name": "appropriate tone and register"
+        },
+        {
+          "index": 13,
+          "name": "appropriate tone and style"
+        },
+        {
+          "index": 14,
+          "name": "appropriate writing register"
+        },
+        {
+          "index": 167,
+          "name": "formal register"
+        },
+        {
+          "index": 168,
+          "name": "formal writing tone"
+        },
+        {
+          "index": 234,
+          "name": "register and tone"
+        },
+        {
+          "index": 307,
+          "name": "tone and register"
+        },
+        {
+          "index": 308,
+          "name": "tone appropriateness"
+        }
+      ]
+    },
+    {
+      "name": "Vocabulary and Style",
+      "definition": "Captures the sophistication, precision, and appropriateness of the essay's word choice and overall language style.",
+      "members": [
+        {
+          "index": 3,
+          "name": "advanced vocabulary"
+        },
+        {
+          "index": 63,
+          "name": "command of language"
+        },
+        {
+          "index": 66,
+          "name": "command of language and register"
+        },
+        {
+          "index": 67,
+          "name": "command of language and style"
+        },
+        {
+          "index": 68,
+          "name": "command of language and tone"
+        },
+        {
+          "index": 77,
+          "name": "command of vocabulary"
+        },
+        {
+          "index": 258,
+          "name": "sentence variety and vocabulary"
+        },
+        {
+          "index": 259,
+          "name": "sophisticated vocabulary"
+        },
+        {
+          "index": 322,
+          "name": "vocabulary and word choice"
+        },
+        {
+          "index": 323,
+          "name": "vocabulary sophistication"
+        }
+      ]
+    },
+    {
+      "name": "Sentence Fluency and Syntax",
+      "definition": "Measures the readability, variety, and control of sentence structures apart from basic correctness alone.",
+      "members": [
+        {
+          "index": 44,
+          "name": "clarity of expression"
+        },
+        {
+          "index": 76,
+          "name": "command of sentence structure"
+        },
+        {
+          "index": 241,
+          "name": "sentence clarity"
+        },
+        {
+          "index": 242,
+          "name": "sentence clarity and control"
+        },
+        {
+          "index": 244,
+          "name": "sentence clarity and syntax"
+        },
+        {
+          "index": 245,
+          "name": "sentence control"
+        },
+        {
+          "index": 246,
+          "name": "sentence fluency"
+        },
+        {
+          "index": 254,
+          "name": "sentence structure fluency"
+        },
+        {
+          "index": 256,
+          "name": "sentence variety"
+        },
+        {
+          "index": 257,
+          "name": "sentence variety and control"
+        },
+        {
+          "index": 283,
+          "name": "syntactic clarity"
+        },
+        {
+          "index": 284,
+          "name": "syntactic coherence"
+        },
+        {
+          "index": 285,
+          "name": "syntactic completeness"
+        },
+        {
+          "index": 286,
+          "name": "syntactic complexity"
+        },
+        {
+          "index": 287,
+          "name": "syntactic control"
+        },
+        {
+          "index": 288,
+          "name": "syntactic fluency"
+        }
+      ]
+    },
+    {
+      "name": "Conventions and Mechanics",
+      "definition": "Captures control of standard written English, including grammar, spelling, punctuation, usage, and sentence-level correctness.",
+      "members": [
+        {
+          "index": 60,
+          "name": "command of conventions"
+        },
+        {
+          "index": 61,
+          "name": "command of conventions and mechanics"
+        },
+        {
+          "index": 62,
+          "name": "command of grammar and mechanics"
+        },
+        {
+          "index": 64,
+          "name": "command of language and conventions"
+        },
+        {
+          "index": 65,
+          "name": "command of language and mechanics"
+        },
+        {
+          "index": 69,
+          "name": "command of language conventions"
+        },
+        {
+          "index": 70,
+          "name": "command of language mechanics"
+        },
+        {
+          "index": 71,
+          "name": "command of mechanics"
+        },
+        {
+          "index": 72,
+          "name": "command of mechanics and conventions"
+        },
+        {
+          "index": 73,
+          "name": "command of mechanics and grammar"
+        },
+        {
+          "index": 74,
+          "name": "command of mechanics and syntax"
+        },
+        {
+          "index": 75,
+          "name": "command of sentence mechanics"
+        },
+        {
+          "index": 81,
+          "name": "control of conventions"
+        },
+        {
+          "index": 82,
+          "name": "control of conventions and mechanics"
+        },
+        {
+          "index": 83,
+          "name": "control of sentence mechanics"
+        },
+        {
+          "index": 84,
+          "name": "conventions"
+        },
+        {
+          "index": 85,
+          "name": "conventions and mechanics"
+        },
+        {
+          "index": 169,
+          "name": "grammar and mechanics"
+        },
+        {
+          "index": 170,
+          "name": "grammatical accuracy"
+        },
+        {
+          "index": 171,
+          "name": "grammatical control"
+        },
+        {
+          "index": 172,
+          "name": "grammatical control and conventions"
+        },
+        {
+          "index": 173,
+          "name": "grammatical correctness"
+        },
+        {
+          "index": 194,
+          "name": "mechanics and command of language"
+        },
+        {
+          "index": 195,
+          "name": "mechanics and conventions"
+        },
+        {
+          "index": 196,
+          "name": "mechanics and language control"
+        },
+        {
+          "index": 243,
+          "name": "sentence clarity and mechanics"
+        },
+        {
+          "index": 247,
+          "name": "sentence mechanics"
+        },
+        {
+          "index": 248,
+          "name": "sentence mechanics and clarity"
+        },
+        {
+          "index": 249,
+          "name": "sentence mechanics and control"
+        },
+        {
+          "index": 250,
+          "name": "sentence mechanics and fluency"
+        },
+        {
+          "index": 251,
+          "name": "sentence mechanics and syntax"
+        },
+        {
+          "index": 252,
+          "name": "sentence structure"
+        },
+        {
+          "index": 253,
+          "name": "sentence structure and mechanics"
+        },
+        {
+          "index": 255,
+          "name": "sentence syntax"
+        },
+        {
+          "index": 266,
+          "name": "spelling accuracy"
+        }
+      ]
+    },
+    {
+      "name": "Originality of Thought",
+      "definition": "Captures the extent to which the essay contributes independent ideas, reasoning, and expression rather than merely repeating the source.",
+      "members": [
+        {
+          "index": 176,
+          "name": "independent argumentation"
+        },
+        {
+          "index": 177,
+          "name": "independent reasoning"
+        },
+        {
+          "index": 201,
+          "name": "original argument generation"
+        },
+        {
+          "index": 202,
+          "name": "original argumentation"
+        },
+        {
+          "index": 203,
+          "name": "original argumentative development"
+        },
+        {
+          "index": 204,
+          "name": "original argumentative reasoning"
+        },
+        {
+          "index": 205,
+          "name": "original critical thinking"
+        },
+        {
+          "index": 206,
+          "name": "original expression"
+        },
+        {
+          "index": 207,
+          "name": "original reasoning"
+        },
+        {
+          "index": 208,
+          "name": "originality of argumentation"
+        },
+        {
+          "index": 209,
+          "name": "originality of thought"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"request_hash": "d5e46c5dfb111c36ea4d1172ec298ef97e70c767a8e29ed0b8d43e85b43dcf6f", "custom_id": "p2:train_nodelta_p_737", "model": "gpt-5.4-mini-2026-03-17", "endpoint": "/v1/responses", "text": "{\"changed_view\":\"yes\"}", "usage": {"input_tokens": 461, "output_tokens": 14}, "source": "realtime", "batch_id": null, "error": null}

@@ -1,0 +1,374 @@
+[0] abstract conceptual development (cited 3x): The essay engages with abstract ideas and develops a conceptual argument rather than relying on simple enumeration.
+[1] abstract idea development (cited 18x): The essay engages with conceptual themes and elaborates them through reasoning rather than restating a single concrete point.
+[2] abstract reasoning (cited 26x): The essay moves beyond simple statements to articulate general insights about human behavior and influence.
+[3] abstract vocabulary range (cited 4x): The essay reaches for more sophisticated, abstract words to express ideas about concepts rather than concrete activities.
+[4] academic register (cited 9x): The essay adopts a more formal, essay-appropriate tone suited to persuasive academic writing.
+[5] academic vocabulary (cited 42x): The essay draws on a broader and more precise academic lexicon appropriate to persuasive writing.
+[6] academic vocabulary range (cited 90x): The essay draws on a broader and more precise academic lexicon appropriate to persuasive writing.
+[7] academic word choice (cited 17x): The writer selects more formal, precise vocabulary appropriate to expository writing.
+[8] accurate spelling (cited 6x): Words are spelled correctly, showing control over English orthography.
+[9] acknowledgment of opposing views (cited 4x): The writer anticipates and addresses a counterargument, showing more sophisticated rhetorical awareness.
+[10] advanced academic vocabulary (cited 9x): The essay employs precise, elevated word choices and formal register appropriate for persuasive academic writing.
+[11] advanced lexical range (cited 9x): The writing draws on a broad and precise academic vocabulary that conveys meaning with nuance and formality.
+[12] advanced vocabulary (cited 13x): The essay employs precise, elevated word choices that convey nuanced meaning beyond basic proficiency.
+[13] analytical depth (cited 3x): The essay develops its argument with reasoned cause-and-effect analysis rather than personal anecdote alone.
+[14] analytical reasoning (cited 4x): The essay explains causes and mechanisms behind the problem it addresses rather than relying on personal anecdotes.
+[15] appropriate formal tone (cited 3x): The essay maintains a consistent formal register suited to addressing an authority figure.
+[16] argument development (cited 65x): Each main point is elaborated with explanation and real-world relevance, whereas Essay B mostly narrates personal anecdotes without building a sustained case.
+[17] argumentative awareness (cited 15x): The essay anticipates and addresses an opposing view, showing more sophisticated rhetorical handling.
+[18] argumentative balance (cited 11x): The essay anticipates and addresses an opposing view, strengthening the persuasiveness of its position.
+[19] argumentative coherence (cited 51x): The essay sustains a clear central position that is introduced, developed, and restated without drifting off-topic.
+[20] argumentative depth (cited 22x): The essay anticipates and engages with an opposing view, showing more mature critical thinking.
+[21] argumentative development (cited 75x): The essay sustains a coherent line of reasoning, weighing positions and building toward a conclusion rather than narrating isolated examples.
+[22] argumentative focus (cited 5x): The essay maintains a consistent position and develops it with relevant supporting reasons rather than drifting.
+[23] argumentative framing (cited 4x): The essay presents a thesis and returns to it in a conclusion, showing an attempt at a full argumentative arc.
+[24] argumentative nuance (cited 4x): The essay anticipates and addresses opposing views, strengthening its reasoning.
+[25] argumentative organization (cited 46x): The essay sustains a clear, developed position with logical progression and rhetorical structure.
+[26] argumentative reasoning (cited 14x): The essay acknowledges and addresses opposing viewpoints rather than only asserting its own position.
+[27] argumentative sophistication (cited 11x): The essay anticipates and addresses opposing viewpoints, demonstrating advanced persuasive writing skill.
+[28] argumentative structure (cited 31x): The essay anticipates and addresses an opposing view, showing more advanced rhetorical awareness than Essay B's straightforward request.
+[29] audience awareness (cited 24x): The essay is framed as a formal persuasive letter with a consistent sense of purpose and audience.
+[30] authorial voice (cited 3x): The essay displays a distinctive personal voice and playful engagement with the topic.
+[31] broader academic vocabulary (cited 31x): The essay draws on a wider range of formal and academic word choices appropriate to persuasive writing.
+[32] broader functional vocabulary (cited 9x): The essay draws on a wider range of everyday and topic-relevant words used appropriately.
+[33] broader lexical range (cited 3x): The essay reaches for a wider and more academic vocabulary even where spelling is imperfect.
+[34] broader precise vocabulary (cited 3x): The essay draws on a wider range of academic and precise vocabulary appropriate to the topic.
+[35] broader vocabulary (cited 6x): The essay draws on a wider and more academic range of vocabulary appropriate to the writing task.
+[36] broader vocabulary range (cited 30x): The essay draws on a wider and more precise academic vocabulary than the other essay.
+[37] causal reasoning (cited 8x): The essay explicitly links decisions and outcomes, showing an ability to explain reasoning.
+[38] clarity of expression (cited 9x): The essay communicates its intended meaning to the reader with far less ambiguity and confusion.
+[39] coherence and cohesion (cited 26x): The essay connects ideas across sentences and paragraphs with linking phrases that guide the reader through the argument.
+[40] coherence and focus (cited 16x): A unified central topic sustained throughout with relevant supporting details.
+[41] coherence and organization (cited 11x): The essay presents ideas in a logical sequence with clear paragraph structure, whereas Essay B's thoughts are disconnected and hard to follow.
+[42] coherent argument development (cited 28x): The essay advances a sustained argument with reasons, an example, and a rebuttal of an opposing view.
+[43] coherent argument structure (cited 5x): The essay organizes ideas around a central claim with illustrative examples that support it.
+[44] coherent argumentation (cited 72x): The essay maintains a consistent thesis and supports it with reasoning, while Essay B lacks a developed, sustained point.
+[45] coherent argumentative structure (cited 10x): The essay maintains a clear thesis and develops it through organized supporting points from start to finish.
+[46] coherent idea development (cited 18x): The ability to organize and develop ideas into a connected, progressing argument or narrative rather than restating points.
+[47] coherent organization (cited 64x): The essay develops a clear, connected line of thought from thesis to personal anecdote to concluding reflection.
+[48] coherent organization and development (cited 4x): The essay builds ideas progressively with concrete examples and a clear reflective arc rather than restating the same claims.
+[49] coherent paragraph development (cited 11x): The essay builds each paragraph around a clear supporting idea with extended, relevant examples rather than loosely connected assertions.
+[50] coherent paragraph organization (cited 15x): The essay develops a single idea with a clear introduction, supporting example, and conclusion.
+[51] coherent sentence construction (cited 3x): The writer produces complete, understandable sentences that convey connected ideas, whereas Essay B strings together fragments and disconnected clauses.
+[52] cohesion (cited 12x): Essay A links its ideas with connectives that clarify relationships, whereas Essay B's ideas are loosely strung together.
+[53] cohesion and coherence (cited 16x): The essay maintains clear logical flow between ideas with consistent referencing and topic development.
+[54] cohesion and flow (cited 23x): The essay links ideas smoothly with transitional phrases that guide the reader through the argument.
+[55] cohesion and organization (cited 8x): The essay links ideas with transitional and referencing expressions that guide the reader through the argument.
+[56] cohesion and transitions (cited 33x): The essay uses linking words and phrases to connect ideas smoothly across sentences and paragraphs.
+[57] cohesive argumentation (cited 4x): The essay uses explicit signposting and transitions to build and connect its argument across paragraphs.
+[58] cohesive devices (cited 125x): The essay uses explicit discourse markers to guide the reader through the argument.
+[59] cohesive devices and transitions (cited 3x): Use of linking phrases and discourse markers that guide the reader through the argument.
+[60] cohesive flow (cited 31x): The essay uses explicit discourse markers and logical connectors to guide the reader smoothly between ideas and paragraphs.
+[61] cohesive framing (cited 4x): The essay opens with a personal narrative that ties into and supports the overall argument throughout.
+[62] cohesive linking (cited 284x): The essay uses transitional and linking expressions to connect ideas across sentences and paragraphs.
+[63] cohesive linking devices (cited 17x): The writer uses discourse markers to connect arguments and signal shifts, creating a smoother flow than Essay B's abrupt jumps between ideas.
+[64] cohesive organization (cited 26x): The essay employs transitional and linking phrases that guide the reader through the argument and connect paragraphs.
+[65] cohesive paragraph development (cited 6x): The essay uses topic sentences and transitions to develop each paragraph around a single supporting point.
+[66] cohesive paragraph linking (cited 3x): The essay uses explicit transitional devices to guide the reader smoothly through its argument.
+[67] cohesive paragraph transitions (cited 4x): The essay uses explicit signposting and transitional phrases to guide the reader smoothly between ideas and paragraphs.
+[68] cohesive paragraphing (cited 3x): The essay links paragraphs and ideas with clear topic sentences and logical progression.
+[69] cohesive paragraphing and transitions (cited 5x): The essay links ideas with transitional phrases and connective devices that guide the reader through the argument.
+[70] cohesive signaling (cited 11x): Transitional phrases clearly mark the progression of ideas and guide the reader through the argument.
+[71] cohesive transitions (cited 80x): The essay links ideas and paragraphs with explicit discourse markers that guide the reader through the argument.
+[72] cohesive use of evidence (cited 3x): The writer integrates a concrete example and returns to it, tying the essay together with thematic coherence.
+[73] communicative clarity (cited 31x): The ability to convey intended meaning that a reader can follow without guesswork.
+[74] communicative intelligibility (cited 3x): The essay's meaning can be understood by a reader, while Essay B is largely incomprehensible due to severe spelling and syntax breakdown.
+[75] complex idea expression (cited 4x): The writer attempts conditional and causal reasoning structures to convey nuanced arguments rather than simple narration.
+[76] complex sentence attempts (cited 5x): The essay attempts more complex and varied sentence structures to express relationships between ideas.
+[77] complex sentence construction (cited 81x): The writer uses longer, multi-clause sentences that connect ideas with subordination and conditionals, showing more advanced syntactic control.
+[78] complex sentence structures (cited 3x): The essay shows greater syntactic variety, including contrastive and subordinate clauses that express nuanced relationships.
+[79] complex sentence variety (cited 5x): The writer uses more varied and complex sentence constructions, including subordinate clauses and conditional structures, than the other essay.
+[80] comprehensible sentence construction (cited 3x): Sentences are mostly parseable and convey meaning despite grammatical errors, whereas Essay A's sentences are largely unintelligible.
+[81] conceptual elaboration (cited 3x): The essay develops ideas with concrete reasoning and examples that extend beyond surface claims.
+[82] concrete descriptive detail (cited 5x): The essay uses vivid, specific sensory language to develop its ideas rather than relying on abstract generalizations.
+[83] concrete elaboration (cited 12x): The essay develops ideas with specific, tangible details rather than repeating abstract claims.
+[84] concrete exemplification (cited 34x): The essay supports its claims with specific, elaborated real-world scenarios that ground the argument.
+[85] concrete illustration (cited 5x): Essay A grounds its claims in specific, relatable scenarios that make the reasoning tangible, whereas Essay B stays abstract and vague.
+[86] concrete illustrative detail (cited 3x): The essay grounds abstract claims about imagination in specific, tangible examples that make the argument vivid.
+[87] concrete supporting detail (cited 12x): The essay grounds its claims in specific personal experiences and factual examples that develop the argument.
+[88] concrete supporting evidence (cited 12x): The argument is supported with specific, developed personal anecdotes that illustrate each point rather than relying on vague assertions.
+[89] concrete supporting examples (cited 11x): The writer develops the argument with a specific, detailed narrative example rather than abstract assertion.
+[90] consideration of multiple viewpoints (cited 5x): The essay weighs the interests of different stakeholders rather than focusing only on the writer's own experience.
+[91] consistent academic register (cited 5x): The writer sustains a controlled, school-appropriate tone throughout, whereas Essay B shifts awkwardly and uses informal or unclear expressions.
+[92] consistent academic tone (cited 5x): The essay sustains a formal, reflective voice appropriate to persuasive academic writing from start to finish.
+[93] consistent authorial voice (cited 6x): The essay sustains a coherent personal perspective that ties its various goals together.
+[94] consistent english production (cited 22x): The essay sustains English throughout rather than abandoning it for the writer's first language.
+[95] consistent formal register (cited 15x): The essay sustains an appropriately formal, academic tone appropriate to the persuasive task.
+[96] consistent formal tone (cited 38x): The essay sustains a formal, academic voice appropriate to persuasive writing from start to finish.
+[97] consistent register (cited 7x): The ability to sustain a uniform tone and level of formality appropriate to the writing task.
+[98] consistent register and voice (cited 3x): The essay sustains a steady, appropriate academic tone and a clear first-person argumentative stance without drifting into informal or confused phrasing.
+[99] consistent tone and register (cited 6x): The essay sustains a formal, academic voice appropriate to the task without slipping into informal or conversational language.
+[100] consistent use of english (cited 5x): The essay maintains English throughout rather than abandoning the target language for extended passages.
+[101] content development (cited 7x): The essay develops an idea with a clear position and multiple supporting examples rather than restating a single point.
+[102] conventional accuracy (cited 39x): The essay demonstrates strong control of standard spelling, grammar, and punctuation with only occasional minor errors.
+[103] conventional mechanics (cited 37x): The essay demonstrates largely accurate spelling, capitalization, and punctuation, with only occasional minor errors.
+[104] conventional spelling (cited 7x): The essay demonstrates accurate spelling, unlike Essay A which contains errors such as 'collage,' 'bid,' 'form,' and 'desicions.'
+[105] conventional spelling and mechanics (cited 8x): The essay maintains mostly standard spelling, capitalization, and punctuation, keeping errors from impeding readability.
+[106] conventional spelling and punctuation (cited 6x): The writing follows standard spelling and punctuation conventions with only occasional errors.
+[107] conventions accuracy (cited 6x): The essay maintains largely correct grammar, spelling, and punctuation, with few errors interrupting readability.
+[108] conventions and mechanics (cited 8x): The essay shows consistent paragraphing, capitalization, and punctuation, whereas Essay A has run-on sentences, missing punctuation, and inconsistent capitalization.
+[109] conventions control (cited 4x): The essay demonstrates stronger command of standard writing mechanics, including sentence boundaries, capitalization, and spelling.
+[110] conventions of written english (cited 4x): Control over standard spelling, capitalization, and punctuation that makes writing readable and formal.
+[111] counterargument acknowledgment (cited 3x): The essay anticipates and addresses an opposing viewpoint, showing more sophisticated argumentative awareness.
+[112] counterargument awareness (cited 27x): The essay acknowledges and responds to an opposing viewpoint, showing more sophisticated argumentation.
+[113] counterargument consideration (cited 4x): The essay acknowledges and responds to an opposing viewpoint, showing more sophisticated argumentative thinking.
+[114] counterargument engagement (cited 4x): The essay anticipates and addresses opposing views, demonstrating advanced rhetorical awareness.
+[115] counterargument handling (cited 94x): The essay anticipates and rebuts an opposing view, showing more sophisticated argumentative awareness.
+[116] depth of elaboration (cited 3x): The essay supports its thesis with a wide range of developed examples and extended reasoning rather than restating a single idea.
+[117] depth of idea development (cited 3x): The essay elaborates each claim with concrete personal examples and extended explanation rather than assertion alone.
+[118] descriptive elaboration (cited 4x): The writer develops ideas with concrete sensory and explanatory detail rather than repeating a single point.
+[119] descriptive word choice (cited 11x): The essay uses vivid, specific adjectives and concrete nouns to create sensory detail and enrich the writing.
+[120] developed supporting evidence (cited 4x): Each point is elaborated with specific, detailed examples that illustrate the claim, whereas Essay B's points are asserted with little concrete support.
+[121] discourse cohesion (cited 59x): The writer connects paragraphs and ideas with linking phrases that guide the reader through the argument.
+[122] discourse connectors (cited 14x): The essay links ideas across sentences and paragraphs using transitional phrases that guide the reader.
+[123] discourse organization (cited 29x): The essay signals transitions between sections and shows clearer paragraph-level structure.
+[124] effective conclusion (cited 6x): The essay closes by synthesizing its arguments and adding a meaningful final reflection rather than merely repeating a slogan.
+[125] effective use of evidence (cited 23x): The essay supports its abstract claims with concrete, relevant examples that strengthen the argument.
+[126] effective use of evidence and examples (cited 8x): The essay supports abstract claims with specific, relevant illustrations that strengthen the argument.
+[127] effective use of examples (cited 4x): The essay integrates concrete, relevant examples to illustrate and support its abstract claims.
+[128] effective use of personal evidence (cited 8x): The essay integrates a concrete personal experience to illustrate and support its argument.
+[129] effective use of personal example (cited 5x): The essay integrates a relevant personal story that supports and illustrates the thesis rather than standing as a loosely connected aside.
+[130] effective use of supporting evidence (cited 12x): The writer grounds each argument in specific, relatable personal experiences that illustrate the points rather than relying on general statements.
+[131] effective use of supporting examples (cited 4x): The essay grounds abstract claims in specific, relevant illustrations that strengthen the persuasiveness of the argument.
+[132] elaborated argumentation (cited 6x): The essay extends its claims with illustrative examples and explains how each point supports the thesis rather than merely asserting it.
+[133] elaborated idea development (cited 3x): Each supporting point is expanded with concrete reasoning and examples rather than being asserted and left undeveloped.
+[134] elaborated reasoning (cited 14x): The essay supports its claims with extended, concrete examples that show cause and effect rather than bare assertions.
+[135] elaborated supporting detail (cited 3x): The essay develops its claims with extended, concrete illustration rather than brief assertions.
+[136] elaborated supporting evidence (cited 14x): Each example is fully developed and explicitly connected to the argument it supports, showing sustained reasoning.
+[137] elaborated supporting examples (cited 3x): The essay supports each argument with specific, developed examples that illustrate the point.
+[138] elaboration and development (cited 28x): The essay develops ideas with specific, extended explanation rather than repeating general claims.
+[139] elaboration and exemplification (cited 9x): The essay develops abstract claims with a detailed, concrete scenario that illustrates the point being made.
+[140] elaboration and idea development (cited 8x): The essay fleshes out its claims with detailed supporting anecdotes, whereas Essay B barely begins to develop its argument.
+[141] elaboration and support (cited 39x): The essay develops each claim with a concrete, extended personal example that illustrates the point.
+[142] elaboration of ideas (cited 10x): The essay fleshes out each point with concrete examples and explanation rather than restating a single idea.
+[143] elaboration with concrete detail (cited 4x): The essay develops each point with specific examples and sensory details rather than vague assertions.
+[144] elaboration with concrete examples (cited 3x): The writer supports each claim with specific, developed illustrative scenarios rather than bare assertions.
+[145] elaboration with examples (cited 10x): The essay supports each claim with specific, relevant illustrative scenarios.
+[146] elaboration with supporting examples (cited 3x): The essay substantiates each claim with specific, developed illustrations rather than restating the same idea.
+[147] elaborative development (cited 6x): The essay develops each claim with extended, concrete personal evidence that is analyzed rather than merely asserted.
+[148] evidence and elaboration (cited 3x): The writer supports each claim with specific, personal examples that develop and substantiate the argument.
+[149] evidence development (cited 5x): The essay supports its claims with specific, elaborated examples that illustrate the argument.
+[150] evidence integration (cited 14x): The essay incorporates outside evidence to support its claims, showing awareness of persuasive writing conventions.
+[151] evidence-based argumentation (cited 7x): The writer supports each point with a concrete personal anecdote and explicitly connects the example to the argument being made.
+[152] explanatory reasoning (cited 3x): The essay connects each example back to its claim by explaining how the situation causes harm, strengthening the argumentative logic.
+[153] expressive range (cited 3x): The writing conveys personal feeling and emphasis through varied idiomatic and emotional language.
+[154] expressive vocabulary (cited 5x): The essay uses more varied and figurative word choices to convey ideas vividly.
+[155] figurative expression (cited 7x): Employs an analogy to illustrate a point, showing an attempt at rhetorical elaboration beyond literal statement.
+[156] figurative expressiveness (cited 8x): The essay uses imagery and metaphor to convey its message in a more vivid and polished way.
+[157] figurative language (cited 8x): The essay uses an analogy to illustrate its point, adding rhetorical color to the argument.
+[158] figurative language use (cited 4x): The essay employs idiomatic and metaphorical expressions that enrich the prose and convey meaning vividly.
+[159] focused argument development (cited 9x): The essay stays on one thesis and elaborates it with reasons and illustrative examples rather than drifting across unrelated topics.
+[160] focused argumentation (cited 30x): The essay stays on a single clear thesis and supports it with developed reasoning throughout.
+[161] focused exemplification (cited 3x): The essay uses examples that clearly and directly support the central claim rather than drifting off-topic.
+[162] focused idea development (cited 9x): Each claim is supported with specific details and examples that stay on topic.
+[163] focused paragraph development (cited 4x): Each paragraph advances one clear point with supporting detail rather than repeating the same idea.
+[164] focused topic development (cited 4x): The essay sustains a single controlling idea and develops it, rather than drifting across disconnected topics.
+[165] functional vocabulary range (cited 3x): The essay draws on a usable everyday vocabulary to express ideas, compared to Essay A's more limited and misused word choices.
+[166] functional vocabulary use (cited 3x): The essay deploys a range of words that carry clear meaning in their context.
+[167] genre awareness (cited 6x): The essay demonstrates understanding of the conventions and structure of a persuasive letter.
+[168] grammatical accuracy (cited 303x): The essay demonstrates more consistent control over grammar, with fewer errors in agreement, articles, and sentence construction.
+[169] grammatical and mechanical accuracy (cited 4x): The essay maintains largely correct grammar, punctuation, and spelling, allowing the argument to be read without distraction.
+[170] grammatical and mechanical control (cited 6x): The essay shows generally accurate grammar, punctuation, and spelling with only occasional minor errors.
+[171] grammatical and spelling accuracy (cited 14x): The essay demonstrates control over standard English conventions with far fewer mechanical errors.
+[172] grammatical complexity (cited 6x): The essay attempts and mostly manages more complex grammatical constructions than the other essay.
+[173] grammatical consistency (cited 8x): The essay keeps pronouns and verb forms consistent and grammatical across sentences.
+[174] grammatical control (cited 380x): The essay consistently produces grammatically correct sentences with proper subject-verb agreement and clause structure.
+[175] grammatical range (cited 3x): The essay demonstrates command of a wider range of grammatical constructions with fewer errors than Essay A.
+[176] grammatical sentence construction (cited 6x): The ability to form complete, well-structured sentences that convey ideas clearly.
+[177] greater grammatical control (cited 4x): The essay maintains more accurate basic grammar and agreement across sentences, despite some errors.
+[178] greater syntactic complexity (cited 6x): The essay attempts more varied and complex sentence structures, including parallel constructions and subordinate clauses.
+[179] greater syntactic control (cited 3x): The essay produces more grammatically conventional sentences, whereas Essay A frequently breaks down into fragments and garbled constructions.
+[180] greater syntactic range (cited 3x): The essay attempts more varied and complex sentence constructions, including conditionals and subordinate clauses, than the other essay.
+[181] greater syntactic variety (cited 7x): The essay attempts more complex sentence constructions with subordinate clauses, showing more advanced grammatical range.
+[182] idea development (cited 180x): The essay elaborates on each claim with reasoning and concrete scenarios rather than merely restating an opinion.
+[183] idea development and elaboration (cited 5x): Supporting claims with specific, developed examples rather than restating the same idea.
+[184] idea elaboration (cited 60x): Each main point is expanded with concrete scenarios and outcomes rather than being stated once and left undeveloped.
+[185] ideational development (cited 9x): The essay elaborates a central idea through multiple supporting angles rather than restating a single claim.
+[186] ideational elaboration (cited 5x): The essay develops its central idea with more supporting detail and reasoning rather than repeating a single point.
+[187] idiomatic expression (cited 4x): The essay draws on more natural, colloquial English phrasing that conveys meaning effectively despite grammatical roughness.
+[188] idiomatic fluency (cited 4x): The essay uses idiomatic and figurative language naturally to express abstract ideas.
+[189] illustrative development (cited 14x): The essay supports its claims with a specific, elaborated example that makes the argument tangible.
+[190] illustrative elaboration (cited 8x): The essay develops its argument with vivid, varied, and well-integrated examples that ground abstract claims.
+[191] illustrative example development (cited 3x): The essay develops a specific narrative example in detail to support its claim, rather than relying only on general statements.
+[192] illustrative reasoning (cited 5x): The essay supports its claims with concrete personal examples that illustrate the abstract point being argued.
+[193] lexical accuracy (cited 38x): The ability to select words that carry their intended meaning in context.
+[194] lexical ambition (cited 6x): The essay reaches for a broader and more abstract vocabulary, showing greater lexical range.
+[195] lexical and syntactic range (cited 3x): The essay demonstrates a wider repertoire of sentence patterns and word choices than the repetitive phrasing in Essay B.
+[196] lexical breadth (cited 23x): The essay draws on a more varied and precise word choice, reflecting a larger working vocabulary.
+[197] lexical clarity (cited 3x): The use of words with accurate meaning and recognizable form so that intended ideas are communicated.
+[198] lexical control (cited 5x): The ability to deploy a range of words with meanings that fit the intended context.
+[199] lexical intelligibility (cited 4x): The essay uses words that are recognizable and readable rather than garbled or unintelligible strings.
+[200] lexical precision (cited 16x): The essay uses accurately spelled and appropriately chosen vocabulary that conveys meaning precisely.
+[201] lexical range (cited 695x): The essay draws on a broader and more precise vocabulary to express ideas.
+[202] lexical range and accuracy (cited 4x): The breadth of vocabulary used correctly and precisely to express ideas.
+[203] lexical range and precision (cited 39x): The essay draws on a broader and more precise vocabulary to express abstract ideas.
+[204] lexical range and sentence variety (cited 3x): The essay employs a broader vocabulary and more complex, varied sentence constructions that convey ideas with greater precision and fluency.
+[205] lexical range and sophistication (cited 7x): The essay employs a broader and more precise vocabulary with varied sentence constructions appropriate to formal writing.
+[206] logical development (cited 5x): The essay develops arguments with reasons and consequences rather than relying on repetition of a single claim.
+[207] mechanical accuracy (cited 190x): The essay demonstrates stronger control over spelling, punctuation, and capitalization conventions.
+[208] mechanical control (cited 41x): The essay shows more consistent spelling and sentence-boundary punctuation than Essay A.
+[209] mechanical conventions (cited 5x): Essay B applies periods, commas, and capitalization to structure text, whereas Essay A lacks consistent punctuation and capitalization.
+[210] mechanical correctness (cited 27x): The essay demonstrates consistent control over spelling, capitalization, and punctuation.
+[211] mechanics (cited 3x): The essay shows consistent command of standard punctuation and capitalization conventions.
+[212] mechanics and punctuation (cited 7x): Correct use of capitalization and end punctuation to mark sentence boundaries.
+[213] narrative coherence (cited 14x): The essay develops a single concrete anecdote with a clear problem, effort, and outcome rather than repeating abstract claims.
+[214] narrative development (cited 12x): The essay supports its argument with a concrete, elaborated personal story that gives it substance.
+[215] narrative elaboration (cited 6x): The essay enriches its argument with vivid, specific storytelling that illustrates each point.
+[216] nuanced argumentation (cited 10x): The writer anticipates and addresses counterpoints, showing more sophisticated reasoning than simply listing one-sided claims.
+[217] nuanced reasoning (cited 6x): The essay engages with both sides of an issue and acknowledges complexity rather than presenting a single flat position.
+[218] organizational clarity (cited 10x): The essay is structured with distinct paragraphs each introduced by a clear topic sentence, making the progression of ideas easy to follow.
+[219] organizational coherence (cited 299x): The essay presents a clear thesis and develops each point in a logically ordered, well-signposted structure.
+[220] organizational control (cited 4x): The essay is arranged in a logical, well-signposted structure that develops and rebuts arguments systematically.
+[221] organizational development (cited 10x): The essay is structured into coherent paragraphs that build an argument with introduction, supporting examples, and conclusion.
+[222] organizational signaling (cited 5x): The essay explicitly sequences its points and marks transitions, giving the writing a clearer overall structure.
+[223] organizational structure (cited 867x): The essay is divided into coherent paragraphs with clear transitional markers that guide the reader through the argument.
+[224] organized argument structure (cited 9x): The essay presents a clear thesis and coherently developed body paragraphs that build a sustained case.
+[225] organized argumentation (cited 39x): The essay presents a clear thesis and develops each supporting point in its own paragraph with concrete examples.
+[226] organized argumentative structure (cited 41x): The essay presents a clear thesis and develops each supporting point in its own paragraph with topic sentences and a conclusion that echoes the introduction.
+[227] organized development (cited 4x): The essay presents ideas in a logical sequence with supporting examples that advance a clear argument.
+[228] organized essay structure (cited 20x): The essay maintains a clear thesis and parallel body paragraphs, each opening with a distinct supporting reason.
+[229] organized idea development (cited 8x): The capacity to develop a central topic with related supporting points in a logical, connected sequence.
+[230] organized paragraph development (cited 17x): The essay develops each main idea in its own paragraph with supporting examples, creating a coherent overall structure.
+[231] organized paragraph structure (cited 50x): The essay uses clear topic sentences and transitions to develop each supporting point in its own paragraph.
+[232] organized paragraphing (cited 3x): The essay is divided into coherent paragraphs each with a clear topic and supporting development, whereas Essay B runs ideas together in sprawling blocks.
+[233] organized structure (cited 9x): The essay presents a clear introduction, distinct body paragraphs each developing one supporting reason, and a conclusion that ties the argument together.
+[234] original content generation (cited 4x): The writer produces their own ideas and arguments rather than reproducing provided or boilerplate text.
+[235] orthographic accuracy (cited 17x): The essay shows consistent, accurate spelling of sophisticated vocabulary without errors.
+[236] orthographic control (cited 16x): The writing shows more accurate spelling and word recognition than the heavily misspelled counterpart.
+[237] overall intelligibility (cited 3x): The essay communicates its meaning clearly to the reader, whereas large portions of Essay B are incomprehensible.
+[238] paragraph coherence (cited 5x): Each body paragraph opens with a clear controlling idea that is then developed with supporting evidence.
+[239] paragraph cohesion (cited 10x): Each body paragraph opens with a clear topic sentence that signals its focus, aiding readability.
+[240] paragraph cohesion and transitions (cited 3x): The essay uses explicit signposting and transitional language to guide the reader smoothly between ideas.
+[241] paragraph development (cited 21x): Each paragraph introduces and develops a distinct facet of the argument rather than repeating a single point in new wording.
+[242] paragraph organization (cited 160x): Each body paragraph opens with a clear controlling idea that the rest of the paragraph develops.
+[243] paragraph unity (cited 5x): Each paragraph stays focused on a single point and develops it fully, unlike Essay A whose paragraphs drift between loosely connected ideas.
+[244] paragraphing (cited 8x): The essay divides content into meaningful paragraphs that each develop a separate supporting point.
+[245] perspective-taking (cited 3x): The essay considers the viewpoints of different stakeholders, showing more mature and balanced thinking.
+[246] precise academic vocabulary (cited 25x): The essay employs a broad and precise academic lexicon appropriate to persuasive writing.
+[247] precise vocabulary (cited 35x): The essay uses a wider range of accurately chosen words appropriate to its topic.
+[248] precise word choice (cited 6x): The essay selects words that accurately convey its meaning, while Essay A uses vague or misused terms like 'accomplish method system' and 'playing blow up'.
+[249] prompt engagement (cited 4x): The essay directly addresses the assigned question and incorporates the given quotation into its reasoning.
+[250] prompt responsiveness (cited 5x): The essay engages with the assigned question and maintains a consistent stance throughout.
+[251] pronoun consistency (cited 3x): The essay keeps its point of view stable, making the argument easier to follow.
+[252] punctuation accuracy (cited 9x): The essay demonstrates proper use of sentence-ending punctuation and internal commas.
+[253] punctuation and capitalization (cited 3x): The essay applies basic conventions marking sentence boundaries and proper capitalization.
+[254] punctuation and capitalization control (cited 10x): The essay demonstrates more consistent sentence-boundary punctuation and standard capitalization.
+[255] punctuation and mechanics (cited 27x): The essay maintains standard sentence boundaries and capitalization, making it readable without decoding effort.
+[256] punctuation and sentence boundaries (cited 10x): The essay marks sentence boundaries with basic punctuation, while Essay B runs ideas together with 'in' and lacks clear sentence segmentation.
+[257] punctuation control (cited 89x): The essay demonstrates more consistent and accurate punctuation usage than the comparison essay.
+[258] range of illustrative examples (cited 11x): The essay draws on diverse cultural and historical references to support its argument.
+[259] range of vocabulary (cited 4x): The essay draws on a varied and precise academic vocabulary to express nuanced ideas.
+[260] referential clarity (cited 3x): The ability to keep pronoun and subject reference consistent so the reader can follow who is being discussed.
+[261] register and audience awareness (cited 6x): The essay sustains an appropriate tone and format for addressing an employer.
+[262] register and tone control (cited 3x): Consistent maintenance of an appropriate formal tone and audience awareness.
+[263] register awareness (cited 18x): The writer adopts a tone and format suited to addressing a school board in a persuasive letter.
+[264] register consistency (cited 31x): The essay sustains a formal, academic tone appropriate to the purpose across all paragraphs.
+[265] register control (cited 24x): The writing sustains a consistent, appropriately formal tone appropriate to persuasive academic writing.
+[266] rhetorical awareness (cited 71x): The writer anticipates and addresses counterarguments, showing an ability to engage with opposing views strategically.
+[267] rhetorical control (cited 9x): The essay uses parallel structure, antithesis, and deliberate repetition to create persuasive, memorable prose.
+[268] rhetorical development (cited 14x): The essay develops and sustains a supporting example that strengthens the persuasive case.
+[269] rhetorical devices (cited 5x): The essay employs rhetorical questioning and audience-directed appeals to strengthen persuasion.
+[270] rhetorical elaboration (cited 7x): The writer extends ideas with explanatory commentary that connects points to broader reasoning.
+[271] rhetorical emphasis (cited 9x): The essay uses capitalization, exclamation, and short emphatic sentences to drive home key points with persuasive force.
+[272] rhetorical engagement (cited 46x): The writer directly addresses and involves the reader through rhetorical questions and conversational appeals.
+[273] rhetorical expression (cited 3x): The essay uses metaphor and rhetorical framing to give the writing a more polished, expressive quality.
+[274] rhetorical expressiveness (cited 10x): The essay uses figurative language and idiomatic expressions to make its argument vivid and engaging.
+[275] rhetorical flair (cited 6x): The essay employs stylistic emphasis and memorable phrasing to make its points with persuasive force.
+[276] rhetorical fluency (cited 16x): The writing uses varied, flowing sentence constructions and rhetorical devices that give the prose a natural, confident cadence.
+[277] rhetorical framing (cited 22x): The essay opens with a defined stance and closes with a memorable summary, giving the piece a complete and purposeful arc.
+[278] rhetorical range (cited 8x): The essay draws on quotations and varied sentence patterns to develop ideas, showing a broader command of expressive writing.
+[279] rhetorical sophistication (cited 66x): The essay sustains a developed, opinionated argument with rhetorical emphasis and stylistic flair.
+[280] rhetorical support (cited 4x): The essay incorporates illustrative material to reinforce its reasoning rather than relying on anecdote alone.
+[281] rhetorical variety (cited 3x): The essay varies sentence length and uses rhetorical questions to engage the reader and advance the argument.
+[282] rhetorical voice (cited 5x): The essay shows an attempt at engaging the reader with personality and stylistic flair beyond plain exposition.
+[283] richer vocabulary (cited 11x): The essay draws on a broader and more precise word range appropriate to its topic.
+[284] richer vocabulary range (cited 19x): The writer draws on a broader and more precise vocabulary to express abstract ideas about career choice and decision-making.
+[285] sentence boundary control (cited 15x): The essay manages sentence and clause boundaries more accurately, aiding readability.
+[286] sentence clarity (cited 9x): Essay B's sentences, while occasionally long, are more readable and convey meaning more directly than Essay A's tangled and garbled constructions.
+[287] sentence coherence (cited 5x): Even where informal, the sentences in Essay A remain comprehensible and connected, whereas Essay B's long run-on constructions often obscure meaning.
+[288] sentence completeness (cited 19x): The essay mostly produces full sentences conveying complete thoughts, whereas Essay B breaks off mid-sentence.
+[289] sentence complexity (cited 11x): The writing attempts more varied and complex sentence constructions to connect ideas.
+[290] sentence construction (cited 79x): The ability to form complete, grammatically structured sentences that convey clear meaning.
+[291] sentence control (cited 31x): The ability to produce complete, grammatically well-formed sentences with appropriate punctuation.
+[292] sentence fluency (cited 13x): The essay produces complete, readable sentences with varied structure, while Essay B's sentences are broken, run-on, and often unintelligible.
+[293] sentence intelligibility (cited 4x): The ability to produce sentences that a reader can parse and understand.
+[294] sentence structure (cited 7x): The essay constructs more coherent, complete sentences that convey ideas more clearly than the run-on fragments in Essay A.
+[295] sentence structure control (cited 31x): The ability to produce complete, correctly punctuated sentences rather than fragments and run-ons.
+[296] sentence variety (cited 39x): Essay B mixes simple and complex sentence structures with subordinate clauses, whereas Essay A relies on long, repetitive, run-on sentences.
+[297] sentence variety and cohesion (cited 5x): The essay employs a range of sentence lengths and linking devices that create smoother flow between ideas.
+[298] sentence variety and complexity (cited 26x): The writing uses more varied and complex sentence structures, including conditionals and parallel constructions, rather than simple repetitive statements.
+[299] sentence variety and control (cited 10x): The essay uses a wider range of sentence structures with more consistent grammatical control than Essay B's run-on, loosely connected sentences.
+[300] sentence variety and fluency (cited 3x): The essay mixes sentence lengths and structures to create a more natural, readable prose rhythm.
+[301] sentence-level comprehensibility (cited 4x): Despite grammatical errors, the sentences are largely parseable and convey meaning, unlike Essay A's fragmented and disconnected clauses.
+[302] sentence-level control (cited 15x): The essay demonstrates command of sentence boundaries, capitalization, and conventional punctuation.
+[303] sentence-level fluency (cited 5x): The essay produces complete, grammatically formed sentences that convey full thoughts, unlike the fragmentary text of the other essay.
+[304] sentence-level grammatical control (cited 4x): The writing maintains understandable sentence structure with fewer breakdowns in grammar and syntax.
+[305] sentence-level intelligibility (cited 5x): The essay produces sentences that a reader can parse as complete units despite errors, rather than broken fragments.
+[306] sophisticated vocabulary (cited 19x): The essay employs a broader and more precise academic vocabulary appropriate to persuasive writing.
+[307] sophisticated word choice (cited 12x): The essay uses precise, elevated vocabulary that conveys ideas with clarity and maturity.
+[308] source integration (cited 5x): The essay incorporates an external authority's words to frame and support its thesis.
+[309] specific supporting detail (cited 4x): The essay grounds its claims in concrete, elaborated examples rather than vague assertions.
+[310] specific supporting evidence (cited 4x): The essay grounds its claims in specific, personal examples that make the argument tangible and persuasive.
+[311] spelling accuracy (cited 347x): The essay demonstrates consistent, correct spelling of common and academic vocabulary.
+[312] spelling and grammatical accuracy (cited 14x): The essay demonstrates far fewer spelling and grammatical errors, making it more readable and controlled.
+[313] spelling and mechanics (cited 11x): The essay shows control of spelling and punctuation, while Essay B contains numerous misspellings and nonstandard capitalization and spacing.
+[314] spelling and mechanics accuracy (cited 16x): The essay demonstrates control over standard spelling and punctuation conventions.
+[315] spelling and mechanics control (cited 3x): The essay demonstrates far fewer spelling and mechanical errors than Essay A, which has pervasive misspellings like 'egry', 'shut', 'wen', 'under Stan', and 'minting'.
+[316] spelling and punctuation accuracy (cited 4x): The writing shows conventional spelling and sentence-boundary punctuation, making it readable.
+[317] spelling and word accuracy (cited 24x): The ability to spell words correctly and use standard English vocabulary.
+[318] spelling and word-form accuracy (cited 12x): The essay demonstrates more consistent control over conventional spelling and correct word forms.
+[319] spelling control (cited 13x): Essay A shows more consistent control over common vocabulary spelling, while Essay B makes frequent errors on basic everyday words.
+[320] structural completeness (cited 4x): The essay develops a complete, organized argument from opening to conclusion rather than trailing off unfinished.
+[321] structural framing (cited 4x): Opens and closes with a clear thesis statement, giving the essay a recognizable beginning-and-end structure.
+[322] structural organization (cited 37x): The essay is divided into coherent paragraphs that each develop a distinct point and build toward a conclusion.
+[323] substantiated argumentation (cited 4x): The essay supports its claims with concrete, specific details that make the argument persuasive and credible.
+[324] substantive content development (cited 11x): The essay builds a coherent multi-paragraph argument with elaborated examples rather than restating the prompt.
+[325] substantive development (cited 23x): The essay expands on its central idea with varied reasons, examples, and elaboration rather than merely restating a single point.
+[326] substantive elaboration (cited 8x): The essay develops its claims with concrete, specific details and examples that support each argument.
+[327] substantive idea development (cited 26x): The writer supports the central claim with a range of specific, concrete illustrations rather than repeating a single point.
+[328] supporting detail (cited 5x): The essay grounds each claim in specific, personal examples that illustrate and reinforce the argument.
+[329] supporting detail and development (cited 4x): The essay develops its claims with concrete personal examples that illustrate and substantiate each point.
+[330] supporting detail and elaboration (cited 16x): The essay backs its claims with specific, extended examples rather than asserting a point and stopping.
+[331] supporting detail and exemplification (cited 7x): The writer develops claims with a specific, illustrative personal anecdote that grounds the argument.
+[332] supporting detail development (cited 5x): The essay develops its arguments with concrete personal anecdotes and quoted evidence rather than abstract assertions.
+[333] supporting development (cited 12x): The essay develops each argument with concrete, relevant personal anecdotes that illustrate the points being made.
+[334] supporting elaboration (cited 11x): The essay fleshes out each claim with illustrative detail that strengthens the argument.
+[335] supporting evidence (cited 31x): Claims are illustrated with specific, extended personal anecdotes that make the argument concrete and persuasive.
+[336] supporting evidence and elaboration (cited 6x): The essay substantiates its claims with specific, personal examples that illustrate each argument, while Essay A makes assertions without concrete support.
+[337] supporting examples (cited 3x): The essay develops its claims with specific, relevant personal narratives that illustrate the point being made.
+[338] sustained argumentative development (cited 3x): The essay maintains a coherent central claim and develops it with elaborated reasons and examples rather than drifting off topic.
+[339] syntactic ambition (cited 11x): The writer attempts subordination and complex sentence forms to express causal and conditional relationships, even where imperfect.
+[340] syntactic coherence (cited 4x): The ability to produce grammatically complete, logically connected sentences rather than fragmented word strings.
+[341] syntactic completeness (cited 10x): The writing consistently forms grammatically complete sentences rather than broken fragments.
+[342] syntactic complexity (cited 543x): The essay demonstrates command of varied, multi-clause sentence structures that convey nuanced relationships between ideas.
+[343] syntactic control (cited 92x): The essay demonstrates command of varied and complex sentence structures with correct subordination and coordination.
+[344] syntactic fluency (cited 6x): The writing forms complete, connected sentences that convey complex ideas, whereas the other essay consists of fragmented phrases.
+[345] syntactic range (cited 44x): The essay employs a wider variety of sentence types and clause structures, showing more advanced control over English grammar.
+[346] syntactic sophistication (cited 22x): The essay uses varied, complex sentence structures including semicolons, subordinate clauses, and parallel constructions.
+[347] syntactic variety (cited 350x): The essay mixes simple, compound, and complex sentences to create more natural and fluent prose.
+[348] syntactic variety and cohesion (cited 26x): The essay employs a range of sentence patterns and linking devices that connect ideas smoothly.
+[349] syntactic variety and complexity (cited 4x): The essay employs a range of complex and compound sentence structures that convey nuanced relationships between ideas.
+[350] syntactic variety and control (cited 10x): The writer uses complex and varied sentence structures with subordinate clauses and rhetorical contrasts, demonstrating command of English syntax.
+[351] thematic coherence (cited 16x): The essay sustains a single controlling idea from start to finish without drifting off topic.
+[352] thesis clarity (cited 3x): The essay states its central claim clearly and maintains focus on it throughout, giving the writing direction.
+[353] thesis coherence (cited 6x): The essay sustains a clear central claim across paragraphs, with each section reinforcing the main point.
+[354] thesis development (cited 30x): The essay states a position and systematically supports it with multiple reasons that are each elaborated.
+[355] thesis development and cohesion (cited 3x): The essay maintains a clear controlling idea and uses transitional and concluding sentences to tie each paragraph back to the thesis.
+[356] thesis-driven argumentation (cited 13x): The essay states a position up front and returns to it in the conclusion, giving the piece a recognizable overall shape.
+[357] thesis-driven development (cited 4x): The essay maintains a clear central claim and consistently ties each paragraph back to that thesis.
+[358] topic coherence (cited 4x): The essay stays focused on its stated purpose of identifying talents and skills, whereas Essay A begins but never completes its argument.
+[359] topic focus (cited 3x): The essay maintains a consistent subject and purpose rather than wandering across unrelated themes.
+[360] topical coherence (cited 36x): The essay sustains a unified focus on its argument, whereas Essay B drifts between unrelated subjects.
+[361] topical focus (cited 21x): The capacity to sustain a single subject and stay on task across the whole piece.
+[362] topical organization (cited 4x): The ability to sustain one focused topic with supporting points arranged in a recognizable order.
+[363] use of direct quotation (cited 3x): The essay incorporates direct speech to support and enliven its arguments.
+[364] use of evidence and anecdote (cited 3x): The essay incorporates personal anecdotes and quoted dialogue to support its argument, adding persuasive detail and narrative depth.
+[365] use of illustrative evidence (cited 5x): The essay enriches its points with quoted voices and concrete narrative examples.
+[366] use of illustrative examples (cited 19x): The capacity to support general claims with specific, concrete instances that enrich the writing.
+[367] use of supporting evidence (cited 47x): The essay incorporates external examples and quotations to support its argument.
+[368] use of supporting examples (cited 10x): The essay grounds its claims in a specific, illustrative scenario that clarifies the argument.
+[369] use of supporting material (cited 4x): The essay grounds its argument in a cited source and elaborates on it, showing more sophisticated rhetorical development.
+[370] vivid descriptive detail (cited 5x): The essay uses concrete sensory language to bring places, food, and experiences to life for the reader.
+[371] vocabulary breadth (cited 6x): A wider and more accurate range of vocabulary that conveys ideas clearly.
+[372] vocabulary range (cited 92x): The essay draws on a broader and more precise academic vocabulary appropriate to the topic.
+[373] vocabulary range and precision (cited 3x): The essay draws on a broader and more precise academic vocabulary than the comparison essay.

@@ -1,0 +1,70 @@
+{
+  "n_features": 16,
+  "source": "prior-only elicitation, gpt-5.4-2026-03-05 effort=high, variant=blind, draw 0 of 5; no exchanges/outcomes/corpus shown (experiments/winning_args/feature_prior_root/elicitation_prior.py)",
+  "criteria": [
+    {
+      "name": "Core Claim Relevance",
+      "definition": "It measures the degree to which the reply focuses on the central claim under dispute rather than drifting to side issues."
+    },
+    {
+      "name": "Reason Engagement",
+      "definition": "It measures the degree to which the reply directly addresses the original poster's stated reasons, premises, or assumptions."
+    },
+    {
+      "name": "View Understanding",
+      "definition": "It measures the degree to which the reply accurately represents the other person's position before challenging it."
+    },
+    {
+      "name": "Logical Coherence",
+      "definition": "It measures the degree to which the reply's conclusions follow clearly and consistently from its premises."
+    },
+    {
+      "name": "Evidence Strength",
+      "definition": "It measures the degree to which the reply supports its claims with substantial, pertinent evidence or examples."
+    },
+    {
+      "name": "Source Trustworthiness",
+      "definition": "It measures the degree to which the reply relies on credible, authoritative, and verifiable sources when offering support."
+    },
+    {
+      "name": "Concrete Specificity",
+      "definition": "It measures the degree to which the reply uses precise details or examples instead of vague generalities."
+    },
+    {
+      "name": "Counterargument Handling",
+      "definition": "It measures the degree to which the reply anticipates and answers plausible objections to its own case."
+    },
+    {
+      "name": "Nuance and Balance",
+      "definition": "It measures the degree to which the reply acknowledges complexity, uncertainty, or limits rather than overstating its case."
+    },
+    {
+      "name": "Novel Insight",
+      "definition": "It measures the degree to which the reply offers a fresh framing, distinction, or information the reader is unlikely to have already considered."
+    },
+    {
+      "name": "Value Alignment",
+      "definition": "It measures the degree to which the reply connects its argument to the other person's stated values, goals, or concerns."
+    },
+    {
+      "name": "Consequence Salience",
+      "definition": "It measures the degree to which the reply makes the practical or moral implications of the issue vivid and important."
+    },
+    {
+      "name": "Emotional Resonance",
+      "definition": "It measures the degree to which the reply evokes fitting emotions that make its point more compelling."
+    },
+    {
+      "name": "Respectful Tone",
+      "definition": "It measures the degree to which the reply treats the other person charitably and without dismissiveness or contempt."
+    },
+    {
+      "name": "Clarity of Expression",
+      "definition": "It measures the degree to which the reply is easy to follow because its wording and structure are clear."
+    },
+    {
+      "name": "Economy of Argument",
+      "definition": "It measures the degree to which the reply makes its case efficiently without unnecessary length or repetition."
+    }
+  ]
+}

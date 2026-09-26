@@ -1,0 +1,438 @@
+[0] abstract reasoning (cited 10x): The essay engages with abstract ideas and attempts to explain causal relationships between concepts, showing more sophisticated intellectual engagement than concrete description.
+[1] academic vocabulary (cited 24x): The essay uses subject-appropriate and sophisticated word choices that demonstrate command of academic language.
+[2] academic vocabulary range (cited 8x): Essay A employs more sophisticated and topic-appropriate vocabulary than Essay B's simpler word choices.
+[3] accuracy in mechanics (cited 3x): Essay A has significantly fewer spelling errors (e.g., 'Inconclusion' is the main error) compared to Essay B's numerous misspellings and grammatical mistakes.
+[4] acknowledgment of complexity (cited 3x): Essay B recognizes that not all situations fit its main argument, showing more sophisticated reasoning, while Essay A presents a one-sided view.
+[5] acknowledgment of opposing views (cited 3x): Essay B recognizes and addresses potential counterarguments about phone misuse, showing more sophisticated argumentation.
+[6] analytical depth (cited 11x): Essay B reflects on the meaning and implications of experiences, while Essay A primarily lists factual claims without deeper analysis or interpretation.
+[7] appropriate word choice (cited 5x): The essay uses vocabulary that fits the formal argumentative context without awkward phrasing or misused terms.
+[8] argument clarity (cited 9x): Essay A maintains a clear, focused argument throughout, while Essay B makes contradictory or unclear claims, such as the confusing final sentence about 'educators' and 'geology or poetry.'
+[9] argument clarity and focus (cited 4x): Essay B presents a coherent argument about intergenerational student interaction with a clear position, while Essay A's argument is muddled and difficult to follow.
+[10] argument coherence (cited 30x): Essay A builds a clear, interconnected argument where each point supports the central claim, whereas Essay B presents loosely connected examples without strong logical flow between ideas.
+[11] argument development (cited 65x): Essay A presents a clear argumentative structure with explicit reasons, whereas Essay B lacks any coherent argument or thesis.
+[12] argument focus (cited 3x): The essay maintains a clear central claim and develops it consistently throughout.
+[13] argument focus and development (cited 3x): Essay B maintains a clear position throughout with consistent supporting reasoning, while Essay A's argument becomes muddled and shifts between different concerns.
+[14] argument organization (cited 3x): Essay A presents a coherent three-part structure with a thesis, supporting examples, and a nuanced counterargument about serious situations.
+[15] argument structure (cited 18x): Essay B follows a clear argumentative framework with introduction, body paragraphs, and conclusion, while Essay A's structure is disorganized and difficult to follow.
+[16] argumentative awareness (cited 3x): Essay B acknowledges opposing viewpoints, demonstrating more sophisticated rhetorical thinking.
+[17] argumentative balance (cited 5x): Essay A acknowledges opposing viewpoints about distraction before arguing for conditional approval of phone use, showing more sophisticated reasoning.
+[18] argumentative clarity (cited 28x): Essay A presents a clear position and supports it with reasoning and examples, while Essay B contains no discernible argument or central idea.
+[19] argumentative coherence (cited 35x): Essay A maintains a clear, consistent argument throughout, while Essay B's central message is unclear and ideas appear disconnected.
+[20] argumentative depth (cited 31x): Essay A explores multiple angles of the topic and considers how different groups benefit, whereas Essay B does not develop any sustained argument or perspective.
+[21] argumentative development (cited 51x): Essay A acknowledges the role of teachers and parents while maintaining its central thesis, whereas Essay B presents opposing views but does not integrate them meaningfully into the argument.
+[22] argumentative engagement (cited 31x): Essay B shows awareness of opposing viewpoints and attempts to address them, demonstrating more sophisticated argumentation.
+[23] argumentative focus (cited 22x): Essay A maintains a coherent thesis throughout, whereas Essay B shifts topics abruptly from extracurricular activities to science experiments without clear connection.
+[24] argumentative nuance (cited 12x): Essay A demonstrates sophistication by acknowledging complexity and potential objections, while Essay B presents arguments in a more one-dimensional way.
+[25] argumentative organization (cited 6x): The essay presents a clear thesis, develops multiple supporting points, acknowledges opposing views, and returns to reinforce the main argument in a coherent structure.
+[26] argumentative reasoning (cited 4x): Essay A develops a balanced argument recognizing both positive and negative uses of phones, while Essay B contains no logical reasoning or argument development.
+[27] argumentative sophistication (cited 215x): Essay B engages with opposing viewpoints and provides reasoned rebuttals, demonstrating more advanced argumentative thinking than Essay A.
+[28] argumentative structure (cited 21x): Essay B presents a clear position with systematic development of supporting reasons, demonstrating understanding of persuasive writing.
+[29] article and preposition accuracy (cited 4x): Essay A demonstrates more consistent and accurate use of articles and prepositions, while Essay B has frequent errors like 'in are life', 'in our aim', and 'in admiralble people'.
+[30] article and preposition usage (cited 10x): Essay B uses articles and prepositions more consistently and correctly, while Essay A frequently omits or misuses them.
+[31] article usage (cited 4x): Essay A demonstrates generally correct use of articles, while Essay B contains errors like 'I'm sick and tired of seeing these kind of students.'
+[32] audience awareness (cited 14x): The essay demonstrates conscious stylistic choices to address and persuade the reader directly.
+[33] audience engagement (cited 7x): Essay B uses techniques to connect with the reader and draw them into the argument, whereas Essay A remains impersonal and list-like.
+[34] basic grammatical accuracy (cited 6x): Essay A has fewer fundamental grammatical errors compared to Essay B's frequent subject-verb disagreements and article misuse.
+[35] capitalization accuracy (cited 15x): Essay B follows standard capitalization conventions, while Essay A randomly capitalizes common nouns like 'The Students,' 'Police Officer,' and 'Fighter Fighter' throughout.
+[36] capitalization and punctuation control (cited 6x): Essay A maintains standard capitalization and punctuation conventions throughout, while Essay B has inconsistent capitalization (e.g., 'these students' lowercase after a period, 'Many students work on afternoon') and punctuation errors.
+[37] capitalization consistency (cited 5x): Essay A maintains proper capitalization rules, while Essay B has multiple instances of lowercase sentence beginnings ('i was deppressed,' 'i kept getting bullied,' 'i know it sounds funny').
+[38] capitalization control (cited 20x): Essay A maintains appropriate capitalization rules, while Essay B begins with a lowercase letter and shows inconsistent capitalization throughout.
+[39] capitalization conventions (cited 23x): Essay A follows standard capitalization rules, while Essay B randomly capitalizes words mid-sentence like 'The Students,' 'Them,' and 'Important.'
+[40] causal reasoning (cited 8x): Essay A explains how intergenerational interaction benefits students (younger students learn, older students develop teaching skills), while Essay B merely lists activities without explaining their purpose or effects.
+[41] clarity of expression (cited 26x): Essay A expresses ideas more clearly despite imperfections, while Essay B contains numerous unclear or garbled phrases that impede comprehension.
+[42] clarity of ideas (cited 3x): Main ideas are expressed clearly and explicitly so the reader understands the writer's position and reasoning.
+[43] coherence (cited 7x): Essay A maintains logical flow and connection between ideas across the entire essay.
+[44] coherence and flow (cited 83x): Essay A uses transitional phrases like 'The first reason' and 'The second reason' to connect ideas, while Essay B jumps between thoughts without clear connections.
+[45] coherence and focus (cited 31x): Essay A stays on topic and develops its two main points systematically, while Essay B digresses into personal anecdotes and loses focus.
+[46] coherence and logical development (cited 4x): Essay B develops its argument through concrete examples and explanations of cause-and-effect relationships, while Essay A repeats the same ideas without clear progression or development.
+[47] coherence and logical flow (cited 14x): Essay B develops ideas logically with clear connections between paragraphs, while Essay A circles back to similar points without clear progression.
+[48] coherence and logical progression (cited 6x): Essay A builds a cohesive argument where each paragraph logically follows from and connects to previous points.
+[49] coherence and organization (cited 12x): Essay A presents a well-organized argument about learning Vietnamese with clear supporting examples, while Essay B has fragmented thoughts and unclear connections between sentences.
+[50] coherence and transitions (cited 57x): Essay B uses transitional language to connect ideas and guide the reader, while Essay A lacks any coherent transitions between thoughts.
+[51] coherent argument development (cited 5x): Essay A maintains a clear central claim and develops it with specific supporting points, while Essay B shifts topics repeatedly without a clear thesis.
+[52] coherent argumentation (cited 18x): The essay develops a single, understandable thesis throughout rather than shifting between disconnected topics.
+[53] coherent organization (cited 10x): Essay A presents ideas in a logical sequence with supporting examples, whereas Essay B repeats similar points without clear progression.
+[54] communicative clarity (cited 21x): Essay A conveys a clear argument about student-designed versus teacher-designed summer projects, whereas Essay B is largely incomprehensible with unclear pronouns, missing words, and broken syntax.
+[55] completeness (cited 6x): Essay A is a finished piece with closure, while Essay B cuts off mid-sentence and appears unfinished.
+[56] compositional completeness (cited 3x): Essay B presents a complete written response, whereas Essay A is incomplete and cuts off mid-thought.
+[57] comprehensibility (cited 3x): The reader can understand the writer's intended message, whereas Essay A is largely incomprehensible due to grammatical breakdown and incoherent phrasing.
+[58] conceptual coherence (cited 3x): Essay B develops interconnected ideas that build upon each other, while Essay A presents disconnected anecdotes without clear logical progression.
+[59] conceptual depth (cited 19x): Essay A engages with abstract ideas and philosophical implications, while Essay B addresses a concrete, practical policy question at a more surface level.
+[60] conceptual development (cited 11x): Essay B engages with philosophical ideas and explores their implications systematically, whereas Essay A focuses on concrete procedural details without deeper analysis.
+[61] conceptual sophistication (cited 17x): Essay A engages with more abstract and philosophical ideas, while Essay B remains focused on concrete, literal observations about zoo work.
+[62] conciseness (cited 3x): Essay B's conclusion efficiently restates the argument, whereas Essay A's conclusion repeats the same ideas multiple times with minimal new content.
+[63] concluding effectiveness (cited 3x): Essay A's conclusion ties together the argument and introduces the broader benefit of self-motivation, whereas Essay B's conclusion is vague and incomplete.
+[64] concluding synthesis (cited 3x): Essay A provides a closing section that ties ideas together, whereas Essay B ends abruptly without resolution.
+[65] conclusion development (cited 4x): The essay provides a substantive conclusion that ties together the main ideas and extends their significance.
+[66] conclusion effectiveness (cited 6x): Essay B's conclusion effectively summarizes the argument, while Essay A's conclusion is vague and difficult to parse.
+[67] conclusion presence (cited 3x): Essay A includes a concluding section that attempts to synthesize ideas, whereas Essay B ends abruptly without closure.
+[68] conclusion quality (cited 3x): Essay A provides a substantive conclusion that ties ideas together and extends thinking, while Essay B ends with an unrelated pop culture reference.
+[69] conclusion strength (cited 3x): Essay A includes a formal conclusion that revisits the thesis and broadens the scope of the argument, whereas Essay B has no distinct conclusion.
+[70] concrete descriptive detail (cited 4x): Essay A uses sensory and specific details to illustrate points, while Essay B relies on abstract repetition of the same general claims without concrete examples.
+[71] concrete detail and elaboration (cited 3x): Essay B provides specific examples and personal anecdotes that develop ideas, whereas Essay A makes general claims without supporting details.
+[72] concrete detail and specificity (cited 17x): Essay B provides vivid examples (coach getting mad, searching YouTube) that support the main idea, while Essay A remains vague and abstract.
+[73] concrete evidence and elaboration (cited 9x): Essay A supports claims with detailed examples and scientific references, while Essay B makes vague assertions without substantive support.
+[74] concrete evidence and examples (cited 11x): The essay supports its arguments with specific, relevant examples that strengthen the reasoning.
+[75] concrete evidence and exemplification (cited 3x): The essay uses detailed, relevant examples to illustrate and support its main arguments.
+[76] concrete evidence use (cited 3x): Essay A grounds claims in specific personal experience with relevant details, while Essay B relies on more generic and vague examples.
+[77] concrete example development (cited 6x): Essay A provides well-developed personal examples with context and outcomes, while Essay B uses vague or incomplete examples.
+[78] concrete exemplification (cited 68x): Essay A provides specific, realistic scenarios to support claims, while Essay B relies more on general assertions and personal anecdotes.
+[79] concrete illustration (cited 5x): The essay uses specific, detailed examples to support abstract claims rather than hypothetical scenarios.
+[80] concrete narrative development (cited 3x): The essay grounds abstract claims in specific, detailed personal experiences that illustrate the main points.
+[81] concrete specificity (cited 3x): Essay A provides concrete, specific examples of activities, while Essay B relies more on general statements and vague references like 'many more' without elaboration.
+[82] concrete supporting detail (cited 8x): Essay B provides abundant specific examples and details to support its points, while Essay A relies on vague generalizations.
+[83] concrete supporting details (cited 76x): Essay B provides specific, relevant examples to support claims, while Essay A relies on repetitive general statements.
+[84] concrete supporting evidence (cited 124x): Uses specific, relevant examples to support main points rather than vague generalizations.
+[85] concrete supporting examples (cited 20x): Essay A uses varied, specific examples to illustrate each reason, whereas Essay B relies on vague descriptions of park activities.
+[86] consideration of multiple viewpoints (cited 4x): Essay A acknowledges different perspectives and stakeholder concerns, while Essay B presents only personal opinion without acknowledging counterarguments.
+[87] contextual reasoning (cited 5x): Essay A demonstrates ability to compare contexts and explain why conclusions from one domain may not transfer to another.
+[88] counterargument acknowledgment (cited 17x): The essay demonstrates sophistication by recognizing and addressing the strongest opposing claim.
+[89] counterargument engagement (cited 133x): Essay A explicitly addresses and rebuts an opposing viewpoint, demonstrating more sophisticated argumentative structure than Essay B.
+[90] depth of explanation (cited 5x): Essay A develops each main point with concrete details and personal examples, whereas Essay B provides only surface-level assertions without substantive elaboration.
+[91] depth of reasoning (cited 8x): Essay B explores the psychological reasons behind seeking multiple advice (motivation, conviction, boredom with repetition), while Essay A merely asserts benefits without explaining why.
+[92] descriptive language (cited 6x): The essay uses more evocative and specific word choices to convey ideas beyond basic vocabulary.
+[93] descriptive vocabulary (cited 4x): Essay B uses more varied and evocative adjectives to create vivid imagery, whereas Essay A relies on repetition of basic words like 'attitude' and 'successful.'
+[94] developed examples (cited 3x): Essay B provides concrete examples with explanation of what was learned, whereas Essay A lists activities without explaining their significance.
+[95] developed reasoning (cited 8x): The essay builds a coherent argument with specific examples (scientists making medicine, police creating order) that support the central claim.
+[96] developed supporting evidence (cited 4x): Essay A provides detailed, relevant examples that illustrate the benefits of exploring occupations, while Essay B lists talents and skills without meaningful elaboration or connection to a central argument.
+[97] development of ideas (cited 4x): Essay A provides multiple detailed examples and explanations to support its thesis, while Essay B relies more on personal anecdotes without as much depth of explanation.
+[98] discourse coherence (cited 53x): Essay A uses sophisticated transitions like 'Therefore,' 'Although,' and 'In addition' to connect ideas smoothly, while Essay B relies on basic connectors and repetitive structures.
+[99] discourse management (cited 3x): The use of connective language and transitions to link ideas and guide the reader through the argument.
+[100] discourse markers (cited 141x): Essay A uses transitional words effectively to connect ideas between paragraphs, while Essay B lacks clear transitions and relies on repetitive connectors.
+[101] discourse markers and transitions (cited 73x): Essay B employs explicit transitional language to guide the reader through ideas, while Essay A relies on run-on sentences connected by 'and' without clear transitions.
+[102] discourse organization (cited 32x): Essay A uses explicit transitional markers to structure ideas into coherent paragraphs, whereas Essay B lacks clear paragraph breaks and transitions.
+[103] elaboration and detail (cited 3x): Essay A provides concrete, developed examples that support its claims, while Essay B offers only vague assertions without substantiation.
+[104] elaboration and development (cited 10x): Essay B expands on its main ideas with concrete scenarios and explanations, whereas Essay A repeats the same points without substantial development.
+[105] elaboration and exemplification (cited 10x): The essay develops concrete examples with sufficient detail and explanation to support abstract claims.
+[106] elaboration and reasoning (cited 10x): Essay B explains the reasoning behind claims and explores implications, whereas Essay A simply lists items without explanation.
+[107] elaboration and specificity (cited 7x): Essay B provides vivid, concrete details that support its points, while Essay A makes general claims without specific supporting examples.
+[108] elaboration and support (cited 11x): Essay B attempts to explain and support its claims with reasoning, whereas Essay A mostly restates the same problem without substantive development.
+[109] elaboration of ideas (cited 3x): Essay A provides concrete explanations and examples to support each main point rather than making assertions without development.
+[110] elaboration with concrete examples (cited 3x): Essay B supports claims with specific, relevant examples that illustrate the main points, whereas Essay A relies on general statements without concrete details.
+[111] engagement with opposing viewpoints (cited 4x): Essay A acknowledges and refutes a counterargument, showing more sophisticated argumentative thinking.
+[112] engagement with opposing views (cited 5x): Essay A acknowledges and refutes a potential counterargument, showing more sophisticated argumentation than Essay B.
+[113] engaging voice (cited 3x): The writing shows personality and attempts to connect with the reader through conversational tone and humor.
+[114] essay closure (cited 3x): Essay B includes a conclusion that attempts to restate the thesis, whereas Essay A simply ends without a concluding statement.
+[115] essay coherence (cited 4x): Essay B presents a clear position on arts classes and returns to this argument in the conclusion, while Essay A lacks a clear thesis and concluding statement.
+[116] essay framework (cited 3x): Essay A includes an introduction and conclusion that frame the argument, while Essay B lacks a clear thesis or concluding statement.
+[117] essay framing (cited 6x): The essay uses an effective rhetorical device to introduce and conclude its argument, creating a more polished overall structure.
+[118] essay organization (cited 69x): Essay B follows a recognizable multi-paragraph argumentative structure with distinct sections, whereas Essay A lacks clear paragraph organization and transitions.
+[119] essay organization and development (cited 5x): Essay B develops its central argument across multiple well-structured paragraphs with clear topic sentences and supporting details, whereas Essay A repeats the same basic points with minimal elaboration.
+[120] essay organization and structure (cited 29x): Essay B follows a clear argumentative structure with an introduction, body paragraphs with distinct topics, and a conclusion, making the argument easy to follow.
+[121] essay structure (cited 36x): Essay A includes an opening statement and explicit conclusion, whereas Essay B lacks a clear introduction or concluding statement.
+[122] essay structure and argumentation (cited 4x): Essay B follows a clear argumentative structure with introduction, multiple supporting reasons, acknowledgment of opposing views, and conclusion, while Essay A has no discernible structure.
+[123] essay structure and coherence (cited 10x): Essay B establishes a clear position and returns to it in the conclusion, creating a sense of overall organization that Essay A lacks.
+[124] essay structure and organization (cited 34x): The essay follows a conventional five-paragraph structure with logical progression of ideas and clear transitions between sections.
+[125] evidence and elaboration (cited 14x): Essay B supports claims with concrete examples and detailed explanations, while Essay A makes assertions with minimal supporting detail.
+[126] evidence and exemplification (cited 11x): Essay B supports claims with concrete, relevant examples and references, while Essay A relies on general assertions and a single personal anecdote.
+[127] evidence development (cited 23x): Essay B provides concrete, elaborated examples with specific details that substantiate its arguments, whereas Essay A relies on more generic assertions.
+[128] evidence integration (cited 64x): Essay A uses specific, relevant personal examples to substantiate its main argument rather than listing disconnected details.
+[129] example development (cited 36x): Essay B provides extended, specific examples that clearly illustrate and support the main argument.
+[130] example development and relevance (cited 5x): Essay A uses specific, well-chosen examples that directly support its arguments, while Essay B relies on more general or repetitive examples that don't clearly illustrate the points.
+[131] example integration (cited 12x): Essay B weaves examples naturally into the argument, while Essay A's personal examples feel disconnected and don't clearly support the main points.
+[132] example relevance (cited 7x): Essay B's examples directly illustrate the thesis about changing first impressions, whereas Essay A's theater examples tangentially relate to character choice rather than addressing the prompt's actual question.
+[133] example relevance and development (cited 4x): Essay B provides concrete, well-explained examples that clearly illustrate its arguments, whereas Essay A's personal examples are vague and don't effectively support the thesis.
+[134] example relevance and specificity (cited 4x): Essay B provides examples that directly illustrate the main argument, whereas Essay A's examples sometimes feel tangential or exaggerated (e.g., drinking with friends as a reason against curfews).
+[135] example selection and relevance (cited 4x): Essay B provides concrete, well-chosen examples that clearly illustrate points, whereas Essay A's examples are vague or tangentially related to the main argument.
+[136] explanatory depth (cited 5x): The essay goes beyond simple statements to explain the reasoning behind claims, using examples to illustrate cause and effect.
+[137] explicit signposting (cited 4x): The essay uses clear transitional phrases and topic sentences that make the argument structure transparent to the reader.
+[138] figurative and evocative language (cited 3x): Essay A uses metaphors, imagery, and more creative word choices that engage the reader emotionally.
+[139] figurative language (cited 10x): Essay A employs extended metaphors and vivid imagery to illustrate abstract concepts, while Essay B relies on literal, straightforward language.
+[140] figurative language use (cited 16x): Essay A employs figurative language to make its argument more vivid, while Essay B relies entirely on literal description.
+[141] formal register and word choice (cited 4x): Essay A maintains an appropriately formal tone with precise, sophisticated vocabulary suited to the context of a professional internship application.
+[142] genre awareness (cited 26x): The essay demonstrates understanding of formal letter conventions appropriate to the writing task.
+[143] grammar accuracy (cited 62x): Essay B demonstrates control over verb forms and agreement, whereas Essay A has frequent errors like 'students we should to consider' and inconsistent tense shifts.
+[144] grammar and agreement (cited 10x): The essay maintains correct grammatical structures including consistent verb forms and subject-verb agreement.
+[145] grammar and mechanics (cited 14x): Essay B has better control of grammar and sentence construction, with fewer errors like subject-verb agreement and verb tense issues compared to Essay A's frequent errors.
+[146] grammar and mechanics accuracy (cited 14x): The essay demonstrates strong command of fundamental grammatical rules with minimal errors.
+[147] grammar and mechanics control (cited 4x): Essay A demonstrates better control of grammatical structures with fewer errors than Essay B.
+[148] grammar and syntax accuracy (cited 6x): Essay B maintains grammatical correctness, while Essay A contains multiple errors such as 'people needs,' inconsistent pronoun shifts, and subject-verb disagreements.
+[149] grammar and syntax control (cited 11x): Essay B maintains grammatically correct sentences with consistent verb forms and agreement throughout.
+[150] grammar and verb usage (cited 9x): Essay A shows generally correct grammar with mostly appropriate verb tenses, while Essay B contains numerous grammatical errors including inconsistent verb tenses and agreement issues.
+[151] grammar consistency (cited 3x): Essay A maintains more consistent grammatical agreement, while Essay B has frequent errors like 'are life' instead of 'our life' and inconsistent article usage.
+[152] grammar control (cited 23x): Essay B demonstrates more consistent grammatical accuracy, while Essay A contains frequent errors in subject-verb agreement and pronoun reference.
+[153] grammatical accuracy (cited 722x): The essay maintains grammatical correctness across all sentences with no errors in basic sentence construction.
+[154] grammatical accuracy and consistency (cited 3x): Essay B demonstrates significantly fewer grammatical errors and maintains more consistent verb tense usage compared to Essay A's frequent errors like 'com' for 'come', 'wroung' for 'wrong', and inconsistent pronoun usage.
+[155] grammatical agreement (cited 4x): Essay A maintains correct agreement between subjects and verbs, while Essay B has errors like 'people...they may need' and inconsistent tense usage.
+[156] grammatical clarity (cited 3x): Essay A has fewer instances of unclear pronoun references and maintains better subject-verb agreement than Essay B.
+[157] grammatical consistency (cited 197x): Essay B demonstrates more reliable control of verb tenses and agreement patterns compared to Essay A's frequent errors like 'Successes comes' and tense shifts.
+[158] grammatical control (cited 56x): Essay B maintains correct subject-verb agreement, proper verb tenses, and sentence construction with minimal errors, whereas Essay A contains frequent grammatical mistakes like 'dose not have' and 'belives'.
+[159] grammatical correctness (cited 4x): Essay B maintains proper grammar with few errors, while Essay A contains numerous grammatical mistakes such as 'not are surrender,' 'is essential to have a goals,' and 'could be easily.'
+[160] idea development (cited 176x): Essay B elaborates on main points with supporting details and examples, whereas Essay A repeats similar ideas without substantial development.
+[161] idea development and coherence (cited 4x): The writer develops ideas with supporting details and logical connections between sentences, creating a coherent narrative arc.
+[162] idea development and elaboration (cited 43x): Claims are expanded with concrete examples and detailed explanations rather than simple repetition.
+[163] idea development and organization (cited 4x): Essay A develops a coherent argument with multiple supporting points and counterarguments, while Essay B lacks any organized structure or developed ideas.
+[164] idea development and scope (cited 3x): Essay A explores diverse accomplishments (education, music, sports, travel, happiness), while Essay B narrows its focus to a single theme repeated throughout.
+[165] idea development and support (cited 7x): Essay B provides specific examples and explanations for its claims, while Essay A lists events without meaningful elaboration or connection.
+[166] idiomatic expression (cited 10x): Essay A uses more natural English phrasing overall, while Essay B contains awkward constructions like 'do our goals can affect are live psychologyly' and 'make us in admiralble people'.
+[167] illustrative examples (cited 10x): Essay B employs specific, relevant examples and figurative language to support claims, whereas Essay A provides only generic activity suggestions.
+[168] illustrative specificity (cited 4x): Essay A supports claims with vivid, specific examples that make arguments more compelling and concrete than Essay B's generic statements.
+[169] integration of evidence (cited 3x): Essay A incorporates and builds upon an external quote to support its argument, showing engagement with source material.
+[170] integration of external sources (cited 3x): The essay effectively incorporates relevant quotations and historical references to support its argument.
+[171] intelligibility (cited 5x): Essay A is comprehensible and communicates ideas to the reader, while Essay B is largely unintelligible and fails to convey coherent meaning.
+[172] language commitment (cited 5x): The essay stays in English as the primary language of composition, whereas Essay B switches to Spanish for most of its content.
+[173] language consistency (cited 14x): The essay maintains English as the primary language of composition without switching to another language mid-essay.
+[174] lexical accessibility (cited 5x): Essay A uses understandable words and phrases, while Essay B contains numerous misspellings and invented words that obscure meaning.
+[175] lexical appropriateness (cited 3x): Essay A uses words correctly in context, while Essay B contains awkward phrasings like 'bad wives' (likely meant 'vibes') and 'fighter fighter.'
+[176] lexical precision (cited 22x): Essay A uses more varied and precise vocabulary appropriate to formal persuasive writing, while Essay B relies on simpler, more repetitive word choices.
+[177] lexical range (cited 72x): Essay A employs a wider range of vocabulary and more sophisticated word choices, while Essay B repeats basic terms and shows limited lexical variety.
+[178] lexical range and precision (cited 3x): Essay A employs a wider range of vocabulary with precise word choices like 'meticulously,' 'compelling,' and 'nurturing,' whereas Essay B repeats basic words and phrases.
+[179] lexical sophistication (cited 28x): Essay A uses more advanced and precise vocabulary appropriate to the topic, while Essay B relies on basic, repetitive word choices.
+[180] lexical variety (cited 22x): Essay B uses diverse vocabulary and avoids the repetitive phrasing that dominates Essay A, which repeats 'different experience' and 'helps' excessively.
+[181] logical argument development (cited 5x): The essay builds its argument systematically, moving from establishing the club's purpose to demonstrating its benefits.
+[182] logical argumentation (cited 29x): Essay A builds a coherent causal argument about choice and performance, whereas Essay B makes disconnected claims without clear logical progression.
+[183] logical coherence (cited 145x): Essay A develops ideas logically across multiple paragraphs, while Essay B repeats the same incomplete sentence fragment without progression.
+[184] logical coherence and argument development (cited 5x): Essay A demonstrates how the specific example of learning to pass the ball supports the opening claim about problems being opportunities, whereas Essay B repeats the same generic statements across multiple sections without clear logical progression.
+[185] logical coherence and flow (cited 3x): Essay B follows a clear argumentative structure with identifiable reasons and a conclusion that ties back to the thesis, whereas Essay A circles through similar points without clear progression.
+[186] logical coherence and transitions (cited 3x): Essay B uses explicit transitions to connect ideas and guide the reader through the argument, while Essay A jumps between ideas without clear connectors.
+[187] logical connectives (cited 3x): The essay effectively uses transitional language to guide the reader through the argument and show relationships between ideas.
+[188] logical connectors (cited 9x): Essay A uses consistent transitional language to show relationships between ideas, whereas Essay B has abrupt shifts and unclear connections between sentences.
+[189] logical connectors and transitions (cited 6x): Essay A uses explicit transitional phrases to guide the reader through the argument, while Essay B presents ideas with minimal connective tissue.
+[190] logical development (cited 93x): Essay A builds an argument by identifying why teacher-designed projects are problematic and how student-designed ones are better, whereas Essay B lacks any logical progression or coherent reasoning.
+[191] logical development and coherence (cited 7x): Essay B presents ideas in a more organized, linear fashion with clear connections between sentences, while Essay A jumps between related but loosely connected thoughts.
+[192] logical development of ideas (cited 18x): Essay B develops each main idea with relevant supporting details and explanations, whereas Essay A jumps between concepts without clear connections or development.
+[193] logical flow (cited 32x): Ideas build on each other with clear reasoning (e.g., 'For example,' 'What if,' 'If you were to') rather than appearing randomly assembled.
+[194] logical flow and argumentation (cited 3x): Essay B builds its argument systematically from the importance of imagination through various domains to its role in personal identity, whereas Essay A circles back to similar points without clear progression.
+[195] logical flow and coherence (cited 12x): Ideas connect smoothly and build upon each other to create a cohesive argument.
+[196] logical flow and transitions (cited 15x): The essay uses clear transitional phrases to connect ideas and guide the reader through the argument.
+[197] logical flow between ideas (cited 3x): Essay B demonstrates better coherence in moving from one idea to the next, creating a more unified argument.
+[198] logical organization (cited 36x): Essay A presents a clear argument with related examples supporting the main point, whereas Essay B is incoherent with repetitive fragments and no discernible structure.
+[199] logical organization and development (cited 4x): Essay B follows a clear argumentative structure with distinct supporting points, while Essay A circles back repeatedly to the same argument without advancing new ideas.
+[200] logical progression (cited 16x): Ideas build on each other in a way that guides the reader through the argument coherently.
+[201] logical reasoning (cited 79x): Essay B develops arguments through clear causal relationships and logical progression, whereas Essay A makes assertions without building coherent logical chains.
+[202] logical reasoning and development (cited 6x): Essay B presents clear causal relationships between kindness and its benefits, while Essay A makes unsupported leaps in logic and contradictory claims.
+[203] logical reasoning and explanation (cited 3x): Essay A explains the causal relationships between students' obligations and the feasibility of the 3-year program, while Essay B merely asserts that choice is good without explaining why.
+[204] logical reasoning development (cited 3x): Essay B explains causal relationships and consequences of arguments, whereas Essay A fails to develop ideas beyond initial assertions.
+[205] logical sequencing (cited 4x): The essay arranges supporting reasons in a coherent order that builds the argument progressively.
+[206] logical structure (cited 3x): Essay A builds its case through a sequence of related obstacles, whereas Essay B's reasoning is more circular and less clearly sequenced.
+[207] logical transitions (cited 4x): Essay B uses explicit signposting to guide the reader through the argument, whereas Essay A lacks clear transitions between ideas.
+[208] mechanical accuracy (cited 125x): Essay A maintains proper capitalization and punctuation conventions, while Essay B has inconsistent capitalization and punctuation errors.
+[209] mechanical consistency (cited 16x): Essay A demonstrates better control of capitalization and punctuation conventions, while Essay B has frequent errors including lowercase sentence starts and missing punctuation.
+[210] mechanical conventions (cited 27x): Essay A demonstrates better control of capitalization and punctuation, while Essay B has inconsistent capitalization and comma splices.
+[211] mechanical correctness (cited 3x): The essay demonstrates control over spelling, punctuation, and capitalization conventions.
+[212] narrative coherence (cited 21x): Maintains a coherent narrative voice and tense consistency when telling personal stories.
+[213] narrative coherence and development (cited 7x): Essay B develops a single, concrete example throughout the piece with clear progression from problem identification through attempted solutions to resolution.
+[214] narrative development (cited 16x): Essay A develops a personal anecdote with concrete details and shows how the experience changed the writer's perspective, while Essay B contains no coherent narrative or sustained ideas.
+[215] narrative development and elaboration (cited 15x): Essay B develops a coherent personal story across multiple paragraphs with specific details, dialogue, and emotional progression, whereas Essay A lists examples without developing them into coherent narratives.
+[216] nuanced argumentation (cited 7x): Essay B shows awareness of alternative perspectives and acknowledges the limitations of its own argument, demonstrating more sophisticated reasoning.
+[217] nuanced perspective (cited 3x): The essay recognizes complexity and avoids oversimplification of the issue.
+[218] nuanced reasoning (cited 4x): Essay B acknowledges complexity and exceptions to its claims, showing more sophisticated thinking than Essay A's straightforward assertions.
+[219] organization and coherence (cited 3x): Essay B follows a clear organizational structure with smooth transitions between ideas, while Essay A's structure is disjointed and its conclusion is abrupt.
+[220] organizational clarity (cited 247x): The essay uses explicit signposting to guide the reader through distinct supporting points in a logical sequence.
+[221] organizational clarity and coherence (cited 3x): Essay A presents a well-structured argument with clear logical flow, while Essay B has less developed paragraph organization and weaker transitions.
+[222] organizational coherence (cited 570x): The essay follows a clear, predictable structure that guides the reader through the argument logically.
+[223] organizational completeness (cited 6x): Essay A presents a fully structured argument with clear progression from thesis through supporting reasons to conclusion, while Essay B is incomplete and cuts off mid-sentence.
+[224] organizational complexity (cited 11x): Essay A maintains a clear multi-part structure with distinct sections exploring different domains where imagination applies, whereas Essay B is incomplete and lacks coherent organization.
+[225] organizational structure (cited 419x): The essay follows a logical five-paragraph structure with clear progression of ideas and explicit transitions between sections.
+[226] organizational structure and development (cited 3x): Essay A organizes ideas into coherent paragraphs with clear topic focus and elaboration, while Essay B lacks clear paragraph organization and topic development.
+[227] overall intelligibility (cited 7x): Essay A communicates its argument clearly enough to be understood, whereas Essay B is largely unintelligible due to severe grammatical and syntactic problems.
+[228] paragraph coherence (cited 116x): Essay B uses topic sentences and logical progression within paragraphs to guide the reader, while Essay A lacks clear topic organization.
+[229] paragraph coherence and development (cited 4x): Essay A develops each main idea fully with supporting details, while Essay B presents fragmented thoughts that lack clear development and connection.
+[230] paragraph coherence and structure (cited 5x): Each paragraph develops a single main idea with supporting evidence rather than mixing multiple concepts.
+[231] paragraph coherence and transitions (cited 3x): Essay B uses clear transitional phrases to connect ideas and organize thoughts logically across paragraphs.
+[232] paragraph development (cited 63x): Each paragraph maintains focus on a single topic with relevant examples and elaboration.
+[233] paragraph organization (cited 189x): Essay A groups related ideas into distinct paragraphs, whereas Essay B lacks clear paragraph boundaries and logical grouping of ideas.
+[234] paragraph organization and coherence (cited 15x): Essay A structures each body paragraph around a distinct reason with logical progression and sustained focus.
+[235] paragraph organization and development (cited 46x): Essay B structures ideas into distinct paragraphs with clear topics and elaboration, whereas Essay A lacks coherent paragraph breaks and logical organization.
+[236] paragraph organization and structure (cited 5x): The essay maintains clear paragraph boundaries with distinct topics and logical flow between ideas.
+[237] paragraph structure (cited 29x): Essay B begins paragraphs with clear topic sentences that guide the reader, whereas Essay A's paragraphs lack clear introductory statements and direction.
+[238] paragraph structure and coherence (cited 27x): Essay A develops distinct ideas in separate paragraphs with clear topic sentences, while Essay B repeats the same idea across multiple paragraphs without clear progression.
+[239] paragraph structure and organization (cited 11x): Essay B maintains distinct paragraphs with clear topics and supporting details, whereas Essay A has less defined paragraph boundaries and topic development.
+[240] paragraph unity (cited 4x): Each paragraph maintains focus on a single main idea with relevant supporting information.
+[241] parallel construction (cited 5x): The essay uses grammatically parallel phrases to create rhythm and emphasize related ideas.
+[242] personal voice and engagement (cited 4x): Essay B incorporates first-person perspective and personal stakes, creating a more engaging and authentic tone than Essay A's formal but impersonal request.
+[243] perspective and scope (cited 3x): Essay B considers multiple viewpoints and broader implications, while Essay A focuses narrowly on student constraints.
+[244] perspective breadth (cited 3x): Essay B acknowledges and addresses multiple stakeholders and viewpoints, while Essay A focuses narrowly on a single interpretation of the prompt.
+[245] perspective consideration (cited 3x): Essay A acknowledges different stakeholder viewpoints in the debate, while Essay B presents no coherent perspective.
+[246] perspective consistency (cited 3x): Essay B maintains a consistent and appropriate point of view throughout, while Essay A shifts between perspectives and uses unclear pronoun references.
+[247] perspective-taking (cited 10x): Essay B acknowledges different viewpoints and stakeholder concerns, while Essay A focuses narrowly on personal consequences.
+[248] phonetic spelling approximation (cited 5x): Spelling errors show the writer attempting to spell words phonetically rather than producing unintelligible letter strings.
+[249] precise word choice (cited 3x): Vocabulary is selected deliberately to convey specific meaning and tone rather than relying on repetition.
+[250] prompt adherence (cited 8x): Essay B stays on topic about school day extension, while Essay A misinterprets the character prompt as being about theater acting rather than personal character development.
+[251] prompt engagement (cited 4x): Essay B directly addresses the prompt's central question about choosing one's character, while Essay A does not respond to any specific prompt.
+[252] pronoun clarity (cited 16x): Essay A maintains relatively clear pronoun references, while Essay B uses confusing and inconsistent pronoun constructions that make sentences difficult to parse.
+[253] pronoun consistency (cited 13x): Essay A uses pronouns with clear antecedents, while Essay B shifts pronouns erratically without clear referents.
+[254] punctuation accuracy (cited 7x): Punctuation marks are used correctly and conventionally throughout the essay.
+[255] punctuation and capitalization (cited 12x): Essay A demonstrates proper punctuation and capitalization conventions, while Essay B has inconsistent capitalization (lowercase 'i' for first person) and run-on sentences.
+[256] punctuation and capitalization control (cited 16x): Essay B shows more reliable command of punctuation rules and capitalization conventions compared to Essay A's inconsistencies.
+[257] punctuation and mechanics (cited 5x): Essay B demonstrates consistent control of punctuation and spacing, while Essay A has numerous errors including missing spaces after commas and run-on constructions.
+[258] punctuation control (cited 47x): Essay B demonstrates consistent and correct punctuation, while Essay A has missing punctuation and awkward comma placement throughout.
+[259] readability (cited 6x): Essay A is easier to parse and understand, while Essay B's numerous errors and awkward constructions create significant comprehension barriers.
+[260] reader engagement (cited 3x): The essay addresses the audience directly to involve them in the argument.
+[261] reasoning and explanation (cited 3x): Essay B attempts to explain the consequences and benefits of its claims, while Essay A merely lists examples without explaining their significance.
+[262] reduced redundancy (cited 4x): The essay avoids the excessive repetition of the same ideas that characterizes Essay A.
+[263] register and audience awareness (cited 8x): Essay B uses formal language and addresses the principal directly, while Essay A uses inconsistent and informal language throughout.
+[264] register and formality (cited 7x): Essay B maintains a more formal, academic register appropriate for an argumentative essay, while Essay A uses a conversational tone with phrases like 'I know you've herd this phrase a billion times.'
+[265] register and tone (cited 8x): The essay maintains a consistently appropriate formal tone for a professional internship application.
+[266] register and tone consistency (cited 4x): Essay B maintains an appropriate academic register throughout, while Essay A uses informal language that undermines the formal essay context.
+[267] register and tone control (cited 11x): Essay A maintains an appropriate formal tone suitable for persuasive writing, while Essay B uses informal language like 'wanna' and 'Fist' that undermines professionalism.
+[268] register and word choice (cited 3x): The essay uses appropriately formal language and vocabulary suitable for an academic persuasive essay.
+[269] register appropriateness (cited 12x): The essay maintains a formal, respectful tone appropriate for addressing a school board.
+[270] register consistency (cited 41x): The essay maintains an appropriate formal tone suitable for an internship application without lapses into casual language.
+[271] register control (cited 5x): Essay B maintains a formal, professional tone appropriate to the context, whereas Essay A uses casual language like 'really fun' and 'doodle.'
+[272] relevance and focus (cited 3x): The essay keeps examples and explanations directly tied to the central argument rather than including tangential personal stories.
+[273] relevant exemplification (cited 7x): Essay A provides examples that clearly support its thesis, whereas Essay B includes many examples that are disconnected from any clear central claim.
+[274] relevant supporting evidence (cited 5x): Essay A uses concrete, specific examples that directly illustrate the main point, while Essay B relies on abstract reasoning that repeats the same arguments multiple times without clear progression.
+[275] repetition and redundancy (cited 3x): Essay B unnecessarily repeats examples and ideas, reducing the effectiveness of its argument, while Essay A introduces varied supporting evidence.
+[276] rhetorical awareness (cited 19x): Essay A demonstrates awareness of rhetorical devices to frame and advance an argument, while Essay B lacks such strategic language use.
+[277] rhetorical clarity (cited 3x): Essay B opens with a clear position and closes with a direct appeal to the reader, while Essay A lacks a discernible thesis or conclusion.
+[278] rhetorical development (cited 7x): The essay develops and reinforces its argument through a coherent extended example that illustrates key points.
+[279] rhetorical devices (cited 7x): The essay uses persuasive techniques such as rhetorical questions to engage the reader and strengthen the argument.
+[280] rhetorical effectiveness (cited 4x): Essay B uses rhetorical devices strategically to engage the reader, while Essay A relies on repetition and contains unclear or ineffective concluding statements.
+[281] rhetorical engagement (cited 8x): Essay B uses rhetorical devices to engage the reader and strengthen persuasive appeal, while Essay A lacks such techniques.
+[282] rhetorical sophistication (cited 38x): Essay B employs rhetorical devices and parallel structures to enhance persuasive impact.
+[283] semantic clarity (cited 3x): Essay A's ideas are generally understandable despite grammatical errors, whereas Essay B's word sequences often fail to convey coherent meaning.
+[284] sentence boundary control (cited 36x): Demonstrates better control of sentence boundaries with fewer run-on sentences and comma splices.
+[285] sentence clarity (cited 24x): Essay B uses more straightforward sentence structures, whereas Essay A contains awkward constructions like 'I want to be doctors has talent' and incomplete thoughts.
+[286] sentence coherence (cited 3x): Essay A maintains clear logical progression within and between sentences, while Essay B has awkward constructions like 'Every goals that we make in our life is important to do it.'
+[287] sentence completeness (cited 29x): Essay A uses mostly complete sentences, while Essay B contains numerous sentence fragments and run-on constructions that obscure meaning.
+[288] sentence completion (cited 4x): Essay B completes all sentences and thoughts, while Essay A contains incomplete sentences and trails off mid-idea.
+[289] sentence complexity (cited 192x): Essay B demonstrates more varied and complex sentence construction compared to Essay A's simpler, more repetitive sentence patterns.
+[290] sentence complexity and variety (cited 48x): Essay B demonstrates more sophisticated sentence construction with varied clause structures, while Essay A relies heavily on simple and compound sentences.
+[291] sentence construction (cited 303x): Essay B consistently forms grammatically complete sentences with proper subject-verb agreement, while Essay A lacks basic sentence structure.
+[292] sentence construction accuracy (cited 13x): Essay B maintains proper sentence structure with correct subject-verb agreement and clause formation, while Essay A contains numerous fragmented and run-on sentences.
+[293] sentence construction and grammar (cited 5x): Essay A demonstrates command of sentence structure with proper subject-verb agreement and complete thoughts, while Essay B contains fragmented, run-on, and grammatically broken sentences.
+[294] sentence construction and organization (cited 23x): Essay B maintains clearer sentence boundaries and more coherent paragraph organization, whereas Essay A contains numerous run-on sentences and fragmented thoughts.
+[295] sentence construction and punctuation (cited 11x): Essay B demonstrates control over sentence boundaries and punctuation, while Essay A contains numerous run-on sentences and missing punctuation.
+[296] sentence construction consistency (cited 3x): Essay A maintains more consistent sentence patterns despite errors, while Essay B has more fragmented and unclear sentence constructions.
+[297] sentence construction control (cited 3x): Essay B maintains more consistent and grammatically sound sentence structures, whereas Essay A contains numerous run-on sentences and fragmented constructions.
+[298] sentence control (cited 45x): Essay B demonstrates better control of sentence boundaries and punctuation, whereas Essay A contains multiple run-on sentences and awkward comma usage.
+[299] sentence fluency (cited 16x): Essay A demonstrates more natural phrasing and word order, while Essay B contains awkward constructions like 'Disadvantages or adventages of taking classes online?' and 'students deciding taking online classes.'
+[300] sentence intelligibility (cited 3x): Essay A produces sentences that communicate meaningful ideas despite grammatical errors, whereas Essay B's sentences are largely incomprehensible.
+[301] sentence variety (cited 233x): Essay B demonstrates greater syntactic complexity and variety compared to Essay A's simpler, more repetitive sentence patterns.
+[302] sentence variety and complexity (cited 88x): The essay uses a range of sentence types and lengths to create more sophisticated and engaging prose.
+[303] sentence variety and control (cited 5x): Essay A uses different sentence structures to develop ideas, while Essay B relies heavily on simple sentences connected by 'and' with limited syntactic variety.
+[304] sentence variety and flow (cited 33x): Essay A uses diverse sentence constructions and logical transitions, while Essay B relies heavily on repetitive sentence patterns and lacks smooth transitions between ideas.
+[305] sentence variety and fluency (cited 8x): The essay uses a wider range of sentence structures and lengths, creating more natural rhythm and readability.
+[306] sentence variety and transitions (cited 29x): The essay uses diverse sentence structures and transitional phrases to connect ideas smoothly.
+[307] sentence variety and vocabulary range (cited 3x): Essay B demonstrates varied sentence construction and more sophisticated word choices, while Essay A relies on repetitive sentence patterns and simpler vocabulary.
+[308] sentence-level clarity (cited 4x): Essay A constructs mostly complete sentences that express ideas clearly, while Essay B contains numerous fragments and run-ons that obscure meaning.
+[309] sentence-level coherence (cited 4x): Essay B maintains clear logical connections between ideas, while Essay A has run-on sentences and unclear pronoun references that disrupt meaning.
+[310] sentence-level grammar (cited 4x): Sentences are constructed with proper subject-verb agreement and standard English syntax.
+[311] sentence-level intelligibility (cited 4x): Readers can generally understand what each sentence is attempting to communicate despite grammatical errors.
+[312] specific evidence and detail (cited 3x): The essay supports claims with concrete, verifiable examples rather than vague generalizations.
+[313] specific evidence and examples (cited 5x): Essay B supports claims with concrete, relevant examples that illustrate the argument rather than abstract generalizations.
+[314] specific supporting details (cited 5x): Essay A provides concrete examples with explanations of their benefits, while Essay B lists activities without meaningful detail.
+[315] specific supporting evidence (cited 5x): Essay A provides detailed, verifiable examples that substantiate claims rather than making vague generalizations.
+[316] specific supporting examples (cited 4x): Essay B provides varied, detailed examples to support each main point, while Essay A uses vague or incomplete examples.
+[317] spelling accuracy (cited 545x): Essay B demonstrates reliable spelling of complex and common words without the frequent errors present in Essay A.
+[318] spelling and basic mechanics (cited 3x): Essay B demonstrates accurate spelling and proper word formation throughout, whereas Essay A contains numerous spelling errors that impede readability.
+[319] spelling and grammar accuracy (cited 93x): Essay B maintains consistent accuracy in spelling and grammar throughout, while Essay A contains numerous errors that impede clarity.
+[320] spelling and mechanics (cited 5x): Essay A has only minor issues (lowercase 'i', 'for examples'), while Essay B contains numerous spelling errors ('homr' for 'home', 'wat' for 'way', 'pr' for 'or', 'teh' for 'the', 'vv' fragments).
+[321] spelling and mechanics accuracy (cited 5x): Essay B maintains consistent spelling and correct contraction usage, while Essay A contains numerous errors like 'should'n', 'lifematters', 'neccesary', and 'buissnes'.
+[322] spelling and punctuation (cited 5x): Essay A maintains accurate spelling and appropriate punctuation throughout, while Essay B contains numerous spelling and punctuation errors.
+[323] spelling and punctuation accuracy (cited 23x): Essay B has minimal spelling errors and more consistent punctuation, while Essay A contains multiple misspellings and punctuation mistakes like 'does't' and missing commas.
+[324] spelling and punctuation control (cited 9x): The essay demonstrates strong control over conventions with very few errors in spelling and punctuation.
+[325] spelling and word accuracy (cited 19x): Essay B demonstrates strong control over spelling and vocabulary selection, while Essay A contains numerous spelling errors and awkward word choices throughout.
+[326] spelling and word choice (cited 3x): Essay A demonstrates strong spelling accuracy with only occasional errors, while Essay B contains numerous spelling and word-choice mistakes throughout.
+[327] spelling and word choice accuracy (cited 15x): Essay A has minimal spelling errors, while Essay B contains multiple errors like 'disavantages,' 'becuase,' 'actitvities,' and awkward phrasings like 'consider to be enough.'
+[328] spelling and word choice precision (cited 4x): Essay A has minimal spelling errors and appropriate word choices, while Essay B contains multiple spelling errors and awkward phrasings like 'efficiency will improve' and 'whey like.'
+[329] spelling consistency (cited 24x): Essay B demonstrates better overall spelling accuracy despite some errors, whereas Essay A contains more frequent and varied spelling mistakes.
+[330] spelling proficiency (cited 3x): Essay B has minimal spelling errors, while Essay A contains multiple misspellings like 'abou,' 'claas,' 'oportunity,' 'tehy,' and 'witg.'
+[331] structural clarity (cited 5x): Essay A establishes a clear thesis and uses topic sentences to introduce each main point, making the argument easy to follow.
+[332] structural organization (cited 4x): The essay follows a recognizable genre structure with a salutation, thesis statement, supporting arguments, and closing, making the argument easy to follow.
+[333] stylistic consistency (cited 3x): The essay maintains a formal, academic tone and parallel construction that enhances readability and professionalism.
+[334] stylistic control (cited 10x): Essay A demonstrates more deliberate control over sentence variety and pacing, while Essay B shows less attention to stylistic variation.
+[335] stylistic variety (cited 3x): Essay B demonstrates control over sentence variety to create emphasis and maintain reader engagement.
+[336] subject-verb agreement (cited 36x): Demonstrates more consistent agreement between subjects and verbs throughout the essay.
+[337] substantive evidence use (cited 3x): Essay A incorporates specific scientific information to support health-related claims, demonstrating deeper engagement with the topic.
+[338] supporting detail and elaboration (cited 4x): Essay A provides concrete examples to support its claims, while Essay B lacks substantive development of ideas.
+[339] supporting evidence (cited 11x): Essay A provides detailed personal examples with names and specific outcomes, while Essay B offers only vague, underdeveloped examples.
+[340] supporting evidence and elaboration (cited 7x): Essay B develops ideas with concrete, relevant examples that illustrate points, while Essay A relies on hypothetical scenarios that are less effectively integrated.
+[341] supporting evidence development (cited 7x): Essay B provides concrete examples with specific details (Liberty University, Air Force, FBI, graduation year 2015) that substantiate claims, while Essay A uses vague generalizations.
+[342] sustained argumentation (cited 4x): The essay maintains and develops a central argument throughout rather than repeating disconnected phrases.
+[343] sustained composition (cited 5x): Essay A maintains coherent paragraph structure and develops arguments across multiple sections, whereas Essay B consists of only fragmented phrases.
+[344] sustained focus (cited 7x): Both essays maintain their respective topics, but Essay B demonstrates more consistent development of a single argument without digression.
+[345] sustained focus and coherence (cited 3x): The essay maintains a clear central argument and returns to it repeatedly rather than drifting to unrelated topics.
+[346] sustained focus and relevance (cited 3x): Essay B maintains clear focus on the summer break argument throughout, while Essay A repeatedly circles back to the same complaint about grades without developing the idea.
+[347] syntactic ambition (cited 6x): The essay attempts more sophisticated sentence constructions beyond simple subject-verb-object patterns.
+[348] syntactic clarity (cited 4x): Essay B avoids the excessive comma-splicing and run-on constructions that dominate Essay A, making individual ideas more distinct.
+[349] syntactic coherence (cited 3x): Essay A maintains grammatical relationships between words that allow meaning to be followed, whereas Essay B's syntax is too fragmented to parse.
+[350] syntactic complexity (cited 604x): Essay B demonstrates more sophisticated sentence construction with varied dependent clauses and embedded ideas compared to Essay A's simpler, more repetitive structures.
+[351] syntactic complexity and variety (cited 23x): Essay A demonstrates sophisticated control of sentence construction with varied lengths and structures, while Essay B relies heavily on simple and compound sentences.
+[352] syntactic consistency (cited 3x): Essay A maintains consistent verb tense and parallel sentence structures, while Essay B shifts tenses and uses awkward constructions like 'don't be wanting' and 'wouldn't'nt'.
+[353] syntactic control (cited 18x): Essay A demonstrates more sophisticated and varied sentence construction with better control of complex sentences, while Essay B relies heavily on simple sentences with repetitive structures.
+[354] syntactic variety (cited 78x): The essay demonstrates control over different sentence patterns and lengths to create rhythm and emphasis.
+[355] syntactic variety and complexity (cited 7x): Essay B demonstrates more sophisticated sentence construction with varied patterns, whereas Essay A relies heavily on simple, repetitive sentence structures.
+[356] task completion (cited 5x): Essay B provides a full response to the prompt with closure, while Essay A is incomplete and unfinished.
+[357] task engagement (cited 16x): Essay A directly responds to the prompt about having a good relationship with a dog and maintains focus on this topic.
+[358] technical accuracy (cited 17x): While Essay A contains some errors (tought, stragety, defenitly), Essay B has significantly more frequent spelling, capitalization, and grammatical mistakes throughout (clases, maximun, didn't did, i instead of I).
+[359] tense consistency (cited 7x): Essay B maintains more consistent tense throughout, whereas Essay A shifts between tenses unpredictably and uses incorrect verb forms.
+[360] text organization (cited 4x): Essay B attempts to organize content into sections (introduction, main narrative, family information) while Essay A presents an undifferentiated stream of words.
+[361] thematic coherence (cited 84x): Essay B maintains focus on a central theme (the importance of example in influencing others) throughout, while Essay A shifts between multiple loosely-connected ideas.
+[362] thematic consistency (cited 9x): The essay maintains focus on a single, well-developed thesis throughout rather than shifting topics or losing direction.
+[363] thematic development (cited 7x): Essay A weaves together multiple related ideas into a unified argument, whereas Essay B repeats the same idea with minimal variation.
+[364] thematic focus (cited 13x): Essay A maintains focus on its central claim throughout, whereas Essay B introduces a personal anecdote that doesn't clearly connect to the main argument about learning from others.
+[365] thematic unity (cited 43x): Essay A maintains a coherent central argument across all paragraphs, while Essay B shifts between unrelated concepts without clear connection to a main thesis.
+[366] thesis clarity (cited 13x): Essay B presents a clear, focused thesis about how examples influence others, while Essay A's central claim about multiple advice becomes muddled and repetitive.
+[367] thesis clarity and development (cited 6x): Essay A presents a clear, nuanced thesis and returns to it in the conclusion, while Essay B's thesis is unclear and the conclusion contradicts itself ('i desaggres because i think').
+[368] thesis clarity and focus (cited 5x): Essay B maintains a clear, focused argument about how examples influence others, while Essay A's thesis about student-designed projects becomes muddled and repetitive.
+[369] thesis development (cited 11x): Essay A presents a clear, sophisticated thesis and develops it systematically across multiple dimensions, while Essay B's thesis is simple and repetitively restated without meaningful development.
+[370] topic coherence (cited 88x): Essay A stays focused on the character-choice theme, while Essay B shifts to discussing life experts and personal independence, which is tangential to the original prompt.
+[371] topic coherence and development (cited 3x): Essay A maintains a clear, unified topic about dog relationships and care across multiple paragraphs with related supporting details.
+[372] topic coherence and focus (cited 6x): Essay B stays on topic and develops a clear argument, whereas Essay A jumps between unrelated personal anecdotes without a unifying theme.
+[373] topic development (cited 4x): Essay B uses explicit topic sentences to introduce and organize ideas, making the argument structure transparent to the reader.
+[374] topic focus (cited 8x): Essay B stays focused on its central argument about school scheduling, while Essay A repeatedly circles back to the same general points about choosing good traits without developing new ideas.
+[375] topic focus and coherence (cited 6x): Essay B maintains a clear argumentative purpose throughout, whereas Essay A shifts between listing talents and skills without deeper development.
+[376] topic focus and relevance (cited 4x): Essay A stays focused on the assigned prompt about curfews, while Essay B appears to address a completely different topic about phones in school.
+[377] topic maintenance (cited 60x): Essay A stays focused on the benefits of learning Vietnamese, while Essay B shifts between presenting to students and giving life advice without clear connection.
+[378] topic maintenance and focus (cited 3x): The essay stays on topic and develops a single argument with relevant examples rather than shifting between unrelated ideas.
+[379] topical coherence (cited 55x): Essay A stays focused on the school day extension proposal, while Essay B shifts between different technology uses without maintaining a unified argument.
+[380] topical focus (cited 37x): Essay B maintains consistent focus on a single, well-defined argument, while Essay A repeatedly circles back to the same abstract ideas without advancing the discussion.
+[381] topical focus and coherence (cited 4x): Essay A maintains a clear central topic and develops it across paragraphs, whereas Essay B shifts abruptly between unrelated topics (grades, ESOL test scores) without a unifying theme.
+[382] topical focus and relevance (cited 3x): Essay B stays focused on analyzing online classes, while Essay A shifts between multiple personal anecdotes that don't all directly support the main argument.
+[383] topical vocabulary control (cited 4x): Essay A uses vocabulary that relates meaningfully to the prompt about ambition and success, while Essay B contains random word fragments.
+[384] topical vocabulary use (cited 3x): Essay A uses topic-appropriate vocabulary consistently, whereas Essay B contains mostly garbled or unrelated words.
+[385] transition and coherence (cited 5x): Explicit transitions between ideas help readers follow the logical flow of the argument.
+[386] transition and cohesion (cited 3x): Essay B uses explicit transitions to connect ideas and guide the reader through the argument, while Essay A lacks clear connectors between thoughts.
+[387] transition quality (cited 4x): Essay B uses transitional phrases and logical connectors effectively to link ideas, while Essay A's transitions are abrupt or missing, making the argument harder to follow.
+[388] transition use (cited 8x): The essay employs transitional words and phrases to guide the reader through the argument.
+[389] transitional clarity (cited 22x): Essay A uses varied and appropriate transitions to connect ideas, while Essay B relies heavily on repetitive formulas like 'here's the reason' and 'here's the next one.'
+[390] transitional coherence (cited 64x): Essay B uses explicit transitions to connect ideas and guide the reader through the argument, while Essay A lacks such connective devices.
+[391] transitional signposting (cited 3x): Essay A employs transitional markers to guide readers through the argument, whereas Essay B lacks clear transitions between ideas.
+[392] transitional sophistication (cited 4x): The essay uses varied and appropriate transitional phrases that clarify relationships between ideas.
+[393] use of concrete details (cited 10x): The essay supports claims with specific examples and descriptive details rather than vague references.
+[394] use of concrete evidence (cited 39x): Essay A supports claims with specific examples and scientific references, while Essay B contains only repetitive, incomplete fragments.
+[395] use of concrete evidence and examples (cited 4x): Essay A supports claims with specific, relevant examples that demonstrate knowledge and strengthen arguments, while Essay B uses vague generalizations.
+[396] use of concrete examples (cited 179x): Essay A supports its argument with specific hypothetical examples of project titles, while Essay B provides no coherent examples or supporting details.
+[397] use of concrete examples and elaboration (cited 4x): Essay B supports claims with specific, detailed examples that illustrate the main point, while Essay A relies on abstract assertions without concrete support.
+[398] use of concrete examples and evidence (cited 12x): Essay B supports claims with specific, relevant examples that effectively illustrate points, while Essay A relies on vague hypothetical scenarios.
+[399] use of concrete supporting evidence (cited 8x): Essay A provides specific, detailed examples to support claims, while Essay B relies on vague generalizations without concrete illustration.
+[400] use of concrete supporting examples (cited 3x): The essay develops its argument through specific, detailed personal examples that illustrate the main point rather than relying on general statements.
+[401] use of discourse markers (cited 6x): The essay employs basic transitional words to signal the progression of ideas.
+[402] use of evidence (cited 16x): Essay B integrates a direct quote and attempts to analyze its significance, demonstrating engagement with source material.
+[403] use of evidence and examples (cited 12x): Essay B supports claims with concrete, relevant examples and references, while Essay A makes unsupported generalizations and vague claims.
+[404] use of evidence and support (cited 4x): The essay supports claims with concrete evidence from external sources rather than only personal assertion.
+[405] use of examples (cited 19x): Essay B grounds its argument with a personal example, while Essay A relies entirely on abstract claims.
+[406] use of relevant examples (cited 5x): Essay A provides specific, pertinent examples that illustrate the thesis, whereas Essay B's examples are vague and disconnected from any clear main idea.
+[407] use of specific details (cited 3x): Essay A provides vivid, specific examples that support its points, while Essay B relies on vague, abstract language without concrete illustrations.
+[408] use of specific evidence (cited 5x): Essay B grounds its argument in a particular, detailed example that illustrates the point, whereas Essay A uses generic, abstract examples.
+[409] use of specific examples (cited 62x): The essay provides vivid, detailed examples that support its claims, whereas Essay A relies on vague, repetitive scenarios.
+[410] use of specific examples and evidence (cited 6x): Essay B provides detailed personal anecdotes and examples to illustrate claims, whereas Essay A makes assertions without supporting evidence.
+[411] use of specific supporting details (cited 3x): Essay B incorporates specific facts, foreign language examples, and detailed scenarios that ground claims, while Essay A uses vague descriptions like 'deep voice' without elaboration.
+[412] use of supporting details (cited 6x): The essay provides concrete examples to back up its main arguments rather than repeating claims.
+[413] use of supporting evidence (cited 48x): Essay A provides specific examples like teaching an American friend Vietnamese and getting lost in Vietnam, while Essay B's examples are vague and poorly developed.
+[414] use of supporting examples (cited 27x): Essay B provides relevant, detailed examples to support claims, whereas Essay A offers vague generalizations without concrete illustration.
+[415] use of textual evidence (cited 4x): Essay B incorporates and references external sources to support its argument, demonstrating engagement with source material.
+[416] use of transitions (cited 17x): Essay B uses clearer transitional language to connect ideas between paragraphs, making the essay easier to follow.
+[417] verb form accuracy (cited 3x): Essay B uses past and present tenses appropriately, whereas Essay A contains numerous errors like 'teacher's designed' and 'student's designed' used as verbs.
+[418] verb tense consistency (cited 70x): Essay A maintains grammatical consistency in verb tenses, whereas Essay B frequently shifts between tenses and uses incorrect forms like 'share' instead of 'shares' and 'talk' instead of 'talks'.
+[419] verb tense control (cited 31x): Essay B demonstrates more consistent and accurate use of verb tenses throughout, while Essay A shows frequent tense errors and shifts.
+[420] vocabulary and spelling (cited 3x): Essay B uses appropriate vocabulary with minimal errors, while Essay A contains spelling mistakes ('vary' for 'very', 'noting' for 'nothing', 'pervent' for 'prevent') and awkward word choices.
+[421] vocabulary appropriateness (cited 35x): Essay A uses topic-relevant vocabulary accurately, while Essay B contains unclear or misused words and repetitive phrasing.
+[422] vocabulary clarity (cited 3x): Essay A's word choices are understandable and appropriate to the topic, while Essay B contains nonsensical word combinations and apparent copying of unrelated text.
+[423] vocabulary control (cited 14x): Essay A demonstrates intentional word choice and appropriate vocabulary selection, while Essay B shows severe spelling and word confusion.
+[424] vocabulary precision (cited 86x): The essay uses sophisticated and contextually appropriate vocabulary that conveys meaning with exactness.
+[425] vocabulary range (cited 286x): Essay B demonstrates more sophisticated and varied word choices appropriate to the argument, while Essay A uses simpler, more repetitive vocabulary.
+[426] vocabulary range and appropriateness (cited 13x): Essay B demonstrates command of academic and abstract vocabulary suited to the topic, while Essay A uses limited and often misapplied word choices.
+[427] vocabulary range and precision (cited 82x): The essay demonstrates command of varied and appropriate word choices beyond basic vocabulary.
+[428] vocabulary range and register (cited 3x): The essay demonstrates command of varied and contextually appropriate word choices that maintain a formal tone.
+[429] vocabulary range and sophistication (cited 5x): Essay B uses more advanced and precise word choices that demonstrate stronger command of English vocabulary.
+[430] vocabulary sophistication (cited 54x): Essay A uses more advanced and precise vocabulary appropriate to the argument, while Essay B relies on simpler, more repetitive word choices.
+[431] voice and engagement (cited 6x): Essay B develops a personal voice and emotional connection to the topic, making the argument more compelling and authentic.
+[432] voice and perspective consistency (cited 3x): Essay B maintains a consistent, clear voice and perspective throughout, whereas Essay A shifts confusingly between ideas without coherent perspective.
+[433] word choice (cited 4x): Essay B uses varied and appropriate vocabulary (exhilarating, steaming, welcoming), while Essay A relies on repetitive phrasing and awkward constructions like 'exacting' used incorrectly.
+[434] word choice and idiom (cited 4x): Uses more natural and appropriate word choices with fewer awkward or non-idiomatic phrasings.
+[435] word choice and vocabulary (cited 3x): Essay A demonstrates appropriate vocabulary selection for academic writing, while Essay B uses imprecise or incorrect word choices that confuse meaning.
+[436] word choice appropriateness (cited 9x): Essay A uses more sophisticated and varied vocabulary suitable for formal writing, while Essay B relies on simpler, sometimes incorrect word choices.
+[437] word choice precision (cited 21x): Essay A uses words appropriately ('concentrate,' 'introvert,' 'tardiness'), while Essay B contains awkward phrases like 'good experiment,' 'forcefully,' and misused words like 'control' in contexts where 'encourage' would be more appropriate.

@@ -1,0 +1,7 @@
+{
+  "n_pairs": 32000,
+  "in": 2463.0,
+  "out": 545.75,
+  "bulk_usd_batch": 68.85,
+  "halo_median_agreement": 0.6
+}

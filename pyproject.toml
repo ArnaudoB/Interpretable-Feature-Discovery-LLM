@@ -1,0 +1,44 @@
+[project]
+name = "llm-statistical-modelling"
+version = "1.0.0"
+description = "Interpretable feature discovery from LLM pairwise rationales with a statistical choice model"
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [{ name = "Anonymous authors" }]
+requires-python = ">=3.12"
+dependencies = [
+    "numpy==2.4.6",
+    "scipy==1.17.1",
+    "scikit-learn==1.8.0",
+    "pandas==3.0.3",
+    "pyarrow==24.0.0",
+    "matplotlib==3.10.9",
+    "PyYAML==6.0.3",
+    "openai==2.38.0",
+]
+
+[project.optional-dependencies]
+# Re-running the Experiment 3 judges (Claude Haiku 4.5 and Gemini 3.6 Flash).
+judges = ["anthropic==0.105.2", "google-genai==2.22.0"]
+# Rebuilding the POS baseline of Experiment 2 from raw text (then: python -m spacy download en_core_web_sm).
+baselines = ["spacy==3.8.14"]
+dev = ["pytest==9.0.3", "ruff==0.16.9"]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["core*"]
+
+[tool.setuptools.package-data]
+"core.cmv" = ["*.txt"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "slow: sandwich-SE calibration over many refits; minutes, not seconds",
+]

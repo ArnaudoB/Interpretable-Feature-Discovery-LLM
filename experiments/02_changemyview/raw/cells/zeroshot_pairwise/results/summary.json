@@ -1,0 +1,69 @@
+{
+  "n_pairs": 800,
+  "single_order_acc": 0.56,
+  "position_named_first": 82,
+  "position_named_second": 153,
+  "position_second_share": 0.6510638297872341,
+  "position_second_ci": [
+    0.5863858677101635,
+    0.7118759496454097
+  ],
+  "position_second_p": 4.234657583913016e-06,
+  "single_order_ci": [
+    0.524809760013204,
+    0.5947465344559506
+  ],
+  "single_order_p": 0.0007727577070926472,
+  "order_averaged_acc": 0.569375,
+  "consistency_rate": 0.70625,
+  "consistent_subset_acc": 0.5982300884955752,
+  "n_consistent": 565,
+  "slot_A_pick_rate": 0.455625,
+  "flagship_acc": 0.62,
+  "delta_ours_minus_zeroshot": 0.050625,
+  "delta_ci": [
+    0.015,
+    0.086875
+  ],
+  "mcnemar_consistent_subset": {
+    "n": 565,
+    "b": 97,
+    "c": 76,
+    "p": 0.12812621630749874
+  },
+  "by_subset": {
+    "all": {
+      "n": 800,
+      "zeroshot": 0.569375,
+      "ours": 0.62,
+      "gap": 0.05062500000000003,
+      "ours_ci": [
+        0.5853475493356819,
+        0.6537645768152093
+      ],
+      "ours_p_vs_chance": 1.161609069225358e-11
+    },
+    "judge_self_consistent": {
+      "n": 565,
+      "zeroshot": 0.5982300884955752,
+      "ours": 0.6353982300884956,
+      "gap": 0.03716814159292037,
+      "ours_ci": [
+        0.5941993415328125,
+        0.6751730476886113
+      ],
+      "ours_p_vs_chance": 1.2483560198845337e-10
+    },
+    "judge_answered_by_position": {
+      "n": 235,
+      "zeroshot": 0.5,
+      "ours": 0.5829787234042553,
+      "gap": 0.08297872340425527,
+      "ours_ci": [
+        0.5170950775206647,
+        0.6467418654050099
+      ],
+      "ours_p_vs_chance": 0.013013144573389063
+    }
+  }
+}

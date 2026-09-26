@@ -1,0 +1,518 @@
+{
+  "n_runs": 50,
+  "of_requested": 50,
+  "E": 27,
+  "modes": {
+    "batch": 50
+  },
+  "model": "gpt-5.4-2026-03-05",
+  "reasoning_effort": "high",
+  "usd_batch": 7.49417125,
+  "usd_sync": 14.9883425,
+  "usd_batch_per_run": 0.149883425,
+  "K_mean": 24.98,
+  "K_min": 22,
+  "K_max": 29,
+  "calls": [
+    {
+      "run": 0,
+      "custom_id": "taxo_pool:t000",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17737,
+      "output_tokens": 21062,
+      "n_features": 23,
+      "n_unplaced": 0
+    },
+    {
+      "run": 1,
+      "custom_id": "taxo_pool:t001",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17598,
+      "output_tokens": 24792,
+      "n_features": 27,
+      "n_unplaced": 1
+    },
+    {
+      "run": 2,
+      "custom_id": "taxo_pool:t002",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17778,
+      "output_tokens": 22931,
+      "n_features": 27,
+      "n_unplaced": 3
+    },
+    {
+      "run": 3,
+      "custom_id": "taxo_pool:t003",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17656,
+      "output_tokens": 29295,
+      "n_features": 27,
+      "n_unplaced": 0
+    },
+    {
+      "run": 4,
+      "custom_id": "taxo_pool:t004",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17494,
+      "output_tokens": 36612,
+      "n_features": 26,
+      "n_unplaced": 1
+    },
+    {
+      "run": 5,
+      "custom_id": "taxo_pool:t005",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17869,
+      "output_tokens": 25228,
+      "n_features": 26,
+      "n_unplaced": 0
+    },
+    {
+      "run": 6,
+      "custom_id": "taxo_pool:t006",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17639,
+      "output_tokens": 25743,
+      "n_features": 25,
+      "n_unplaced": 0
+    },
+    {
+      "run": 7,
+      "custom_id": "taxo_pool:t007",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17868,
+      "output_tokens": 18597,
+      "n_features": 22,
+      "n_unplaced": 0
+    },
+    {
+      "run": 8,
+      "custom_id": "taxo_pool:t008",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17589,
+      "output_tokens": 23849,
+      "n_features": 23,
+      "n_unplaced": 0
+    },
+    {
+      "run": 9,
+      "custom_id": "taxo_pool:t009",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17677,
+      "output_tokens": 23524,
+      "n_features": 24,
+      "n_unplaced": 0
+    },
+    {
+      "run": 10,
+      "custom_id": "taxo_pool:t010",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17765,
+      "output_tokens": 23165,
+      "n_features": 22,
+      "n_unplaced": 0
+    },
+    {
+      "run": 11,
+      "custom_id": "taxo_pool:t011",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17532,
+      "output_tokens": 19203,
+      "n_features": 24,
+      "n_unplaced": 2
+    },
+    {
+      "run": 12,
+      "custom_id": "taxo_pool:t012",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17486,
+      "output_tokens": 23869,
+      "n_features": 24,
+      "n_unplaced": 0
+    },
+    {
+      "run": 13,
+      "custom_id": "taxo_pool:t013",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17375,
+      "output_tokens": 26390,
+      "n_features": 25,
+      "n_unplaced": 1
+    },
+    {
+      "run": 14,
+      "custom_id": "taxo_pool:t014",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17280,
+      "output_tokens": 20089,
+      "n_features": 24,
+      "n_unplaced": 1
+    },
+    {
+      "run": 15,
+      "custom_id": "taxo_pool:t015",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17688,
+      "output_tokens": 24023,
+      "n_features": 24,
+      "n_unplaced": 4
+    },
+    {
+      "run": 16,
+      "custom_id": "taxo_pool:t016",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17489,
+      "output_tokens": 21645,
+      "n_features": 27,
+      "n_unplaced": 0
+    },
+    {
+      "run": 17,
+      "custom_id": "taxo_pool:t017",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17361,
+      "output_tokens": 31277,
+      "n_features": 26,
+      "n_unplaced": 2
+    },
+    {
+      "run": 18,
+      "custom_id": "taxo_pool:t018",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17673,
+      "output_tokens": 26508,
+      "n_features": 23,
+      "n_unplaced": 2
+    },
+    {
+      "run": 19,
+      "custom_id": "taxo_pool:t019",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17376,
+      "output_tokens": 24774,
+      "n_features": 24,
+      "n_unplaced": 0
+    },
+    {
+      "run": 20,
+      "custom_id": "taxo_pool:t020",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17711,
+      "output_tokens": 21833,
+      "n_features": 25,
+      "n_unplaced": 0
+    },
+    {
+      "run": 21,
+      "custom_id": "taxo_pool:t021",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17839,
+      "output_tokens": 24897,
+      "n_features": 27,
+      "n_unplaced": 0
+    },
+    {
+      "run": 22,
+      "custom_id": "taxo_pool:t022",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17593,
+      "output_tokens": 23964,
+      "n_features": 26,
+      "n_unplaced": 0
+    },
+    {
+      "run": 23,
+      "custom_id": "taxo_pool:t023",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17768,
+      "output_tokens": 27973,
+      "n_features": 29,
+      "n_unplaced": 0
+    },
+    {
+      "run": 24,
+      "custom_id": "taxo_pool:t024",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17949,
+      "output_tokens": 24402,
+      "n_features": 24,
+      "n_unplaced": 1
+    },
+    {
+      "run": 25,
+      "custom_id": "taxo_pool:t025",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17473,
+      "output_tokens": 23638,
+      "n_features": 23,
+      "n_unplaced": 0
+    },
+    {
+      "run": 26,
+      "custom_id": "taxo_pool:t026",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17677,
+      "output_tokens": 25482,
+      "n_features": 23,
+      "n_unplaced": 3
+    },
+    {
+      "run": 27,
+      "custom_id": "taxo_pool:t027",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17604,
+      "output_tokens": 30718,
+      "n_features": 27,
+      "n_unplaced": 2
+    },
+    {
+      "run": 28,
+      "custom_id": "taxo_pool:t028",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17225,
+      "output_tokens": 32300,
+      "n_features": 23,
+      "n_unplaced": 2
+    },
+    {
+      "run": 29,
+      "custom_id": "taxo_pool:t029",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17747,
+      "output_tokens": 30127,
+      "n_features": 28,
+      "n_unplaced": 2
+    },
+    {
+      "run": 30,
+      "custom_id": "taxo_pool:t030",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17437,
+      "output_tokens": 25267,
+      "n_features": 24,
+      "n_unplaced": 0
+    },
+    {
+      "run": 31,
+      "custom_id": "taxo_pool:t031",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17277,
+      "output_tokens": 24054,
+      "n_features": 26,
+      "n_unplaced": 0
+    },
+    {
+      "run": 32,
+      "custom_id": "taxo_pool:t032",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17430,
+      "output_tokens": 35183,
+      "n_features": 24,
+      "n_unplaced": 2
+    },
+    {
+      "run": 33,
+      "custom_id": "taxo_pool:t033",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17670,
+      "output_tokens": 27114,
+      "n_features": 23,
+      "n_unplaced": 1
+    },
+    {
+      "run": 34,
+      "custom_id": "taxo_pool:t034",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17324,
+      "output_tokens": 22076,
+      "n_features": 23,
+      "n_unplaced": 0
+    },
+    {
+      "run": 35,
+      "custom_id": "taxo_pool:t035",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17825,
+      "output_tokens": 25777,
+      "n_features": 25,
+      "n_unplaced": 0
+    },
+    {
+      "run": 36,
+      "custom_id": "taxo_pool:t036",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17875,
+      "output_tokens": 26817,
+      "n_features": 27,
+      "n_unplaced": 0
+    },
+    {
+      "run": 37,
+      "custom_id": "taxo_pool:t037",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17524,
+      "output_tokens": 25737,
+      "n_features": 27,
+      "n_unplaced": 1
+    },
+    {
+      "run": 38,
+      "custom_id": "taxo_pool:t038",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17574,
+      "output_tokens": 26384,
+      "n_features": 27,
+      "n_unplaced": 1
+    },
+    {
+      "run": 39,
+      "custom_id": "taxo_pool:t039",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17714,
+      "output_tokens": 35618,
+      "n_features": 25,
+      "n_unplaced": 2
+    },
+    {
+      "run": 40,
+      "custom_id": "taxo_pool:t040",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17446,
+      "output_tokens": 29170,
+      "n_features": 25,
+      "n_unplaced": 1
+    },
+    {
+      "run": 41,
+      "custom_id": "taxo_pool:t041",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17916,
+      "output_tokens": 19816,
+      "n_features": 24,
+      "n_unplaced": 0
+    },
+    {
+      "run": 42,
+      "custom_id": "taxo_pool:t042",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17762,
+      "output_tokens": 19714,
+      "n_features": 26,
+      "n_unplaced": 0
+    },
+    {
+      "run": 43,
+      "custom_id": "taxo_pool:t043",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17394,
+      "output_tokens": 20799,
+      "n_features": 23,
+      "n_unplaced": 0
+    },
+    {
+      "run": 44,
+      "custom_id": "taxo_pool:t044",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17700,
+      "output_tokens": 24436,
+      "n_features": 26,
+      "n_unplaced": 0
+    },
+    {
+      "run": 45,
+      "custom_id": "taxo_pool:t045",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17418,
+      "output_tokens": 21813,
+      "n_features": 26,
+      "n_unplaced": 0
+    },
+    {
+      "run": 46,
+      "custom_id": "taxo_pool:t046",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17914,
+      "output_tokens": 28597,
+      "n_features": 24,
+      "n_unplaced": 0
+    },
+    {
+      "run": 47,
+      "custom_id": "taxo_pool:t047",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17971,
+      "output_tokens": 28440,
+      "n_features": 24,
+      "n_unplaced": 0
+    },
+    {
+      "run": 48,
+      "custom_id": "taxo_pool:t048",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17318,
+      "output_tokens": 26237,
+      "n_features": 25,
+      "n_unplaced": 0
+    },
+    {
+      "run": 49,
+      "custom_id": "taxo_pool:t049",
+      "mode": "batch",
+      "model": "gpt-5.4-2026-03-05",
+      "input_tokens": 17972,
+      "output_tokens": 27631,
+      "n_features": 27,
+      "n_unplaced": 1
+    }
+  ]
+}

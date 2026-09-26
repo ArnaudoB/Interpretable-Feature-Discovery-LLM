@@ -1,0 +1,120 @@
+{
+  "n_anchor": 800,
+  "n_test": 1600,
+  "n_features": 16,
+  "test_nan": 0,
+  "per_feature": [
+    {
+      "feature": "Core Claim Relevance",
+      "n_pairs": 6400,
+      "beta": -0.373,
+      "win_rate_A": 0.439,
+      "score_sd": 1.191
+    },
+    {
+      "feature": "Reason Engagement",
+      "n_pairs": 6400,
+      "beta": -1.429,
+      "win_rate_A": 0.319,
+      "score_sd": 2.152
+    },
+    {
+      "feature": "View Understanding",
+      "n_pairs": 6400,
+      "beta": -1.999,
+      "win_rate_A": 0.282,
+      "score_sd": 2.424
+    },
+    {
+      "feature": "Logical Coherence",
+      "n_pairs": 6400,
+      "beta": -1.477,
+      "win_rate_A": 0.341,
+      "score_sd": 2.608
+    },
+    {
+      "feature": "Evidence Strength",
+      "n_pairs": 6400,
+      "beta": -0.587,
+      "win_rate_A": 0.461,
+      "score_sd": 5.021
+    },
+    {
+      "feature": "Source Trustworthiness",
+      "n_pairs": 6400,
+      "beta": -0.743,
+      "win_rate_A": 0.45,
+      "score_sd": 4.935
+    },
+    {
+      "feature": "Concrete Specificity",
+      "n_pairs": 6400,
+      "beta": -1.194,
+      "win_rate_A": 0.421,
+      "score_sd": 4.527
+    },
+    {
+      "feature": "Counterargument Handling",
+      "n_pairs": 6400,
+      "beta": -2.439,
+      "win_rate_A": 0.318,
+      "score_sd": 3.78
+    },
+    {
+      "feature": "Nuance and Balance",
+      "n_pairs": 6400,
+      "beta": -1.584,
+      "win_rate_A": 0.379,
+      "score_sd": 3.605
+    },
+    {
+      "feature": "Novel Insight",
+      "n_pairs": 6400,
+      "beta": -1.376,
+      "win_rate_A": 0.389,
+      "score_sd": 3.542
+    },
+    {
+      "feature": "Value Alignment",
+      "n_pairs": 6400,
+      "beta": -1.47,
+      "win_rate_A": 0.344,
+      "score_sd": 2.521
+    },
+    {
+      "feature": "Consequence Salience",
+      "n_pairs": 6400,
+      "beta": -1.088,
+      "win_rate_A": 0.426,
+      "score_sd": 4.305
+    },
+    {
+      "feature": "Emotional Resonance",
+      "n_pairs": 6400,
+      "beta": -0.596,
+      "win_rate_A": 0.452,
+      "score_sd": 4.057
+    },
+    {
+      "feature": "Respectful Tone",
+      "n_pairs": 6400,
+      "beta": -1.004,
+      "win_rate_A": 0.391,
+      "score_sd": 2.827
+    },
+    {
+      "feature": "Clarity of Expression",
+      "n_pairs": 6400,
+      "beta": -1.229,
+      "win_rate_A": 0.365,
+      "score_sd": 2.571
+    },
+    {
+      "feature": "Economy of Argument",
+      "n_pairs": 6400,
+      "beta": -0.037,
+      "win_rate_A": 0.492,
+      "score_sd": 3.373
+    }
+  ]
+}

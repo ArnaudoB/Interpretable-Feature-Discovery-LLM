@@ -1,0 +1,66 @@
+{
+  "n_features": 15,
+  "source": "REPEAT measurement of the 29 discovered challenger-side criteria (pointwise_discovered 16 + pointwise_dropped 13), reshuffled into new bundles/order (seed 7), bundle A of 2 \u2014 for the cross-run noise control in scripts/winning_args_dimensionality.py",
+  "criteria": [
+    {
+      "name": "Targeted rebuttal",
+      "definition": "The challenger engages the OP's specific claims, premises, or subpoints directly and often one by one."
+    },
+    {
+      "name": "Meta-level epistemic challenge",
+      "definition": "The challenger contests the framing, method, evidence standards, or burden of proof rather than only the first-order claim."
+    },
+    {
+      "name": "Qualified rebuttal",
+      "definition": "The challenger narrows the claim, marks exceptions, or emphasizes contextual dependence instead of arguing absolutely."
+    },
+    {
+      "name": "Challenger experiential grounding",
+      "definition": "The challenger or exchange relies on firsthand experience, self-disclosure, or identity-based testimony as support."
+    },
+    {
+      "name": "Practical consequences and feasibility",
+      "definition": "The challenger evaluates the view in terms of real-world effects, costs, risks, tradeoffs, or implementability."
+    },
+    {
+      "name": "Rhetorical questioning",
+      "definition": "The challenger presses the point through pointed questions or requests for clarification rather than only direct assertion."
+    },
+    {
+      "name": "Emotional appeal and empathy",
+      "definition": "The reply persuades through feelings, empathy, reassurance, or existential/personal significance."
+    },
+    {
+      "name": "Challenger evidentiary support",
+      "definition": "The challenger backs the rebuttal with external evidence, citations, factual corrections, or expert authority."
+    },
+    {
+      "name": "Psychological framing and diagnosis",
+      "definition": "The challenger interprets views or behavior in terms of motives, traits, psychology, or developmental state."
+    },
+    {
+      "name": "Reframing and normalization",
+      "definition": "The challenger tries to shift the evaluative lens by redescribing the issue, normalizing it, or offering an alternative way to view it."
+    },
+    {
+      "name": "Normative and rights appeal",
+      "definition": "The challenger argues from moral principle, fairness, rights, duty, or harm rather than only from descriptive claims."
+    },
+    {
+      "name": "Abstract or technical framing",
+      "definition": "The exchange reasons at a more theoretical, philosophical, scientific, or specialized level rather than in everyday concrete terms."
+    },
+    {
+      "name": "Structural explanation",
+      "definition": "The challenger explains the issue through broader social, cultural, or systemic forces rather than isolated choices."
+    },
+    {
+      "name": "Legal and institutional framing",
+      "definition": "The challenger grounds the rebuttal in law, institutions, official roles, or procedural distinctions."
+    },
+    {
+      "name": "Exchange empirical framing",
+      "definition": "The exchange is framed in empirical or quantitative terms, emphasizing measurement, data, or evidentiary specificity."
+    }
+  ]
+}

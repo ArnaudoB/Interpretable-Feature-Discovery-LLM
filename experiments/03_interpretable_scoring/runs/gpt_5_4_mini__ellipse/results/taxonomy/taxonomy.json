@@ -1,0 +1,1184 @@
+{
+  "model": "gpt-5.4-2026-03-05",
+  "reasoning_effort": "high",
+  "min_cite": 3,
+  "n_phrases": 267,
+  "criteria": [
+    {
+      "name": "Academic Register",
+      "definition": "Use of a formal, essay-appropriate tone and register suited to academic or persuasive writing.",
+      "members": [
+        {
+          "index": 1,
+          "name": "academic diction"
+        },
+        {
+          "index": 2,
+          "name": "academic phrasing"
+        },
+        {
+          "index": 3,
+          "name": "academic register"
+        },
+        {
+          "index": 5,
+          "name": "academic style"
+        },
+        {
+          "index": 6,
+          "name": "academic tone"
+        },
+        {
+          "index": 96,
+          "name": "formal academic style"
+        },
+        {
+          "index": 97,
+          "name": "formal academic tone"
+        },
+        {
+          "index": 98,
+          "name": "formal diction"
+        },
+        {
+          "index": 99,
+          "name": "formal register"
+        },
+        {
+          "index": 100,
+          "name": "formal tone"
+        },
+        {
+          "index": 101,
+          "name": "formal word choice"
+        },
+        {
+          "index": 170,
+          "name": "register"
+        },
+        {
+          "index": 171,
+          "name": "register control"
+        },
+        {
+          "index": 209,
+          "name": "style"
+        },
+        {
+          "index": 231,
+          "name": "task-appropriate register"
+        },
+        {
+          "index": 241,
+          "name": "tone control"
+        }
+      ]
+    },
+    {
+      "name": "Vocabulary",
+      "definition": "Range, precision, and appropriateness of word choice used to express ideas.",
+      "members": [
+        {
+          "index": 7,
+          "name": "academic vocabulary"
+        },
+        {
+          "index": 8,
+          "name": "academic word choice"
+        },
+        {
+          "index": 73,
+          "name": "diction"
+        },
+        {
+          "index": 123,
+          "name": "lexical accuracy"
+        },
+        {
+          "index": 125,
+          "name": "lexical control"
+        },
+        {
+          "index": 126,
+          "name": "lexical precision"
+        },
+        {
+          "index": 127,
+          "name": "lexical range"
+        },
+        {
+          "index": 128,
+          "name": "lexical sophistication"
+        },
+        {
+          "index": 129,
+          "name": "lexical specificity"
+        },
+        {
+          "index": 130,
+          "name": "lexical variety"
+        },
+        {
+          "index": 159,
+          "name": "precise vocabulary"
+        },
+        {
+          "index": 160,
+          "name": "precise word choice"
+        },
+        {
+          "index": 161,
+          "name": "precision of expression"
+        },
+        {
+          "index": 162,
+          "name": "range of expression"
+        },
+        {
+          "index": 246,
+          "name": "topic vocabulary"
+        },
+        {
+          "index": 251,
+          "name": "variety of expression"
+        },
+        {
+          "index": 253,
+          "name": "vocabulary"
+        },
+        {
+          "index": 254,
+          "name": "vocabulary control"
+        },
+        {
+          "index": 255,
+          "name": "vocabulary precision"
+        },
+        {
+          "index": 256,
+          "name": "vocabulary range"
+        },
+        {
+          "index": 257,
+          "name": "vocabulary sophistication"
+        },
+        {
+          "index": 259,
+          "name": "word choice"
+        },
+        {
+          "index": 260,
+          "name": "word choice accuracy"
+        },
+        {
+          "index": 261,
+          "name": "word choice control"
+        },
+        {
+          "index": 262,
+          "name": "word choice precision"
+        },
+        {
+          "index": 263,
+          "name": "word choice range"
+        },
+        {
+          "index": 265,
+          "name": "wording control"
+        },
+        {
+          "index": 266,
+          "name": "wording precision"
+        }
+      ]
+    },
+    {
+      "name": "Idiomatic Phrasing",
+      "definition": "Use of natural, native-like collocations and familiar English phrasing.",
+      "members": [
+        {
+          "index": 115,
+          "name": "idiomatic expression"
+        },
+        {
+          "index": 116,
+          "name": "idiomatic phrasing"
+        },
+        {
+          "index": 144,
+          "name": "natural expression"
+        }
+      ]
+    },
+    {
+      "name": "Argumentative Stance",
+      "definition": "Clarity and maintenance of a central claim or position throughout the response.",
+      "members": [
+        {
+          "index": 4,
+          "name": "academic stance"
+        },
+        {
+          "index": 9,
+          "name": "argument clarity"
+        },
+        {
+          "index": 10,
+          "name": "argument coherence"
+        },
+        {
+          "index": 11,
+          "name": "argument control"
+        },
+        {
+          "index": 14,
+          "name": "argumentative control"
+        },
+        {
+          "index": 17,
+          "name": "argumentative stance"
+        },
+        {
+          "index": 108,
+          "name": "idea clarity"
+        },
+        {
+          "index": 109,
+          "name": "idea coherence"
+        },
+        {
+          "index": 111,
+          "name": "idea control"
+        },
+        {
+          "index": 239,
+          "name": "thesis clarity"
+        },
+        {
+          "index": 240,
+          "name": "thesis control"
+        }
+      ]
+    },
+    {
+      "name": "Reasoning and Counterargument",
+      "definition": "Quality of the essay's reasoning, including development of claims, use of reasons, and handling of opposing views.",
+      "members": [
+        {
+          "index": 0,
+          "name": "academic argumentation"
+        },
+        {
+          "index": 12,
+          "name": "argument development"
+        },
+        {
+          "index": 13,
+          "name": "argumentation"
+        },
+        {
+          "index": 15,
+          "name": "argumentative development"
+        },
+        {
+          "index": 16,
+          "name": "argumentative sophistication"
+        },
+        {
+          "index": 26,
+          "name": "cohesive argumentation"
+        },
+        {
+          "index": 63,
+          "name": "counterargument handling"
+        },
+        {
+          "index": 67,
+          "name": "development of argument"
+        },
+        {
+          "index": 69,
+          "name": "development of reasoning"
+        },
+        {
+          "index": 70,
+          "name": "development of reasons"
+        },
+        {
+          "index": 110,
+          "name": "idea complexity"
+        },
+        {
+          "index": 134,
+          "name": "logical reasoning"
+        },
+        {
+          "index": 164,
+          "name": "reasoned development"
+        },
+        {
+          "index": 165,
+          "name": "reasoned explanation"
+        },
+        {
+          "index": 166,
+          "name": "reasoning"
+        },
+        {
+          "index": 167,
+          "name": "reasoning coherence"
+        },
+        {
+          "index": 168,
+          "name": "reasoning depth"
+        },
+        {
+          "index": 169,
+          "name": "reasoning development"
+        }
+      ]
+    },
+    {
+      "name": "Focus and Relevance",
+      "definition": "Consistency in staying on topic and keeping ideas, details, and support tied to the main task or claim.",
+      "members": [
+        {
+          "index": 48,
+          "name": "control of focus"
+        },
+        {
+          "index": 95,
+          "name": "focus"
+        },
+        {
+          "index": 114,
+          "name": "idea focus"
+        },
+        {
+          "index": 155,
+          "name": "paragraph focus"
+        },
+        {
+          "index": 172,
+          "name": "relevance"
+        },
+        {
+          "index": 173,
+          "name": "relevance of elaboration"
+        },
+        {
+          "index": 174,
+          "name": "relevance of support"
+        },
+        {
+          "index": 176,
+          "name": "relevant development"
+        },
+        {
+          "index": 207,
+          "name": "staying on topic"
+        },
+        {
+          "index": 224,
+          "name": "task control"
+        },
+        {
+          "index": 225,
+          "name": "task development"
+        },
+        {
+          "index": 227,
+          "name": "task focus"
+        },
+        {
+          "index": 229,
+          "name": "task persistence"
+        },
+        {
+          "index": 242,
+          "name": "topic control"
+        },
+        {
+          "index": 243,
+          "name": "topic development"
+        },
+        {
+          "index": 245,
+          "name": "topic focus"
+        }
+      ]
+    },
+    {
+      "name": "Development and Support",
+      "definition": "Extent to which ideas are elaborated with explanation, examples, details, and evidence.",
+      "members": [
+        {
+          "index": 39,
+          "name": "concrete detail"
+        },
+        {
+          "index": 40,
+          "name": "concrete development"
+        },
+        {
+          "index": 41,
+          "name": "concrete elaboration"
+        },
+        {
+          "index": 42,
+          "name": "concrete support"
+        },
+        {
+          "index": 44,
+          "name": "content elaboration"
+        },
+        {
+          "index": 65,
+          "name": "developed elaboration"
+        },
+        {
+          "index": 66,
+          "name": "development"
+        },
+        {
+          "index": 68,
+          "name": "development of ideas"
+        },
+        {
+          "index": 71,
+          "name": "development of support"
+        },
+        {
+          "index": 72,
+          "name": "development with examples"
+        },
+        {
+          "index": 77,
+          "name": "elaboration"
+        },
+        {
+          "index": 78,
+          "name": "elaboration with examples"
+        },
+        {
+          "index": 82,
+          "name": "example use"
+        },
+        {
+          "index": 83,
+          "name": "explanatory depth"
+        },
+        {
+          "index": 84,
+          "name": "explanatory detail"
+        },
+        {
+          "index": 85,
+          "name": "explanatory development"
+        },
+        {
+          "index": 87,
+          "name": "expression of ideas"
+        },
+        {
+          "index": 112,
+          "name": "idea development"
+        },
+        {
+          "index": 113,
+          "name": "idea elaboration"
+        },
+        {
+          "index": 117,
+          "name": "illustration"
+        },
+        {
+          "index": 142,
+          "name": "narrative development"
+        },
+        {
+          "index": 143,
+          "name": "narrative elaboration"
+        },
+        {
+          "index": 154,
+          "name": "paragraph development"
+        },
+        {
+          "index": 175,
+          "name": "relevant detail"
+        },
+        {
+          "index": 177,
+          "name": "relevant elaboration"
+        },
+        {
+          "index": 178,
+          "name": "relevant examples"
+        },
+        {
+          "index": 179,
+          "name": "relevant support"
+        },
+        {
+          "index": 188,
+          "name": "sentence elaboration"
+        },
+        {
+          "index": 195,
+          "name": "specific description"
+        },
+        {
+          "index": 196,
+          "name": "specific detail"
+        },
+        {
+          "index": 197,
+          "name": "specific development"
+        },
+        {
+          "index": 198,
+          "name": "specific elaboration"
+        },
+        {
+          "index": 199,
+          "name": "specific examples"
+        },
+        {
+          "index": 200,
+          "name": "specific support"
+        },
+        {
+          "index": 201,
+          "name": "specific supporting detail"
+        },
+        {
+          "index": 202,
+          "name": "specific supporting examples"
+        },
+        {
+          "index": 203,
+          "name": "specificity"
+        },
+        {
+          "index": 210,
+          "name": "support"
+        },
+        {
+          "index": 211,
+          "name": "support development"
+        },
+        {
+          "index": 212,
+          "name": "supporting detail"
+        },
+        {
+          "index": 213,
+          "name": "supporting details"
+        },
+        {
+          "index": 214,
+          "name": "supporting development"
+        },
+        {
+          "index": 215,
+          "name": "supporting elaboration"
+        },
+        {
+          "index": 216,
+          "name": "supporting evidence"
+        },
+        {
+          "index": 217,
+          "name": "supporting examples"
+        },
+        {
+          "index": 234,
+          "name": "text development"
+        },
+        {
+          "index": 238,
+          "name": "textual integration"
+        },
+        {
+          "index": 244,
+          "name": "topic elaboration"
+        },
+        {
+          "index": 250,
+          "name": "use of examples"
+        }
+      ]
+    },
+    {
+      "name": "Organization",
+      "definition": "Overall structural arrangement and progression of the essay across introduction, body, and conclusion.",
+      "members": [
+        {
+          "index": 22,
+          "name": "closure"
+        },
+        {
+          "index": 23,
+          "name": "coherence"
+        },
+        {
+          "index": 27,
+          "name": "cohesive development"
+        },
+        {
+          "index": 30,
+          "name": "cohesive organization"
+        },
+        {
+          "index": 31,
+          "name": "cohesive progression"
+        },
+        {
+          "index": 33,
+          "name": "cohesive structure"
+        },
+        {
+          "index": 38,
+          "name": "conclusion"
+        },
+        {
+          "index": 131,
+          "name": "logical cohesion"
+        },
+        {
+          "index": 132,
+          "name": "logical development"
+        },
+        {
+          "index": 133,
+          "name": "logical progression"
+        },
+        {
+          "index": 135,
+          "name": "logical sequencing"
+        },
+        {
+          "index": 145,
+          "name": "organization"
+        },
+        {
+          "index": 146,
+          "name": "organizational coherence"
+        },
+        {
+          "index": 147,
+          "name": "organizational control"
+        },
+        {
+          "index": 148,
+          "name": "organizational development"
+        },
+        {
+          "index": 149,
+          "name": "organizational structure"
+        },
+        {
+          "index": 151,
+          "name": "overall coherence"
+        },
+        {
+          "index": 153,
+          "name": "overall organization"
+        },
+        {
+          "index": 156,
+          "name": "paragraph organization"
+        },
+        {
+          "index": 157,
+          "name": "paragraph structure"
+        },
+        {
+          "index": 158,
+          "name": "paragraphing"
+        },
+        {
+          "index": 208,
+          "name": "structuring"
+        },
+        {
+          "index": 232,
+          "name": "text coherence"
+        },
+        {
+          "index": 235,
+          "name": "text organization"
+        },
+        {
+          "index": 236,
+          "name": "text structure"
+        }
+      ]
+    },
+    {
+      "name": "Cohesion and Transitions",
+      "definition": "Use of linking words, discourse markers, and other devices to connect sentences and signal relationships between ideas.",
+      "members": [
+        {
+          "index": 24,
+          "name": "coherence markers"
+        },
+        {
+          "index": 25,
+          "name": "cohesion"
+        },
+        {
+          "index": 28,
+          "name": "cohesive devices"
+        },
+        {
+          "index": 29,
+          "name": "cohesive linking"
+        },
+        {
+          "index": 32,
+          "name": "cohesive sequencing"
+        },
+        {
+          "index": 34,
+          "name": "cohesive transitions"
+        },
+        {
+          "index": 74,
+          "name": "discourse control"
+        },
+        {
+          "index": 75,
+          "name": "discourse markers"
+        },
+        {
+          "index": 194,
+          "name": "sequencing"
+        },
+        {
+          "index": 233,
+          "name": "text cohesion"
+        },
+        {
+          "index": 237,
+          "name": "textual cohesion"
+        },
+        {
+          "index": 247,
+          "name": "transitional coherence"
+        },
+        {
+          "index": 248,
+          "name": "transitional control"
+        },
+        {
+          "index": 249,
+          "name": "transitions"
+        }
+      ]
+    },
+    {
+      "name": "Clarity",
+      "definition": "How directly and easily the intended meaning can be understood.",
+      "members": [
+        {
+          "index": 19,
+          "name": "clarity"
+        },
+        {
+          "index": 20,
+          "name": "clarity of development"
+        },
+        {
+          "index": 21,
+          "name": "clarity of expression"
+        },
+        {
+          "index": 35,
+          "name": "communicative clarity"
+        },
+        {
+          "index": 37,
+          "name": "conciseness"
+        },
+        {
+          "index": 47,
+          "name": "control of expression"
+        },
+        {
+          "index": 94,
+          "name": "fluency"
+        },
+        {
+          "index": 124,
+          "name": "lexical clarity"
+        },
+        {
+          "index": 136,
+          "name": "meaning clarity"
+        },
+        {
+          "index": 150,
+          "name": "overall clarity"
+        },
+        {
+          "index": 163,
+          "name": "readability"
+        },
+        {
+          "index": 182,
+          "name": "sentence clarity"
+        },
+        {
+          "index": 183,
+          "name": "sentence coherence"
+        },
+        {
+          "index": 189,
+          "name": "sentence fluency"
+        }
+      ]
+    },
+    {
+      "name": "Grammar and Usage",
+      "definition": "Accuracy and control of grammar, usage, and inflectional forms at the language level.",
+      "members": [
+        {
+          "index": 45,
+          "name": "control"
+        },
+        {
+          "index": 49,
+          "name": "control of grammar"
+        },
+        {
+          "index": 50,
+          "name": "control of language"
+        },
+        {
+          "index": 76,
+          "name": "editing control"
+        },
+        {
+          "index": 103,
+          "name": "grammar accuracy"
+        },
+        {
+          "index": 104,
+          "name": "grammar control"
+        },
+        {
+          "index": 105,
+          "name": "grammatical accuracy"
+        },
+        {
+          "index": 106,
+          "name": "grammatical control"
+        },
+        {
+          "index": 118,
+          "name": "language accuracy"
+        },
+        {
+          "index": 120,
+          "name": "language control"
+        },
+        {
+          "index": 252,
+          "name": "verb control"
+        }
+      ]
+    },
+    {
+      "name": "Mechanics and Spelling",
+      "definition": "Control of spelling, punctuation, capitalization, and other written conventions.",
+      "members": [
+        {
+          "index": 46,
+          "name": "control of conventions"
+        },
+        {
+          "index": 51,
+          "name": "control of mechanics"
+        },
+        {
+          "index": 55,
+          "name": "convention control"
+        },
+        {
+          "index": 56,
+          "name": "conventional accuracy"
+        },
+        {
+          "index": 57,
+          "name": "conventional control"
+        },
+        {
+          "index": 60,
+          "name": "conventional spelling"
+        },
+        {
+          "index": 61,
+          "name": "conventions"
+        },
+        {
+          "index": 62,
+          "name": "conventions control"
+        },
+        {
+          "index": 137,
+          "name": "mechanical accuracy"
+        },
+        {
+          "index": 138,
+          "name": "mechanical control"
+        },
+        {
+          "index": 139,
+          "name": "mechanics"
+        },
+        {
+          "index": 140,
+          "name": "mechanics consistency"
+        },
+        {
+          "index": 141,
+          "name": "mechanics control"
+        },
+        {
+          "index": 204,
+          "name": "spelling accuracy"
+        },
+        {
+          "index": 205,
+          "name": "spelling and mechanics"
+        },
+        {
+          "index": 206,
+          "name": "spelling control"
+        },
+        {
+          "index": 264,
+          "name": "word-level accuracy"
+        }
+      ]
+    },
+    {
+      "name": "Sentence Formation",
+      "definition": "Ability to produce complete, well-formed, and syntactically manageable sentences.",
+      "members": [
+        {
+          "index": 52,
+          "name": "control of sentence boundaries"
+        },
+        {
+          "index": 53,
+          "name": "control of sentence structure"
+        },
+        {
+          "index": 54,
+          "name": "control of syntax"
+        },
+        {
+          "index": 184,
+          "name": "sentence completeness"
+        },
+        {
+          "index": 186,
+          "name": "sentence control"
+        },
+        {
+          "index": 187,
+          "name": "sentence development"
+        },
+        {
+          "index": 190,
+          "name": "sentence formation"
+        },
+        {
+          "index": 193,
+          "name": "sentence-level control"
+        },
+        {
+          "index": 223,
+          "name": "syntax control"
+        }
+      ]
+    },
+    {
+      "name": "Sentence Variety and Complexity",
+      "definition": "Range and sophistication of sentence structures, including variation and combination of clauses.",
+      "members": [
+        {
+          "index": 36,
+          "name": "complex sentence control"
+        },
+        {
+          "index": 107,
+          "name": "grammatical range"
+        },
+        {
+          "index": 180,
+          "name": "repetition control"
+        },
+        {
+          "index": 185,
+          "name": "sentence complexity"
+        },
+        {
+          "index": 191,
+          "name": "sentence sophistication"
+        },
+        {
+          "index": 192,
+          "name": "sentence variety"
+        },
+        {
+          "index": 218,
+          "name": "syntactic complexity"
+        },
+        {
+          "index": 219,
+          "name": "syntactic control"
+        },
+        {
+          "index": 220,
+          "name": "syntactic maturity"
+        },
+        {
+          "index": 221,
+          "name": "syntactic range"
+        },
+        {
+          "index": 222,
+          "name": "syntactic variety"
+        }
+      ]
+    },
+    {
+      "name": "Genre Convention",
+      "definition": "Use of format and conventional features appropriate to the required genre or task form.",
+      "members": [
+        {
+          "index": 58,
+          "name": "conventional letter opening"
+        },
+        {
+          "index": 59,
+          "name": "conventional opening"
+        },
+        {
+          "index": 102,
+          "name": "genre control"
+        },
+        {
+          "index": 121,
+          "name": "letter format"
+        },
+        {
+          "index": 122,
+          "name": "letter organization"
+        },
+        {
+          "index": 226,
+          "name": "task engagement"
+        },
+        {
+          "index": 228,
+          "name": "task organization"
+        },
+        {
+          "index": 230,
+          "name": "task-appropriate opening"
+        }
+      ]
+    },
+    {
+      "name": "Voice and Audience Awareness",
+      "definition": "Presence of an intentional, reader-aware voice that engages or addresses an audience.",
+      "members": [
+        {
+          "index": 18,
+          "name": "audience awareness"
+        },
+        {
+          "index": 43,
+          "name": "content control"
+        },
+        {
+          "index": 79,
+          "name": "engagement"
+        },
+        {
+          "index": 80,
+          "name": "engaging introduction"
+        },
+        {
+          "index": 81,
+          "name": "engaging style"
+        },
+        {
+          "index": 86,
+          "name": "expression"
+        },
+        {
+          "index": 181,
+          "name": "rhetorical control"
+        },
+        {
+          "index": 258,
+          "name": "voice"
+        }
+      ]
+    },
+    {
+      "name": "Expressive Language",
+      "definition": "Use of vivid, descriptive, figurative, or stylistically expressive wording.",
+      "members": [
+        {
+          "index": 64,
+          "name": "descriptive language"
+        },
+        {
+          "index": 88,
+          "name": "expressive language"
+        },
+        {
+          "index": 89,
+          "name": "expressive vocabulary"
+        },
+        {
+          "index": 90,
+          "name": "expressive word choice"
+        },
+        {
+          "index": 91,
+          "name": "expressiveness"
+        },
+        {
+          "index": 92,
+          "name": "figurative expression"
+        },
+        {
+          "index": 93,
+          "name": "figurative language"
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "definition": "Miscellaneous qualities that do not clearly belong to a shared rubric construct represented elsewhere in the list.",
+      "members": [
+        {
+          "index": 119,
+          "name": "language consistency"
+        },
+        {
+          "index": 152,
+          "name": "overall control"
+        }
+      ]
+    }
+  ]
+}

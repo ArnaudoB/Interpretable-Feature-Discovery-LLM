@@ -1,0 +1,296 @@
+{
+ "dataset.tan_split": {
+  "train": 3456,
+  "heldout": 807
+ },
+ "dataset.eligible": {
+  "eligible_heldout": 800,
+  "eligible_train": 3411
+ },
+ "design.discovery_graph": {
+  "n_items": 300,
+  "n_matchings": 40,
+  "n_pairs": 6000,
+  "n_forbidden_same_op_edges": 150,
+  "n_same_op_pairs": 0
+ },
+ "design.citations": {
+  "citations": 45894,
+  "distinct_phrases": 17724,
+  "per_comparison": 7.649
+ },
+ "design.criteria": {
+  "K_total": 45,
+  "challenger_side_used": 29
+ },
+ "design.bt_graph": {
+  "train_ex": 800,
+  "test_ex": 1600,
+  "anchor_pairs": 6400,
+  "test_anchor_pairs": 25600,
+  "anchor_degree": 16,
+  "test_anchors": 16
+ },
+ "design.shared_protocol": {
+  "n_items": 2400
+ },
+ "prior.open_count": {
+  "run1": {
+   "counts": [
+    14,
+    16,
+    16,
+    18,
+    15,
+    17,
+    13,
+    16,
+    14,
+    18
+   ],
+   "mean": 15.7,
+   "sd": 1.7
+  },
+  "run2": {
+   "counts": [
+    15,
+    16,
+    15,
+    17,
+    16,
+    15,
+    17,
+    14,
+    14,
+    17
+   ],
+   "mean": 15.6,
+   "sd": 1.17
+  },
+  "pooled": {
+   "counts": [
+    14,
+    16,
+    16,
+    18,
+    15,
+    17,
+    13,
+    16,
+    14,
+    18,
+    15,
+    16,
+    15,
+    17,
+    16,
+    15,
+    17,
+    14,
+    14,
+    17
+   ],
+   "mean": 15.65,
+   "sd": 1.42
+  }
+ },
+ "sample.elicitation": {
+  "pairs": 752,
+  "replies": 1504,
+  "input_tokens": 862434,
+  "features": 42,
+  "by_split": {
+   "test": 491,
+   "train": 261
+  }
+ },
+ "design.reliable_subset": {
+  "kappa_max": 50.0,
+  "rho_threshold": 0.75,
+  "n": 16,
+  "features": [
+   "Abstract or technical framing",
+   "Alternative proposal and guidance",
+   "Analogical reasoning",
+   "Challenger evidentiary support",
+   "Challenger experiential grounding",
+   "Conceptual clarification",
+   "Concrete illustration",
+   "Confrontational tone",
+   "Consistency challenge",
+   "Counterexample use",
+   "Exchange empirical framing",
+   "Mechanistic explanation",
+   "Normative and rights appeal",
+   "Practical consequences and feasibility",
+   "Qualified rebuttal",
+   "Structured rebuttal development"
+  ]
+ },
+ "lambda.selected": {
+  "D + BT": 10.0,
+  "D + PW": 10.0,
+  "P + BT": 31.6,
+  "P + PW": 3.2,
+  "Tan": 31.6,
+  "Emb.": 31.6,
+  "#words": 31.6
+ },
+ "lambda.selected_dr_s": {
+  "Dr + BT": 31.6227766016838,
+  "Dr + PW": 31.6227766016838,
+  "S + PW": 3.162277660168379
+ },
+ "contamination.lift": {
+  "lift_pp": -0.062,
+  "ci_pp": [
+   -2.44,
+   2.31
+  ]
+ },
+ "contamination.mcnemar": {
+  "p2_only_right": 184,
+  "p1_only_right": 185,
+  "p": 1.0
+ },
+ "contamination.asymmetry": {
+  "no_delta": 69.4,
+  "delta": 37.9
+ },
+ "contamination.p2_shift": {
+  "delta_pct": [
+   43.0,
+   45.5
+  ],
+  "no_delta_pct": [
+   62.3,
+   63.5
+  ]
+ },
+ "win_rates.significant": {
+  "n_criteria": 29,
+  "n_significant_bh05": 19,
+  "all_significant_are_positive": true
+ },
+ "win_rates.confrontational": {
+  "win_rate": 0.485,
+  "q": 0.427
+ },
+ "dimensionality.at 16 features, D and D_r span about eight e": [
+  8.17,
+  7.7
+ ],
+ "dimensionality.... six to seven under pointwise scoring": [
+  6.63,
+  6.35
+ ],
+ "dimensionality.... against about four for P": [
+  3.87,
+  3.95
+ ],
+ "dimensionality.the correction removes 15-20% of the raw PR ": {
+  "D + BT": 14.8,
+  "P + BT": 19.8,
+  "Dr + BT": 11.3
+ },
+ "dimensionality.... and 25-28% for the pointwise ones": {
+  "D + PW": 24.8,
+  "P + PW": 27.5,
+  "S + PW": 28.1,
+  "Dr + PW": 13.4
+ },
+ "dimensionality.median reliability ('D + PW', 'P + PW')": [
+  0.83,
+  0.768
+ ],
+ "dimensionality.median reliability ('D + BT', 'P + BT')": [
+  0.76,
+  0.711
+ ],
+ "dimensionality.Spearman-Brown full-set reliability of the B": [
+  0.86,
+  0.83
+ ],
+ "dimensionality.no disattenuated matrix carried any negative": {
+  "D + BT": -0.0,
+  "D + PW": -0.0,
+  "P + BT": -0.0,
+  "P + PW": -0.0,
+  "S + PW": -0.0,
+  "Dr + BT": -0.0,
+  "Dr + PW": -0.0
+ },
+ "dimensionality.'the order holds under both measures' (PR an": {
+  "pr": [
+   "P + BT",
+   "P + PW",
+   "Dr + PW",
+   "D + PW",
+   "Dr + BT",
+   "D + BT",
+   "S + PW"
+  ],
+  "effrank": [
+   "P + BT",
+   "P + PW",
+   "Dr + PW",
+   "D + PW",
+   "Dr + BT",
+   "D + BT",
+   "S + PW"
+  ]
+ },
+ "matched_k.DRPW_vs_DPW": {
+  "mean_pp": 1.05,
+  "ci_pp": [
+   -0.046,
+   2.148
+  ],
+  "positive_at_every_k": true
+ },
+ "matched_k.DRBT_vs_DBT": {
+  "mean_pp": 1.04,
+  "ci_pp": [
+   -0.005,
+   2.12
+  ],
+  "positive_at_every_k": true
+ },
+ "matched_k.dr_full": {
+  "Dr+PW@16": 62.12,
+  "D+PW@29": 62.62,
+  "Dr+BT@16": 61.5,
+  "D+BT@29": 61.38
+ },
+ "matched_k.sample": {
+  "gap_k16_pp": 4.17,
+  "mean_gap_pp": 2.89,
+  "ci_pp": [
+   1.15,
+   4.65
+  ],
+  "k_where_S_lowest": "40 of 42",
+  "S_reaches_words_at_k": [
+   42
+  ]
+ },
+ "matched_k.DRPW_vs_SPW": {
+  "mean_over_k": {
+   "estimate": 0.0357209449404762,
+   "lo": 0.017666826869419606,
+   "hi": 0.05415277297247021
+  },
+  "k16": {
+   "estimate": 0.04167500000000002,
+   "lo": 0.012623749999999781,
+   "hi": 0.0715531249999999
+  }
+ },
+ "matched_k.DRBT_vs_SPW": {
+  "k16": {
+   "estimate": 0.03542500000000004,
+   "lo": 0.004600000000000046,
+   "hi": 0.06625062499999992
+  }
+ }
+}

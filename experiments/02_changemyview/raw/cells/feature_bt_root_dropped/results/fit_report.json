@@ -1,0 +1,113 @@
+{
+  "n_anchor": 800,
+  "n_test": 1600,
+  "n_features": 15,
+  "test_nan": 0,
+  "per_feature": [
+    {
+      "feature": "Concessionary rebuttal",
+      "n_pairs": 6399,
+      "beta": -1.926,
+      "win_rate_A": 0.303,
+      "score_sd": 2.627
+    },
+    {
+      "feature": "Reframing and normalization",
+      "n_pairs": 6400,
+      "beta": -1.904,
+      "win_rate_A": 0.308,
+      "score_sd": 2.729
+    },
+    {
+      "feature": "Targeted rebuttal",
+      "n_pairs": 6400,
+      "beta": -0.342,
+      "win_rate_A": 0.467,
+      "score_sd": 3.294
+    },
+    {
+      "feature": "Meta-level epistemic challenge",
+      "n_pairs": 6400,
+      "beta": -1.841,
+      "win_rate_A": 0.388,
+      "score_sd": 4.589
+    },
+    {
+      "feature": "Scope broadening",
+      "n_pairs": 6400,
+      "beta": -0.635,
+      "win_rate_A": 0.454,
+      "score_sd": 3.644
+    },
+    {
+      "feature": "Historical framing and legacy",
+      "n_pairs": 6400,
+      "beta": -0.038,
+      "win_rate_A": 0.5,
+      "score_sd": 4.983
+    },
+    {
+      "feature": "Legal and institutional framing",
+      "n_pairs": 6400,
+      "beta": -0.833,
+      "win_rate_A": 0.467,
+      "score_sd": 5.988
+    },
+    {
+      "feature": "Emotional appeal and empathy",
+      "n_pairs": 6400,
+      "beta": -0.571,
+      "win_rate_A": 0.464,
+      "score_sd": 4.739
+    },
+    {
+      "feature": "Structural explanation",
+      "n_pairs": 6400,
+      "beta": -1.609,
+      "win_rate_A": 0.413,
+      "score_sd": 5.192
+    },
+    {
+      "feature": "Rhetorical vividness",
+      "n_pairs": 6400,
+      "beta": 0.334,
+      "win_rate_A": 0.525,
+      "score_sd": 3.925
+    },
+    {
+      "feature": "Rhetorical questioning",
+      "n_pairs": 6400,
+      "beta": -0.238,
+      "win_rate_A": 0.477,
+      "score_sd": 3.695
+    },
+    {
+      "feature": "Psychological framing and diagnosis",
+      "n_pairs": 6400,
+      "beta": 0.221,
+      "win_rate_A": 0.511,
+      "score_sd": 4.255
+    },
+    {
+      "feature": "Audience tailoring",
+      "n_pairs": 6400,
+      "beta": -1.339,
+      "win_rate_A": 0.391,
+      "score_sd": 3.836
+    },
+    {
+      "feature": "Qualified rebuttal",
+      "n_pairs": 6400,
+      "beta": -1.584,
+      "win_rate_A": 0.341,
+      "score_sd": 2.863
+    },
+    {
+      "feature": "Conceptual clarification",
+      "n_pairs": 6399,
+      "beta": -2.817,
+      "win_rate_A": 0.35,
+      "score_sd": 5.143
+    }
+  ]
+}

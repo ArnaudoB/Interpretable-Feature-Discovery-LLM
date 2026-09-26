@@ -1,0 +1,11 @@
+{
+  "estimator": "sandwich H^-1 B H^-1 (expected Fisher bread, query-clustered OPG meat)",
+  "ridge_in_bread": 0.001,
+  "K": 33,
+  "n": 200,
+  "n_pairs": 4000,
+  "beta": 0.00505306338665209,
+  "se_beta": 0.019404415930518205,
+  "beta_lo": -0.03297889297819887,
+  "beta_hi": 0.04308501975150305
+}

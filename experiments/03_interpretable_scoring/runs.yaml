@@ -1,0 +1,87 @@
+# experiments/03_interpretable_scoring/runs.yaml -- the eight runs of App. app:verdict-extension.
+#
+# Each entry is merged over config.yaml by scripts/_config.py. Only what differs is here.
+# Results live in runs/<name>/results/, responses in raw/cache/<name>/.
+#
+# Token caps are per run because they are part of each request, and so of its cache key:
+# the taxonomy cap is not a methodological knob, only a capacity guardrail raised where a
+# long phrase list needed more room.
+
+gpt_5_4_mini__ellipse:
+  corpus: ellipse
+  cell: {judge: gpt_5_4_mini, judge_full_name: gpt-5.4-mini-2026-03-17}
+  judge:
+    comparative_provider: openai
+    comparative_model: gpt-5.4-mini-2026-03-17
+    judge_effort: none
+    max_out_taxonomy: 24000
+
+claude_haiku_4_5__ellipse:
+  corpus: ellipse
+  cell: {judge: claude_haiku_4_5, judge_full_name: claude-haiku-4-5}
+  judge:
+    comparative_provider: anthropic      # Message Batches; no reasoning knob (no thinking)
+    comparative_model: claude-haiku-4-5
+    budget_gate_usd: 12.0
+
+gemini_3_6_flash__ellipse:
+  corpus: ellipse
+  cell: {judge: gemini_3_6_flash, judge_full_name: gemini-3.6-flash}
+  judge:
+    comparative_provider: gemini         # Batch API, chunked + sequential
+    comparative_model: gemini-3.6-flash
+    api_key_env: GEMINI_API_KEY
+    thinking_level: MINIMAL              # returns no thought tokens: the off-equivalent
+    batch_chunk_size: 250
+    batch_poll_s: 20
+    budget_gate_usd: 12.0
+
+deepseek_v4_flash__ellipse:
+  corpus: ellipse
+  cell: {judge: deepseek_v4_flash, judge_full_name: deepseek-v4-flash}
+  judge:
+    comparative_provider: deepseek
+    comparative_model: deepseek-v4-flash
+    api_key_env: DEEPSEEK_API_KEY
+    thinking: disabled                   # DeepSeek thinks by default; off for parity
+    budget_gate_usd: 5.0
+
+gpt_5_4_mini__asap2:
+  corpus: asap2
+  cell: {judge: gpt_5_4_mini, judge_full_name: gpt-5.4-mini-2026-03-17}
+  judge:
+    comparative_provider: openai
+    comparative_model: gpt-5.4-mini-2026-03-17
+    judge_effort: none
+
+claude_haiku_4_5__asap2:
+  corpus: asap2
+  cell: {judge: claude_haiku_4_5, judge_full_name: claude-haiku-4-5}
+  judge:
+    comparative_provider: anthropic
+    comparative_model: claude-haiku-4-5
+    max_out_taxonomy: 150000
+    budget_gate_usd: 14.0
+
+gemini_3_6_flash__asap2:
+  corpus: asap2
+  cell: {judge: gemini_3_6_flash, judge_full_name: gemini-3.6-flash}
+  judge:
+    comparative_provider: gemini
+    comparative_model: gemini-3.6-flash
+    api_key_env: GEMINI_API_KEY
+    thinking_level: MINIMAL
+    max_out_taxonomy: 150000
+    batch_chunk_size: 125
+    batch_poll_s: 20
+    budget_gate_usd: 12.0
+
+deepseek_v4_flash__asap2:
+  corpus: asap2
+  cell: {judge: deepseek_v4_flash, judge_full_name: deepseek-v4-flash}
+  judge:
+    comparative_provider: deepseek
+    comparative_model: deepseek-v4-flash
+    api_key_env: DEEPSEEK_API_KEY
+    thinking: disabled
+    budget_gate_usd: 5.0

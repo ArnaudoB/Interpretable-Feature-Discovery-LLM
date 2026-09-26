@@ -1,0 +1,47 @@
+[0] (gpt-5.4-mini) Organization: Arranges the essay into clear parts or paragraphs that give the argument a recognizable structure.
+[1] (gpt-5.4-mini) Use of source evidence: Uses details from the source text as evidence and ties them to the essay's claims.
+[2] (gpt-5.4-mini) Thesis clarity and control: States a clear arguable position and maintains that position as the controlling focus of the essay.
+[3] (gpt-5.4-mini) Elaboration: Expands claims beyond bare assertion by explaining and elaborating reasons or evidence in fuller detail.
+[4] (gpt-5.4-mini) Conclusion: Provides an effective ending that closes the essay by restating or synthesizing the main claim and reasons.
+[5] (gpt-5.4-mini) Counterargument handling: Acknowledges opposing views or objections and responds to them within the argument.
+[6] (gpt-5.4-mini) Analytical reasoning: Explains how or why evidence leads to claims through analysis, causal logic, or explicit reasoning.
+[7] (gpt-5.4-mini) Argument depth: Engages the issue at a deeper level by addressing broader implications, complexities, or substantive consequences.
+[8] (gpt-5.4-mini) Sentence-level control: Shows readable, controlled sentence-level writing through clear wording, smoother fluency, and fewer distracting errors.
+[9] (gpt-5.4-mini) Nuanced stance: Presents a balanced or qualified judgment that weighs both sides, sets conditions, or avoids an overly absolute stance.
+[10] (gpt-5.4-mini) Specificity: Makes the argument concrete and vivid through specific examples, details, or particularized consequences.
+[11] (gpt-5.4-mini) Rhetorical force: Uses assertive, engaging, or emphatic language to make the argument feel more persuasive and forceful.
+[12] (gpt-5.4-mini) Relevance: Keeps claims, reasons, and evidence closely tied to the prompt, source, and specific argument being made.
+[13] (gpt-5.4-mini) Introductory framing: Opens by setting up the issue, hooking the reader, or framing the topic as a debate worth arguing.
+[14] (gpt-5.4-mini) Formal tone: Maintains an appropriately academic, essay-like register rather than a casual or conversational one.
+[15] (claude-haiku-4.5) Organization and Structural Coherence: Arranges ideas, paragraphs, and transitions in a logical structure that guides the reader through the argument.
+[16] (claude-haiku-4.5) Evidence Integration and Textual Support: Selects relevant source evidence and weaves it purposefully into the writer's own argument as support.
+[17] (claude-haiku-4.5) Logical Reasoning and Explanation: Explains how and why claims, evidence, causes, and consequences connect through sound reasoning.
+[18] (claude-haiku-4.5) Counterargument Engagement: Acknowledges, addresses, and responds to opposing views or objections.
+[19] (claude-haiku-4.5) Mechanics, Grammar, and Sentence Control: Maintains readable, correct sentences and control of spelling, grammar, punctuation, and other writing mechanics.
+[20] (claude-haiku-4.5) Argument Focus and Thesis: States a clear central position and maintains that focus consistently throughout the essay.
+[21] (claude-haiku-4.5) Nuance, Complexity, and Broader Implications: Shows sophisticated, balanced thinking by recognizing complexity, limits, and wider implications beyond a simplistic yes/no view.
+[22] (claude-haiku-4.5) Argument Development and Breadth: Builds a substantive case by elaborating points and developing multiple supporting reasons or dimensions.
+[23] (claude-haiku-4.5) Conclusion Effectiveness and Closure: Provides a purposeful ending that synthesizes the argument and reinforces the thesis.
+[24] (claude-haiku-4.5) Concrete Illustration and Specificity: Makes claims tangible and precise through specific examples, scenarios, technical details, or clearly identified problems.
+[25] (claude-haiku-4.5) Source Understanding and Engagement: Demonstrates substantive comprehension of the source text's key issues, complexities, and distinctions and uses that understanding to engage the prompt.
+[26] (claude-haiku-4.5) Contextual Framing and Introduction: Frames the topic with relevant background or a strong opening that situates and launches the argument.
+[27] (claude-haiku-4.5) Style, Register, and Voice: Uses an appropriate argumentative tone and a mature, effective command of voice, diction, and sentence style.
+[28] (claude-haiku-4.5) Rhetorical Effectiveness and Audience Engagement: Uses rhetorical devices or audience awareness to make the argument more engaging or persuasive.
+[29] (claude-haiku-4.5) Task Fulfillment and Completeness: Meets the assignment's basic expectations by fully completing the essay and adhering to the prompt or required format.
+[30] (claude-haiku-4.5) Accurate Source Representation: Faithfully and precisely represents the source text's content, quotations, and citations without distortion.
+[31] (gemini-3.6-flash) Source Evidence Integration: Captures how effectively the essay selects, incorporates, and synthesizes details from the source text to support its argument.
+[32] (gemini-3.6-flash) Reasoning and Elaboration: Captures the depth with which the essay develops claims by analyzing evidence, explaining implications, and extending ideas beyond surface summary.
+[33] (gemini-3.6-flash) Conventions and Mechanics: Captures control of standard written English, including grammar, spelling, punctuation, usage, and sentence-level correctness.
+[34] (gemini-3.6-flash) Thesis and Stance: Captures how clearly, explicitly, and consistently the essay states and maintains its central argumentative position.
+[35] (gemini-3.6-flash) Cohesion and Transitions: Captures how smoothly ideas are linked across sentences and paragraphs through transitions, connectors, and flowing progression.
+[36] (gemini-3.6-flash) Focus and Task Relevance: Measures whether the essay stays on topic, addresses the prompt directly, and avoids irrelevant digressions.
+[37] (deepseek-v4-flash) Organization and Coherence: Arranges the essay and its paragraphs into a clear, logically connected structure with effective progression and transitions.
+[38] (deepseek-v4-flash) Reasoning Development: Builds the case through fully developed, substantive, and logically connected reasons rather than brief or repetitive assertions.
+[39] (deepseek-v4-flash) Counterargument and Nuance: Acknowledges opposing views and complexity, weighing them to produce a more balanced or qualified argument.
+[40] (deepseek-v4-flash) Thesis and Focus: States a clear argumentative position and keeps the essay consistently focused on that stance and the assigned task.
+[41] (deepseek-v4-flash) Written Language Control: Demonstrates control of grammar, spelling, mechanics, sentence formation, and clarity so the prose is readable and correct.
+[42] (deepseek-v4-flash) Analytical Depth: Moves beyond surface summary to draw inferences, examine implications, and contribute independent critical thinking.
+[43] (deepseek-v4-flash) Conclusion Effectiveness: Ends with a coherent, purposeful conclusion that reinforces and synthesizes the argument.
+[44] (deepseek-v4-flash) Formal Register: Maintains an appropriately formal, measured, school-appropriate tone for argumentative writing.
+[45] (deepseek-v4-flash) Rhetorical Effectiveness: Uses voice, audience awareness, framing, and other rhetorical devices to make the argument engaging and persuasive.
+[46] (deepseek-v4-flash) Language Sophistication: Uses mature, precise vocabulary and varied syntax to create a more sophisticated academic prose style.

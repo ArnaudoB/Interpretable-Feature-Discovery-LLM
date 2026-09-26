@@ -1,0 +1,24 @@
+{
+  "rho_min": 0.5,
+  "kappa_max": 100.0,
+  "K_before": 14,
+  "K_after": 10,
+  "kept": [
+    "Organization and Coherence",
+    "Reasoning Development",
+    "Counterargument and Nuance",
+    "Thesis and Focus",
+    "Written Language Control",
+    "Analytical Depth",
+    "Conclusion Effectiveness",
+    "Formal Register",
+    "Rhetorical Effectiveness",
+    "Language Sophistication"
+  ],
+  "dropped": [
+    "Evidence Use and Integration",
+    "Concrete Illustration",
+    "Source Fidelity",
+    "Constructive Proposal"
+  ]
+}

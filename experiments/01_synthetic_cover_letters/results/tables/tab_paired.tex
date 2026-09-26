@@ -1,0 +1,29 @@
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{l r c r}
+\toprule
+& Difference & 95\% CI & Ours better \\
+\midrule
+\multicolumn{4}{l}{\textbf{(a) Ours $-$ Direct LLM} \; (discovery re-run per replicate on \emph{both} sides)} \\
+\midrule
+$\Delta K$ & $-4.90$ & $[-9.78,\ -1.00]$ & --- \\
+$\Delta$ \textbf{Tracked}$^{*}$ & $+0.138$ & $[+0.014,\ +0.250]$ & $96\%$ \\
+$\Delta$ Stat.R. & $+0.051$ & $[-0.038,\ +0.132]$ & $88\%$ \\
+$\Delta$ Sem.R. & $+0.122$ & $[+0.000,\ +0.250]$ & $76\%$ \\
+$\Delta$ \textbf{Attrib.}$^{*}$ & $+0.349$ & $[+0.233,\ +0.543]$ & $100\%$ \\
+$\Delta$ LK & $-0.017$ & $[-0.028,\ +0.000]$ & $96\%$ \\
+\midrule
+\multicolumn{4}{l}{\textbf{(b) Ours $-$ Local LLMs} \; (discovery frozen on \emph{both} sides; pooled over fusion \emph{and} corpus draws)} \\
+\midrule
+$\Delta K$ & $-7.08$ & $[-9.00,\ -4.23]$ & --- \\
+$\Delta$ Tracked & $+0.129$ & $[+0.000,\ +0.188]$ & $96\%$ \\
+$\Delta$ Stat.R. & $+0.051$ & $[-0.010,\ +0.104]$ & $93\%$ \\
+$\Delta$ Sem.R. & $+0.092$ & $[-0.062,\ +0.250]$ & $75\%$ \\
+$\Delta$ \textbf{Attrib.}$^{*}$ & $+0.444$ & $[+0.302,\ +0.577]$ & $100\%$ \\
+$\Delta$ \textbf{LK}$^{*}$ & $-0.016$ & $[-0.027,\ -0.003]$ & $99\%$ \\
+\bottomrule
+\end{tabular}
+\caption{Paired comparisons over $B=50$ bootstrap draws (with replacement) of the $200$-letter corpus; every arm sees the same draws, and differences are taken within replicate. Each row reports the mean difference, its $95\%$ percentile CI ($^{*}$: excludes zero), and \emph{Ours better}: the share of replicates in which our method wins in the metric's preferred direction ($\Delta K$ is descriptive and carries no share). \textbf{The panels bracket discovery variance from opposite sides and are not comparable to one another}. \textbf{Both panels score our method at a reduced budget (average degree $25.3$ against the designed $40$)}; it leads on several metrics regardless. Design rationale, the conditional-fusion alternative, and budget details: Appendix~\ref{app:paired-design}.}
+\label{tab:paired}
+\end{table}

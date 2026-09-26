@@ -1,0 +1,14 @@
+{
+  "n_items": 8422,
+  "n_pairs": 4211,
+  "train_ex": 6822,
+  "test_ex": 1600,
+  "anchor_pairs": 54576,
+  "test_anchor_pairs": 25600,
+  "anchor_degree": 16,
+  "test_anchors": 16,
+  "regular_ok": true,
+  "dup": 0,
+  "same_op": 0,
+  "all_ok": true
+}

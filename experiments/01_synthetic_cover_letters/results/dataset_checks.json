@@ -1,0 +1,21 @@
+{
+  "n_letters": 200,
+  "n_anchors": 16,
+  "balanced": {
+    "max_nonstructural_abs_corr": 0.14593187517207523,
+    "max_length_corr": 0.20177323151120655
+  },
+  "full_corpus": {
+    "max_nonstructural_abs_corr": 0.19495062507872257,
+    "max_length_corr": 0.21909383817563477
+  },
+  "gates": {
+    "realized_equals_assigned": true,
+    "validate": true,
+    "fluency_count": true,
+    "orthogonality": true,
+    "length_decorrelated": true,
+    "balance": true,
+    "determinism": true
+  }
+}

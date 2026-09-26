@@ -1,0 +1,520 @@
+{
+  "experiment": "03_interpretable_scoring",
+  "n": 26,
+  "numbers": [
+    {
+      "id": "design.ellipse",
+      "where": "App. sec:extension-appendix",
+      "what": "ELLIPSE comparison design: essays, pairs, perfect matchings, per-essay degree, seed, selected band histogram",
+      "value": {
+        "n_essays": 100,
+        "n_pairs": 2000,
+        "n_matchings": 40,
+        "degree": 40,
+        "seed": 42,
+        "bands": {
+          "1": 9,
+          "2": 23,
+          "3": 23,
+          "4": 23,
+          "5": 22
+        }
+      }
+    },
+    {
+      "id": "design.asap2",
+      "where": "App. sec:extension-appendix",
+      "what": "ASAP-2 comparison design: essays, pairs, perfect matchings, per-essay degree, seed, selected band histogram",
+      "value": {
+        "n_essays": 100,
+        "n_pairs": 2000,
+        "n_matchings": 40,
+        "degree": 40,
+        "seed": 42,
+        "bands": {
+          "1": 18,
+          "2": 18,
+          "3": 18,
+          "4": 18,
+          "5": 17,
+          "6": 11
+        }
+      }
+    },
+    {
+      "id": "elicitation.parsed",
+      "where": "App. sec:extension-appendix",
+      "what": "judge responses that parsed, in total and per run",
+      "value": {
+        "parsed": 16000,
+        "per_run": {
+          "gpt_5_4_mini__ellipse": 2000,
+          "claude_haiku_4_5__ellipse": 2000,
+          "gemini_3_6_flash__ellipse": 2000,
+          "deepseek_v4_flash__ellipse": 2000,
+          "gpt_5_4_mini__asap2": 2000,
+          "claude_haiku_4_5__asap2": 2000,
+          "gemini_3_6_flash__asap2": 2000,
+          "deepseek_v4_flash__asap2": 2000
+        }
+      }
+    },
+    {
+      "id": "gates.retained",
+      "where": "App. sec:extension-appendix",
+      "what": "features retained by the (rho, kappa) screen: range over runs and per run",
+      "value": {
+        "range": [
+          6,
+          16
+        ],
+        "per_run": {
+          "gpt_5_4_mini__ellipse": 9,
+          "claude_haiku_4_5__ellipse": 9,
+          "gemini_3_6_flash__ellipse": 9,
+          "deepseek_v4_flash__ellipse": 7,
+          "gpt_5_4_mini__asap2": 15,
+          "claude_haiku_4_5__asap2": 16,
+          "gemini_3_6_flash__asap2": 6,
+          "deepseek_v4_flash__asap2": 10
+        }
+      }
+    },
+    {
+      "id": "gates.kappa_causes_most",
+      "where": "App. sec:extension-appendix",
+      "what": "screened-out features: total, those failing kappa, those failing rho only; per-run breakdown",
+      "value": {
+        "drops": 67,
+        "involving_kappa": 59,
+        "rho_only": 8,
+        "per_run": {
+          "gpt_5_4_mini__ellipse": {
+            "kappa_only": 5,
+            "rho_only": 2,
+            "both": 1
+          },
+          "claude_haiku_4_5__ellipse": {
+            "kappa_only": 11,
+            "rho_only": 1,
+            "both": 5
+          },
+          "gemini_3_6_flash__ellipse": {
+            "kappa_only": 11,
+            "rho_only": 1,
+            "both": 2
+          },
+          "deepseek_v4_flash__ellipse": {
+            "kappa_only": 8,
+            "rho_only": 0,
+            "both": 0
+          },
+          "gpt_5_4_mini__asap2": {
+            "kappa_only": 0,
+            "rho_only": 2,
+            "both": 1
+          },
+          "claude_haiku_4_5__asap2": {
+            "kappa_only": 2,
+            "rho_only": 0,
+            "both": 0
+          },
+          "gemini_3_6_flash__asap2": {
+            "kappa_only": 7,
+            "rho_only": 1,
+            "both": 3
+          },
+          "deepseek_v4_flash__asap2": {
+            "kappa_only": 2,
+            "rho_only": 1,
+            "both": 1
+          }
+        }
+      }
+    },
+    {
+      "id": "gates.kappa_removes_frequent",
+      "where": "App. sec:extension-appendix",
+      "what": "citation rate of features failing vs passing kappa; kappa failure rate by citation-rate bin; kappa failures cited in more than half the pairs",
+      "value": {
+        "median_cite_rate_kappa_fail": 0.033,
+        "median_cite_rate_kappa_pass": 0.1905,
+        "runs_where_kappa_fails_are_LESS_cited_on_average": "7 of 8",
+        "kappa_fail_rate_by_citation_rate": {
+          "(0.0, 0.02]": "20/20",
+          "(0.02, 0.05]": "19/29",
+          "(0.05, 0.1]": "5/20",
+          "(0.1, 0.2]": "4/25",
+          "(0.2, 0.5]": "4/28",
+          "(0.5, 1.0]": "7/26"
+        },
+        "frequent_kappa_failures": [
+          {
+            "run": "gpt_5_4_mini__ellipse",
+            "canonical_name": "Organization",
+            "citation_rate": 0.953
+          },
+          {
+            "run": "gpt_5_4_mini__ellipse",
+            "canonical_name": "Development and Support",
+            "citation_rate": 0.888
+          },
+          {
+            "run": "claude_haiku_4_5__ellipse",
+            "canonical_name": "Organization and Coherence",
+            "citation_rate": 0.944
+          },
+          {
+            "run": "deepseek_v4_flash__ellipse",
+            "canonical_name": "Organization and coherence",
+            "citation_rate": 0.938
+          },
+          {
+            "run": "deepseek_v4_flash__ellipse",
+            "canonical_name": "Vocabulary range and word choice",
+            "citation_rate": 0.672
+          },
+          {
+            "run": "gemini_3_6_flash__asap2",
+            "canonical_name": "Structural Organization",
+            "citation_rate": 0.812
+          },
+          {
+            "run": "deepseek_v4_flash__asap2",
+            "canonical_name": "Evidence Use and Integration",
+            "citation_rate": 0.823
+          }
+        ]
+      }
+    },
+    {
+      "id": "gates.sensitivity",
+      "where": "App. sec:extension-appendix",
+      "what": "ELLIPSE: features per judge and constructs shared by >= 3 judges, at the reported gate (rho > 0.50, kappa < 100) and at the strict gate (rho > 0.70, kappa < 50)",
+      "value": {
+        "features_per_judge": {
+          "gpt-5.4-mini": 6,
+          "claude-haiku-4.5": 6,
+          "gemini-3.6-flash": 6,
+          "deepseek-v4-flash": 7
+        },
+        "three_judge_constructs": [
+          "Vocabulary",
+          "Sentence Variety and Complexity",
+          "Mechanics and Conventions",
+          "Idea Development",
+          "Grammar Accuracy"
+        ],
+        "three_judge_constructs_at_reported_gate": 7,
+        "features_per_judge_at_reported_gate": {
+          "gpt-5.4-mini": 9,
+          "claude-haiku-4.5": 9,
+          "gemini-3.6-flash": 9,
+          "deepseek-v4-flash": 7
+        },
+        "n_three_judge_constructs": 5
+      }
+    },
+    {
+      "id": "gates.vocabulary",
+      "where": "App. sec:extension-appendix",
+      "what": "ELLIPSE Vocabulary construct: its judges, and DeepSeek's vocabulary feature with its rho, kappa and screen outcome",
+      "value": {
+        "construct_judges": [
+          "gpt-5.4-mini",
+          "claude-haiku-4.5",
+          "gemini-3.6-flash"
+        ],
+        "deepseek_feature": "Vocabulary range and word choice",
+        "rho": 0.927,
+        "kappa": 1183.4,
+        "kept": false
+      }
+    },
+    {
+      "id": "denoising.ellipse",
+      "where": "App. sec:extension-appendix",
+      "what": "ELLIPSE: mean % shrinkage of sigma_k from denoising, and features whose within-judge rank changes",
+      "value": {
+        "mean_shrink_pct": 10.45,
+        "reordered": 10,
+        "n_criteria": 34
+      }
+    },
+    {
+      "id": "sigma.gpt_most_compressed.ellipse",
+      "where": "App. app:verdict-extension, fig:cross_judge_radar",
+      "what": "ELLIPSE: consensus axes (>= 3 judges) on which GPT-5.4 mini has the smallest denoised sigma_k",
+      "value": {
+        "gpt_smallest": 5,
+        "consensus_axes": 7
+      }
+    },
+    {
+      "id": "sigma.gpt_most_compressed.asap2",
+      "where": "App. app:verdict-extension, fig:cross_judge_radar",
+      "what": "ASAP-2: consensus axes (>= 3 judges) on which GPT-5.4 mini has the smallest denoised sigma_k",
+      "value": {
+        "gpt_smallest": 4,
+        "consensus_axes": 8
+      }
+    },
+    {
+      "id": "sigma.thesis_control",
+      "where": "App. app:verdict-extension, fig:cross_judge_radar",
+      "what": "ASAP 2.0 Thesis control: range of denoised sigma_k over judges",
+      "value": {
+        "range": [
+          0.9392,
+          1.0106
+        ],
+        "n_judges": 4
+      }
+    },
+    {
+      "id": "sigma.sentence_level",
+      "where": "App. app:verdict-extension, fig:cross_judge_radar",
+      "what": "ASAP 2.0 Sentence-level control: range of denoised sigma_k over judges",
+      "value": {
+        "range": [
+          0.8152,
+          2.1129
+        ],
+        "n_judges": 4
+      }
+    },
+    {
+      "id": "sigma.largest_single_judge",
+      "where": "App. app:verdict-extension",
+      "what": "per corpus: the largest denoised sigma_k, its construct, judge, and the number of judges on that construct",
+      "value": {
+        "ellipse": {
+          "construct": "Vocabulary",
+          "judge": "claude-haiku-4.5",
+          "denoised_sigma": 1.821,
+          "n_judges_on_axis": 3
+        },
+        "asap2": {
+          "construct": "Formal register",
+          "judge": "gpt-5.4-mini",
+          "denoised_sigma": 2.219,
+          "n_judges_on_axis": 2
+        }
+      }
+    },
+    {
+      "id": "agreement.spearman.ellipse",
+      "where": "App. app:verdict-extension, fig:total_score_distribution",
+      "what": "ELLIPSE: Spearman r_s between the fitted total score and the human holistic score, range and per judge",
+      "value": {
+        "range": [
+          0.8863,
+          0.9203
+        ],
+        "per_judge": {
+          "gpt-5.4-mini": 0.9003,
+          "claude-haiku-4.5": 0.8863,
+          "gemini-3.6-flash": 0.9203,
+          "deepseek-v4-flash": 0.9034
+        }
+      }
+    },
+    {
+      "id": "agreement.spearman.asap2",
+      "where": "App. app:verdict-extension, fig:total_score_distribution",
+      "what": "ASAP-2: Spearman r_s between the fitted total score and the human holistic score, range and per judge",
+      "value": {
+        "range": [
+          0.7745,
+          0.8564
+        ],
+        "per_judge": {
+          "gpt-5.4-mini": 0.7745,
+          "claude-haiku-4.5": 0.8564,
+          "gemini-3.6-flash": 0.8245,
+          "deepseek-v4-flash": 0.8479
+        }
+      }
+    },
+    {
+      "id": "position_bias",
+      "where": "App. sec:extension-appendix",
+      "what": "fitted position coefficient beta per run, its largest magnitude, and whether ordering judges by beta orders their first-position win rates",
+      "value": {
+        "max_abs_beta": 2.5987,
+        "rank_order_matches_win_rate": {
+          "ellipse": true,
+          "asap2": true
+        },
+        "per_run": {
+          "ellipse": [
+            {
+              "judge": "gpt-5.4-mini",
+              "beta": -1.0775,
+              "first_position_win_rate": 0.4235
+            },
+            {
+              "judge": "claude-haiku-4.5",
+              "beta": -0.4566,
+              "first_position_win_rate": 0.4775
+            },
+            {
+              "judge": "gemini-3.6-flash",
+              "beta": 0.3994,
+              "first_position_win_rate": 0.516
+            },
+            {
+              "judge": "deepseek-v4-flash",
+              "beta": 0.5937,
+              "first_position_win_rate": 0.5355
+            }
+          ],
+          "asap2": [
+            {
+              "judge": "gpt-5.4-mini",
+              "beta": -2.032,
+              "first_position_win_rate": 0.3745
+            },
+            {
+              "judge": "claude-haiku-4.5",
+              "beta": 0.536,
+              "first_position_win_rate": 0.507
+            },
+            {
+              "judge": "gemini-3.6-flash",
+              "beta": 0.8313,
+              "first_position_win_rate": 0.537
+            },
+            {
+              "judge": "deepseek-v4-flash",
+              "beta": 2.5987,
+              "first_position_win_rate": 0.602
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "calibration.winner_ece.ELLIPSE",
+      "where": "App. sec:extension-appendix, fig:calibration_reliability_ellipse",
+      "what": "ELLIPSE: range over judges of the winner gate's out-of-fold ECE",
+      "value": {
+        "range": [
+          0.0118,
+          0.0275
+        ]
+      }
+    },
+    {
+      "id": "calibration.winner_ece.ASAP-2",
+      "where": "App. sec:extension-appendix, fig:calibration_reliability_asap",
+      "what": "ASAP-2: range over judges of the winner gate's out-of-fold ECE",
+      "value": {
+        "range": [
+          0.0104,
+          0.0189
+        ]
+      }
+    },
+    {
+      "id": "calibration.winner_oof_not_worse",
+      "where": "App. sec:extension-appendix",
+      "what": "runs whose winner-gate out-of-fold ECE is at most the in-sample ECE",
+      "value": {
+        "oof_le_in_sample": "8 of 8"
+      }
+    },
+    {
+      "id": "calibration.citation_ece.in-sample",
+      "where": "App. sec:extension-appendix",
+      "what": "range over runs of the citation gate's in-sample ECE",
+      "value": {
+        "range": [
+          0.0034,
+          0.011
+        ]
+      }
+    },
+    {
+      "id": "calibration.citation_ece.out-of-fold",
+      "where": "App. sec:extension-appendix",
+      "what": "range over runs of the citation gate's out-of-fold ECE",
+      "value": {
+        "range": [
+          0.0268,
+          0.0411
+        ]
+      }
+    },
+    {
+      "id": "calibration.winner_bss.ELLIPSE",
+      "where": "App. sec:extension-appendix, fig:calibration_skill",
+      "what": "ELLIPSE: range over judges of the winner gate's out-of-fold Brier skill, vs chance, vs the empirical rate, and over both",
+      "value": {
+        "vs_chance": [
+          0.803,
+          0.836
+        ],
+        "vs_empirical": [
+          0.798,
+          0.836
+        ],
+        "union_over_both_references": [
+          0.798,
+          0.836
+        ]
+      }
+    },
+    {
+      "id": "calibration.winner_bss.ASAP-2",
+      "where": "App. sec:extension-appendix, fig:calibration_skill",
+      "what": "ASAP-2: range over judges of the winner gate's out-of-fold Brier skill, vs chance, vs the empirical rate, and over both",
+      "value": {
+        "vs_chance": [
+          0.741,
+          0.847
+        ],
+        "vs_empirical": [
+          0.724,
+          0.847
+        ],
+        "union_over_both_references": [
+          0.724,
+          0.847
+        ]
+      }
+    },
+    {
+      "id": "calibration.citation_bss_habit",
+      "where": "App. sec:extension-appendix, fig:calibration_skill",
+      "what": "citation gate's out-of-fold Brier skill against the per-feature empirical rate (habit-only submodel): range overall and per corpus, smallest lower bootstrap bound",
+      "value": {
+        "range": [
+          0.034,
+          0.232
+        ],
+        "range_ELLIPSE": [
+          0.034,
+          0.197
+        ],
+        "range_ASAP-2": [
+          0.092,
+          0.232
+        ],
+        "smallest_lower_bound": 0.02
+      }
+    },
+    {
+      "id": "calibration.winner_skills_coincide",
+      "where": "App. sec:extension-appendix, fig:calibration_skill",
+      "what": "GPT-5.4 mini on ASAP 2.0: winner-gate Brier skill vs chance and vs the empirical rate, and its first-shown win rate",
+      "value": {
+        "gpt-5.4-mini_ASAP-2": {
+          "vs_chance": 0.741,
+          "vs_empirical": 0.724,
+          "first_shown_rate": 0.374
+        }
+      }
+    }
+  ]
+}

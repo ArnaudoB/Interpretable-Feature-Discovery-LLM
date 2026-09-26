@@ -1,0 +1,316 @@
+[0] academic tone (cited 3x): The writing maintains an appropriate formal stance suitable for an academic essay rather than relying on casual, conversational speech patterns.
+[1] academic vocabulary (cited 7x): This quality captures the student's usage of formal, task-appropriate vocabulary rather than relying exclusively on informal conversational terms.
+[2] academic vocabulary usage (cited 4x): It incorporates precise and sophisticated vocabulary appropriate for formal essay writing.
+[3] advanced vocabulary (cited 14x): Captures the use of precise, varied, and sophisticated word choices that elevate the tone and clarity of the writing.
+[4] advanced vocabulary choice (cited 24x): Measures the writer's ability to use precise, sophisticated, and varied vocabulary that enhances the tone and clarity of the essay.
+[5] advanced vocabulary selection (cited 5x): Captures the user's ability to employ sophisticated, precise words to enhance the sophistication of their writing.
+[6] advanced vocabulary usage (cited 19x): Reflects the inclusion of sophisticated word choices that convey complex, precise meaning.
+[7] anecdotal support (cited 4x): Captures the writer's ability to incorporate personal experiences effectively to illustrate and reinforce an argument.
+[8] argument development (cited 7x): captures the elaboration of reasoning through explanations and illustrative examples.
+[9] argumentative clarity (cited 7x): Captures the logical development and persuasive flow of ideas supporting a central claim.
+[10] argumentative coherence (cited 17x): The essay presents a well-reasoned argument supported by specific explanations and directly addresses counterarguments.
+[11] argumentative cohesion (cited 4x): The text links supporting details directly back to central claims through clear cause-and-effect transitions.
+[12] argumentative complexity (cited 7x): The essay acknowledges and directly addresses counterarguments before reinforcing its own position.
+[13] argumentative depth (cited 15x): Reflects the degree to which ideas are supported with thorough explanations, examples, and detailed reasoning.
+[14] argumentative development (cited 23x): The writer supports claims with detailed, concrete examples and relevant elaboration rather than repetitive assertions.
+[15] argumentative elaboration (cited 25x): The writer develops claims by offering concrete examples and logical explanations.
+[16] argumentative focus (cited 6x): Captures the capacity to maintain a central topic and develop supporting reasoning logically throughout the text.
+[17] argumentative sophistication (cited 6x): Captures the ability to address opposing viewpoints and develop complex, balanced reasoning.
+[18] argumentative strategy (cited 3x): captures the ability to state specific supporting reasons and anticipate counterarguments directly.
+[19] argumentative structure (cited 5x): The writer explicitly acknowledges and refutes counterarguments to strengthen their persuasive position.
+[20] capitalization accuracy (cited 6x): Captures the consistent and standard application of capitalization rules across sentences and proper nouns.
+[21] capitalization mechanics (cited 14x): The text adheres more consistently to standard capitalization rules at sentence boundaries.
+[22] clarity of argumentation (cited 5x): The writer presents distinct, easily followable scenarios that directly support their perspective on when honesty may be harmful.
+[23] clarity of communication (cited 3x): Measures how easily the writer's intended meaning is understood by the reader without requiring guesswork.
+[24] clarity of expression (cited 31x): Captures how effectively and understandably the writer communicates ideas to the reader.
+[25] coherence and cohesion (cited 4x): Organizes ideas smoothly using effective transitional expressions and topical progression between paragraphs.
+[26] coherence and flow (cited 3x): Evaluates how smoothly ideas transition from one to the next to create an easily understandable narrative arc.
+[27] coherence and idea development (cited 8x): Captures how effectively a writer builds and sustains a central reasoning thread across the essay.
+[28] coherence and organization (cited 4x): Reflects how smoothly ideas flow and connect to build a clear, well-structured overall argument.
+[29] coherence and relevance (cited 3x): Evaluates how effectively the essay stays focused on its core thesis without inserting extraneous or disjointed thoughts.
+[30] coherence and structural flow (cited 3x): captures how effectively a writer organizes thoughts and builds a logical argument across paragraphs.
+[31] coherence and topical focus (cited 11x): Evaluates how clearly and consistently the writing stays focused on a coherent topic or theme throughout the text.
+[32] coherence of ideas (cited 5x): Captures how clearly and logically a reader can follow the central message or story being communicated.
+[33] coherent idea development (cited 4x): Captures how effectively ideas are elaborated and expanded across the text to build a unified narrative or argument.
+[34] cohesion and flow (cited 20x): Connects ideas sequentially from sentence to sentence to build a continuous line of thought.
+[35] cohesion and paragraph development (cited 6x): The essay logically structures its paragraphs with clear topic sentences and smooth transitions to support an overall thesis.
+[36] cohesion and paragraph organization (cited 4x): Captures how ideas are grouped naturally into thematic sections rather than relying on repetitive formulaic transitions.
+[37] cohesion and paragraphing (cited 3x): This captures how effectively ideas are linked and structured across paragraphs to create a smooth rhetorical flow.
+[38] cohesion and transitional flow (cited 3x): Captures how effectively ideas and paragraphs are linked together using transitional language.
+[39] cohesion and transitional phrasing (cited 4x): Captures how smoothly sentences and ideas are linked together to guide the reader through the text.
+[40] cohesion and transitions (cited 6x): Captures the smooth progression of ideas across sentences and paragraphs through explicit transitional markers.
+[41] cohesive argumentation (cited 5x): The text maintains a clear, analytical line of thought throughout the essay to address abstract ideas.
+[42] cohesive device usage (cited 59x): Captures the effective use of transitional words and phrases to connect ideas across sentences and paragraphs.
+[43] cohesive device variety (cited 8x): Measures the effective use of formal transitional words and phrases to connect ideas smoothly across sentences and paragraphs.
+[44] cohesive devices (cited 54x): Captures the effective use of transitional words and phrases to connect ideas across sentences and paragraphs.
+[45] cohesive paragraph organization (cited 3x): Captures the author's ability to structure paragraphs logically and signal transitions clearly between distinct ideas.
+[46] cohesive paragraph structure (cited 4x): Organizes ideas into logical units with clear topic sentences and smooth transitions between arguments.
+[47] cohesive progression (cited 17x): captures the smooth logical connections that build arguments progressively across sentences.
+[48] cohesive structural organization (cited 6x): The essay uses logical paragraph transitions and clear structural signposts to create a smooth, easy-to-follow argument.
+[49] cohesive transitional devices (cited 5x): Captures the clear linking of ideas and paragraphs using varied connective words and phrases.
+[50] cohesive transitioning (cited 5x): Reflects the effective use of transitional devices to link ideas logically across sentences and paragraphs.
+[51] cohesive transitions (cited 32x): captures the effective use of transitional words and phrases to connect thoughts within and across paragraphs
+[52] command of conventions (cited 7x): Measures the accuracy in mechanical writing elements such as capitalization, spelling, and punctuation.
+[53] command of language conventions (cited 3x): The essay maintains high accuracy in mechanical conventions, avoiding grammatical errors and run-on sentences.
+[54] command of language mechanics (cited 3x): The writing demonstrates consistent accuracy in fundamental mechanics such as spelling, capitalization, and punctuation.
+[55] command of mechanics (cited 9x): Captures the writer's ability to apply standard conventions of spelling, capitalization, and punctuation correctly.
+[56] communicative clarity (cited 12x): The author's core ideas and arguments are clearly understandable to the reader throughout the response.
+[57] communicative intent (cited 3x): Reflects the ability to convey identifiable thoughts and logical relationships despite frequent mechanical errors.
+[58] conceptual depth (cited 8x): Measures the author's capacity to articulate abstract ideas and mature logical explanations effectively.
+[59] control of conventions (cited 8x): Accuracy in sentence boundary punctuation, capitalization, mechanics, and general proofreading.
+[60] control of mechanics (cited 7x): The text maintains consistent control over mechanics, spelling, and standard English sentence construction.
+[61] counterargument handling (cited 3x): Captures the writer's ability to acknowledge opposing viewpoints and effectively address or refute them.
+[62] counterargument integration (cited 39x): Reflects the writer's ability to acknowledge, address, and rebut alternative viewpoints effectively.
+[63] counterargumentation (cited 6x): Captures the ability to acknowledge an opposing viewpoint and effectively address or refute it to strengthen an argument.
+[64] depth of argument (cited 5x): Captures the author's ability to develop ideas using varied, illustrative examples and thoughtful counterarguments rather than repetitive statements.
+[65] depth of argumentation (cited 13x): Measures the degree to which ideas are developed with intellectual depth, nuance, and analytical insight.
+[66] depth of content development (cited 4x): Reflects the degree to which ideas are elaborated with meaningful commentary, personal reflection, and context rather than brief, repetitive lists.
+[67] depth of detail (cited 3x): Measures the extent to which ideas are supported with specific, meaningful contextual information rather than repetitive statements.
+[68] depth of elaboration (cited 4x): Measures the writer's capacity to support general claims with specific details, biological explanations, and concrete scenarios.
+[69] depth of exemplification (cited 3x): The writer supports abstract claims with specific, concrete, and varied real-world examples.
+[70] depth of idea development (cited 6x): The essay elaborates on main points with supporting details and logical reasoning rather than simple repetition.
+[71] depth of thematic development (cited 6x): The essay supports its main thesis with detailed concrete explanations and context rather than repetitive general statements.
+[72] depth of thematic elaboration (cited 3x): The author expands on ideas with conceptual depth, examining how imagination applies across various human endeavors.
+[73] descriptive detail (cited 7x): reflects the rich, vivid elaboration and specific imagery used to bring writing topics to life.
+[74] descriptive precision (cited 3x): This quality captures the writer's capacity to provide vivid, specific details that clearly explain actions and concepts.
+[75] descriptive vocabulary (cited 15x): The writer employs specific and evocative adjectives and nouns to create vivid mental images.
+[76] discourse coherence (cited 3x): captures how smoothly ideas are linked across sentences and paragraphs using transitional cues.
+[77] discourse cohesion (cited 15x): The writer uses transitional phrasing and consistent referencing to connect paragraphs and sustain a unified argument throughout the piece.
+[78] discourse markers (cited 6x): The writer employs explicit transitional words and phrases to signal connections between ideas across paragraphs.
+[79] discourse organization (cited 20x): Measures the effective use of explicit structural transitions to frame and connect main arguments across paragraphs.
+[80] discourse signaling (cited 11x): Measures the effective use of transitional devices to guide the reader clearly through the author's reasoning.
+[81] discourse transition (cited 3x): Captures the ability to use cohesive devices to signal shifts between ideas and connect paragraphs.
+[82] discourse transition usage (cited 4x): Captures how effectively logical connectives are employed to signal transitions between thoughts and main points.
+[83] discourse transitions (cited 6x): This captures the use of linking words and phrases to signal progression between ideas and paragraphs.
+[84] elaboration and concrete detail (cited 4x): Captures the use of specific, real-world examples and details to flesh out and support core arguments.
+[85] elaboration and concrete illustration (cited 4x): The essay uses detailed narrative examples to illustrate and expand upon abstract ideas rather than repeating general assertions.
+[86] elaboration and concrete support (cited 3x): Reflects the author's ability to develop claims using specific, realistic examples and scenarios to build a reasoned argument.
+[87] elaboration and depth (cited 6x): Captures how fully a writer expands upon their main points with relevant supporting details and examples.
+[88] elaboration and depth of detail (cited 4x): Captures the author's ability to expand on specific ideas with concrete explanations and relevant distinctions rather than remaining at a surface level.
+[89] elaboration and depth of ideas (cited 3x): Captures the author's ability to thoroughly explore concepts with thoughtful details and nuanced supporting examples.
+[90] elaboration and detail (cited 60x): captures the use of concrete examples and extended reasoning to support main claims.
+[91] elaboration and development (cited 3x): Measures the extent to which main ideas are supported with rich, specific details and relevant narrative examples.
+[92] elaboration and evidence (cited 62x): The essay provides specific illustrative examples to develop its central argument effectively.
+[93] elaboration and evidence development (cited 6x): Measures how thoroughly and convincingly ideas are unpacked and supported with examples.
+[94] elaboration and evidence integration (cited 7x): The writing effectively supports abstract claims with detailed, relevant examples and thoughtful explanations.
+[95] elaboration and exemplification (cited 15x): The writer effectively develops main arguments by extending relevant, well-integrated examples throughout the text.
+[96] elaboration and idea development (cited 41x): The depth with which main points are supported, explained, and illustrated through relevant examples and reasoning.
+[97] elaboration and narrative development (cited 3x): Captures the ability to support general claims with detailed, concrete personal stories and examples.
+[98] elaboration and narrative support (cited 3x): Measures the extent to which a writer develops abstract claims using detailed, vivid personal experiences and concrete examples.
+[99] elaboration and support (cited 21x): Captures the extent to which ideas are fully developed and supported with vivid, detailed examples.
+[100] elaboration of arguments (cited 22x): Reflects the capacity to develop points in detail through relevant personal examples and stories.
+[101] elaboration of evidence (cited 12x): This quality captures the development of arguments using descriptive personal anecdotes and detailed contextual examples.
+[102] elaboration of ideas (cited 193x): Captures the extent to which main points are supported with relevant explanations and details rather than simple repetition.
+[103] elaboration of supporting details (cited 32x): Captures how fully a writer develops claims using specific examples, explanations, and contextual details.
+[104] elaboration of supporting evidence (cited 5x): Measures how effectively a writer uses detailed personal examples to flesh out and support their main thesis.
+[105] elaboration of supporting examples (cited 22x): This captures the ability to provide specific, developed scenarios and reasons to substantiate a central claim.
+[106] elaboration of supporting ideas (cited 13x): Captures the ability to provide specific narrative details and reasoning to substantiate a core argument.
+[107] elaboration through concrete examples (cited 5x): The writer develops abstract claims by anchoring them in detailed, relatable scenarios.
+[108] elaboration through examples (cited 26x): Reflects the capacity to support central claims with relevant, concrete stories and detailed evidence.
+[109] elaboration through exemplification (cited 5x): Captures the ability to support abstract points with concrete, relevant real-world scenarios.
+[110] elaboration through narrative examples (cited 3x): Captures the writer's skill in developing main ideas with detailed personal anecdotes and specific illustrations.
+[111] elaboration through personal narrative (cited 3x): The writer effectively uses concrete personal anecdotes to clarify and flesh out abstract claims.
+[112] elaboration through relevant examples (cited 4x): The essay supports its central arguments with realistic, fully developed hypothetical and personal examples.
+[113] elaboration through specific examples (cited 8x): Captures the ability to support general claims with developed, real-life examples and context.
+[114] elaborative detail (cited 10x): The writer provides reflective, nuanced details that offer deeper context and insight into their experiences.
+[115] elaborative support (cited 4x): Captures the use of detailed, concrete examples and contextual references to expand upon main ideas.
+[116] english language production (cited 3x): This captures the writer's ability to express their ideas fully in English without resorting to another language.
+[117] english language retention (cited 8x): Captures the ability to sustain writing continuously in English without reverting to another language.
+[118] essay organization (cited 4x): The essay uses a predictable, well-structured paragraph arrangement that guides the reader logically from one supporting point to the next.
+[119] expression of ideas (cited 3x): Captures the fluency and naturalness with which a writer communicates real-life experiences and emotional responses.
+[120] expressive vocabulary (cited 8x): The ability to use varied and meaningful phrasing to convey nuanced personal ideas.
+[121] figurative language (cited 7x): Captures the writer's ability to use analogies and metaphors to illustrate abstract ideas persuasively.
+[122] functional vocabulary usage (cited 3x): The writer uses a broader range of English words to express ideas relevant to the topic.
+[123] grammatical accuracy (cited 144x): captures the degree to which writing adheres to standard English rules of syntax, verb tense, and sentence structure.
+[124] grammatical accuracy and mechanics (cited 12x): Captures the adherence to standard English spelling, punctuation, capitalization, and grammatical agreement rules.
+[125] grammatical coherence (cited 3x): The writer constructs full, intelligible sentences that express complex ideas, despite some surface-level syntax errors.
+[126] grammatical complexity (cited 5x): Captures the use of sophisticated, multi-clause sentence structures to express subtle and conditional relationships between ideas.
+[127] grammatical control (cited 396x): Demonstrates accurate subject-verb agreement, tense consistency, and complex sentence structures.
+[128] grammatical control and conventions (cited 3x): Reflects consistency in applying standard rules of mechanics, punctuation, and usage without distracting grammatical errors.
+[129] grammatical control and mechanics (cited 12x): Measures accuracy in sentence boundary maintenance, standard punctuation, and spelling consistency.
+[130] grammatical correctness (cited 4x): This measures the writer's adherence to standard rules of English syntax, agreement, and mechanics.
+[131] grammatical mechanics (cited 7x): The writing shows better control over fundamental punctuation rules like possessive apostrophes.
+[132] grammatical precision (cited 21x): Evaluates the consistent application of standard grammar, subject-verb agreement, and correct punctuation.
+[133] grammatical sentence structure (cited 4x): Captures the ability to construct syntactically coherent sentences that convey understandable thoughts.
+[134] idea development (cited 20x): This captures the writer's capacity to elaborate on a central thesis using explanations, personal examples, and rhetorical questions.
+[135] idea elaboration (cited 3x): measures the degree to which ideas are fully developed with concrete details, examples, and explanations.
+[136] idiomatic expression (cited 7x): Captures the writer's command of native-like phrases and natural English sentence structures.
+[137] idiomatic fluency (cited 3x): The writer demonstrates natural phrasing and command of common English expressions and collocations.
+[138] idiomatic language (cited 3x): Captures the natural and effective use of figures of speech, fixed expressions, and figurative phrasing.
+[139] idiomatic language use (cited 8x): Captures the natural and appropriate use of informal phrasal verbs, idioms, and colloquial expressions.
+[140] idiomatic precision (cited 3x): Captures the natural, authentic use of English phrasal verbs and colloquial expressions appropriate for persuasive writing.
+[141] idiomatic vocabulary (cited 13x): Uses a wide range of natural, figurative, and advanced English expressions appropriately.
+[142] idiomatic vocabulary usage (cited 5x): The essay uses a wider array of idiomatic expressions and varied vocabulary to express ideas naturally.
+[143] illustrative argumentation (cited 3x): The essay effectively uses specific thematic examples to illuminate and deepen its central claim.
+[144] illustrative example usage (cited 3x): Captures the use of specific personal or anecdotal scenarios to ground abstract arguments in concrete narrative details.
+[145] illustrative exemplification (cited 3x): The writer uses detailed hypotheticals and personal anecdotes to support and explain abstract claims.
+[146] lexical accuracy (cited 5x): Measures the correct spelling and appropriate selection of vocabulary words to convey meaning clearly.
+[147] lexical appropriateness (cited 3x): Captures the selection of vocabulary that effectively suits an academic essay context without awkward phrasing.
+[148] lexical choice (cited 3x): Captures the range, accuracy, and sophistication of word choices used to express precise ideas.
+[149] lexical diversity (cited 9x): This reflects the writer's use of specific, varied, and precise vocabulary rather than vague, repetitive filler words.
+[150] lexical naturalness (cited 3x): Captures the use of varied, idiomatic, and expressive vocabulary that fits the context naturally.
+[151] lexical precision (cited 6x): Uses recognizable, appropriately chosen vocabulary to express thoughts without forcing the reader to decipher phonetic approximations.
+[152] lexical precision and orthography (cited 4x): Captures the ability to spell complex words correctly and use clear vocabulary appropriate to the context.
+[153] lexical precision and variety (cited 6x): The author uses an extensive, advanced vocabulary accurately and fluently to express nuanced ideas.
+[154] lexical range (cited 80x): Reflects the variety and sophistication of vocabulary used to express complex thoughts.
+[155] lexical range and precision (cited 17x): The writer employs a broad and varied vocabulary to articulate complex concepts with clarity.
+[156] lexical resource (cited 18x): Measures the variety and appropriate contextual usage of English vocabulary words.
+[157] lexical sophistication (cited 114x): Captures the writer's deliberate choice of advanced, precise vocabulary to enhance the rhetorical impact of the text.
+[158] lexical sophistication and variety (cited 3x): The writer employs a rich, varied vocabulary and metaphorical language to convey complex thoughts.
+[159] lexical variety (cited 50x): captures the range and context-appropriate use of vocabulary words.
+[160] lexical variety and precision (cited 22x): Captures the writer's command of a broad, topic-appropriate, and specific vocabulary.
+[161] lexical variety and sophistication (cited 6x): Captures the use of varied and advanced vocabulary to express precise ideas effectively.
+[162] mechanical accuracy (cited 14x): Captures precision in standard English spelling, capitalization, and basic typographic conventions.
+[163] mechanics and capitalization (cited 16x): Demonstrates control over standard capitalization conventions and sentence-boundary mechanics.
+[164] mechanics and conventions (cited 36x): Captures the writer's command over standard spelling and fundamental sentence capitalization rules.
+[165] mechanics and formatting (cited 7x): Demonstrates consistent capitalization, basic punctuation, and standard sentence separation.
+[166] mechanics and orthography (cited 8x): Reflects adherence to standard conventions of punctuation, spacing, and spelling.
+[167] mechanics and punctuation (cited 16x): The text adheres to standard conventions of punctuation, capitalization, and spelling to maintain clear reading flow.
+[168] mechanics and spelling (cited 4x): This quality captures accuracy in spelling, punctuation, and general word mechanics.
+[169] mechanics and spelling accuracy (cited 7x): The degree of accuracy in mechanics, punctuation, and word spelling throughout the text.
+[170] narrative coherence (cited 17x): Captures the ability to construct a logical, well-organized personal narrative with clear progression.
+[171] narrative development (cited 12x): Captures the author's ability to tell a coherent personal story with a clear problem, action, and resolution.
+[172] narrative elaboration (cited 10x): The essay uses detailed personal examples to concretely illustrate and support its central claims.
+[173] narrative engagement (cited 3x): Measures the use of personal anecdotes, concrete details, and dialogues to engage the reader.
+[174] narrative progression (cited 7x): Captures the clear, logical development of personal anecdotes with a clear beginning, middle, resolution, and reflection.
+[175] organizational structure (cited 3x): Captures the logical ordering of paragraphs and effective use of transitional devices to guide the reader.
+[176] original content generation (cited 7x): Measures the extent to which the writer produces original thoughts and language rather than repeating prompt text or directions.
+[177] original text generation (cited 3x): Reflects the student's ability to compose original thoughts rather than relying on copied prompt text.
+[178] orthographic accuracy (cited 52x): The writing uses accurate standard spelling throughout the text.
+[179] orthographic control (cited 24x): Captures the writer's ability to spell words correctly, including complex and low-frequency vocabulary.
+[180] orthographic precision (cited 12x): The level of accuracy in conventional English spelling throughout the text.
+[181] paragraph coherence (cited 7x): Captures the logical grouping and progression of thoughts across distinct paragraphs.
+[182] paragraph development (cited 14x): Refers to the expansion of supporting points using illustrative examples and explanations within distinct paragraphs.
+[183] paragraph organization (cited 89x): This quality captures how effectively ideas are grouped and sequenced into logical paragraphs with clear topic transitions.
+[184] paragraph organization and coherence (cited 10x): Captures how effectively ideas are grouped into distinct paragraphs with clear thematic progression.
+[185] paragraph organization and cohesion (cited 3x): Captures the logical grouping of related ideas into distinct paragraphs introduced by clear transition words.
+[186] paragraph organization and structure (cited 4x): This captures the logical grouping and ordering of ideas into well-defined paragraphs.
+[187] paragraph organization and transitions (cited 5x): Captures the clear structuring of ideas into distinct paragraphs connected by transition words.
+[188] paragraph structure (cited 70x): Organizes the essay using clear transitions and distinct thematic paragraph units.
+[189] paragraph structure and coherence (cited 4x): Reflects the logical grouping of sentences into focused paragraphs that systematically advance the essay's core thesis.
+[190] paragraph structure and cohesion (cited 3x): Captures the author's ability to logically organize ideas into distinct paragraphs with clear topic sentences and relevant transitions.
+[191] paragraph structure and flow (cited 3x): The essay uses logical sequencing and transitions to organize points clearly within body paragraphs.
+[192] paragraph structure and text organization (cited 3x): Captures the author's ability to organize ideas into coherent paragraphs using clear transitions and introductory and concluding remarks.
+[193] paragraph-level cohesion (cited 3x): Measures how effectively ideas are organized and connected across paragraphs to build a unified response.
+[194] paragraphing (cited 3x): Reflects the appropriate use of paragraph divisions to group related ideas and guide the reader.
+[195] paragraphing and structural organization (cited 13x): Reflects the thoughtful grouping of ideas into distinct paragraphs that advance a central thesis.
+[196] personal narrative integration (cited 3x): The essay effectively uses relevant personal anecdotes to support and ground abstract claims.
+[197] phonetic spelling accuracy (cited 3x): The writer generally spells recognizable English words correctly, avoiding severe phonetic misspellings like 'egry', 'under Stan', or 'child rends'.
+[198] precision of vocabulary (cited 3x): Captures the accurate and natural choice of specific vocabulary words and context-appropriate idiomatic phrases.
+[199] progression of ideas (cited 3x): The writer advances unique points in each paragraph without recycling the same evidence or arguments.
+[200] punctuation accuracy (cited 7x): Evaluates the correct application of mechanics and punctuation to mark sentence boundaries.
+[201] punctuation and mechanics (cited 18x): Captures adherence to standard conventions of capitalization, apostrophe use, and terminal punctuation.
+[202] punctuation control (cited 20x): Demonstrates mastery over standard sentence boundaries and internal punctuation marks.
+[203] punctuation mechanics (cited 16x): Captures the accurate use of periods, commas, and capitalization to mark sentence boundaries.
+[204] register and tone (cited 4x): Captures the appropriateness of the style and formality of writing for the intended task and audience.
+[205] register and tone appropriateness (cited 3x): Captures how effectively the writing employs formal, context-appropriate vocabulary and tone suitable for a persuasive essay or letter.
+[206] register and tone control (cited 3x): This captures the writer's ability to adopt an appropriate style and formal tone suited to a letter addressed to an authority figure.
+[207] register appropriateness (cited 4x): This quality reflects the writer's ability to adopt a tone and format suited to a specific communicative audience and purpose.
+[208] rhetorical control (cited 3x): Demonstrates skill in framing an argument by considering opposing viewpoints to strengthen a position.
+[209] rhetorical engagement (cited 10x): The writer uses direct quotes and personal anecdotes to effectively draw the reader into the argument.
+[210] rhetorical framing (cited 6x): Captures the author's ability to engage the reader through dramatic stylistic choices, rhetorical questions, and persuasive direct address.
+[211] sentence boundaries (cited 11x): Captures the ability to delineate distinct sentences using proper end punctuation rather than creating long run-on structures.
+[212] sentence boundary control (cited 79x): The essay correctly uses punctuation and conjunctions to separate distinct thoughts into well-formed sentences.
+[213] sentence clarity (cited 4x): Captures the ability to construct a clear, understandable sentence that successfully communicates an idea.
+[214] sentence completeness (cited 5x): The writing relies on grammatical, fully formed sentences rather than sentence fragments.
+[215] sentence complexity (cited 9x): Captures the use of varied, multi-clause sentence structures to convey complex thoughts.
+[216] sentence complexity and variety (cited 5x): Reflects the capacity to construct complex, multi-clause sentences that connect ideas logically.
+[217] sentence construction (cited 12x): The writing uses recognizable, functional sentence structures that successfully communicate complete thoughts.
+[218] sentence control (cited 7x): captures the student's ability to construct manageable sentences that maintain grammatical cohesion without collapsing into chaotic run-ons.
+[219] sentence demarcation (cited 3x): The writer correctly uses terminal punctuation to delineate complete thoughts rather than stringing multiple clauses together.
+[220] sentence mechanics (cited 35x): Captures the mastery of basic English sentence boundaries, clause structure, and word order.
+[221] sentence punctuation and boundary control (cited 3x): This quality assesses how effectively a writer uses punctuation to delimit complete thoughts and avoid structural fragments or run-ons.
+[222] sentence structure (cited 10x): This captures the writer's command over syntax and ability to construct coherent, multi-clause sentences.
+[223] sentence structure accuracy (cited 5x): The essay demonstrates control over sentence boundaries using appropriate punctuation rather than running clauses together with commas.
+[224] sentence structure and mechanics (cited 5x): Reflects the degree of grammatical control, correct sentence demarcation, and accurate spelling.
+[225] sentence structure clarity (cited 3x): reflects the capacity to construct understandable, syntactically recognizable sentences that convey intended meaning
+[226] sentence structure control (cited 12x): Captures the ability to construct well-bounded sentences rather than stringing thoughts together in overly long run-ons.
+[227] sentence structure variety (cited 27x): Reflects the skill in varying sentence lengths and grammatical structures to enhance readability and flow.
+[228] sentence variety (cited 21x): Captures the use of diverse syntactic structures that create an engaging natural flow.
+[229] sentence variety and complexity (cited 16x): The essay uses conditional clauses and complex sentence structures to explain causal relationships and hypothetical scenarios.
+[230] sentence variety and control (cited 3x): The essay manages longer, more complex sentence structures to connect ideas, despite punctuation flaws.
+[231] sophisticated vocabulary (cited 21x): Measures the use of advanced, precise vocabulary and formal academic language appropriate for persuasive writing.
+[232] sophisticated vocabulary and word choice (cited 4x): Captures the precise and expressive use of advanced vocabulary to convey ideas effectively.
+[233] sophisticated vocabulary choice (cited 3x): Captures the use of expressive and varied words that elevate the tone of the writing.
+[234] spelling accuracy (cited 361x): Measures the extent to which words are spelled correctly throughout the text.
+[235] spelling and mechanics (cited 5x): The text demonstrates standard spelling conventions for common and mid-frequency English words.
+[236] spelling and orthographic accuracy (cited 3x): Reflects the accurate spelling of common standard English words.
+[237] spelling control (cited 5x): Measures the extent to which the essay is free from noticeable orthographic errors.
+[238] spelling precision (cited 11x): captures the accurate orthographic representation of intended words.
+[239] structural clarity (cited 9x): Reflects how well an essay organizes ideas sequentially to build a coherent and easy-to-follow response.
+[240] structural coherence (cited 53x): This captures the degree to which an essay is organized logically to convey a complete message.
+[241] structural coherence and organization (cited 5x): The essay displays a logical structure with clear paragraphing, distinct focal points, and smooth transitions that guide the reader through a multi-part argument.
+[242] structural coherence and paragraphing (cited 4x): The writing is logically organized into distinct, well-developed paragraphs that systematically advance the central thesis.
+[243] structural cohesion (cited 62x): Captures the logical organization and smooth progression of ideas across distinct thematic paragraphs.
+[244] structural cohesion and flow (cited 3x): Reflects how well ideas are connected across paragraphs using varied transitions and rhetorical devices.
+[245] structural cohesion and paragraphing (cited 3x): The essay is organized logically with clear topic sentences, developed supporting paragraphs, and a well-integrated counter-argument.
+[246] structural completeness (cited 36x): Measures whether the essay provides a finished piece of writing with a clear beginning, middle, and end rather than cutting off mid-sentence.
+[247] structural complexity (cited 5x): Captures the writer's ability to construct complex, multi-clause sentences rather than relying on simple sentence frames.
+[248] structural development (cited 6x): The essay uses coherent, extended narrative paragraphs to systematically develop distinct supporting points.
+[249] structural organization (cited 1052x): Captures the logical progression and clear paragraphing used to guide the reader through an argument.
+[250] structural organization and paragraphing (cited 7x): Captures the logical division of an essay into clear introductory, body, and concluding paragraphs with distinct transitions.
+[251] structural organization and transitions (cited 5x): Captures the logical progression of paragraphs and clear transitional signposts that guide the reader through an argument.
+[252] structural paragraphing (cited 3x): Measures how effectively the text is divided into distinct paragraphs to organize different thoughts.
+[253] structural progression (cited 12x): Captures the logical movement of thoughts from one distinct point to the next without rely on predictable, repetitive formulaic phrasing.
+[254] structural transitions (cited 3x): The text employs explicit discourse markers to signal shifts between introductory, body, and concluding sections.
+[255] structural variety (cited 11x): Reflects the use of varied sentence patterns to express ideas rather than relying on repetitive formulaic templates.
+[256] substantive elaboration (cited 4x): Captures how effectively an essay expands on main ideas using specific details, concrete examples, and explanations.
+[257] syntactic accuracy (cited 11x): It captures the degree to which an essay demonstrates command over grammatical structures without major errors.
+[258] syntactic clarity (cited 12x): Captures the ability to construct functional, understandable sentences rather than ungrammatical word strings.
+[259] syntactic completeness (cited 10x): Reflects the consistency with which a writer forms full, grammatically sound sentence structures without abrupt stops or missing clauses.
+[260] syntactic complexity (cited 501x): Captures the ability to construct sophisticated, multi-clause sentence structures correctly.
+[261] syntactic complexity and control (cited 45x): Captures the flexible use of diverse grammatical structures to create sophisticated, well-controlled sentences.
+[262] syntactic complexity and variety (cited 16x): This quality captures the use of sophisticated, varied clause structures to articulate nuanced thoughts.
+[263] syntactic control (cited 106x): The writer constructs readable, complete sentences with recognizable conditional and clause structures despite mechanical errors.
+[264] syntactic fluency (cited 15x): Captures the construction of longer, more complete sentence structures with fewer severe grammatical breakdowns.
+[265] syntactic sophistication (cited 20x): The essay uses a variety of complex sentence structures and transitional phrasing to construct fluent arguments.
+[266] syntactic structure (cited 3x): Reflects the writer's ability to construct intelligible, grammatically formed clauses and complex sentences.
+[267] syntactic variety (cited 84x): The writer employs varied sentence structures that create a natural conversational and rhetorical flow.
+[268] syntactic variety and complexity (cited 3x): This quality captures the writer's command over diverse sentence structures, using sophisticated grammatical phrasing rather than repetitive formulaic frames.
+[269] target language retention (cited 4x): Captures the ability to sustain writing in the target language rather than relying on a native language when struggling to express ideas.
+[270] text cohesion (cited 7x): The essay uses logical sequencing words and clear conversational transitions to connect ideas across paragraphs.
+[271] text organization (cited 12x): Captures the structured arrangement of ideas through paragraphing and explicit transitional markers.
+[272] textual coherence (cited 3x): The degree to which ideas are logically organized and developed into a clear overall structure.
+[273] textual cohesion (cited 22x): The essay uses logical transitional devices to signpost arguments and smoothly guide the reader through the text.
+[274] textual completeness (cited 3x): The writing presents complete, fully articulated thoughts rather than abrupt line breaks and interrupted sentences.
+[275] textual integration (cited 3x): Captures the author's ability to incorporate external text smoothly into an argumentative response.
+[276] textual organization (cited 36x): Captures the writer's ability to structure ideas logically and arrange content into cohesive paragraphs.
+[277] thematic coherence (cited 4x): The essay maintains a clear, unified focus on its core argument throughout all paragraphs.
+[278] thesis clarity (cited 4x): captures the explicit communication of the writer's central position or argument.
+[279] topic development (cited 9x): The writer elaborates on arguments using concrete, realistic examples that effectively support the main position.
+[280] topic focus (cited 12x): Measures how consistently the text stays on topic and communicates a coherent main message.
+[281] topic focus and coherence (cited 11x): This quality captures how effectively the essay maintains a unified topic and delivers a clear message.
+[282] topic focus and cohesion (cited 3x): The writing stays consistently on a single central subject rather than listing unrelated geographical locations or activities.
+[283] topic-specific vocabulary (cited 10x): Evaluates the breadth and accurate application of vocabulary relevant to the subject matter being discussed.
+[284] topical coherence (cited 23x): Reflects the capacity to maintain a consistent subject and illustrate ideas with meaningful, related details.
+[285] topical coherence and focus (cited 3x): This captures how effectively an essay sustains a clear main idea without introducing repetitive or off-topic tangents.
+[286] topical development (cited 5x): The essay effectively develops its main argument using personal examples and relevant supporting reasoning.
+[287] topical focus (cited 14x): Measures how consistently the writing remains centered around a specific central theme.
+[288] topical relevance (cited 3x): The content remains tightly focused on analyzing the core prompt without straying into overly long personal anecdotes.
+[289] transitional devices (cited 3x): Captures the effective use of discourse markers to signal logical progression between thoughts and sections.
+[290] transitional expressiveness (cited 3x): The essay employs a variety of transitional devices to signal shifts in thought and connect discourse smoothy.
+[291] transitional phrasing (cited 3x): The writer uses a variety of logical connectors and transition phrases to link ideas smoothly across and within paragraphs.
+[292] transitions and discourse markers (cited 3x): The essay employs natural transitional phrases to guide the reader clearly from one point to the next.
+[293] use of concrete examples (cited 3x): The essay incorporates relevant real-world illustrations that make abstract arguments clearer and more persuasive.
+[294] use of transitional devices (cited 4x): Reflects the use of explicit cohesive ties to signal logical connections between sentences and paragraphs.
+[295] vocabulary accuracy (cited 4x): This captures the appropriate selection and spelling of topic-specific words to convey meaning clearly.
+[296] vocabulary breadth (cited 4x): The writer employs a precise, rich, and wide-ranging vocabulary to express nuanced concepts.
+[297] vocabulary choice (cited 12x): Measures the use of advanced, precise, and appropriate vocabulary to convey ideas effectively.
+[298] vocabulary choice and precision (cited 4x): Measures the use of natural, precise, and expressive word choices appropriate to the context.
+[299] vocabulary control (cited 15x): Measures the accurate selection and spelling of everyday words to communicate specific meanings effectively.
+[300] vocabulary diversity (cited 4x): Captures the range and maturity of word choices used to articulate specific concepts without relying on simple or repetitive phrasing.
+[301] vocabulary precision (cited 44x): captures the student's ability to use context-appropriate and sophisticated word choices accurately.
+[302] vocabulary range (cited 204x): Evaluates the breadth and precision of the word choices used to express complex ideas.
+[303] vocabulary range and accuracy (cited 4x): The selection and correct usage of appropriate words to express specific meaning.
+[304] vocabulary range and precision (cited 30x): Measures the richness, specificity, and appropriateness of word choice in expressing nuanced ideas.
+[305] vocabulary range and sophistication (cited 4x): The writing incorporates a broad selection of specific, precise, and expressive vocabulary beyond basic functional words.
+[306] vocabulary richness (cited 12x): The writer employs a broader, more sophisticated range of academic and thematic vocabulary.
+[307] vocabulary sophistication (cited 59x): Reflects the use of precise, advanced, and varied word choices appropriate to the topic.
+[308] vocabulary usage (cited 26x): Reflects the writer's ability to select precise and context-appropriate words to express ideas clearly.
+[309] vocabulary variety (cited 132x): The writer uses a broader range of specific and natural vocabulary to express ideas clearly.
+[310] vocabulary variety and appropriateness (cited 9x): Demonstrates the range and accuracy of word choice used to express specific ideas effectively.
+[311] vocabulary variety and precision (cited 62x): The writer uses expressive, varied, and topic-appropriate word choices to articulate abstract ideas.
+[312] vocabulary variety and range (cited 4x): Measures the use of a diverse range of words to express nuances and precise meanings beyond basic vocabulary.
+[313] vocabulary variety and sophistication (cited 14x): Captures the use of advanced, precise, and varied word choice to convey specific ideas effectively.
+[314] voice and audience engagement (cited 3x): The essay uses varied stylistic moves to connect directly with the reader and maintain an engaging, lively tone.
+[315] word choice and vocabulary (cited 4x): Measures the accuracy, variety, and natural usage of words to convey specific meanings effectively.

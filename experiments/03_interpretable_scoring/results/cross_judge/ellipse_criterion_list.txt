@@ -1,0 +1,34 @@
+[0] (gpt-5.4-mini) Sentence Formation: Ability to produce complete, well-formed, and syntactically manageable sentences.
+[1] (gpt-5.4-mini) Vocabulary: Range, precision, and appropriateness of word choice used to express ideas.
+[2] (gpt-5.4-mini) Cohesion and Transitions: Use of linking words, discourse markers, and other devices to connect sentences and signal relationships between ideas.
+[3] (gpt-5.4-mini) Sentence Variety and Complexity: Range and sophistication of sentence structures, including variation and combination of clauses.
+[4] (gpt-5.4-mini) Clarity: How directly and easily the intended meaning can be understood.
+[5] (gpt-5.4-mini) Mechanics and Spelling: Control of spelling, punctuation, capitalization, and other written conventions.
+[6] (gpt-5.4-mini) Academic Register: Use of a formal, essay-appropriate tone and register suited to academic or persuasive writing.
+[7] (gpt-5.4-mini) Focus and Relevance: Consistency in staying on topic and keeping ideas, details, and support tied to the main task or claim.
+[8] (gpt-5.4-mini) Reasoning and Counterargument: Quality of the essay's reasoning, including development of claims, use of reasons, and handling of opposing views.
+[9] (claude-haiku-4.5) Sentence Variety: Uses a range of sentence structures and syntactic complexity to create fluent, varied prose.
+[10] (claude-haiku-4.5) Support and Elaboration: Develops ideas with specific examples, evidence, details, and elaboration that make claims concrete and substantiated.
+[11] (claude-haiku-4.5) Grammar Accuracy: Controls morphology and syntax accurately, including agreement, articles, prepositions, and verb forms.
+[12] (claude-haiku-4.5) Vocabulary Control: Uses varied, precise, appropriate, and natural word choice to convey meaning effectively.
+[13] (claude-haiku-4.5) Thesis Focus: States a clear central claim, stays on topic, addresses the prompt, and maintains that controlling idea throughout the response.
+[14] (claude-haiku-4.5) Counterargument and Nuance: Acknowledges opposing views, exceptions, or multiple perspectives and incorporates them into a more balanced and sophisticated argument.
+[15] (claude-haiku-4.5) Mechanics: Controls punctuation, capitalization, and other surface conventions besides spelling.
+[16] (claude-haiku-4.5) Reasoning and Explanation: Explains claims through logical, causal, or contextual reasoning that shows why ideas follow and what they imply.
+[17] (claude-haiku-4.5) Rhetorical Sophistication: Uses figurative language, framing, rhetorical devices, or other persuasive stylistic techniques strategically.
+[18] (gemini-3.6-flash) Overall Organization: Macro-level structuring of the essay into a clear overall arrangement of sections or major points.
+[19] (gemini-3.6-flash) Vocabulary Range and Precision: Breadth, sophistication, and accuracy of word choice used to express meaning precisely and appropriately.
+[20] (gemini-3.6-flash) Elaboration and Support: Extent to which ideas are developed in depth through explanations, examples, details, and other supporting material.
+[21] (gemini-3.6-flash) Sentence Variety and Complexity: Range and sophistication of sentence patterns, including complex and varied structures.
+[22] (gemini-3.6-flash) Grammatical Accuracy: Correctness and control of grammar, syntax, agreement, and standard usage.
+[23] (gemini-3.6-flash) Transitions and Cohesive Devices: Effective use of linking words, discourse markers, and transitional phrases to signal relationships between ideas.
+[24] (gemini-3.6-flash) Paragraph Organization: Logical grouping, internal development, and sequencing of ideas into coherent paragraphs.
+[25] (gemini-3.6-flash) Mechanics and Conventions: Command of general writing conventions such as capitalization, punctuation, spelling, and formatting when treated as a broad mechanics construct.
+[26] (gemini-3.6-flash) Topic Focus: Consistency in staying centered on a clear main topic or thesis without drifting off task.
+[27] (deepseek-v4-flash) Syntactic complexity: Using varied and complex sentence patterns and clause structures to express relationships among ideas.
+[28] (deepseek-v4-flash) Elaboration and support: Developing claims with concrete details, examples, anecdotes, and other elaborated support.
+[29] (deepseek-v4-flash) Spelling, punctuation, and mechanics: Controlling spelling, punctuation, capitalization, and other surface conventions of written English.
+[30] (deepseek-v4-flash) Cohesion and transitions: Linking ideas and paragraphs smoothly through transitions, signposting, and clear reference.
+[31] (deepseek-v4-flash) Grammatical accuracy: Producing grammatically correct English with consistent control of core forms and closely related error patterns.
+[32] (deepseek-v4-flash) Sentence formation: Forming complete, readable, and well-controlled sentences that avoid fragments, garbling, and boundary problems.
+[33] (deepseek-v4-flash) Task awareness and register: Adapting the essay's tone, formality, genre, audience orientation, and response to the assigned task.

@@ -1,0 +1,98 @@
+{
+  "n_items": 300,
+  "n_matchings": 40,
+  "n_pairs": 6000,
+  "degrees": [
+    5,
+    10,
+    15,
+    20,
+    25,
+    30,
+    35,
+    40
+  ],
+  "budgets": [
+    750,
+    1500,
+    2250,
+    3000,
+    3750,
+    4500,
+    5250,
+    6000
+  ],
+  "seed": 42,
+  "n_duplicate_pairs": 0,
+  "n_self_pairs": 0,
+  "n_same_op_pairs": 0,
+  "n_forbidden_same_op_edges": 150,
+  "cross_delta_fraction": 0.49366666666666664,
+  "per_degree": {
+    "5": {
+      "regular": true,
+      "connected": true,
+      "deg_min": 5,
+      "deg_max": 5,
+      "components": 1,
+      "fiedler": 1.0784134479322232
+    },
+    "10": {
+      "regular": true,
+      "connected": true,
+      "deg_min": 10,
+      "deg_max": 10,
+      "components": 1,
+      "fiedler": 4.3084705108914605
+    },
+    "15": {
+      "regular": true,
+      "connected": true,
+      "deg_min": 15,
+      "deg_max": 15,
+      "components": 1,
+      "fiedler": 7.69174781992697
+    },
+    "20": {
+      "regular": true,
+      "connected": true,
+      "deg_min": 20,
+      "deg_max": 20,
+      "components": 1,
+      "fiedler": 11.688107129200791
+    },
+    "25": {
+      "regular": true,
+      "connected": true,
+      "deg_min": 25,
+      "deg_max": 25,
+      "components": 1,
+      "fiedler": 15.625776541770882
+    },
+    "30": {
+      "regular": true,
+      "connected": true,
+      "deg_min": 30,
+      "deg_max": 30,
+      "components": 1,
+      "fiedler": 20.095148419702266
+    },
+    "35": {
+      "regular": true,
+      "connected": true,
+      "deg_min": 35,
+      "deg_max": 35,
+      "components": 1,
+      "fiedler": 24.40419143286597
+    },
+    "40": {
+      "regular": true,
+      "connected": true,
+      "deg_min": 40,
+      "deg_max": 40,
+      "components": 1,
+      "fiedler": 28.414626657564458
+    }
+  },
+  "all_ok": true
+}

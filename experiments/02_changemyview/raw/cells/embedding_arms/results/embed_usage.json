@@ -1,0 +1,20 @@
+[
+  {
+    "n_texts": 300,
+    "n_requests": 2,
+    "prompt_tokens": 26279,
+    "usd": 0.0034162700000000003,
+    "model": "text-embedding-3-large",
+    "dim": 3072,
+    "n_cached_after": 300
+  },
+  {
+    "n_texts": 116777,
+    "n_requests": 457,
+    "prompt_tokens": 11218411,
+    "usd": 1.45839343,
+    "model": "text-embedding-3-large",
+    "dim": 3072,
+    "n_cached_after": 117077
+  }
+]

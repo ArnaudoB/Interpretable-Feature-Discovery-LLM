@@ -1,0 +1,80 @@
+# Single experiment configuration for the cover-letter feature-discovery study.
+# One synthetic corpus, one comparison graph, two methods (comparative + pointwise).
+
+cell:
+  label: cover_letters
+  n_letters: 200
+  seed: 42
+
+generation:
+  n_anchors: 16                 # extreme anti-correlated anchors (8 A / 8 B), excluded from balance/ortho gates
+  n_assignment_candidates: 256  # candidate designs; keep the most orthogonal
+  orthogonality:
+    max_abs_corr: 0.15          # gate on non-structural pairwise |corr| (balanced subset)
+  length_corr_max: 0.22         # gate on |corr(word_count, each primary dial)|
+
+graph:
+  n_matchings: 40                          # comparison budget d; 200 letters -> 100 pairs/matching -> 4000 pairs
+  seed: 42
+  cross_band_bias: 0.0                      # pure random matching (dials are orthogonal; no band steering needed)
+  out_dir: results
+
+judge:
+  comparative_model: gpt-5.4-mini-2026-03-17   # pairwise judge (batch)
+  pointwise_model: gpt-5.4-mini-2026-03-17     # pointwise scorer (batch)
+  reasoning_model: gpt-5.4-2026-03-05          # taxonomy + rubric elicitation (sync, high reasoning)
+  judge_effort: none                           # no reasoning on the mini judge/scorer
+  high_effort: high                            # taxonomy + rubric elicitation
+  max_out_comparative: 3000
+  max_out_pointwise: 2500
+  max_out_rubric: 50000    # high reasoning caps reasoning+output together; leave ample headroom
+  max_out_taxonomy: 60000
+  taxonomy_min_cite: 10    # taxonomy only groups dimensions cited >= this many times
+  taxonomy_timeout_s: 2400
+  rubric_sample: 40                            # letters shown to derive the pointwise rubric (M3)
+  reps: 20                                      # pointwise scoring reps (cost-matched to the comparative arm)
+  cluster_thresholds: [0.55, 0.60, 0.65]        # M3a/M3b/M3c hierarchical-clustering cutoffs
+  m3_elicitations: 27                           # E: subsample elicitations pooled for the M3 rubric
+  taxo_pool_runs: 50                            # R: LLM-taxonomy fusions, each over a random E-subset (06b)
+  smoke_pairs: 8
+  smoke_letters: 6
+  seed: 42
+  cache_dir: cache/responses
+  out_dir: results
+
+model:
+  type: gated_symmetric_logit
+  ridge: 1.0e-3
+  tol: 1.0e-5
+  max_iter: 2000
+  kappa_max: 10.0       # drop criteria with condition number kappa > 10 (paper operating point)
+  rho_threshold: 0.75   # drop criteria with reliability rho <= 0.75 (paper operating point).
+                        # (At the looser rho <= 0.5, two borderline criteria with rho ~ 0.65 and
+                        #  0.72 survive and the point-estimate K becomes 23 instead of 21.)
+
+# The pointwise-canonical ablation (tab:main's four "Ablations" rows). Our discovered criteria
+# are held fixed and only the SCORING mechanism changes: a 0-10 absolute rating per criterion
+# instead of the gated Bradley-Terry fit. Two panels isolate the two things the model does --
+# k32 is every canonical criterion but the "Other" catch-all (what you have if you never fit
+# the model at all, since the kappa/rho gate IS part of the model), k21 is the gate-kept set.
+pointwise_canonical:
+  criteria_source: gated/llm_taxonomy/taxonomy.json   # the 33 canonical criteria (step 03)
+  gated_fit_summary: fit_summary.json                 # its "kept" list is the k21 panel (step 04)
+  drop_criteria: [Other]                              # no single construct to rate
+  scale: [0, 10]
+  max_out: 4000   # NOT judge.max_out_pointwise (2500): 32 x (name + evidence + score) overruns
+                  # it, and a truncated panel is a lost spec.
+  # Scoring reps per arm (n*), fixed at the values of the reported run rather than re-solved
+  # from the price table on every run; n* = floor(comparative_spend / per_rep).
+  # `07d smoke` prints the re-solved value for comparison; `07d submit` uses these.
+  n_star:
+    k32: 14
+    k21: 20
+
+# Semantic-matching thresholds (held fixed across bootstrap replicates).
+metrics:
+  theta: 0.406   # calibrated 95th-pct-of-rejected-pairs cosine (aligned name)
+  tau: 0.4       # a-priori |r| tracking threshold
+
+bootstrap:
+  B: 50          # run-variance bootstrap replicates (comparative + M1)

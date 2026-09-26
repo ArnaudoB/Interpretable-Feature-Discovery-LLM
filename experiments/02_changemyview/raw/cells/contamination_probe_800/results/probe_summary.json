@@ -1,0 +1,12 @@
+{
+  "p1_acc": 0.53625,
+  "p1_ci_low": 0.511875,
+  "p2_acc": 0.535625,
+  "lift": -0.000625,
+  "lift_ci": [
+    -0.024375000000000036,
+    0.02312499999999995
+  ],
+  "n_unparsed": 0,
+  "verdict": "WEAK SIGNAL \u2014 add a contamination caveat + harden de-identification."
+}

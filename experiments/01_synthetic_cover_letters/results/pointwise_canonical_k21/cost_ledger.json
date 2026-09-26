@@ -1,0 +1,11 @@
+{
+  "arm": "k21",
+  "n_specs": 4000,
+  "n_present": 4000,
+  "n_star": 20,
+  "n_partial_panels": 8,
+  "n_letters": 200,
+  "n_dims": 21,
+  "reported_basis": "batch",
+  "realized_usd_batch": 3.094906999999992
+}

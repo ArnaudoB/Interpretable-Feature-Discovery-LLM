@@ -1,0 +1,1418 @@
+{
+  "model": "gpt-5.4-2026-03-05",
+  "reasoning_effort": "high",
+  "min_cite": 3,
+  "n_phrases": 324,
+  "criteria": [
+    {
+      "name": "Formal tone",
+      "definition": "Maintains an appropriately academic, essay-like register rather than a casual or conversational one.",
+      "members": [
+        {
+          "index": 0,
+          "name": "academic tone"
+        },
+        {
+          "index": 38,
+          "name": "argumentative tone"
+        },
+        {
+          "index": 154,
+          "name": "formal tone"
+        },
+        {
+          "index": 306,
+          "name": "tone"
+        },
+        {
+          "index": 307,
+          "name": "tone control"
+        }
+      ]
+    },
+    {
+      "name": "Rhetorical force",
+      "definition": "Uses assertive, engaging, or emphatic language to make the argument feel more persuasive and forceful.",
+      "members": [
+        {
+          "index": 31,
+          "name": "argumentative emphasis"
+        },
+        {
+          "index": 32,
+          "name": "argumentative engagement"
+        },
+        {
+          "index": 34,
+          "name": "argumentative force"
+        },
+        {
+          "index": 39,
+          "name": "assertive stance"
+        },
+        {
+          "index": 40,
+          "name": "assertiveness"
+        },
+        {
+          "index": 195,
+          "name": "persuasive emphasis"
+        },
+        {
+          "index": 196,
+          "name": "persuasive force"
+        },
+        {
+          "index": 197,
+          "name": "persuasive tone"
+        },
+        {
+          "index": 198,
+          "name": "persuasive voice"
+        },
+        {
+          "index": 241,
+          "name": "rhetorical development"
+        },
+        {
+          "index": 243,
+          "name": "rhetorical engagement"
+        },
+        {
+          "index": 244,
+          "name": "rhetorical force"
+        },
+        {
+          "index": 245,
+          "name": "rhetorical framing"
+        },
+        {
+          "index": 246,
+          "name": "rhetorical questioning"
+        }
+      ]
+    },
+    {
+      "name": "Introductory framing",
+      "definition": "Opens by setting up the issue, hooking the reader, or framing the topic as a debate worth arguing.",
+      "members": [
+        {
+          "index": 35,
+          "name": "argumentative framing"
+        },
+        {
+          "index": 95,
+          "name": "contextual framing"
+        },
+        {
+          "index": 125,
+          "name": "engagement"
+        },
+        {
+          "index": 126,
+          "name": "engaging introduction"
+        },
+        {
+          "index": 127,
+          "name": "engaging lead"
+        },
+        {
+          "index": 158,
+          "name": "introductory framing"
+        },
+        {
+          "index": 182,
+          "name": "organized introduction"
+        }
+      ]
+    },
+    {
+      "name": "Thesis clarity and control",
+      "definition": "States a clear arguable position and maintains that position as the controlling focus of the essay.",
+      "members": [
+        {
+          "index": 8,
+          "name": "argument clarity"
+        },
+        {
+          "index": 11,
+          "name": "argument consistency"
+        },
+        {
+          "index": 15,
+          "name": "argument focus"
+        },
+        {
+          "index": 17,
+          "name": "argument persistence"
+        },
+        {
+          "index": 23,
+          "name": "argumentative clarity"
+        },
+        {
+          "index": 27,
+          "name": "argumentative control"
+        },
+        {
+          "index": 33,
+          "name": "argumentative focus"
+        },
+        {
+          "index": 37,
+          "name": "argumentative stance"
+        },
+        {
+          "index": 53,
+          "name": "claim clarity"
+        },
+        {
+          "index": 57,
+          "name": "clarity of claim"
+        },
+        {
+          "index": 59,
+          "name": "clarity of position"
+        },
+        {
+          "index": 60,
+          "name": "clear claim"
+        },
+        {
+          "index": 62,
+          "name": "clear line of reasoning"
+        },
+        {
+          "index": 64,
+          "name": "clear position"
+        },
+        {
+          "index": 65,
+          "name": "clear stance"
+        },
+        {
+          "index": 66,
+          "name": "clear thesis"
+        },
+        {
+          "index": 145,
+          "name": "explicit claim"
+        },
+        {
+          "index": 146,
+          "name": "explicit position"
+        },
+        {
+          "index": 147,
+          "name": "explicit stance"
+        },
+        {
+          "index": 148,
+          "name": "explicit thesis"
+        },
+        {
+          "index": 149,
+          "name": "focus"
+        },
+        {
+          "index": 150,
+          "name": "focused claim"
+        },
+        {
+          "index": 153,
+          "name": "focused thesis"
+        },
+        {
+          "index": 187,
+          "name": "overall coherence"
+        },
+        {
+          "index": 200,
+          "name": "position clarity"
+        },
+        {
+          "index": 201,
+          "name": "position consistency"
+        },
+        {
+          "index": 202,
+          "name": "position control"
+        },
+        {
+          "index": 203,
+          "name": "positioning"
+        },
+        {
+          "index": 225,
+          "name": "reasoned stance"
+        },
+        {
+          "index": 262,
+          "name": "stance clarity"
+        },
+        {
+          "index": 263,
+          "name": "stance consistency"
+        },
+        {
+          "index": 264,
+          "name": "stance control"
+        },
+        {
+          "index": 265,
+          "name": "stance development"
+        },
+        {
+          "index": 266,
+          "name": "stated claim"
+        },
+        {
+          "index": 267,
+          "name": "stated position"
+        },
+        {
+          "index": 300,
+          "name": "thesis and conclusion"
+        },
+        {
+          "index": 301,
+          "name": "thesis clarity"
+        },
+        {
+          "index": 302,
+          "name": "thesis consistency"
+        },
+        {
+          "index": 303,
+          "name": "thesis control"
+        },
+        {
+          "index": 304,
+          "name": "thesis development"
+        },
+        {
+          "index": 305,
+          "name": "thesis focus"
+        }
+      ]
+    },
+    {
+      "name": "Organization",
+      "definition": "Arranges the essay into clear parts or paragraphs that give the argument a recognizable structure.",
+      "members": [
+        {
+          "index": 16,
+          "name": "argument organization"
+        },
+        {
+          "index": 19,
+          "name": "argument structure"
+        },
+        {
+          "index": 47,
+          "name": "basic organization"
+        },
+        {
+          "index": 63,
+          "name": "clear organization"
+        },
+        {
+          "index": 130,
+          "name": "essay organization"
+        },
+        {
+          "index": 131,
+          "name": "essay structure"
+        },
+        {
+          "index": 157,
+          "name": "idea organization"
+        },
+        {
+          "index": 165,
+          "name": "logical organization"
+        },
+        {
+          "index": 173,
+          "name": "organization"
+        },
+        {
+          "index": 174,
+          "name": "organizational clarity"
+        },
+        {
+          "index": 176,
+          "name": "organizational coherence"
+        },
+        {
+          "index": 177,
+          "name": "organizational control"
+        },
+        {
+          "index": 178,
+          "name": "organizational development"
+        },
+        {
+          "index": 179,
+          "name": "organizational structure"
+        },
+        {
+          "index": 181,
+          "name": "organized development"
+        },
+        {
+          "index": 183,
+          "name": "organized line of reasoning"
+        },
+        {
+          "index": 185,
+          "name": "organized structure"
+        },
+        {
+          "index": 186,
+          "name": "organized support"
+        },
+        {
+          "index": 188,
+          "name": "overall organization"
+        },
+        {
+          "index": 222,
+          "name": "reasoned organization"
+        },
+        {
+          "index": 269,
+          "name": "structural organization"
+        },
+        {
+          "index": 270,
+          "name": "structure"
+        }
+      ]
+    },
+    {
+      "name": "Coherence and cohesion",
+      "definition": "Links ideas smoothly in a logical progression through transitions and a connected line of thought.",
+      "members": [
+        {
+          "index": 10,
+          "name": "argument coherence"
+        },
+        {
+          "index": 69,
+          "name": "coherence"
+        },
+        {
+          "index": 70,
+          "name": "cohesion"
+        },
+        {
+          "index": 72,
+          "name": "cohesive flow"
+        },
+        {
+          "index": 163,
+          "name": "line of reasoning"
+        },
+        {
+          "index": 166,
+          "name": "logical progression"
+        },
+        {
+          "index": 184,
+          "name": "organized reasoning"
+        },
+        {
+          "index": 223,
+          "name": "reasoned progression"
+        },
+        {
+          "index": 268,
+          "name": "structural coherence"
+        },
+        {
+          "index": 308,
+          "name": "transitional control"
+        },
+        {
+          "index": 309,
+          "name": "transitional flow"
+        },
+        {
+          "index": 310,
+          "name": "transitions"
+        }
+      ]
+    },
+    {
+      "name": "Conclusion",
+      "definition": "Provides an effective ending that closes the essay by restating or synthesizing the main claim and reasons.",
+      "members": [
+        {
+          "index": 9,
+          "name": "argument closure"
+        },
+        {
+          "index": 24,
+          "name": "argumentative closure"
+        },
+        {
+          "index": 26,
+          "name": "argumentative conclusion"
+        },
+        {
+          "index": 61,
+          "name": "clear conclusion"
+        },
+        {
+          "index": 67,
+          "name": "closing emphasis"
+        },
+        {
+          "index": 68,
+          "name": "closure"
+        },
+        {
+          "index": 71,
+          "name": "cohesive conclusion"
+        },
+        {
+          "index": 76,
+          "name": "concluding closure"
+        },
+        {
+          "index": 77,
+          "name": "concluding effectiveness"
+        },
+        {
+          "index": 78,
+          "name": "concluding emphasis"
+        },
+        {
+          "index": 79,
+          "name": "concluding force"
+        },
+        {
+          "index": 80,
+          "name": "concluding synthesis"
+        },
+        {
+          "index": 81,
+          "name": "concluding wrap-up"
+        },
+        {
+          "index": 82,
+          "name": "conclusion"
+        },
+        {
+          "index": 83,
+          "name": "conclusion control"
+        },
+        {
+          "index": 84,
+          "name": "conclusion development"
+        },
+        {
+          "index": 85,
+          "name": "conclusion effectiveness"
+        },
+        {
+          "index": 86,
+          "name": "conclusion of argument"
+        },
+        {
+          "index": 87,
+          "name": "conclusion quality"
+        },
+        {
+          "index": 88,
+          "name": "conclusion strength"
+        },
+        {
+          "index": 89,
+          "name": "conclusion synthesis"
+        },
+        {
+          "index": 121,
+          "name": "effective conclusion"
+        },
+        {
+          "index": 124,
+          "name": "ending coherence"
+        },
+        {
+          "index": 128,
+          "name": "essay closure"
+        },
+        {
+          "index": 175,
+          "name": "organizational closure"
+        },
+        {
+          "index": 180,
+          "name": "organized conclusion"
+        },
+        {
+          "index": 192,
+          "name": "persuasive closing"
+        },
+        {
+          "index": 193,
+          "name": "persuasive conclusion"
+        },
+        {
+          "index": 218,
+          "name": "reasoned conclusion"
+        },
+        {
+          "index": 242,
+          "name": "rhetorical emphasis"
+        }
+      ]
+    },
+    {
+      "name": "Elaboration",
+      "definition": "Expands claims beyond bare assertion by explaining and elaborating reasons or evidence in fuller detail.",
+      "members": [
+        {
+          "index": 13,
+          "name": "argument development"
+        },
+        {
+          "index": 14,
+          "name": "argument elaboration"
+        },
+        {
+          "index": 30,
+          "name": "argumentative elaboration"
+        },
+        {
+          "index": 55,
+          "name": "claim support"
+        },
+        {
+          "index": 111,
+          "name": "developed support"
+        },
+        {
+          "index": 112,
+          "name": "development"
+        },
+        {
+          "index": 113,
+          "name": "development of argument"
+        },
+        {
+          "index": 114,
+          "name": "development of claims"
+        },
+        {
+          "index": 117,
+          "name": "development of ideas"
+        },
+        {
+          "index": 118,
+          "name": "development of reasoning"
+        },
+        {
+          "index": 119,
+          "name": "development of reasons"
+        },
+        {
+          "index": 123,
+          "name": "elaboration"
+        },
+        {
+          "index": 136,
+          "name": "explanation of evidence"
+        },
+        {
+          "index": 138,
+          "name": "explanatory depth"
+        },
+        {
+          "index": 140,
+          "name": "explanatory development"
+        },
+        {
+          "index": 141,
+          "name": "explanatory elaboration"
+        },
+        {
+          "index": 144,
+          "name": "explanatory support"
+        },
+        {
+          "index": 151,
+          "name": "focused development"
+        },
+        {
+          "index": 152,
+          "name": "focused reasoning"
+        },
+        {
+          "index": 155,
+          "name": "idea development"
+        },
+        {
+          "index": 156,
+          "name": "idea elaboration"
+        },
+        {
+          "index": 217,
+          "name": "reasoned claim"
+        },
+        {
+          "index": 219,
+          "name": "reasoned development"
+        },
+        {
+          "index": 220,
+          "name": "reasoned elaboration"
+        },
+        {
+          "index": 231,
+          "name": "reasoning elaboration"
+        },
+        {
+          "index": 274,
+          "name": "support elaboration"
+        },
+        {
+          "index": 278,
+          "name": "supporting development"
+        },
+        {
+          "index": 282,
+          "name": "supporting explanation"
+        },
+        {
+          "index": 285,
+          "name": "supportive elaboration"
+        }
+      ]
+    },
+    {
+      "name": "Breadth of support",
+      "definition": "Supports the position with a wider range of distinct reasons, impacts, or supporting points rather than relying on one narrow idea.",
+      "members": [
+        {
+          "index": 7,
+          "name": "argument breadth"
+        },
+        {
+          "index": 41,
+          "name": "audience awareness"
+        },
+        {
+          "index": 48,
+          "name": "breadth of reasoning"
+        },
+        {
+          "index": 49,
+          "name": "breadth of support"
+        },
+        {
+          "index": 54,
+          "name": "claim development"
+        },
+        {
+          "index": 115,
+          "name": "development of concerns"
+        },
+        {
+          "index": 120,
+          "name": "development of support"
+        },
+        {
+          "index": 194,
+          "name": "persuasive elaboration"
+        },
+        {
+          "index": 210,
+          "name": "range of support"
+        },
+        {
+          "index": 211,
+          "name": "range of supporting points"
+        },
+        {
+          "index": 212,
+          "name": "range of supporting reasons"
+        },
+        {
+          "index": 213,
+          "name": "reason development"
+        },
+        {
+          "index": 226,
+          "name": "reasoned support"
+        },
+        {
+          "index": 230,
+          "name": "reasoning development"
+        },
+        {
+          "index": 232,
+          "name": "reasoning range"
+        },
+        {
+          "index": 272,
+          "name": "support breadth"
+        },
+        {
+          "index": 273,
+          "name": "support development"
+        },
+        {
+          "index": 284,
+          "name": "supporting reasons"
+        },
+        {
+          "index": 286,
+          "name": "supportive reasoning"
+        }
+      ]
+    },
+    {
+      "name": "Use of source evidence",
+      "definition": "Uses details from the source text as evidence and ties them to the essay's claims.",
+      "members": [
+        {
+          "index": 20,
+          "name": "argument support"
+        },
+        {
+          "index": 132,
+          "name": "evidence integration"
+        },
+        {
+          "index": 133,
+          "name": "evidence use"
+        },
+        {
+          "index": 134,
+          "name": "evidentiary support"
+        },
+        {
+          "index": 250,
+          "name": "source integration"
+        },
+        {
+          "index": 251,
+          "name": "source use"
+        },
+        {
+          "index": 252,
+          "name": "source-based reasoning"
+        },
+        {
+          "index": 253,
+          "name": "source-based support"
+        },
+        {
+          "index": 256,
+          "name": "specific evidence use"
+        },
+        {
+          "index": 259,
+          "name": "specific support"
+        },
+        {
+          "index": 275,
+          "name": "support integration"
+        },
+        {
+          "index": 280,
+          "name": "supporting evidence"
+        },
+        {
+          "index": 281,
+          "name": "supporting evidence use"
+        },
+        {
+          "index": 288,
+          "name": "text evidence use"
+        },
+        {
+          "index": 289,
+          "name": "text integration"
+        },
+        {
+          "index": 290,
+          "name": "text-based evidence"
+        },
+        {
+          "index": 291,
+          "name": "text-based evidence use"
+        },
+        {
+          "index": 292,
+          "name": "text-based support"
+        },
+        {
+          "index": 293,
+          "name": "textual evidence"
+        },
+        {
+          "index": 294,
+          "name": "textual evidence use"
+        },
+        {
+          "index": 295,
+          "name": "textual grounding"
+        },
+        {
+          "index": 296,
+          "name": "textual integration"
+        },
+        {
+          "index": 297,
+          "name": "textual reference"
+        },
+        {
+          "index": 298,
+          "name": "textual support"
+        },
+        {
+          "index": 299,
+          "name": "textual use"
+        },
+        {
+          "index": 311,
+          "name": "use of evidence"
+        },
+        {
+          "index": 312,
+          "name": "use of source details"
+        },
+        {
+          "index": 313,
+          "name": "use of source evidence"
+        },
+        {
+          "index": 314,
+          "name": "use of source ideas"
+        },
+        {
+          "index": 315,
+          "name": "use of source support"
+        },
+        {
+          "index": 316,
+          "name": "use of source-based evidence"
+        },
+        {
+          "index": 317,
+          "name": "use of source-based reasoning"
+        },
+        {
+          "index": 318,
+          "name": "use of source-based support"
+        },
+        {
+          "index": 320,
+          "name": "use of supporting details"
+        },
+        {
+          "index": 321,
+          "name": "use of supporting evidence"
+        },
+        {
+          "index": 322,
+          "name": "use of textual evidence"
+        }
+      ]
+    },
+    {
+      "name": "Specificity",
+      "definition": "Makes the argument concrete and vivid through specific examples, details, or particularized consequences.",
+      "members": [
+        {
+          "index": 90,
+          "name": "concrete elaboration"
+        },
+        {
+          "index": 91,
+          "name": "concrete illustration"
+        },
+        {
+          "index": 92,
+          "name": "concrete reasoning"
+        },
+        {
+          "index": 93,
+          "name": "concrete support"
+        },
+        {
+          "index": 143,
+          "name": "explanatory specificity"
+        },
+        {
+          "index": 236,
+          "name": "relevant elaboration"
+        },
+        {
+          "index": 255,
+          "name": "specific elaboration"
+        },
+        {
+          "index": 257,
+          "name": "specific illustration"
+        },
+        {
+          "index": 260,
+          "name": "specific supporting detail"
+        },
+        {
+          "index": 261,
+          "name": "specificity"
+        },
+        {
+          "index": 276,
+          "name": "supporting detail"
+        },
+        {
+          "index": 277,
+          "name": "supporting detail use"
+        },
+        {
+          "index": 279,
+          "name": "supporting elaboration"
+        },
+        {
+          "index": 319,
+          "name": "use of support"
+        }
+      ]
+    },
+    {
+      "name": "Analytical reasoning",
+      "definition": "Explains how or why evidence leads to claims through analysis, causal logic, or explicit reasoning.",
+      "members": [
+        {
+          "index": 3,
+          "name": "analysis"
+        },
+        {
+          "index": 5,
+          "name": "analytical reasoning"
+        },
+        {
+          "index": 36,
+          "name": "argumentative reasoning"
+        },
+        {
+          "index": 50,
+          "name": "causal reasoning"
+        },
+        {
+          "index": 51,
+          "name": "cause-and-effect reasoning"
+        },
+        {
+          "index": 52,
+          "name": "cause-effect reasoning"
+        },
+        {
+          "index": 74,
+          "name": "comparative reasoning"
+        },
+        {
+          "index": 110,
+          "name": "developed reasoning"
+        },
+        {
+          "index": 122,
+          "name": "elaborated reasoning"
+        },
+        {
+          "index": 135,
+          "name": "explanation"
+        },
+        {
+          "index": 137,
+          "name": "explanatory clarity"
+        },
+        {
+          "index": 139,
+          "name": "explanatory detail"
+        },
+        {
+          "index": 142,
+          "name": "explanatory reasoning"
+        },
+        {
+          "index": 164,
+          "name": "logical development"
+        },
+        {
+          "index": 167,
+          "name": "logical reasoning"
+        },
+        {
+          "index": 214,
+          "name": "reasoned analysis"
+        },
+        {
+          "index": 216,
+          "name": "reasoned argumentation"
+        },
+        {
+          "index": 221,
+          "name": "reasoned explanation"
+        },
+        {
+          "index": 227,
+          "name": "reasoning"
+        },
+        {
+          "index": 258,
+          "name": "specific reasoning"
+        },
+        {
+          "index": 283,
+          "name": "supporting reasoning"
+        }
+      ]
+    },
+    {
+      "name": "Argument depth",
+      "definition": "Engages the issue at a deeper level by addressing broader implications, complexities, or substantive consequences.",
+      "members": [
+        {
+          "index": 4,
+          "name": "analysis of implications"
+        },
+        {
+          "index": 12,
+          "name": "argument depth"
+        },
+        {
+          "index": 25,
+          "name": "argumentative complexity"
+        },
+        {
+          "index": 28,
+          "name": "argumentative depth"
+        },
+        {
+          "index": 73,
+          "name": "commentary"
+        },
+        {
+          "index": 109,
+          "name": "critical analysis"
+        },
+        {
+          "index": 159,
+          "name": "issue analysis"
+        },
+        {
+          "index": 160,
+          "name": "issue awareness"
+        },
+        {
+          "index": 161,
+          "name": "issue framing"
+        },
+        {
+          "index": 204,
+          "name": "practical concern"
+        },
+        {
+          "index": 215,
+          "name": "reasoned argument"
+        },
+        {
+          "index": 228,
+          "name": "reasoning about consequences"
+        },
+        {
+          "index": 229,
+          "name": "reasoning depth"
+        }
+      ]
+    },
+    {
+      "name": "Counterargument handling",
+      "definition": "Acknowledges opposing views or objections and responds to them within the argument.",
+      "members": [
+        {
+          "index": 1,
+          "name": "acknowledgment of counterargument"
+        },
+        {
+          "index": 2,
+          "name": "acknowledgment of counterpoint"
+        },
+        {
+          "index": 21,
+          "name": "argumentation"
+        },
+        {
+          "index": 29,
+          "name": "argumentative development"
+        },
+        {
+          "index": 43,
+          "name": "balanced acknowledgment"
+        },
+        {
+          "index": 45,
+          "name": "balanced consideration"
+        },
+        {
+          "index": 46,
+          "name": "balanced reasoning"
+        },
+        {
+          "index": 101,
+          "name": "counterargument"
+        },
+        {
+          "index": 102,
+          "name": "counterargument anticipation"
+        },
+        {
+          "index": 103,
+          "name": "counterargument awareness"
+        },
+        {
+          "index": 104,
+          "name": "counterargument development"
+        },
+        {
+          "index": 105,
+          "name": "counterargument engagement"
+        },
+        {
+          "index": 106,
+          "name": "counterargument handling"
+        },
+        {
+          "index": 108,
+          "name": "counterpoint handling"
+        },
+        {
+          "index": 116,
+          "name": "development of counterargument"
+        },
+        {
+          "index": 224,
+          "name": "reasoned rebuttal"
+        },
+        {
+          "index": 254,
+          "name": "specific counterargument"
+        }
+      ]
+    },
+    {
+      "name": "Nuanced stance",
+      "definition": "Presents a balanced or qualified judgment that weighs both sides, sets conditions, or avoids an overly absolute stance.",
+      "members": [
+        {
+          "index": 6,
+          "name": "argument balance"
+        },
+        {
+          "index": 22,
+          "name": "argumentative balance"
+        },
+        {
+          "index": 42,
+          "name": "balance"
+        },
+        {
+          "index": 44,
+          "name": "balanced argumentation"
+        },
+        {
+          "index": 94,
+          "name": "conditional reasoning"
+        },
+        {
+          "index": 107,
+          "name": "counterpoint awareness"
+        },
+        {
+          "index": 168,
+          "name": "nuance"
+        },
+        {
+          "index": 169,
+          "name": "nuanced claim"
+        },
+        {
+          "index": 170,
+          "name": "nuanced conclusion"
+        },
+        {
+          "index": 171,
+          "name": "nuanced reasoning"
+        },
+        {
+          "index": 172,
+          "name": "nuanced stance"
+        },
+        {
+          "index": 199,
+          "name": "policy reasoning"
+        },
+        {
+          "index": 205,
+          "name": "practical reasoning"
+        },
+        {
+          "index": 206,
+          "name": "qualification"
+        },
+        {
+          "index": 207,
+          "name": "qualified claim"
+        },
+        {
+          "index": 208,
+          "name": "qualified reasoning"
+        },
+        {
+          "index": 209,
+          "name": "qualified stance"
+        }
+      ]
+    },
+    {
+      "name": "Relevance",
+      "definition": "Keeps claims, reasons, and evidence closely tied to the prompt, source, and specific argument being made.",
+      "members": [
+        {
+          "index": 18,
+          "name": "argument relevance"
+        },
+        {
+          "index": 233,
+          "name": "relevance"
+        },
+        {
+          "index": 234,
+          "name": "relevance of evidence"
+        },
+        {
+          "index": 235,
+          "name": "relevance of support"
+        },
+        {
+          "index": 237,
+          "name": "relevant evidence use"
+        },
+        {
+          "index": 238,
+          "name": "relevant reasoning"
+        },
+        {
+          "index": 239,
+          "name": "relevant support"
+        },
+        {
+          "index": 240,
+          "name": "relevant textual support"
+        },
+        {
+          "index": 287,
+          "name": "task focus"
+        }
+      ]
+    },
+    {
+      "name": "Sentence-level control",
+      "definition": "Shows readable, controlled sentence-level writing through clear wording, smoother fluency, and fewer distracting errors.",
+      "members": [
+        {
+          "index": 56,
+          "name": "clarity"
+        },
+        {
+          "index": 58,
+          "name": "clarity of expression"
+        },
+        {
+          "index": 96,
+          "name": "control of conventions"
+        },
+        {
+          "index": 97,
+          "name": "control of expression"
+        },
+        {
+          "index": 98,
+          "name": "conventional control"
+        },
+        {
+          "index": 99,
+          "name": "conventions"
+        },
+        {
+          "index": 100,
+          "name": "conventions control"
+        },
+        {
+          "index": 162,
+          "name": "language control"
+        },
+        {
+          "index": 247,
+          "name": "sentence clarity"
+        },
+        {
+          "index": 248,
+          "name": "sentence control"
+        },
+        {
+          "index": 249,
+          "name": "sentence fluency"
+        },
+        {
+          "index": 271,
+          "name": "style control"
+        }
+      ]
+    },
+    {
+      "name": "Personal voice",
+      "definition": "Uses personal perspective or an individual voice to make the argument feel more immediate, grounded, or engaged.",
+      "members": [
+        {
+          "index": 189,
+          "name": "personal connection"
+        },
+        {
+          "index": 190,
+          "name": "personal engagement"
+        },
+        {
+          "index": 191,
+          "name": "personal relevance"
+        },
+        {
+          "index": 323,
+          "name": "voice"
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "definition": "Other distinct qualities that do not clearly belong to a recurring construct represented by multiple items.",
+      "members": [
+        {
+          "index": 75,
+          "name": "conciseness"
+        },
+        {
+          "index": 129,
+          "name": "essay completeness"
+        }
+      ]
+    }
+  ]
+}

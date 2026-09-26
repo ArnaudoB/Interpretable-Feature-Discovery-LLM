@@ -1,0 +1,25 @@
+{
+  "rho_min": 0.5,
+  "kappa_max": 100.0,
+  "K_before": 15,
+  "K_after": 7,
+  "kept": [
+    "Syntactic complexity",
+    "Elaboration and support",
+    "Spelling, punctuation, and mechanics",
+    "Cohesion and transitions",
+    "Grammatical accuracy",
+    "Sentence formation",
+    "Task awareness and register"
+  ],
+  "dropped": [
+    "Organization and coherence",
+    "Vocabulary range and word choice",
+    "Counterargument handling",
+    "Rhetorical style and voice",
+    "Abstract reasoning",
+    "Source integration",
+    "Communicative clarity",
+    "English use consistency"
+  ]
+}

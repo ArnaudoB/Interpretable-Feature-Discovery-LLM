@@ -1,0 +1,103 @@
+# experiments/03_interpretable_scoring/config.yaml
+#
+# Interpretable LLM-based scoring (paper Appendix A, app:verdict-extension): four judges x
+# two corpora, all fitted with the holistic verdict model (core/model/holistic/):
+#
+#   P(w_p = 1)           = sigma( sum_k Delta_{p,k} + beta )
+#   P(c_{p,k} = 1 | w_p) = sigma( (2 w_p - 1) Delta_{p,k} + gamma_k )
+#
+# This file holds everything the eight runs share. runs.yaml names the eight runs and holds
+# the few settings that differ (judge, provider, corpus, a token cap, a spend gate), and
+# scripts/_config.py merges the two: `--run <name>` everywhere. Within a corpus only the
+# judge varies; between corpora only the corpus framing of the prompt changes.
+#
+# Paths are relative to this directory.
+
+corpora:
+  ellipse:
+    cell:
+      dataset: ellipse
+      prompt_variant: comparative_verdict_qualities
+    prompts: prompts/ellipse.py
+    source:
+      loader: ellipse
+      path: raw/corpus/ELLIPSE_Final_github_train.csv
+      # Stratify on the CSV's own holistic "Overall" column -- NOT the mean of the six
+      # analytic-trait columns, which is a different number. See dataset/ellipse.py.
+      band_col: Overall
+  asap2:
+    cell:
+      dataset: asap2_driverless
+      prompt_variant: comparative_verdict_qualities_asap2_srcarticle
+    # The ~1,120-word source article is inlined in this prompt module rather than passed
+    # as context, so the elicitation call stays comparative_messages(essay_a, essay_b).
+    prompts: prompts/asap2.py
+    source:
+      loader: asap2
+      # The 500-essay ASAP 2.0 subset; see raw/corpus/README.md.
+      path: raw/corpus/asap2_driverless_selected_items.parquet
+      prompt_filter: Driverless cars
+      prompt_col: prompt_name
+      # Holistic score 1..6, so band == score and score_gap spans 0..5. Single prompt, so
+      # the prompt-coverage phase of the selector is trivial and it balances bands only.
+      band_col: score
+
+cell:
+  seed: 42
+
+source:
+  n_essays: 100
+
+graph:
+  n_matchings: 40          # 100 essays -> 50 pairs/matching -> 2000 pairs, degree exactly 40
+  degrees: [5, 10, 15, 20, 25, 30, 35, 40]   # nested prefixes, free pairs-scaling curve
+  seed: 42                 # identical sample, pairs and slot order for every run of a corpus
+  cross_band_bias: 0.0     # pure random matchings
+
+judge:
+  reasoning_model: gpt-5.4-2026-03-05   # canonicalizer, UNCHANGED across all eight runs
+  high_effort: high                     # taxonomy reasoning
+  judge_effort: null                    # no reasoning on the pairwise judge (per-provider
+                                        # switch in runs.yaml: none / MINIMAL / disabled)
+  max_out_comparative: 1500
+  max_out_taxonomy: 40000               # reasoning tokens share this budget; runs.yaml
+                                        # overrides it where a run used another value
+  taxonomy_min_cite: 3     # phrases cited fewer times are not sent to the canonicalizer
+  taxonomy_timeout_s: 3600
+  smoke_pairs: 8
+  sync_workers: 20
+  budget_gate_usd: 10.0    # hard abort above this; every spending stage also needs --yes
+
+clustering:
+  # No embedder, no HAC. The phrase -> criterion map comes from the LLM taxonomy.
+  method: llm_taxonomy
+  # Comparison-level citation share below which a criterion is dropped. Every run uses
+  # 0.0 (recorded in its pipeline_metadata.json), so the gates below are the only screen.
+  share_floor: 0.0
+
+model:
+  type: c1_gamma           # the holistic model: c = 1 with per-criterion gamma
+  include_gamma: true
+  ridge: 1.0e-3
+  fit_position_bias: true
+  optimizer: L-BFGS-B
+  tol: 1.0e-12
+  max_iter: 20000
+
+diagnostics:
+  # Per-criterion identifiability from the sandwich covariance
+  # (core/model/holistic/diagnostics.py). Criteria passing BOTH gates are kept for the
+  # reliable refit, which is the fit every Appendix A number comes from.
+  #   rho_k   = (Var_i(s_ik) - mean_i Var_hat(s_ik)) / Var_i(s_ik)   -- signal share
+  #   kappa_k = condition number of criterion k's mention-channel Fisher Laplacian
+  kappa_max: 100.0
+  rho_min: 0.50
+
+inference:
+  ci_method: sandwich
+  ci_level: 0.95
+
+validation:
+  holdout_frac: 0.2
+  cv_folds: 5              # calibration: 5-fold out-of-fold predictions
+  seed_split: 42

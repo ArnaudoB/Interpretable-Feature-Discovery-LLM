@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-23",
+  "model": "gpt-5.4-2026-03-05",
+  "ladder": [
+    {
+      "budget": 4000000,
+      "ok": false,
+      "measured_input": null,
+      "error": "Error code: 400 - {'error': {'message': \"Invalid 'input[1].content': string too long. Expected a string with maximum length 10485760, but got a string with length 17906208 instead.\", 'type': 'invalid_request_error', 'param': 'input[1].content', 'code': 'string_above_max_length'}}",
+      "kind": "context"
+    },
+    {
+      "budget": 600000,
+      "ok": true,
+      "measured_input": 574855,
+      "error": ""
+    }
+  ],
+  "stated_limit": null,
+  "largest_accepted_est_tokens": 600000,
+  "known_good_floor": 70599,
+  "pool_est_tokens": 1086139.8169336384,
+  "measured_accepted_input_tokens": 862434,
+  "note": "The 4M oversize call was rejected by a request STRING-length cap (10,485,760 chars), not by the model's context window, so it named no token limit. The ladder's 600k rung was accepted at 574,855 measured input tokens, and the real draw-0 elicitation was then accepted at 862,434 measured input tokens. So the window is at least ~870k; its ceiling is still unmeasured, because nothing we wanted to send was ever rejected for context."
+}

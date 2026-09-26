@@ -1,0 +1,50 @@
+{
+  "n_exchanges": 1600,
+  "p1": {
+    "acc": 0.53625,
+    "ci": [
+      0.511875,
+      0.56125
+    ]
+  },
+  "p2": {
+    "acc": 0.535625,
+    "ci": [
+      0.510625,
+      0.560625
+    ]
+  },
+  "lift": {
+    "pp": -0.0625,
+    "ci_pp": [
+      -2.4375,
+      2.3125
+    ],
+    "mcnemar_b": 184,
+    "mcnemar_c": 185,
+    "mcnemar_p": 1.0
+  },
+  "by_outcome": {
+    "p1": {
+      "no_delta": 0.69375,
+      "no_delta_train": 0.6975,
+      "no_delta_heldout": 0.69,
+      "delta": 0.37875,
+      "delta_train": 0.3875,
+      "delta_heldout": 0.37
+    },
+    "p2": {
+      "no_delta": 0.62875,
+      "no_delta_train": 0.6225,
+      "no_delta_heldout": 0.635,
+      "delta": 0.4425,
+      "delta_train": 0.455,
+      "delta_heldout": 0.43
+    }
+  },
+  "crosscheck_vs_shipped_summary": {
+    "p1_acc": 0.0,
+    "p2_acc": 0.0,
+    "lift": 0.0
+  }
+}

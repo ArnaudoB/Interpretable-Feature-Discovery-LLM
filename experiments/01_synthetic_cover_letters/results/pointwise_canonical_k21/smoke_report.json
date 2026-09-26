@@ -1,0 +1,16 @@
+{
+  "arm": "k21",
+  "K": 21,
+  "in": 1631.3333333333333,
+  "out": 561.0833333333334,
+  "complete_panel_rate": 1.0,
+  "score_mean": 5.619047619047619,
+  "score_sd": 2.76846511499974,
+  "share_5_to_7": 0.36706349206349204,
+  "usd_per_spec_batch": 0.0018741875,
+  "usd_per_rep_batch": 0.3748375,
+  "comparative_budget_usd": 7.8442083750000045,
+  "n_comparative_calls": 4000,
+  "n_star": 20,
+  "projected_scoring_usd": 7.49675
+}

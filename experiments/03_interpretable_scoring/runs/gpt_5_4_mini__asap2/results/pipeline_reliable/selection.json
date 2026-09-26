@@ -1,0 +1,28 @@
+{
+  "rho_min": 0.5,
+  "kappa_max": 100.0,
+  "K_before": 18,
+  "K_after": 15,
+  "kept": [
+    "Organization",
+    "Use of source evidence",
+    "Thesis clarity and control",
+    "Elaboration",
+    "Conclusion",
+    "Counterargument handling",
+    "Analytical reasoning",
+    "Argument depth",
+    "Sentence-level control",
+    "Nuanced stance",
+    "Specificity",
+    "Rhetorical force",
+    "Relevance",
+    "Introductory framing",
+    "Formal tone"
+  ],
+  "dropped": [
+    "Breadth of support",
+    "Coherence and cohesion",
+    "Personal voice"
+  ]
+}

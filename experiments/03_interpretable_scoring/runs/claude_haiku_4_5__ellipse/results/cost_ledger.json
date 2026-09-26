@@ -1,0 +1,11 @@
+{
+  "model": "claude-haiku-4-5",
+  "provider": "anthropic",
+  "mode": "batch",
+  "n_batched_records": 1992,
+  "n_pairs": 2000,
+  "n_cached_records": 2000,
+  "input_tokens": 5325280,
+  "output_tokens": 1069285,
+  "realized_usd": 5.358364999999989
+}

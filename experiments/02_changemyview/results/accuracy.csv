@@ -1,0 +1,15 @@
+arm,acc,ci_lo,ci_hi,n_correct,n_test,dims,nnz,best_C,lambda,nan_cells,source
+Emb. (full),0.64875,0.615,0.68,519.0,800,3072.0,,0.03162277660168379,31.622776601683796,,embedding_arms/results/pair_predictions_n3411.parquet[emb]
+Tan,0.6375,0.60375,0.67,510.0,800,3205.0,,0.03162277660168379,31.622776601683796,,feature_bt_root/results/pair_predictions.parquet[all-Tan]
+D + PW,0.62625,0.59375,0.66,501.0,800,29.0,12.0,0.1,10.0,0.0,refitted here: pointwise_discovered+pointwise_dropped + pointwise_d29_rep_a+pointwise_d29_rep_b (two-run mean)
+Dr + PW,0.62125,0.58875,0.655,497.0,800,16.0,4.0,0.03162277660168379,31.622776601683796,0.0,refitted here: pointwise_discovered + pointwise_d29_rep_a+pointwise_d29_rep_b (two-run mean)
+Emb.,0.61625,0.5825,0.65,493.0,800,3072.0,,0.03162277660168379,31.622776601683796,,embedding_arms/results/pair_predictions_n400.parquet[emb]
+Dr + BT,0.615,0.58125,0.64875,492.0,800,16.0,4.0,0.03162277660168379,31.622776601683796,0.0,refitted here: feature_bt_root
+D + BT,0.61375,0.58,0.6475,491.0,800,29.0,14.0,0.1,10.0,0.0,refitted here: feature_bt_root+feature_bt_root_dropped
+P + PW,0.6125,0.58,0.64625,490.0,800,16.0,12.0,0.31622776601683794,3.162277660168379,0.0,refitted here: pointwise_prior + pointwise_prior_rep (two-run mean)
+BOW (full),0.6125,0.57875,0.64625,490.0,800,11348.0,,0.01,100.0,,feature_bt_root_full/results/pair_predictions.parquet[BOW]
+P + BT,0.61125,0.5775,0.64375,489.0,800,16.0,3.0,0.03162277660168379,31.622776601683796,0.0,refitted here: feature_bt_root_prior
+POS (full),0.605,0.57,0.6375312500000001,484.0,800,42.0,,10.0,0.1,,feature_bt_root_full/results/pair_predictions.parquet[POS]
+S + PW,0.59875,0.565,0.6325312500000001,479.0,800,42.0,32.0,0.31622776601683794,3.162277660168379,0.0,refitted here: pointwise_sample + pointwise_sample_rep (two-run mean)
+#words,0.5925,0.55875,0.6275,474.0,800,1.0,,0.03162277660168379,31.622776601683796,,feature_bt_root/results/pair_predictions.parquet[#words]
+Zero--shot,0.569375,0.541875,0.59875,455.5,800,,,,,,zeroshot_pairwise/results/verdicts.parquet (both orders averaged per pair)

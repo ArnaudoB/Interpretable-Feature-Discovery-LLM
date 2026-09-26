@@ -1,0 +1,117 @@
+{
+  "Ours": {
+    "n": 16,
+    "tracked": [
+      "ctf",
+      "education",
+      "employer_prestige",
+      "experience",
+      "n_languages",
+      "n_launches",
+      "open_source",
+      "school_prestige",
+      "security_cert",
+      "side_project",
+      "skill_agentic_tooling_design",
+      "skill_ai_agents_experience",
+      "skill_dsa_depth",
+      "skill_python",
+      "skill_security_assessments",
+      "skill_vuln_triage_automation"
+    ],
+    "missed": []
+  },
+  "M1": {
+    "n": 13,
+    "tracked": [
+      "ctf",
+      "education",
+      "experience",
+      "n_launches",
+      "open_source",
+      "security_cert",
+      "side_project",
+      "skill_agentic_tooling_design",
+      "skill_ai_agents_experience",
+      "skill_dsa_depth",
+      "skill_python",
+      "skill_security_assessments",
+      "skill_vuln_triage_automation"
+    ],
+    "missed": [
+      "employer_prestige",
+      "n_languages",
+      "school_prestige"
+    ]
+  },
+  "M2": {
+    "n": 13,
+    "tracked": [
+      "ctf",
+      "education",
+      "experience",
+      "n_launches",
+      "open_source",
+      "security_cert",
+      "side_project",
+      "skill_agentic_tooling_design",
+      "skill_ai_agents_experience",
+      "skill_dsa_depth",
+      "skill_python",
+      "skill_security_assessments",
+      "skill_vuln_triage_automation"
+    ],
+    "missed": [
+      "employer_prestige",
+      "n_languages",
+      "school_prestige"
+    ]
+  },
+  "M3-taxo(1)": {
+    "n": 12,
+    "tracked": [
+      "ctf",
+      "education",
+      "experience",
+      "open_source",
+      "security_cert",
+      "side_project",
+      "skill_agentic_tooling_design",
+      "skill_ai_agents_experience",
+      "skill_dsa_depth",
+      "skill_python",
+      "skill_security_assessments",
+      "skill_vuln_triage_automation"
+    ],
+    "missed": [
+      "employer_prestige",
+      "n_languages",
+      "n_launches",
+      "school_prestige"
+    ]
+  },
+  "M3-taxo(n*)": {
+    "n": 12,
+    "tracked": [
+      "ctf",
+      "education",
+      "experience",
+      "open_source",
+      "security_cert",
+      "side_project",
+      "skill_agentic_tooling_design",
+      "skill_ai_agents_experience",
+      "skill_dsa_depth",
+      "skill_python",
+      "skill_security_assessments",
+      "skill_vuln_triage_automation"
+    ],
+    "missed": [
+      "employer_prestige",
+      "n_languages",
+      "n_launches",
+      "school_prestige"
+    ]
+  },
+  "_same_tracked_M1_M2": true
+}

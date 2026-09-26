@@ -1,0 +1,11 @@
+{
+  "n_reps": 50,
+  "mode": "sync",
+  "batch_discount_applied": false,
+  "model": "gpt-5.4-2026-03-05",
+  "total_usd": 7.450435,
+  "mean_usd_per_call": 0.1490087,
+  "median_usd_per_call": 0.14715250000000002,
+  "mean_input_tokens": 14819.72,
+  "mean_output_tokens": 11195.94
+}

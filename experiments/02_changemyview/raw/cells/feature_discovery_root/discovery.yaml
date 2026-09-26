@@ -1,0 +1,46 @@
+cell:
+  label: winning_args_feature_discovery_root
+  dataset: winning_args_cmv
+  seed: 42
+
+source:
+  convokit_name: winning-args-corpus
+  pair_units: experiments/winning_args/data/pair_units.parquet
+  n_pairs: 150
+  both_sides: true
+  train_only: true
+  challenge_field: root_reply
+  min_words: 20
+  max_words: 1200
+  seed: 42
+
+graph:
+  n_matchings: 40
+  degrees: [5, 10, 15, 20, 25, 30, 35, 40]
+  seed: 42
+  cross_band_bias: 0.0
+  exclude_same_op: true
+  out_dir: experiments/winning_args/feature_discovery_root/results/graph
+
+judge:
+  comparative_model: gpt-5.4-mini-2026-03-17
+  reasoning_model:  gpt-5.4-2026-03-05
+  judge_effort: none
+  high_effort: high
+  max_out_comparative: 3000
+  max_out_taxonomy: 60000
+  taxonomy_min_cite: 10
+  taxonomy_timeout_s: 2400
+  smoke_pairs: 8
+  sync_workers: 16
+  seed: 42
+  cache_dir: experiments/winning_args/feature_discovery_root/cache/responses
+  out_dir:   experiments/winning_args/feature_discovery_root/results
+
+model:
+  type: gated_symmetric_logit
+  ridge: 1.0e-3
+  tol: 1.0e-5
+  max_iter: 2000
+  kappa_max: 50.0
+  rho_threshold: 0.75

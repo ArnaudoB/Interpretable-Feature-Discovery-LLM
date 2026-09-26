@@ -1,0 +1,73 @@
+# Experiment 2 — ChangeMyView. Tan et al.'s paired persuasion task: given two replies to the
+# same post, predict which one earned the delta.
+#
+# One corpus, one item set, and several criterion panels scored two ways. Everything the paper
+# reports comes from the cells under raw/cells/, which ship with their response caches, so the
+# whole analysis re-runs offline.
+
+cell:
+  label: changemyview
+  seed: 42
+
+source:
+  # Derived from the ConvoKit Winning-Args corpus by core/cmv/data.py and shipped, so no run
+  # needs the ~350 MB download. 4,263 matched pairs = 3,456 train + 807 heldout.
+  derived_dir: raw/data
+  challenge_field: root_reply    # Tan's root-level reply, not the whole path
+  min_words: 20                  # eligibility band; bounds context by SELECTION, never by
+  max_words: 1200                # truncating an argument
+  n_pairs: 400                   # anchor/train pairs drawn from the train split
+  test_from_heldout: true        # test = all 800 eligible heldout pairs, disjoint from train
+
+# Which cell under raw/cells/ backs which arm.
+cells:
+  discovery: feature_discovery_root        # 300 exchanges, 40-regular, 6,000 comparisons -> 45 criteria
+  bt_discovered: feature_bt_root           # D + BT, the 16 kept criteria
+  bt_dropped: feature_bt_root_dropped      # the 13 screened-out criteria, re-scored -> D + BT is the union (29)
+  bt_prior: feature_bt_root_prior          # P + BT (16)
+  bt_full: feature_bt_root_full            # the (full) arms, fitted on all 3,411 training pairs
+  pw_discovered: pointwise_discovered      # D + PW run A, part 1 (16)
+  pw_dropped: pointwise_dropped            # D + PW run A, part 2 (15, sharing 2 anchors -> 29)
+  pw_rep_a: pointwise_d29_rep_a            # D + PW run B, part 1
+  pw_rep_b: pointwise_d29_rep_b            # D + PW run B, part 2
+  pw_prior: pointwise_prior                # P + PW run A (16)
+  pw_prior_rep: pointwise_prior_rep        # P + PW run B
+  pw_sample: pointwise_sample              # S + PW run A (42)
+  pw_sample_rep: pointwise_sample_rep      # S + PW run B
+  pw_discovered_full: pointwise_discovered_full
+  pw_dropped_full: pointwise_dropped_full
+  prior_panel: feature_prior_root          # the P elicitation (16 criteria, no data shown)
+  prior_open: feature_prior_root_open      # the open-count draws (run 1's per-draw counts are in its REPORT.md)
+  sample_panel: feature_sample_root        # the S elicitation (42 criteria, data shown)
+  contamination: contamination_probe_800   # the memorization probe
+  zeroshot: zeroshot_pairwise              # the zero-shot baseline
+  embeddings: embedding_arms               # text-embedding-3-large; summaries only, see raw/cells/README
+  matched_k: matched_k                     # per-subset fits of the matched-k analysis (not LLM output; see 10b)
+
+task:
+  # The paired L1 logistic regression. Deterministic apart from liblinear, which is seeded below.
+  seed: 42                 # the balanced sign deck; shared by every arm so McNemar stays valid
+  group_by: op_author      # 5-fold GroupKFold (core.cmv.pairtask), grouped by original poster
+  c_grid_log10: [-3, 3, 13]   # 13 log-spaced C = 1/lambda
+  n_boot: 4000             # percentile bootstrap over the 800 heldout pairs
+  # liblinear shuffles coordinates, drawing from numpy's GLOBAL RNG when no random_state is
+  # passed. The published table seeds that RNG once and fits the score arms in a fixed order
+  # (09_paired_lr.SCORE_ARMS), which reproduces every published count exactly. Passing a
+  # per-fit random_state instead moves individual arms by about one pair (+-0.125pp).
+  liblinear_global_seed: 42
+
+# Which cell owns the item graph each scoring cell was built on. `item_id` (wa%04d) is
+# assigned POSITIONALLY per graph, so two cells' ids mean the same item only when they share
+# one. Getting this wrong is silent: the join either raises (if the id sets are disjoint) or,
+# worse, succeeds against the wrong items. Every cell not listed owns its own graph.
+graph_of:
+  pw_dropped: pw_discovered          # the D+PW run-A pair
+  pw_rep_a: pw_discovered            # the D+PW run-B pair; their configs point at the same
+  pw_rep_b: pw_discovered            #   out_dir, which is what makes the run mean joinable
+  bt_dropped: bt_discovered
+  pw_prior_rep: pw_prior
+  pw_discovered_full: bt_full        # the (full) arms are a DIFFERENT graph: 3,411 train pairs
+  pw_dropped_full: bt_full
+
+dimensionality:
+  n_boot: 200              # bootstrap replicates over the 1,600 heldout exchanges

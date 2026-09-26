@@ -1,0 +1,378 @@
+{
+  "model": "gpt-5.4-2026-03-05",
+  "reasoning_effort": "high",
+  "variant": "reliable",
+  "corpus": "asap2",
+  "response_id": "resp_0acea53294045c21006a9d176b8cf487d2a6e5e7da92483fb9",
+  "judges": [
+    "gpt-5.4-mini",
+    "claude-haiku-4.5",
+    "gemini-3.6-flash",
+    "deepseek-v4-flash"
+  ],
+  "n_criteria": 47,
+  "input_tokens": 2434,
+  "output_tokens": 18054,
+  "realized_usd": 0.186625,
+  "validation": {
+    "n_clusters": 19,
+    "n_placed": 47,
+    "clusters_by_size": {
+      "4": 4,
+      "3": 4,
+      "2": 8,
+      "1": 3
+    }
+  },
+  "clusters": [
+    {
+      "name": "Organizational coherence",
+      "definition": "Structures ideas and paragraphs in a logical, connected progression that guides the reader through the argument.",
+      "members": [
+        {
+          "index": 0,
+          "judge": "gpt-5.4-mini",
+          "name": "Organization"
+        },
+        {
+          "index": 15,
+          "judge": "claude-haiku-4.5",
+          "name": "Organization and Structural Coherence"
+        },
+        {
+          "index": 35,
+          "judge": "gemini-3.6-flash",
+          "name": "Cohesion and Transitions"
+        },
+        {
+          "index": 37,
+          "judge": "deepseek-v4-flash",
+          "name": "Organization and Coherence"
+        }
+      ]
+    },
+    {
+      "name": "Source evidence integration",
+      "definition": "Selects relevant information from the source text and incorporates it purposefully as support for the essay's claims.",
+      "members": [
+        {
+          "index": 1,
+          "judge": "gpt-5.4-mini",
+          "name": "Use of source evidence"
+        },
+        {
+          "index": 16,
+          "judge": "claude-haiku-4.5",
+          "name": "Evidence Integration and Textual Support"
+        },
+        {
+          "index": 31,
+          "judge": "gemini-3.6-flash",
+          "name": "Source Evidence Integration"
+        }
+      ]
+    },
+    {
+      "name": "Thesis control",
+      "definition": "States a clear central argumentative position and sustains it as the essay's controlling focus.",
+      "members": [
+        {
+          "index": 2,
+          "judge": "gpt-5.4-mini",
+          "name": "Thesis clarity and control"
+        },
+        {
+          "index": 20,
+          "judge": "claude-haiku-4.5",
+          "name": "Argument Focus and Thesis"
+        },
+        {
+          "index": 34,
+          "judge": "gemini-3.6-flash",
+          "name": "Thesis and Stance"
+        },
+        {
+          "index": 40,
+          "judge": "deepseek-v4-flash",
+          "name": "Thesis and Focus"
+        }
+      ]
+    },
+    {
+      "name": "Argument development",
+      "definition": "Builds a substantive case by expanding claims with fuller reasons, evidence discussion, and multiple supporting dimensions instead of brief assertion.",
+      "members": [
+        {
+          "index": 3,
+          "judge": "gpt-5.4-mini",
+          "name": "Elaboration"
+        },
+        {
+          "index": 22,
+          "judge": "claude-haiku-4.5",
+          "name": "Argument Development and Breadth"
+        },
+        {
+          "index": 32,
+          "judge": "gemini-3.6-flash",
+          "name": "Reasoning and Elaboration"
+        },
+        {
+          "index": 38,
+          "judge": "deepseek-v4-flash",
+          "name": "Reasoning Development"
+        }
+      ]
+    },
+    {
+      "name": "Conclusion effectiveness",
+      "definition": "Provides a purposeful ending that synthesizes and reinforces the essay's main argument.",
+      "members": [
+        {
+          "index": 4,
+          "judge": "gpt-5.4-mini",
+          "name": "Conclusion"
+        },
+        {
+          "index": 23,
+          "judge": "claude-haiku-4.5",
+          "name": "Conclusion Effectiveness and Closure"
+        },
+        {
+          "index": 43,
+          "judge": "deepseek-v4-flash",
+          "name": "Conclusion Effectiveness"
+        }
+      ]
+    },
+    {
+      "name": "Counterargument engagement",
+      "definition": "Acknowledges opposing views or objections and responds to them within the essay's argument.",
+      "members": [
+        {
+          "index": 5,
+          "judge": "gpt-5.4-mini",
+          "name": "Counterargument handling"
+        },
+        {
+          "index": 18,
+          "judge": "claude-haiku-4.5",
+          "name": "Counterargument Engagement"
+        }
+      ]
+    },
+    {
+      "name": "Analytical reasoning",
+      "definition": "Explains the logical connections showing how evidence, causes, or consequences support the essay's claims.",
+      "members": [
+        {
+          "index": 6,
+          "judge": "gpt-5.4-mini",
+          "name": "Analytical reasoning"
+        },
+        {
+          "index": 17,
+          "judge": "claude-haiku-4.5",
+          "name": "Logical Reasoning and Explanation"
+        }
+      ]
+    },
+    {
+      "name": "Analytical depth",
+      "definition": "Moves beyond surface treatment to explore implications, consequences, or inferences with independent thought.",
+      "members": [
+        {
+          "index": 7,
+          "judge": "gpt-5.4-mini",
+          "name": "Argument depth"
+        },
+        {
+          "index": 42,
+          "judge": "deepseek-v4-flash",
+          "name": "Analytical Depth"
+        }
+      ]
+    },
+    {
+      "name": "Sentence-level control",
+      "definition": "Maintains readable, controlled sentences with few distracting problems in grammar, mechanics, or clarity.",
+      "members": [
+        {
+          "index": 8,
+          "judge": "gpt-5.4-mini",
+          "name": "Sentence-level control"
+        },
+        {
+          "index": 19,
+          "judge": "claude-haiku-4.5",
+          "name": "Mechanics, Grammar, and Sentence Control"
+        },
+        {
+          "index": 33,
+          "judge": "gemini-3.6-flash",
+          "name": "Conventions and Mechanics"
+        },
+        {
+          "index": 41,
+          "judge": "deepseek-v4-flash",
+          "name": "Written Language Control"
+        }
+      ]
+    },
+    {
+      "name": "Nuanced argumentation",
+      "definition": "Presents a qualified, balanced position that recognizes complexity, limits, or competing considerations rather than arguing in absolutes.",
+      "members": [
+        {
+          "index": 9,
+          "judge": "gpt-5.4-mini",
+          "name": "Nuanced stance"
+        },
+        {
+          "index": 21,
+          "judge": "claude-haiku-4.5",
+          "name": "Nuance, Complexity, and Broader Implications"
+        },
+        {
+          "index": 39,
+          "judge": "deepseek-v4-flash",
+          "name": "Counterargument and Nuance"
+        }
+      ]
+    },
+    {
+      "name": "Specificity",
+      "definition": "Makes the argument concrete and precise through particular examples, details, or clearly identified scenarios and consequences.",
+      "members": [
+        {
+          "index": 10,
+          "judge": "gpt-5.4-mini",
+          "name": "Specificity"
+        },
+        {
+          "index": 24,
+          "judge": "claude-haiku-4.5",
+          "name": "Concrete Illustration and Specificity"
+        }
+      ]
+    },
+    {
+      "name": "Rhetorical effectiveness",
+      "definition": "Uses voice, emphasis, audience awareness, or other persuasive devices to make the argument more engaging and convincing.",
+      "members": [
+        {
+          "index": 11,
+          "judge": "gpt-5.4-mini",
+          "name": "Rhetorical force"
+        },
+        {
+          "index": 28,
+          "judge": "claude-haiku-4.5",
+          "name": "Rhetorical Effectiveness and Audience Engagement"
+        },
+        {
+          "index": 45,
+          "judge": "deepseek-v4-flash",
+          "name": "Rhetorical Effectiveness"
+        }
+      ]
+    },
+    {
+      "name": "Task relevance",
+      "definition": "Stays closely on topic and keeps claims and support aligned to the prompt and assigned task.",
+      "members": [
+        {
+          "index": 12,
+          "judge": "gpt-5.4-mini",
+          "name": "Relevance"
+        },
+        {
+          "index": 36,
+          "judge": "gemini-3.6-flash",
+          "name": "Focus and Task Relevance"
+        }
+      ]
+    },
+    {
+      "name": "Introductory framing",
+      "definition": "Opens by providing background, context, or a compelling frame that launches the argument.",
+      "members": [
+        {
+          "index": 13,
+          "judge": "gpt-5.4-mini",
+          "name": "Introductory framing"
+        },
+        {
+          "index": 26,
+          "judge": "claude-haiku-4.5",
+          "name": "Contextual Framing and Introduction"
+        }
+      ]
+    },
+    {
+      "name": "Formal register",
+      "definition": "Maintains an appropriately formal, academic tone for argumentative writing.",
+      "members": [
+        {
+          "index": 14,
+          "judge": "gpt-5.4-mini",
+          "name": "Formal tone"
+        },
+        {
+          "index": 44,
+          "judge": "deepseek-v4-flash",
+          "name": "Formal Register"
+        }
+      ]
+    },
+    {
+      "name": "Source understanding",
+      "definition": "Demonstrates substantive comprehension of the source text's ideas and distinctions in order to engage the prompt.",
+      "members": [
+        {
+          "index": 25,
+          "judge": "claude-haiku-4.5",
+          "name": "Source Understanding and Engagement"
+        }
+      ]
+    },
+    {
+      "name": "Prose sophistication",
+      "definition": "Uses mature diction, sentence style, and overall voice to create more polished and sophisticated prose.",
+      "members": [
+        {
+          "index": 27,
+          "judge": "claude-haiku-4.5",
+          "name": "Style, Register, and Voice"
+        },
+        {
+          "index": 46,
+          "judge": "deepseek-v4-flash",
+          "name": "Language Sophistication"
+        }
+      ]
+    },
+    {
+      "name": "Task completion",
+      "definition": "Fulfills the assignment's basic requirements by fully completing the essay and following the expected prompt or format.",
+      "members": [
+        {
+          "index": 29,
+          "judge": "claude-haiku-4.5",
+          "name": "Task Fulfillment and Completeness"
+        }
+      ]
+    },
+    {
+      "name": "Source accuracy",
+      "definition": "Represents the source text faithfully and precisely without distortion or citation inaccuracy.",
+      "members": [
+        {
+          "index": 30,
+          "judge": "claude-haiku-4.5",
+          "name": "Accurate Source Representation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "comparative": {
+    "n_pairs": 4000,
+    "in": 1623.75,
+    "out": 625.25,
+    "avg_dims": 13.125,
+    "bulk_usd": 3.312875
+  },
+  "pointwise": {
+    "n_letters": 200,
+    "in": 3513.1666666666665,
+    "out": 468.625,
+    "per_rep_usd": 0.18155416666666666,
+    "R": 18,
+    "bulk_usd": 3.267975
+  },
+  "rubric": {
+    "usd": 0.194835,
+    "n_dims": 21
+  },
+  "grand_total_excl_taxonomy": 6.775685
+}

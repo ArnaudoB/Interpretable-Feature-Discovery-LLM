@@ -1,0 +1,6 @@
+# Machine-written artifacts (LLM responses, embeddings, fits): never diff or merge them.
+experiments/*/raw/** -diff -merge
+experiments/*/runs/** -diff -merge
+*.parquet -diff -merge
+*.npy -diff -merge
+*.npz -diff -merge

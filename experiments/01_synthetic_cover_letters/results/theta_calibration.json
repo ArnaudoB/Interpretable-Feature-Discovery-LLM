@@ -1,0 +1,12 @@
+{
+  "theta": 0.40579850822687147,
+  "rounded_3dp": 0.406,
+  "q": 95.0,
+  "config_theta": 0.406,
+  "pooled_over": [
+    "Ours(K=33)",
+    "1a/1b(K=21)",
+    "2a/2b(K=23)"
+  ],
+  "note": "95th pct of Hungarian-rejected (dial,feature) cosines, pooled over the three method families' DISCOVERED feature sets (Ours uses the full K=33, pre kappa/rho)."
+}

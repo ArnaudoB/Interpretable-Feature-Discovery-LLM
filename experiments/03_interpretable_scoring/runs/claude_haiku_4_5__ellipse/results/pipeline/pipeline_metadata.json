@@ -1,0 +1,22 @@
+{
+  "cell_label": "interpretable_scoring_claude_haiku_4_5__ellipse",
+  "judge": "claude-haiku-4-5",
+  "dataset": "ellipse",
+  "prompt_variant": "comparative_verdict_qualities",
+  "T_before": 2000,
+  "T_after": 2000,
+  "n": 100,
+  "K": 26,
+  "canonicalization": {
+    "method": "llm_taxonomy",
+    "model": "gpt-5.4-2026-03-05",
+    "reasoning_effort": "high",
+    "n_phrases_in": 438,
+    "n_criteria_raw": 26,
+    "n_criteria_after_other_and_floor": 26,
+    "min_cite": 3,
+    "citation_share_retained": 0.9164211505659792,
+    "n_phrases_in_other": 0,
+    "share_floor": 0.0
+  }
+}

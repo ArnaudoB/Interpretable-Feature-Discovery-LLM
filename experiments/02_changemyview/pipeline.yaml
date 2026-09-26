@@ -1,0 +1,92 @@
+# Experiment 2 — the judging half (steps 00-08): what each step regenerates, and the few
+# run parameters that are not recorded in a cell config.
+#
+# Cell names are config.yaml `cells:` keys. Every LLM step builds its requests from the cell's
+# own config (raw/cells/<cell>/config.yaml, exactly as the run read it) and the prompts in
+# prompts/, and `collect` replays them from the shipped response cache without a key.
+
+# Response caches of the cells that have no judge.cache_dir, relative to the cell
+# (`cache` for the zero-shot baseline, `cache/responses` for the two elicitations).
+caches:
+  zeroshot: cache
+  prior_panel: cache/responses
+  sample_panel: cache/responses
+
+# 00 — discovery items.
+build_items:
+  cells: [discovery]
+
+# 01 — comparison graphs.
+build_pairs:
+  # the nested 40-regular discovery graph
+  nested: [discovery]
+  # items + 16-regular anchor graph + test->anchor lists. Every 400-pair cell with its own
+  # graph/ was built from an identical config, so they are byte-identical; bt_full is the
+  # 3,411-pair variant (slow: ~55k anchor edges, ~5 min). The shipped
+  # bt_full/graph/test_anchor_pairs.parquet is EMPTY: that cell reuses the flagship's test
+  # judgments (see its config.yaml), so its test->anchor list is not stored, while its
+  # build_report.json records the 25,600 rows this step regenerates.
+  matched: [bt_discovered, bt_prior, pw_discovered, pw_prior, bt_full]
+  # cells whose graph/ holds only a copy of another cell's items.parquet
+  items_copied:
+    pw_sample: bt_discovered
+    pw_sample_rep: bt_discovered
+
+# 05 — the prior-only panel. Draw 0 is promoted by position.
+prior:
+  cell: prior_panel
+  model: gpt-5.4-2026-03-05
+  effort: high
+  max_out: 8000
+  draws: 5
+  variant: blind
+
+# 05b — the data-informed panel.
+sample:
+  cell: sample_panel
+  items_from: bt_discovered        # the flagship's 2,400-item table, pooled train + test
+  model: gpt-5.4-2026-03-05
+  effort: high
+  max_out: 50000
+  draws: 1
+  budget_tokens: 900000            # the run's token budget (sample_manifest.json records it)
+  dedup_op: true
+  # the repeat panel scored by pw_sample_rep: same criteria, order permuted with this seed
+  rep_cell: pw_sample_rep
+  reshuffle_seed: 7
+
+# 06 — per-criterion BT scoring.
+# The (full) arms use the pointwise scores only; bt_full is listed under baselines.
+score_bt:
+  cells: [bt_discovered, bt_dropped, bt_prior]
+
+# 07 — pointwise 0-10 scoring.
+score_pointwise:
+  cells: [pw_discovered, pw_dropped, pw_rep_a, pw_rep_b, pw_prior, pw_prior_rep,
+          pw_sample, pw_sample_rep, pw_discovered_full, pw_dropped_full]
+
+# 08 — baselines.
+baselines:
+  # Tan's text arms (+ the cell's BT panel when its scores are shipped) -> pair_predictions.parquet,
+  # and their L1 sparsity -> arm_sparsity.parquet. Arms are those the runs of record used.
+  text:
+    bt_discovered:
+      root_arms: [bow, pos, all-tan]
+      sparsity_arms: [bow, pos, interplay+pos, all-tan, bt]
+    bt_full:
+      root_arms: [bow, pos, interplay+pos, all-tan]
+      sparsity_arms: [bow, pos, interplay+pos, all-tan, bt]
+  # the zero-shot judge: the 800 heldout pairs of this
+  # cell's graph, both presentation orders
+  zeroshot:
+    cell: zeroshot
+    pairs_from: bt_full
+    flagship: bt_full               # its pair_predictions.parquet BT-16 arm is the comparator
+    seed: 42
+    workers: 16
+  # text-embedding-3-large; recomputing the vectors needs the embeddings API
+  # (see raw/cells/README.md). The arm's predictions are shipped.
+  embeddings:
+    cell: embeddings
+    splits: [bt_discovered, bt_full]   # n400 and n3411
+    workers: 8

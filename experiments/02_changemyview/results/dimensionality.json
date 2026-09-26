@@ -1,0 +1,73 @@
+{
+  "pr_at_k16": {
+    "D + BT": 8.17,
+    "D + PW": 6.63,
+    "P + BT": 3.87,
+    "P + PW": 3.95,
+    "S + PW": 9.11,
+    "Dr + BT": 7.7,
+    "Dr + PW": 6.35
+  },
+  "noise_correction_pct": {
+    "D + BT": 14.8,
+    "D + PW": 24.8,
+    "P + BT": 19.8,
+    "P + PW": 27.5,
+    "S + PW": 28.1,
+    "Dr + BT": 11.3,
+    "Dr + PW": 13.4
+  },
+  "median_reliability": {
+    "D + BT": 0.76,
+    "D + PW": 0.83,
+    "P + BT": 0.711,
+    "P + PW": 0.768,
+    "S + PW": 0.762,
+    "Dr + BT": 0.768,
+    "Dr + PW": 0.842
+  },
+  "effrank_at_k16": {
+    "D + BT": 10.86,
+    "D + PW": 9.89,
+    "P + BT": 5.97,
+    "P + PW": 6.48,
+    "S + PW": 11.68,
+    "Dr + BT": 10.31,
+    "Dr + PW": 9.46
+  },
+  "spearman_brown_bt": {
+    "D + BT": 0.86,
+    "P + BT": 0.83
+  },
+  "neg_eig_mass": {
+    "D + BT": -0.0,
+    "D + PW": -0.0,
+    "P + BT": -0.0,
+    "P + PW": -0.0,
+    "S + PW": -0.0,
+    "Dr + BT": -0.0,
+    "Dr + PW": -0.0
+  },
+  "order_at_k16": {
+    "pr": [
+      "P + BT",
+      "P + PW",
+      "Dr + PW",
+      "D + PW",
+      "Dr + BT",
+      "D + BT",
+      "S + PW"
+    ],
+    "effrank": [
+      "P + BT",
+      "P + PW",
+      "Dr + PW",
+      "D + PW",
+      "Dr + BT",
+      "D + BT",
+      "S + PW"
+    ]
+  },
+  "seed": 0,
+  "n_boot": 200
+}

@@ -1,0 +1,85 @@
+{
+ "n_features": 15,
+ "source": "experiments/winning_args/feature_discovery_root: the 13 challenger-side criteria DROPPED by the kappa<=50/rho>0.75 gate ('Other' and 'interpretive framing' excluded: catch-all, and a 1-member stray label with no taxonomy definition) + 2 kept anchors re-rated as call-context/retest control",
+ "dropped": [
+  "Concessionary rebuttal",
+  "Reframing and normalization",
+  "Targeted rebuttal",
+  "Meta-level epistemic challenge",
+  "Scope broadening",
+  "Historical framing and legacy",
+  "Legal and institutional framing",
+  "Emotional appeal and empathy",
+  "Structural explanation",
+  "Rhetorical vividness",
+  "Rhetorical questioning",
+  "Psychological framing and diagnosis",
+  "Audience tailoring"
+ ],
+ "anchors": [
+  "Qualified rebuttal",
+  "Conceptual clarification"
+ ],
+ "criteria": [
+  {
+   "name": "Concessionary rebuttal",
+   "definition": "The challenger softens resistance by explicitly granting part of the OP's point before disagreeing."
+  },
+  {
+   "name": "Reframing and normalization",
+   "definition": "The challenger tries to shift the evaluative lens by redescribing the issue, normalizing it, or offering an alternative way to view it."
+  },
+  {
+   "name": "Targeted rebuttal",
+   "definition": "The challenger engages the OP's specific claims, premises, or subpoints directly and often one by one."
+  },
+  {
+   "name": "Meta-level epistemic challenge",
+   "definition": "The challenger contests the framing, method, evidence standards, or burden of proof rather than only the first-order claim."
+  },
+  {
+   "name": "Scope broadening",
+   "definition": "The exchange expands or contracts the discussion by moving between narrow cases and wider principles or issue areas."
+  },
+  {
+   "name": "Historical framing and legacy",
+   "definition": "The argument appeals to historical context, precedent, innovation, or long-run cultural legacy."
+  },
+  {
+   "name": "Legal and institutional framing",
+   "definition": "The challenger grounds the rebuttal in law, institutions, official roles, or procedural distinctions."
+  },
+  {
+   "name": "Emotional appeal and empathy",
+   "definition": "The reply persuades through feelings, empathy, reassurance, or existential/personal significance."
+  },
+  {
+   "name": "Structural explanation",
+   "definition": "The challenger explains the issue through broader social, cultural, or systemic forces rather than isolated choices."
+  },
+  {
+   "name": "Rhetorical vividness",
+   "definition": "The argument uses especially vivid phrasing, storytelling, or memorable imagery to make the point stick."
+  },
+  {
+   "name": "Rhetorical questioning",
+   "definition": "The challenger presses the point through pointed questions or requests for clarification rather than only direct assertion."
+  },
+  {
+   "name": "Psychological framing and diagnosis",
+   "definition": "The challenger interprets views or behavior in terms of motives, traits, psychology, or developmental state."
+  },
+  {
+   "name": "Audience tailoring",
+   "definition": "The challenger tailors the argument to particular subgroups, audiences, or the OP's specific situation."
+  },
+  {
+   "name": "Qualified rebuttal",
+   "definition": "The challenger narrows the claim, marks exceptions, or emphasizes contextual dependence instead of arguing absolutely."
+  },
+  {
+   "name": "Conceptual clarification",
+   "definition": "The challenger disputes definitions, categories, meanings, or criteria in order to reframe the disagreement."
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+[0] academic argumentation (cited 6x): It shows more of a persuasive essay style by stating a claim and supporting it with multiple reasons.
+[1] academic diction (cited 27x): The essay uses more formal vocabulary suited to an explanatory essay.
+[2] academic phrasing (cited 9x): Uses more formal, essay-like language that sounds more mature and persuasive.
+[3] academic register (cited 48x): The word choice is more formal and essay-like, giving the response a more mature tone.
+[4] academic stance (cited 4x): The essay states an explicit argumentative position and sustains a more essay-like persuasive voice.
+[5] academic style (cited 21x): The essay uses a more formal, essay-like tone and attempts persuasive framing appropriate to the task.
+[6] academic tone (cited 62x): This captures a more formal, essay-like voice that is more appropriate to argumentative writing.
+[7] academic vocabulary (cited 127x): It uses more topic-appropriate school-related language and varied phrasing to express its ideas.
+[8] academic word choice (cited 9x): Employs more sophisticated vocabulary and abstract terms that give the writing a more academic tone.
+[9] argument clarity (cited 3x): It states a direct position and previews the reasons in a way that is easy to follow.
+[10] argument coherence (cited 3x): The essay maintains a central position and develops reasons that stay aligned with that position.
+[11] argument control (cited 4x): The essay stays more consistently focused on advancing a clear stance and organizing supporting points around that argument.
+[12] argument development (cited 47x): The essay more clearly builds and qualifies a position by introducing counterclaims and responding to them.
+[13] argumentation (cited 24x): The response presents and balances opposing views before stating a position, which shows stronger reasoning.
+[14] argumentative control (cited 12x): The essay more clearly states and maintains a position throughout the response.
+[15] argumentative development (cited 6x): Presents a more sustained line of reasoning with claims that are elaborated across several paragraphs.
+[16] argumentative sophistication (cited 7x): Acknowledges opposing views and responds to them, showing more mature reasoning.
+[17] argumentative stance (cited 5x): It attempts to present and defend a position with counterargument language, showing more advanced discourse control.
+[18] audience awareness (cited 15x): It more clearly attends to a reader or listener by framing the message as something being presented and explained to others.
+[19] clarity (cited 84x): Its meaning is easier to follow because the ideas are stated more directly and with less confusion.
+[20] clarity of development (cited 3x): The essay states its reasons in a more direct and easy-to-follow way.
+[21] clarity of expression (cited 75x): The essay states its points more directly and with less ambiguity.
+[22] closure (cited 3x): The essay ends with more purposeful wrap-up that reinforces the central message.
+[23] coherence (cited 277x): The writing connects ideas more smoothly and maintains a more readable progression from point to point.
+[24] coherence markers (cited 3x): The essay uses transitional language to guide the reader through its points and signal how the parts relate.
+[25] cohesion (cited 407x): The essay uses discourse markers to connect ideas and guide the reader through the argument.
+[26] cohesive argumentation (cited 3x): Links reasons to the central claim more consistently and makes the line of reasoning easier to follow.
+[27] cohesive development (cited 9x): It connects ideas across paragraphs more smoothly and shows a stronger sense of progression.
+[28] cohesive devices (cited 43x): This captures use of transitions that help connect ideas across sentences and paragraphs.
+[29] cohesive linking (cited 34x): It connects sentences and paragraphs more smoothly with effective discourse markers.
+[30] cohesive organization (cited 9x): It uses basic transitions and a clearer progression of ideas to connect claims within the paragraph.
+[31] cohesive progression (cited 6x): This essay more clearly moves from introduction through distinct supporting points to a conclusion.
+[32] cohesive sequencing (cited 31x): The essay uses explicit transitions to connect ideas and show progression.
+[33] cohesive structure (cited 8x): It uses paragraphing and transition markers to organize points into a more controlled progression.
+[34] cohesive transitions (cited 50x): This captures stronger use of linking language to guide the reader through the essay's reasoning.
+[35] communicative clarity (cited 22x): The intended meaning is easier to understand because the wording is less distorted and more consistent.
+[36] complex sentence control (cited 3x): It attempts more varied sentence structures to express relationships between ideas, even though they are not always fully correct.
+[37] conciseness (cited 3x): The wording is less bloated and repeated, so the ideas come through more efficiently.
+[38] conclusion (cited 13x): The essay includes a recognizable closing statement that briefly restates the main idea.
+[39] concrete detail (cited 5x): It uses specific, vivid examples to support its points instead of staying general.
+[40] concrete development (cited 6x): The essay supports its points with more detailed, concrete examples rather than mostly general statements.
+[41] concrete elaboration (cited 3x): The essay uses more concrete details to elaborate its points rather than staying mostly general.
+[42] concrete support (cited 11x): The essay grounds its claims in a more relevant and detailed example rather than relying mostly on abstract assertion.
+[43] content control (cited 5x): It maintains a broader, more sustained writing voice with fewer repetitive prompt-driven formulae.
+[44] content elaboration (cited 7x): It adds more than one reason for the career choice instead of staying at a surface level.
+[45] control (cited 3x): The essay shows somewhat better command of sentence-level grammar and expression overall.
+[46] control of conventions (cited 23x): This captures somewhat better overall control of spelling, capitalization, and punctuation despite many errors.
+[47] control of expression (cited 10x): The writing communicates its ideas more clearly and consistently despite some errors.
+[48] control of focus (cited 4x): This captures how the essay stays consistently on one argument without drifting into unrelated ideas.
+[49] control of grammar (cited 7x): It shows stronger command of English syntax and sentence boundaries overall.
+[50] control of language (cited 6x): The essay demonstrates substantially stronger control over English grammar and usage overall.
+[51] control of mechanics (cited 3x): The essay shows somewhat better spelling, punctuation, and overall sentence control, even though it still contains errors.
+[52] control of sentence boundaries (cited 6x): This captures the ability to keep sentences running together less often and maintain clearer sentence-level control.
+[53] control of sentence structure (cited 3x): This captures greater command of basic English sentence construction despite some errors.
+[54] control of syntax (cited 4x): The essay more often forms complete, connected sentences instead of producing heavily fragmented or tangled phrasing.
+[55] convention control (cited 4x): Although it has some errors, the essay shows better control of spelling, punctuation, and sentence boundaries than the other essay.
+[56] conventional accuracy (cited 10x): This captures greater control of spelling and standard written English conventions.
+[57] conventional control (cited 3x): The essay has somewhat better command of basic writing conventions, even though it still contains many errors.
+[58] conventional letter opening (cited 3x): Uses a recognizable salutation and email/letter-style opening that fits a formal school response better than the other essay.
+[59] conventional opening (cited 3x): It uses a more task-appropriate letter-style opening and attempt at formal address, showing better control of genre conventions.
+[60] conventional spelling (cited 4x): It shows fewer disruptive spelling problems, so the prose reads more smoothly at the word level.
+[61] conventions (cited 100x): It shows better control of basic punctuation, capitalization, and spacing conventions.
+[62] conventions control (cited 26x): It shows somewhat better control of basic writing conventions, which makes it easier to read.
+[63] counterargument handling (cited 23x): The essay acknowledges an opposing view and addresses it before returning to its main position.
+[64] descriptive language (cited 3x): The essay uses more vivid wording to make its points feel more developed and lively.
+[65] developed elaboration (cited 3x): This captures more effort to explain and support claims with elaborated reasoning rather than isolated assertions.
+[66] development (cited 620x): The essay develops ideas with specific experiences and explanations rather than repeating the same point.
+[67] development of argument (cited 8x): The essay gives more explicit reasoning and support for its claims about honesty and trust.
+[68] development of ideas (cited 219x): The essay develops its position with more distinct reasons and examples rather than repeating the same point.
+[69] development of reasoning (cited 3x): The essay explains its point with more extended cause-and-effect reasoning rather than mostly repeating the same idea.
+[70] development of reasons (cited 6x): The essay gives multiple supported reasons and briefly explains their effects.
+[71] development of support (cited 9x): The essay elaborates its claims with fuller explanation and illustration rather than brief unsupported points.
+[72] development with examples (cited 17x): The essay supports claims with a specific illustrative scenario rather than only repeating the main point.
+[73] diction (cited 3x): The essay uses a broader and more varied vocabulary to express ideas in a more precise and engaging way.
+[74] discourse control (cited 11x): The essay uses more explicit transitions and signal phrases to guide the reader through its argument.
+[75] discourse markers (cited 3x): The essay uses more explicit connectors to guide the reader through its reasoning.
+[76] editing control (cited 3x): Shows somewhat better control over surface writing errors such as contractions, word forms, and typo-like slips.
+[77] elaboration (cited 273x): The essay explains a general point in several different contexts rather than relying on a single example.
+[78] elaboration with examples (cited 5x): The essay uses specific, extended examples to explain its points and make them concrete.
+[79] engagement (cited 6x): Essay B uses rhetorical questions and a more conversational style to sustain reader interest.
+[80] engaging introduction (cited 3x): This essay opens with a direct rhetorical question that creates a clearer lead-in and more audience awareness.
+[81] engaging style (cited 3x): The essay uses a more conversational, reader-directed tone that makes the writing feel more lively and purposeful.
+[82] example use (cited 3x): The essay includes a concrete personal example to illustrate its argument.
+[83] explanatory depth (cited 4x): It gives fuller explanations of its ideas instead of only stating them.
+[84] explanatory detail (cited 3x): This captures a greater effort to support claims with examples and consequences instead of only making general assertions.
+[85] explanatory development (cited 4x): The essay defines its key ideas and expands them with explanation rather than only naming examples.
+[86] expression (cited 4x): The essay shows stronger ability to express a reflective, persuasive tone with more natural-sounding language.
+[87] expression of ideas (cited 5x): The essay develops ideas with more elaboration and specificity rather than staying at a basic or repetitive level.
+[88] expressive language (cited 3x): It includes more vivid phrasing and figurative, memorable wording that makes the writing sound more developed.
+[89] expressive vocabulary (cited 4x): The essay uses a somewhat wider range of descriptive and engaging word choices to add detail and emphasis.
+[90] expressive word choice (cited 3x): The essay shows stronger command of vivid phrasing and figurative language to emphasize its ideas.
+[91] expressiveness (cited 3x): It communicates abstract ideas like pride, confidence, and discovery with somewhat more specificity and depth.
+[92] figurative expression (cited 5x): The essay includes more effective figurative or rhetorical language that adds style and emphasis.
+[93] figurative language (cited 21x): The essay uses more vivid figurative phrasing and rhetorical style to convey meaning.
+[94] fluency (cited 8x): Its sentences generally move more smoothly and are easier to process overall.
+[95] focus (cited 40x): The essay stays more consistently centered on its argument instead of drifting into awkward side examples or meta-commentary.
+[96] formal academic style (cited 4x): It maintains a more appropriately informational, school-essay tone overall.
+[97] formal academic tone (cited 5x): The language is more appropriately essay-like and task-focused rather than personal narrative.
+[98] formal diction (cited 3x): The essay uses more appropriate school-essay vocabulary and a more consistently formal tone.
+[99] formal register (cited 21x): It generally maintains a more school-appropriate persuasive tone rather than shifting into conversational or fragmented phrasing.
+[100] formal tone (cited 11x): Maintains a more consistently formal, academic tone appropriate for a persuasive application essay.
+[101] formal word choice (cited 3x): This captures somewhat more school-appropriate vocabulary and phrasing for an essay response.
+[102] genre control (cited 4x): The essay follows a recognizable persuasive letter format with an address, salutation, closing, and sign-off.
+[103] grammar accuracy (cited 10x): The essay has fewer and less disruptive grammatical errors, so its meaning stays clearer throughout.
+[104] grammar control (cited 59x): It shows fewer disruptive grammar mistakes and better control of basic subject-verb and pronoun forms.
+[105] grammatical accuracy (cited 16x): The essay shows fewer awkward grammar errors that interfere with meaning.
+[106] grammatical control (cited 66x): Maintains sentence grammar more consistently, with fewer breakdowns that interrupt meaning.
+[107] grammatical range (cited 3x): It shows somewhat greater variety in grammatical forms, even though there are still many errors.
+[108] idea clarity (cited 11x): It states its main purpose more directly and keeps the reader oriented to the point of the letter.
+[109] idea coherence (cited 9x): Its points stay more focused on a central argument and connect back to the thesis more consistently.
+[110] idea complexity (cited 8x): The essay shows a more nuanced argument by qualifying the common belief instead of repeating a simple yes-or-no stance.
+[111] idea control (cited 8x): The essay maintains a more consistent central claim and keeps returning to it throughout the response.
+[112] idea development (cited 484x): This captures more elaborated supporting ideas and explanations rather than mainly repeating the same point.
+[113] idea elaboration (cited 129x): The essay expands claims with supporting explanations and examples rather than relying mainly on short, general statements.
+[114] idea focus (cited 3x): This captures a stronger ability to state and maintain a central point within each paragraph.
+[115] idiomatic expression (cited 4x): This captures more natural, native-like phrase choice and figurative language that gives the writing a more fluent voice.
+[116] idiomatic phrasing (cited 4x): This captures more natural English word combinations and familiar expressions.
+[117] illustration (cited 3x): The essay uses a concrete example to explain and support its ideas.
+[118] language accuracy (cited 21x): It makes fewer noticeable errors in grammar, word form, and sentence construction than the other essay.
+[119] language consistency (cited 8x): The writing stays more consistently in one language instead of shifting heavily between languages.
+[120] language control (cited 49x): The essay has grammar errors, but they do not prevent understanding and are less frequent and less disruptive.
+[121] letter format (cited 8x): The essay uses a more appropriate opening and closing for a persuasive letter, which shows stronger control of genre conventions.
+[122] letter organization (cited 3x): It uses a recognizable formal letter structure with greeting, body paragraphs, and closing.
+[123] lexical accuracy (cited 3x): The essay uses vocabulary more accurately and with fewer noticeable misuse errors.
+[124] lexical clarity (cited 12x): Its vocabulary is more direct and understandable overall, making the message easier to grasp despite errors.
+[125] lexical control (cited 46x): The essay uses more precise and generally appropriate vocabulary with fewer distracting word-choice problems.
+[126] lexical precision (cited 14x): The essay uses more precise and appropriate wording for abstract ideas and advice.
+[127] lexical range (cited 60x): The essay uses a broader and more academic vocabulary to discuss education and careers.
+[128] lexical sophistication (cited 26x): The essay includes a more advanced and varied range of vocabulary and phrasing.
+[129] lexical specificity (cited 3x): The essay uses more concrete content words and school-related vocabulary to elaborate its point rather than relying mainly on very general phrasing.
+[130] lexical variety (cited 21x): The essay shows a somewhat wider range of content words and topic vocabulary for expressing its points.
+[131] logical cohesion (cited 3x): Its ideas are connected with clearer line of reasoning and more consistent progression.
+[132] logical development (cited 13x): The essay develops its ideas in a more sequential, reader-friendly way by separating points and supporting each with examples.
+[133] logical progression (cited 4x): The essay develops its points in a sequenced, easy-to-follow order.
+[134] logical reasoning (cited 3x): The essay connects claims with cause-and-effect reasoning that is generally easy to follow.
+[135] logical sequencing (cited 4x): The essay signals its points in a deliberate order and builds its argument step by step.
+[136] meaning clarity (cited 4x): The writing usually communicates its main ideas clearly enough for the reader to follow the intended meaning.
+[137] mechanical accuracy (cited 15x): Shows stronger overall command of conventions, with fewer distracting errors interrupting meaning.
+[138] mechanical control (cited 10x): It shows somewhat better control of spelling, grammar, and punctuation even though mistakes remain abundant.
+[139] mechanics (cited 39x): The essay is more consistent in basic punctuation and capitalization conventions.
+[140] mechanics consistency (cited 4x): Although imperfect, the essay shows somewhat more consistent control of spelling, capitalization, and punctuation than the other essay.
+[141] mechanics control (cited 13x): Demonstrates better control of spelling and punctuation overall, so the text is easier to follow.
+[142] narrative development (cited 3x): The essay develops a personal example with more detail and follow-through rather than giving only brief anecdotes.
+[143] narrative elaboration (cited 3x): The essay develops its point with more extended examples and a more complete explanation of how the writer’s opinion changes.
+[144] natural expression (cited 3x): The essay uses more varied and more idiomatic phrasing, making the language sound less repetitive and formulaic.
+[145] organization (cited 1596x): The essay presents ideas in a more coherent overall structure with distinct sections that guide the reader through the argument.
+[146] organizational coherence (cited 7x): The essay holds together across several paragraphs with a clear progression from idea to example to reflection to conclusion.
+[147] organizational control (cited 142x): This captures a clearer essay structure that develops ideas in a more orderly way from introduction through supporting points to conclusion.
+[148] organizational development (cited 3x): The essay sustains a simple line of reasoning with supporting points rather than only fragments of thought.
+[149] organizational structure (cited 17x): This captures a clearer overall essay structure with an introduction, sequenced body points, and a closing.
+[150] overall clarity (cited 11x): This captures that the essay communicates its main ideas more consistently and is easier to follow.
+[151] overall coherence (cited 8x): It maintains a more consistent line of reasoning across the essay and ties the conclusion back to the main argument.
+[152] overall control (cited 3x): The essay shows stronger command of academic writing conventions and maintains a more polished, coherent tone despite a few errors.
+[153] overall organization (cited 9x): The essay presents a central claim early and keeps its paragraphs focused on supporting that claim.
+[154] paragraph development (cited 32x): Each body paragraph develops a distinct point with explanation and supporting detail rather than staying at the level of a brief assertion.
+[155] paragraph focus (cited 6x): Essay B keeps each paragraph centered on one idea, which makes the argument easier to follow.
+[156] paragraph organization (cited 3x): The essay uses paragraphing to group related ideas and make the response easier to follow.
+[157] paragraph structure (cited 3x): Each body paragraph starts with a clear main idea that supports the overall response.
+[158] paragraphing (cited 7x): The essay uses paragraph-level signaling to separate and advance its main points.
+[159] precise vocabulary (cited 3x): Uses a broader and more exact vocabulary to express ideas in a more advanced way.
+[160] precise word choice (cited 5x): The essay uses more specific and context-appropriate vocabulary to express its ideas.
+[161] precision of expression (cited 7x): The essay uses more specific academic wording to state abstract ideas clearly.
+[162] range of expression (cited 3x): Uses a wider range of phrasing to express personal experience and argument beyond simple narration.
+[163] readability (cited 7x): The essay remains understandable across a much larger stretch of text.
+[164] reasoned development (cited 3x): The essay develops its position with several distinct reasons and examples rather than brief unsupported statements.
+[165] reasoned explanation (cited 3x): The essay connects claims to causes and effects in a more sustained and logical way.
+[166] reasoning (cited 18x): The essay more fully explains why the claim holds and closes by restating the position in a controlled way.
+[167] reasoning coherence (cited 3x): This captures a more sustained line of reasoning that connects claims to consequences more clearly.
+[168] reasoning depth (cited 3x): The essay gives fuller justification for its claims instead of mostly listing reasons.
+[169] reasoning development (cited 6x): The essay goes beyond listing ideas by addressing a counterargument and offering a response.
+[170] register (cited 12x): The essay maintains a more appropriately formal, argumentative tone overall.
+[171] register control (cited 25x): It sustains a more appropriate academic and persuasive tone with fewer informal or awkward phrasing choices.
+[172] relevance (cited 4x): Its supporting points are more directly connected to the argument instead of drifting into repetitive generalities.
+[173] relevance of elaboration (cited 3x): Its details stay more consistently tied to the central topic and claim.
+[174] relevance of support (cited 7x): Its examples stay more closely tied to the claim being made and help explain the writer's reasoning.
+[175] relevant detail (cited 3x): This captures the inclusion of concrete supporting details that make the argument more specific.
+[176] relevant development (cited 4x): It develops the central idea with a more focused explanation of how the visit would be useful.
+[177] relevant elaboration (cited 23x): The essay supports its point with multiple concrete examples that explain the writer's reasoning.
+[178] relevant examples (cited 5x): The essay uses more concrete school-based examples to illustrate its claims.
+[179] relevant support (cited 11x): It develops ideas with a more focused example that stays tied to the point being made.
+[180] repetition control (cited 6x): The essay relies less on the same basic sentence frame over and over, which makes it read as more flexible English writing.
+[181] rhetorical control (cited 9x): This captures more purposeful use of rhetorical questions and argument framing to guide the reader.
+[182] sentence clarity (cited 75x): Its sentences are generally easier to follow and communicate the intended meaning more directly.
+[183] sentence coherence (cited 5x): Most sentences are easier to parse and connect smoothly, so the overall meaning stays clearer.
+[184] sentence completeness (cited 8x): It produces more grammatical sentence frames that are recognizable as full English clauses.
+[185] sentence complexity (cited 172x): The essay more often combines ideas into longer, more complex sentences.
+[186] sentence control (cited 1057x): The essay shows somewhat better control of sentence boundaries and overall syntactic manageability.
+[187] sentence development (cited 26x): It forms more complete and purposeful sentences that better connect ideas within and across clauses.
+[188] sentence elaboration (cited 25x): The essay more often expands ideas with added explanation and qualification, giving statements more depth.
+[189] sentence fluency (cited 74x): It uses clearer, more controlled sentence structure that reads more smoothly overall.
+[190] sentence formation (cited 6x): The essay more often forms full sentences with a recognizable subject-verb structure.
+[191] sentence sophistication (cited 4x): This captures more complex sentence building with embedded ideas and cause-effect relationships.
+[192] sentence variety (cited 184x): The essay shows more varied sentence structures and attempts at more complex phrasing.
+[193] sentence-level control (cited 5x): This captures producing extended sentence structures that remain readable despite grammar mistakes.
+[194] sequencing (cited 6x): The writing uses explicit transitions to signal a logical progression of ideas.
+[195] specific description (cited 3x): This captures the use of vivid, concrete details that make examples more precise and informative.
+[196] specific detail (cited 20x): The essay includes more concrete examples and explanatory detail to flesh out its ideas.
+[197] specific development (cited 3x): It develops ideas with more concrete, relevant detail that makes the explanation feel more fully elaborated.
+[198] specific elaboration (cited 16x): The essay includes concrete, varied examples that make its points more vivid and convincing.
+[199] specific examples (cited 12x): The essay uses concrete anecdotes to illustrate its points, which strengthens detail and support.
+[200] specific support (cited 45x): This captures more concrete examples and elaboration that make the claims feel more fully developed.
+[201] specific supporting detail (cited 13x): This essay uses a personal example to support its main point, making the reasons feel more concrete and developed.
+[202] specific supporting examples (cited 3x): The essay relies on more concrete, varied examples to strengthen its claims.
+[203] specificity (cited 17x): It includes more concrete details that flesh out the central idea.
+[204] spelling accuracy (cited 46x): The essay has fewer and less disruptive spelling problems than the other essay.
+[205] spelling and mechanics (cited 6x): The essay shows fewer and less disruptive errors in spelling and basic written conventions.
+[206] spelling control (cited 39x): It has fewer and less disruptive spelling problems than the other essay, which helps readability.
+[207] staying on topic (cited 3x): The essay keeps returning to one controlling idea instead of drifting across many loosely connected points.
+[208] structuring (cited 3x): It uses explicit transitional markers to organize ideas into distinct paragraphs and guide the reader through the essay.
+[209] style (cited 4x): The wording sounds more formal and essay-like overall, with less awkward phrasing and conversational drift.
+[210] support (cited 12x): It uses specific examples to strengthen and illustrate its points.
+[211] support development (cited 28x): The essay supports its ideas with more concrete examples that make its points clearer and more persuasive.
+[212] supporting detail (cited 184x): The essay gives more concrete examples to support its claims and make its reasoning clearer.
+[213] supporting details (cited 6x): The essay develops ideas with a wider range of specific examples that make its points more concrete.
+[214] supporting development (cited 6x): The essay offers more directly related reasons and explanations to back up its claim.
+[215] supporting elaboration (cited 5x): It gives more concrete reasons and examples to back up the position.
+[216] supporting evidence (cited 21x): The essay uses specific outside information to back up its claims, which strengthens the persuasiveness of the writing.
+[217] supporting examples (cited 35x): The essay uses multiple relevant, specific examples to support each point and make the argument concrete.
+[218] syntactic complexity (cited 31x): This captures the ability to build more extended and layered sentences rather than only short, fragmented ones.
+[219] syntactic control (cited 83x): It uses more varied and controlled sentence structures to build more fluent academic writing.
+[220] syntactic maturity (cited 3x): This captures greater control over sentence structure and the ability to form more complex statements.
+[221] syntactic range (cited 3x): The essay shows greater control of sentence variety and more ambitious sentence structures.
+[222] syntactic variety (cited 21x): Uses a wider range of sentence patterns and transitions, which makes the writing sound more controlled and developed.
+[223] syntax control (cited 5x): This captures greater control of sentence structure and fewer awkward grammatical constructions.
+[224] task control (cited 22x): It stays more focused on developing a response to the prompt rather than drifting into personal reflection.
+[225] task development (cited 6x): The essay develops its main point with relevant details and examples rather than drifting through loosely connected statements.
+[226] task engagement (cited 3x): The essay shows more awareness of the writing task by directly introducing and addressing the prompt in a conventional essay format.
+[227] task focus (cited 54x): The essay stays more consistently centered on its main argument and returns to it throughout.
+[228] task organization (cited 3x): It presents a clear persuasive letter format with an identifiable stance and purpose from the start.
+[229] task persistence (cited 3x): The essay stays centered on one argumentative point and sustains it across the response more effectively.
+[230] task-appropriate opening (cited 4x): It uses a clearer letter-style opening that more directly matches an academic writing task.
+[231] task-appropriate register (cited 4x): The essay maintains a more essay-like, school-appropriate tone suited to a persuasive response.
+[232] text coherence (cited 6x): The essay uses clearer transitions and a more recognizable opening-to-closing progression.
+[233] text cohesion (cited 5x): The essay more consistently links ideas across sentences and paragraphs with discourse markers.
+[234] text development (cited 4x): This captures having enough elaboration and supporting points to build an argument rather than only a few fragments.
+[235] text organization (cited 55x): It uses clearer discourse markers to structure the response into recognizable parts.
+[236] text structure (cited 27x): The essay more clearly signals the movement from claim to support to conclusion.
+[237] textual cohesion (cited 5x): It uses clearer sequencing and linking phrases to connect points and move the argument forward.
+[238] textual integration (cited 5x): It incorporates a relevant quotation and ties it into the argument, showing stronger ability to use source-like material effectively.
+[239] thesis clarity (cited 15x): This captures stating a direct main claim early and making the writer’s position easy to identify.
+[240] thesis control (cited 3x): The essay states and maintains a more focused central claim throughout the response.
+[241] tone control (cited 3x): This captures a steadier essay voice that stays closer to academic argumentation.
+[242] topic control (cited 14x): The writing stays focused on one central idea instead of becoming a set of disconnected phrases.
+[243] topic development (cited 5x): It stays more consistently on its central argument and avoids the digressive, repetitive drifting seen in the other essay.
+[244] topic elaboration (cited 4x): It explores several distinct subpoints within the topic, giving the essay more substantial conceptual development.
+[245] topic focus (cited 6x): It stays more consistently centered on the main issue and maintains a clearer line of argument.
+[246] topic vocabulary (cited 4x): The essay shows somewhat stronger use of abstract vocabulary related to character, traits, and influence.
+[247] transitional coherence (cited 3x): This captures stronger use of discourse markers to organize the argument and signal progression between ideas.
+[248] transitional control (cited 27x): The essay uses sequencing and linking phrases to organize points and show relationships between ideas.
+[249] transitions (cited 144x): The essay uses clearer linking words to connect ideas and guide the reader through the argument.
+[250] use of examples (cited 13x): The essay grounds claims in concrete examples from school life to make ideas more persuasive.
+[251] variety of expression (cited 3x): The essay uses a wider range of phrasing and examples to restate the main idea without relying as heavily on the same wording.
+[252] verb control (cited 3x): The essay uses a wider range of verb forms to describe plans, habits, and progress with more control.
+[253] vocabulary (cited 6x): It uses a wider range of more exact word choices to express ideas.
+[254] vocabulary control (cited 44x): The essay uses more precise and appropriate academic vocabulary to express its ideas.
+[255] vocabulary precision (cited 9x): It shows stronger command of more specific and formal vocabulary.
+[256] vocabulary range (cited 106x): The essay uses a broader and more precise set of words to express ideas.
+[257] vocabulary sophistication (cited 10x): The essay relies more on topic-appropriate academic vocabulary and abstract wording.
+[258] voice (cited 23x): This captures a more sustained personal perspective that makes the writing feel more intentional and engaged.
+[259] word choice (cited 537x): The essay uses more precise and academic vocabulary to express its ideas.
+[260] word choice accuracy (cited 7x): This captures generally more precise and appropriate vocabulary use despite some spelling errors.
+[261] word choice control (cited 10x): The essay uses vocabulary in a more accurate and natural way overall.
+[262] word choice precision (cited 24x): It uses more purposeful vocabulary tied to the argument, even though many words are misspelled.
+[263] word choice range (cited 4x): It uses somewhat more varied vocabulary and attempts more abstract or topic-specific wording.
+[264] word-level accuracy (cited 3x): The essay has somewhat more accurate spelling and word forms, making the writing look more polished overall.
+[265] wording control (cited 3x): Word choice and phrasing are more controlled, with fewer extreme errors that block understanding.
+[266] wording precision (cited 7x): The essay uses clearer and more precise phrasing to express the writer's point.

@@ -1,0 +1,1600 @@
+{
+  "model": "gpt-5.4-2026-03-05",
+  "reasoning_effort": "high",
+  "min_cite": 3,
+  "n_phrases": 374,
+  "criteria": [
+    {
+      "name": "Abstract reasoning",
+      "definition": "Developing and explaining ideas through abstract, analytical, or causal reasoning rather than mere assertion or narration.",
+      "members": [
+        {
+          "index": 0,
+          "name": "abstract conceptual development"
+        },
+        {
+          "index": 1,
+          "name": "abstract idea development"
+        },
+        {
+          "index": 2,
+          "name": "abstract reasoning"
+        },
+        {
+          "index": 13,
+          "name": "analytical depth"
+        },
+        {
+          "index": 14,
+          "name": "analytical reasoning"
+        },
+        {
+          "index": 37,
+          "name": "causal reasoning"
+        },
+        {
+          "index": 75,
+          "name": "complex idea expression"
+        },
+        {
+          "index": 81,
+          "name": "conceptual elaboration"
+        },
+        {
+          "index": 152,
+          "name": "explanatory reasoning"
+        },
+        {
+          "index": 206,
+          "name": "logical development"
+        },
+        {
+          "index": 270,
+          "name": "rhetorical elaboration"
+        }
+      ]
+    },
+    {
+      "name": "Task awareness and register",
+      "definition": "Adapting the essay's tone, formality, genre, audience orientation, and response to the assigned task.",
+      "members": [
+        {
+          "index": 4,
+          "name": "academic register"
+        },
+        {
+          "index": 15,
+          "name": "appropriate formal tone"
+        },
+        {
+          "index": 29,
+          "name": "audience awareness"
+        },
+        {
+          "index": 91,
+          "name": "consistent academic register"
+        },
+        {
+          "index": 92,
+          "name": "consistent academic tone"
+        },
+        {
+          "index": 95,
+          "name": "consistent formal register"
+        },
+        {
+          "index": 96,
+          "name": "consistent formal tone"
+        },
+        {
+          "index": 97,
+          "name": "consistent register"
+        },
+        {
+          "index": 98,
+          "name": "consistent register and voice"
+        },
+        {
+          "index": 99,
+          "name": "consistent tone and register"
+        },
+        {
+          "index": 167,
+          "name": "genre awareness"
+        },
+        {
+          "index": 249,
+          "name": "prompt engagement"
+        },
+        {
+          "index": 250,
+          "name": "prompt responsiveness"
+        },
+        {
+          "index": 261,
+          "name": "register and audience awareness"
+        },
+        {
+          "index": 262,
+          "name": "register and tone control"
+        },
+        {
+          "index": 263,
+          "name": "register awareness"
+        },
+        {
+          "index": 264,
+          "name": "register consistency"
+        },
+        {
+          "index": 265,
+          "name": "register control"
+        }
+      ]
+    },
+    {
+      "name": "Vocabulary range and word choice",
+      "definition": "Using a broad, precise, and appropriate vocabulary to express meaning effectively.",
+      "members": [
+        {
+          "index": 3,
+          "name": "abstract vocabulary range"
+        },
+        {
+          "index": 5,
+          "name": "academic vocabulary"
+        },
+        {
+          "index": 6,
+          "name": "academic vocabulary range"
+        },
+        {
+          "index": 7,
+          "name": "academic word choice"
+        },
+        {
+          "index": 10,
+          "name": "advanced academic vocabulary"
+        },
+        {
+          "index": 11,
+          "name": "advanced lexical range"
+        },
+        {
+          "index": 12,
+          "name": "advanced vocabulary"
+        },
+        {
+          "index": 31,
+          "name": "broader academic vocabulary"
+        },
+        {
+          "index": 32,
+          "name": "broader functional vocabulary"
+        },
+        {
+          "index": 33,
+          "name": "broader lexical range"
+        },
+        {
+          "index": 34,
+          "name": "broader precise vocabulary"
+        },
+        {
+          "index": 35,
+          "name": "broader vocabulary"
+        },
+        {
+          "index": 36,
+          "name": "broader vocabulary range"
+        },
+        {
+          "index": 165,
+          "name": "functional vocabulary range"
+        },
+        {
+          "index": 166,
+          "name": "functional vocabulary use"
+        },
+        {
+          "index": 193,
+          "name": "lexical accuracy"
+        },
+        {
+          "index": 194,
+          "name": "lexical ambition"
+        },
+        {
+          "index": 196,
+          "name": "lexical breadth"
+        },
+        {
+          "index": 197,
+          "name": "lexical clarity"
+        },
+        {
+          "index": 198,
+          "name": "lexical control"
+        },
+        {
+          "index": 199,
+          "name": "lexical intelligibility"
+        },
+        {
+          "index": 200,
+          "name": "lexical precision"
+        },
+        {
+          "index": 201,
+          "name": "lexical range"
+        },
+        {
+          "index": 202,
+          "name": "lexical range and accuracy"
+        },
+        {
+          "index": 203,
+          "name": "lexical range and precision"
+        },
+        {
+          "index": 205,
+          "name": "lexical range and sophistication"
+        },
+        {
+          "index": 246,
+          "name": "precise academic vocabulary"
+        },
+        {
+          "index": 247,
+          "name": "precise vocabulary"
+        },
+        {
+          "index": 248,
+          "name": "precise word choice"
+        },
+        {
+          "index": 259,
+          "name": "range of vocabulary"
+        },
+        {
+          "index": 283,
+          "name": "richer vocabulary"
+        },
+        {
+          "index": 284,
+          "name": "richer vocabulary range"
+        },
+        {
+          "index": 306,
+          "name": "sophisticated vocabulary"
+        },
+        {
+          "index": 307,
+          "name": "sophisticated word choice"
+        },
+        {
+          "index": 371,
+          "name": "vocabulary breadth"
+        },
+        {
+          "index": 372,
+          "name": "vocabulary range"
+        },
+        {
+          "index": 373,
+          "name": "vocabulary range and precision"
+        }
+      ]
+    },
+    {
+      "name": "Grammatical accuracy",
+      "definition": "Producing grammatically correct English with consistent control of core forms and closely related error patterns.",
+      "members": [
+        {
+          "index": 102,
+          "name": "conventional accuracy"
+        },
+        {
+          "index": 107,
+          "name": "conventions accuracy"
+        },
+        {
+          "index": 168,
+          "name": "grammatical accuracy"
+        },
+        {
+          "index": 169,
+          "name": "grammatical and mechanical accuracy"
+        },
+        {
+          "index": 170,
+          "name": "grammatical and mechanical control"
+        },
+        {
+          "index": 171,
+          "name": "grammatical and spelling accuracy"
+        },
+        {
+          "index": 173,
+          "name": "grammatical consistency"
+        },
+        {
+          "index": 174,
+          "name": "grammatical control"
+        },
+        {
+          "index": 177,
+          "name": "greater grammatical control"
+        },
+        {
+          "index": 312,
+          "name": "spelling and grammatical accuracy"
+        }
+      ]
+    },
+    {
+      "name": "Syntactic complexity",
+      "definition": "Using varied and complex sentence patterns and clause structures to express relationships among ideas.",
+      "members": [
+        {
+          "index": 76,
+          "name": "complex sentence attempts"
+        },
+        {
+          "index": 77,
+          "name": "complex sentence construction"
+        },
+        {
+          "index": 78,
+          "name": "complex sentence structures"
+        },
+        {
+          "index": 79,
+          "name": "complex sentence variety"
+        },
+        {
+          "index": 172,
+          "name": "grammatical complexity"
+        },
+        {
+          "index": 175,
+          "name": "grammatical range"
+        },
+        {
+          "index": 178,
+          "name": "greater syntactic complexity"
+        },
+        {
+          "index": 180,
+          "name": "greater syntactic range"
+        },
+        {
+          "index": 181,
+          "name": "greater syntactic variety"
+        },
+        {
+          "index": 195,
+          "name": "lexical and syntactic range"
+        },
+        {
+          "index": 204,
+          "name": "lexical range and sentence variety"
+        },
+        {
+          "index": 289,
+          "name": "sentence complexity"
+        },
+        {
+          "index": 296,
+          "name": "sentence variety"
+        },
+        {
+          "index": 298,
+          "name": "sentence variety and complexity"
+        },
+        {
+          "index": 299,
+          "name": "sentence variety and control"
+        },
+        {
+          "index": 300,
+          "name": "sentence variety and fluency"
+        },
+        {
+          "index": 339,
+          "name": "syntactic ambition"
+        },
+        {
+          "index": 342,
+          "name": "syntactic complexity"
+        },
+        {
+          "index": 343,
+          "name": "syntactic control"
+        },
+        {
+          "index": 345,
+          "name": "syntactic range"
+        },
+        {
+          "index": 346,
+          "name": "syntactic sophistication"
+        },
+        {
+          "index": 347,
+          "name": "syntactic variety"
+        },
+        {
+          "index": 348,
+          "name": "syntactic variety and cohesion"
+        },
+        {
+          "index": 349,
+          "name": "syntactic variety and complexity"
+        },
+        {
+          "index": 350,
+          "name": "syntactic variety and control"
+        }
+      ]
+    },
+    {
+      "name": "Sentence formation",
+      "definition": "Forming complete, readable, and well-controlled sentences that avoid fragments, garbling, and boundary problems.",
+      "members": [
+        {
+          "index": 51,
+          "name": "coherent sentence construction"
+        },
+        {
+          "index": 80,
+          "name": "comprehensible sentence construction"
+        },
+        {
+          "index": 176,
+          "name": "grammatical sentence construction"
+        },
+        {
+          "index": 179,
+          "name": "greater syntactic control"
+        },
+        {
+          "index": 285,
+          "name": "sentence boundary control"
+        },
+        {
+          "index": 286,
+          "name": "sentence clarity"
+        },
+        {
+          "index": 287,
+          "name": "sentence coherence"
+        },
+        {
+          "index": 288,
+          "name": "sentence completeness"
+        },
+        {
+          "index": 290,
+          "name": "sentence construction"
+        },
+        {
+          "index": 291,
+          "name": "sentence control"
+        },
+        {
+          "index": 292,
+          "name": "sentence fluency"
+        },
+        {
+          "index": 293,
+          "name": "sentence intelligibility"
+        },
+        {
+          "index": 294,
+          "name": "sentence structure"
+        },
+        {
+          "index": 295,
+          "name": "sentence structure control"
+        },
+        {
+          "index": 301,
+          "name": "sentence-level comprehensibility"
+        },
+        {
+          "index": 302,
+          "name": "sentence-level control"
+        },
+        {
+          "index": 303,
+          "name": "sentence-level fluency"
+        },
+        {
+          "index": 304,
+          "name": "sentence-level grammatical control"
+        },
+        {
+          "index": 305,
+          "name": "sentence-level intelligibility"
+        },
+        {
+          "index": 340,
+          "name": "syntactic coherence"
+        },
+        {
+          "index": 341,
+          "name": "syntactic completeness"
+        },
+        {
+          "index": 344,
+          "name": "syntactic fluency"
+        }
+      ]
+    },
+    {
+      "name": "Spelling, punctuation, and mechanics",
+      "definition": "Controlling spelling, punctuation, capitalization, and other surface conventions of written English.",
+      "members": [
+        {
+          "index": 8,
+          "name": "accurate spelling"
+        },
+        {
+          "index": 103,
+          "name": "conventional mechanics"
+        },
+        {
+          "index": 104,
+          "name": "conventional spelling"
+        },
+        {
+          "index": 105,
+          "name": "conventional spelling and mechanics"
+        },
+        {
+          "index": 106,
+          "name": "conventional spelling and punctuation"
+        },
+        {
+          "index": 108,
+          "name": "conventions and mechanics"
+        },
+        {
+          "index": 109,
+          "name": "conventions control"
+        },
+        {
+          "index": 110,
+          "name": "conventions of written english"
+        },
+        {
+          "index": 207,
+          "name": "mechanical accuracy"
+        },
+        {
+          "index": 208,
+          "name": "mechanical control"
+        },
+        {
+          "index": 209,
+          "name": "mechanical conventions"
+        },
+        {
+          "index": 210,
+          "name": "mechanical correctness"
+        },
+        {
+          "index": 211,
+          "name": "mechanics"
+        },
+        {
+          "index": 212,
+          "name": "mechanics and punctuation"
+        },
+        {
+          "index": 235,
+          "name": "orthographic accuracy"
+        },
+        {
+          "index": 236,
+          "name": "orthographic control"
+        },
+        {
+          "index": 252,
+          "name": "punctuation accuracy"
+        },
+        {
+          "index": 253,
+          "name": "punctuation and capitalization"
+        },
+        {
+          "index": 254,
+          "name": "punctuation and capitalization control"
+        },
+        {
+          "index": 255,
+          "name": "punctuation and mechanics"
+        },
+        {
+          "index": 256,
+          "name": "punctuation and sentence boundaries"
+        },
+        {
+          "index": 257,
+          "name": "punctuation control"
+        },
+        {
+          "index": 311,
+          "name": "spelling accuracy"
+        },
+        {
+          "index": 313,
+          "name": "spelling and mechanics"
+        },
+        {
+          "index": 314,
+          "name": "spelling and mechanics accuracy"
+        },
+        {
+          "index": 315,
+          "name": "spelling and mechanics control"
+        },
+        {
+          "index": 316,
+          "name": "spelling and punctuation accuracy"
+        },
+        {
+          "index": 317,
+          "name": "spelling and word accuracy"
+        },
+        {
+          "index": 318,
+          "name": "spelling and word-form accuracy"
+        },
+        {
+          "index": 319,
+          "name": "spelling control"
+        }
+      ]
+    },
+    {
+      "name": "Organization and coherence",
+      "definition": "Organizing the essay around a clear thesis or focus, with logical paragraph structure and a complete argumentative arc.",
+      "members": [
+        {
+          "index": 19,
+          "name": "argumentative coherence"
+        },
+        {
+          "index": 21,
+          "name": "argumentative development"
+        },
+        {
+          "index": 22,
+          "name": "argumentative focus"
+        },
+        {
+          "index": 23,
+          "name": "argumentative framing"
+        },
+        {
+          "index": 25,
+          "name": "argumentative organization"
+        },
+        {
+          "index": 40,
+          "name": "coherence and focus"
+        },
+        {
+          "index": 41,
+          "name": "coherence and organization"
+        },
+        {
+          "index": 42,
+          "name": "coherent argument development"
+        },
+        {
+          "index": 43,
+          "name": "coherent argument structure"
+        },
+        {
+          "index": 44,
+          "name": "coherent argumentation"
+        },
+        {
+          "index": 45,
+          "name": "coherent argumentative structure"
+        },
+        {
+          "index": 46,
+          "name": "coherent idea development"
+        },
+        {
+          "index": 47,
+          "name": "coherent organization"
+        },
+        {
+          "index": 48,
+          "name": "coherent organization and development"
+        },
+        {
+          "index": 49,
+          "name": "coherent paragraph development"
+        },
+        {
+          "index": 50,
+          "name": "coherent paragraph organization"
+        },
+        {
+          "index": 61,
+          "name": "cohesive framing"
+        },
+        {
+          "index": 65,
+          "name": "cohesive paragraph development"
+        },
+        {
+          "index": 68,
+          "name": "cohesive paragraphing"
+        },
+        {
+          "index": 123,
+          "name": "discourse organization"
+        },
+        {
+          "index": 124,
+          "name": "effective conclusion"
+        },
+        {
+          "index": 159,
+          "name": "focused argument development"
+        },
+        {
+          "index": 160,
+          "name": "focused argumentation"
+        },
+        {
+          "index": 162,
+          "name": "focused idea development"
+        },
+        {
+          "index": 163,
+          "name": "focused paragraph development"
+        },
+        {
+          "index": 164,
+          "name": "focused topic development"
+        },
+        {
+          "index": 218,
+          "name": "organizational clarity"
+        },
+        {
+          "index": 219,
+          "name": "organizational coherence"
+        },
+        {
+          "index": 220,
+          "name": "organizational control"
+        },
+        {
+          "index": 221,
+          "name": "organizational development"
+        },
+        {
+          "index": 222,
+          "name": "organizational signaling"
+        },
+        {
+          "index": 223,
+          "name": "organizational structure"
+        },
+        {
+          "index": 224,
+          "name": "organized argument structure"
+        },
+        {
+          "index": 225,
+          "name": "organized argumentation"
+        },
+        {
+          "index": 226,
+          "name": "organized argumentative structure"
+        },
+        {
+          "index": 227,
+          "name": "organized development"
+        },
+        {
+          "index": 228,
+          "name": "organized essay structure"
+        },
+        {
+          "index": 229,
+          "name": "organized idea development"
+        },
+        {
+          "index": 230,
+          "name": "organized paragraph development"
+        },
+        {
+          "index": 231,
+          "name": "organized paragraph structure"
+        },
+        {
+          "index": 232,
+          "name": "organized paragraphing"
+        },
+        {
+          "index": 233,
+          "name": "organized structure"
+        },
+        {
+          "index": 238,
+          "name": "paragraph coherence"
+        },
+        {
+          "index": 239,
+          "name": "paragraph cohesion"
+        },
+        {
+          "index": 241,
+          "name": "paragraph development"
+        },
+        {
+          "index": 242,
+          "name": "paragraph organization"
+        },
+        {
+          "index": 243,
+          "name": "paragraph unity"
+        },
+        {
+          "index": 244,
+          "name": "paragraphing"
+        },
+        {
+          "index": 320,
+          "name": "structural completeness"
+        },
+        {
+          "index": 321,
+          "name": "structural framing"
+        },
+        {
+          "index": 322,
+          "name": "structural organization"
+        },
+        {
+          "index": 338,
+          "name": "sustained argumentative development"
+        },
+        {
+          "index": 351,
+          "name": "thematic coherence"
+        },
+        {
+          "index": 352,
+          "name": "thesis clarity"
+        },
+        {
+          "index": 353,
+          "name": "thesis coherence"
+        },
+        {
+          "index": 354,
+          "name": "thesis development"
+        },
+        {
+          "index": 355,
+          "name": "thesis development and cohesion"
+        },
+        {
+          "index": 356,
+          "name": "thesis-driven argumentation"
+        },
+        {
+          "index": 357,
+          "name": "thesis-driven development"
+        },
+        {
+          "index": 358,
+          "name": "topic coherence"
+        },
+        {
+          "index": 359,
+          "name": "topic focus"
+        },
+        {
+          "index": 360,
+          "name": "topical coherence"
+        },
+        {
+          "index": 361,
+          "name": "topical focus"
+        },
+        {
+          "index": 362,
+          "name": "topical organization"
+        }
+      ]
+    },
+    {
+      "name": "Cohesion and transitions",
+      "definition": "Linking ideas and paragraphs smoothly through transitions, signposting, and clear reference.",
+      "members": [
+        {
+          "index": 39,
+          "name": "coherence and cohesion"
+        },
+        {
+          "index": 52,
+          "name": "cohesion"
+        },
+        {
+          "index": 53,
+          "name": "cohesion and coherence"
+        },
+        {
+          "index": 54,
+          "name": "cohesion and flow"
+        },
+        {
+          "index": 55,
+          "name": "cohesion and organization"
+        },
+        {
+          "index": 56,
+          "name": "cohesion and transitions"
+        },
+        {
+          "index": 57,
+          "name": "cohesive argumentation"
+        },
+        {
+          "index": 58,
+          "name": "cohesive devices"
+        },
+        {
+          "index": 59,
+          "name": "cohesive devices and transitions"
+        },
+        {
+          "index": 60,
+          "name": "cohesive flow"
+        },
+        {
+          "index": 62,
+          "name": "cohesive linking"
+        },
+        {
+          "index": 63,
+          "name": "cohesive linking devices"
+        },
+        {
+          "index": 64,
+          "name": "cohesive organization"
+        },
+        {
+          "index": 66,
+          "name": "cohesive paragraph linking"
+        },
+        {
+          "index": 67,
+          "name": "cohesive paragraph transitions"
+        },
+        {
+          "index": 69,
+          "name": "cohesive paragraphing and transitions"
+        },
+        {
+          "index": 70,
+          "name": "cohesive signaling"
+        },
+        {
+          "index": 71,
+          "name": "cohesive transitions"
+        },
+        {
+          "index": 121,
+          "name": "discourse cohesion"
+        },
+        {
+          "index": 122,
+          "name": "discourse connectors"
+        },
+        {
+          "index": 240,
+          "name": "paragraph cohesion and transitions"
+        },
+        {
+          "index": 251,
+          "name": "pronoun consistency"
+        },
+        {
+          "index": 260,
+          "name": "referential clarity"
+        },
+        {
+          "index": 297,
+          "name": "sentence variety and cohesion"
+        }
+      ]
+    },
+    {
+      "name": "Counterargument handling",
+      "definition": "Acknowledging, weighing, and responding to opposing views or multiple perspectives.",
+      "members": [
+        {
+          "index": 9,
+          "name": "acknowledgment of opposing views"
+        },
+        {
+          "index": 17,
+          "name": "argumentative awareness"
+        },
+        {
+          "index": 18,
+          "name": "argumentative balance"
+        },
+        {
+          "index": 20,
+          "name": "argumentative depth"
+        },
+        {
+          "index": 24,
+          "name": "argumentative nuance"
+        },
+        {
+          "index": 26,
+          "name": "argumentative reasoning"
+        },
+        {
+          "index": 27,
+          "name": "argumentative sophistication"
+        },
+        {
+          "index": 28,
+          "name": "argumentative structure"
+        },
+        {
+          "index": 90,
+          "name": "consideration of multiple viewpoints"
+        },
+        {
+          "index": 111,
+          "name": "counterargument acknowledgment"
+        },
+        {
+          "index": 112,
+          "name": "counterargument awareness"
+        },
+        {
+          "index": 113,
+          "name": "counterargument consideration"
+        },
+        {
+          "index": 114,
+          "name": "counterargument engagement"
+        },
+        {
+          "index": 115,
+          "name": "counterargument handling"
+        },
+        {
+          "index": 216,
+          "name": "nuanced argumentation"
+        },
+        {
+          "index": 217,
+          "name": "nuanced reasoning"
+        },
+        {
+          "index": 245,
+          "name": "perspective-taking"
+        },
+        {
+          "index": 266,
+          "name": "rhetorical awareness"
+        }
+      ]
+    },
+    {
+      "name": "Elaboration and support",
+      "definition": "Developing claims with concrete details, examples, anecdotes, and other elaborated support.",
+      "members": [
+        {
+          "index": 16,
+          "name": "argument development"
+        },
+        {
+          "index": 72,
+          "name": "cohesive use of evidence"
+        },
+        {
+          "index": 82,
+          "name": "concrete descriptive detail"
+        },
+        {
+          "index": 83,
+          "name": "concrete elaboration"
+        },
+        {
+          "index": 84,
+          "name": "concrete exemplification"
+        },
+        {
+          "index": 85,
+          "name": "concrete illustration"
+        },
+        {
+          "index": 86,
+          "name": "concrete illustrative detail"
+        },
+        {
+          "index": 87,
+          "name": "concrete supporting detail"
+        },
+        {
+          "index": 88,
+          "name": "concrete supporting evidence"
+        },
+        {
+          "index": 89,
+          "name": "concrete supporting examples"
+        },
+        {
+          "index": 101,
+          "name": "content development"
+        },
+        {
+          "index": 116,
+          "name": "depth of elaboration"
+        },
+        {
+          "index": 117,
+          "name": "depth of idea development"
+        },
+        {
+          "index": 118,
+          "name": "descriptive elaboration"
+        },
+        {
+          "index": 120,
+          "name": "developed supporting evidence"
+        },
+        {
+          "index": 125,
+          "name": "effective use of evidence"
+        },
+        {
+          "index": 126,
+          "name": "effective use of evidence and examples"
+        },
+        {
+          "index": 127,
+          "name": "effective use of examples"
+        },
+        {
+          "index": 128,
+          "name": "effective use of personal evidence"
+        },
+        {
+          "index": 129,
+          "name": "effective use of personal example"
+        },
+        {
+          "index": 130,
+          "name": "effective use of supporting evidence"
+        },
+        {
+          "index": 131,
+          "name": "effective use of supporting examples"
+        },
+        {
+          "index": 132,
+          "name": "elaborated argumentation"
+        },
+        {
+          "index": 133,
+          "name": "elaborated idea development"
+        },
+        {
+          "index": 134,
+          "name": "elaborated reasoning"
+        },
+        {
+          "index": 135,
+          "name": "elaborated supporting detail"
+        },
+        {
+          "index": 136,
+          "name": "elaborated supporting evidence"
+        },
+        {
+          "index": 137,
+          "name": "elaborated supporting examples"
+        },
+        {
+          "index": 138,
+          "name": "elaboration and development"
+        },
+        {
+          "index": 139,
+          "name": "elaboration and exemplification"
+        },
+        {
+          "index": 140,
+          "name": "elaboration and idea development"
+        },
+        {
+          "index": 141,
+          "name": "elaboration and support"
+        },
+        {
+          "index": 142,
+          "name": "elaboration of ideas"
+        },
+        {
+          "index": 143,
+          "name": "elaboration with concrete detail"
+        },
+        {
+          "index": 144,
+          "name": "elaboration with concrete examples"
+        },
+        {
+          "index": 145,
+          "name": "elaboration with examples"
+        },
+        {
+          "index": 146,
+          "name": "elaboration with supporting examples"
+        },
+        {
+          "index": 147,
+          "name": "elaborative development"
+        },
+        {
+          "index": 148,
+          "name": "evidence and elaboration"
+        },
+        {
+          "index": 149,
+          "name": "evidence development"
+        },
+        {
+          "index": 151,
+          "name": "evidence-based argumentation"
+        },
+        {
+          "index": 161,
+          "name": "focused exemplification"
+        },
+        {
+          "index": 182,
+          "name": "idea development"
+        },
+        {
+          "index": 183,
+          "name": "idea development and elaboration"
+        },
+        {
+          "index": 184,
+          "name": "idea elaboration"
+        },
+        {
+          "index": 185,
+          "name": "ideational development"
+        },
+        {
+          "index": 186,
+          "name": "ideational elaboration"
+        },
+        {
+          "index": 189,
+          "name": "illustrative development"
+        },
+        {
+          "index": 190,
+          "name": "illustrative elaboration"
+        },
+        {
+          "index": 191,
+          "name": "illustrative example development"
+        },
+        {
+          "index": 192,
+          "name": "illustrative reasoning"
+        },
+        {
+          "index": 213,
+          "name": "narrative coherence"
+        },
+        {
+          "index": 214,
+          "name": "narrative development"
+        },
+        {
+          "index": 215,
+          "name": "narrative elaboration"
+        },
+        {
+          "index": 258,
+          "name": "range of illustrative examples"
+        },
+        {
+          "index": 268,
+          "name": "rhetorical development"
+        },
+        {
+          "index": 280,
+          "name": "rhetorical support"
+        },
+        {
+          "index": 309,
+          "name": "specific supporting detail"
+        },
+        {
+          "index": 310,
+          "name": "specific supporting evidence"
+        },
+        {
+          "index": 323,
+          "name": "substantiated argumentation"
+        },
+        {
+          "index": 324,
+          "name": "substantive content development"
+        },
+        {
+          "index": 325,
+          "name": "substantive development"
+        },
+        {
+          "index": 326,
+          "name": "substantive elaboration"
+        },
+        {
+          "index": 327,
+          "name": "substantive idea development"
+        },
+        {
+          "index": 328,
+          "name": "supporting detail"
+        },
+        {
+          "index": 329,
+          "name": "supporting detail and development"
+        },
+        {
+          "index": 330,
+          "name": "supporting detail and elaboration"
+        },
+        {
+          "index": 331,
+          "name": "supporting detail and exemplification"
+        },
+        {
+          "index": 332,
+          "name": "supporting detail development"
+        },
+        {
+          "index": 333,
+          "name": "supporting development"
+        },
+        {
+          "index": 334,
+          "name": "supporting elaboration"
+        },
+        {
+          "index": 335,
+          "name": "supporting evidence"
+        },
+        {
+          "index": 336,
+          "name": "supporting evidence and elaboration"
+        },
+        {
+          "index": 337,
+          "name": "supporting examples"
+        },
+        {
+          "index": 366,
+          "name": "use of illustrative examples"
+        },
+        {
+          "index": 368,
+          "name": "use of supporting examples"
+        }
+      ]
+    },
+    {
+      "name": "Source integration",
+      "definition": "Integrating quotations, cited material, or other outside sources into the essay to support its argument.",
+      "members": [
+        {
+          "index": 150,
+          "name": "evidence integration"
+        },
+        {
+          "index": 308,
+          "name": "source integration"
+        },
+        {
+          "index": 363,
+          "name": "use of direct quotation"
+        },
+        {
+          "index": 364,
+          "name": "use of evidence and anecdote"
+        },
+        {
+          "index": 365,
+          "name": "use of illustrative evidence"
+        },
+        {
+          "index": 367,
+          "name": "use of supporting evidence"
+        },
+        {
+          "index": 369,
+          "name": "use of supporting material"
+        }
+      ]
+    },
+    {
+      "name": "Rhetorical style and voice",
+      "definition": "Creating a distinctive and engaging prose style through voice, figurative language, idiomatic phrasing, and other rhetorical devices.",
+      "members": [
+        {
+          "index": 30,
+          "name": "authorial voice"
+        },
+        {
+          "index": 93,
+          "name": "consistent authorial voice"
+        },
+        {
+          "index": 119,
+          "name": "descriptive word choice"
+        },
+        {
+          "index": 153,
+          "name": "expressive range"
+        },
+        {
+          "index": 154,
+          "name": "expressive vocabulary"
+        },
+        {
+          "index": 155,
+          "name": "figurative expression"
+        },
+        {
+          "index": 156,
+          "name": "figurative expressiveness"
+        },
+        {
+          "index": 157,
+          "name": "figurative language"
+        },
+        {
+          "index": 158,
+          "name": "figurative language use"
+        },
+        {
+          "index": 187,
+          "name": "idiomatic expression"
+        },
+        {
+          "index": 188,
+          "name": "idiomatic fluency"
+        },
+        {
+          "index": 267,
+          "name": "rhetorical control"
+        },
+        {
+          "index": 269,
+          "name": "rhetorical devices"
+        },
+        {
+          "index": 271,
+          "name": "rhetorical emphasis"
+        },
+        {
+          "index": 272,
+          "name": "rhetorical engagement"
+        },
+        {
+          "index": 273,
+          "name": "rhetorical expression"
+        },
+        {
+          "index": 274,
+          "name": "rhetorical expressiveness"
+        },
+        {
+          "index": 275,
+          "name": "rhetorical flair"
+        },
+        {
+          "index": 276,
+          "name": "rhetorical fluency"
+        },
+        {
+          "index": 277,
+          "name": "rhetorical framing"
+        },
+        {
+          "index": 278,
+          "name": "rhetorical range"
+        },
+        {
+          "index": 279,
+          "name": "rhetorical sophistication"
+        },
+        {
+          "index": 281,
+          "name": "rhetorical variety"
+        },
+        {
+          "index": 282,
+          "name": "rhetorical voice"
+        },
+        {
+          "index": 370,
+          "name": "vivid descriptive detail"
+        }
+      ]
+    },
+    {
+      "name": "Communicative clarity",
+      "definition": "Conveying meaning clearly enough that a reader can understand the writer's intended message without confusion.",
+      "members": [
+        {
+          "index": 38,
+          "name": "clarity of expression"
+        },
+        {
+          "index": 73,
+          "name": "communicative clarity"
+        },
+        {
+          "index": 74,
+          "name": "communicative intelligibility"
+        },
+        {
+          "index": 237,
+          "name": "overall intelligibility"
+        }
+      ]
+    },
+    {
+      "name": "English use consistency",
+      "definition": "Maintaining English as the language of production throughout the response.",
+      "members": [
+        {
+          "index": 94,
+          "name": "consistent english production"
+        },
+        {
+          "index": 100,
+          "name": "consistent use of english"
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "definition": "Idiosyncratic qualities that do not clearly belong to a broader shared construct in this set.",
+      "members": [
+        {
+          "index": 234,
+          "name": "original content generation"
+        }
+      ]
+    }
+  ]
+}

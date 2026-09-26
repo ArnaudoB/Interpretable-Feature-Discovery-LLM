@@ -1,0 +1,22 @@
+{
+  "cell_label": "interpretable_scoring_claude_haiku_4_5__asap2",
+  "judge": "claude-haiku-4-5",
+  "dataset": "asap2_driverless",
+  "prompt_variant": "comparative_verdict_qualities_asap2_srcarticle",
+  "T_before": 2000,
+  "T_after": 2000,
+  "n": 100,
+  "K": 18,
+  "canonicalization": {
+    "method": "llm_taxonomy",
+    "model": "gpt-5.4-2026-03-05",
+    "reasoning_effort": "high",
+    "n_phrases_in": 568,
+    "n_criteria_raw": 19,
+    "n_criteria_after_other_and_floor": 18,
+    "min_cite": 3,
+    "citation_share_retained": 0.8228146853146853,
+    "n_phrases_in_other": 1,
+    "share_floor": 0.0
+  }
+}

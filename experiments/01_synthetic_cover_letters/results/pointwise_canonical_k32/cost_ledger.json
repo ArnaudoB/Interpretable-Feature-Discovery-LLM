@@ -1,0 +1,11 @@
+{
+  "arm": "k32",
+  "n_specs": 2800,
+  "n_present": 2800,
+  "n_star": 14,
+  "n_partial_panels": 18,
+  "n_letters": 200,
+  "n_dims": 32,
+  "reported_basis": "batch",
+  "realized_usd_batch": 3.1042439999999965
+}

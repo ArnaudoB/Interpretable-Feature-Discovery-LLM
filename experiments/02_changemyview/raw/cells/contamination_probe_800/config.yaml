@@ -1,0 +1,21 @@
+cell:
+  label: winning_args_contamination_probe_800
+  dataset: winning_args_cmv
+  seed: 42
+
+source:
+  pair_units: experiments/winning_args/data/pair_units.parquet
+  n_per_cell: 400
+  min_words: 20
+  max_words: 1200
+  seed: 42
+
+judge:
+  model: gpt-5.4-mini-2026-03-17
+  judge_effort: none
+  max_out: 200
+  smoke_n: 8
+  sync_workers: 16
+  seed: 42
+  cache_dir: experiments/winning_args/contamination_probe_800/cache/responses
+  out_dir:   experiments/winning_args/contamination_probe_800/results

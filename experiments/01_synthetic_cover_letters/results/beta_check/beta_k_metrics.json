@@ -1,0 +1,29 @@
+{
+  "note": "Selection and recovery metrics under the per-criterion beta_k refit.",
+  "validate_max_dkappa": 0.0,
+  "validate_max_drho": 0.5662800795807437,
+  "kept_identical": true,
+  "n_kept_global": 21,
+  "n_kept_beta_k": 21,
+  "added_by_beta_k": [],
+  "dropped_by_beta_k": [],
+  "metrics": {
+    "global_beta": {
+      "K": 21,
+      "SF": 1.0,
+      "SM": 0.8503718309395845,
+      "SR": 1.0,
+      "AF": 0.7619047619047619,
+      "LK": 0.09043001775102105
+    },
+    "beta_k": {
+      "K": 21,
+      "SF": 1.0,
+      "SM": 0.8494267850123614,
+      "SR": 1.0,
+      "AF": 0.7619047619047619,
+      "LK": 0.09039824218389376
+    }
+  },
+  "min_score_col_corr": 0.9884211153377028
+}

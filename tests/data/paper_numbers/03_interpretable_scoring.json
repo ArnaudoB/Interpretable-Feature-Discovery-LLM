@@ -1,0 +1,386 @@
+{
+ "design.ellipse": {
+  "n_essays": 100,
+  "n_pairs": 2000,
+  "n_matchings": 40,
+  "degree": 40,
+  "seed": 42,
+  "bands": {
+   "1": 9,
+   "2": 23,
+   "3": 23,
+   "4": 23,
+   "5": 22
+  }
+ },
+ "design.asap2": {
+  "n_essays": 100,
+  "n_pairs": 2000,
+  "n_matchings": 40,
+  "degree": 40,
+  "seed": 42,
+  "bands": {
+   "1": 18,
+   "2": 18,
+   "3": 18,
+   "4": 18,
+   "5": 17,
+   "6": 11
+  }
+ },
+ "elicitation.parsed": {
+  "parsed": 16000,
+  "per_run": {
+   "gpt_5_4_mini__ellipse": 2000,
+   "claude_haiku_4_5__ellipse": 2000,
+   "gemini_3_6_flash__ellipse": 2000,
+   "deepseek_v4_flash__ellipse": 2000,
+   "gpt_5_4_mini__asap2": 2000,
+   "claude_haiku_4_5__asap2": 2000,
+   "gemini_3_6_flash__asap2": 2000,
+   "deepseek_v4_flash__asap2": 2000
+  }
+ },
+ "gates.retained": {
+  "range": [
+   6,
+   16
+  ],
+  "per_run": {
+   "gpt_5_4_mini__ellipse": 9,
+   "claude_haiku_4_5__ellipse": 9,
+   "gemini_3_6_flash__ellipse": 9,
+   "deepseek_v4_flash__ellipse": 7,
+   "gpt_5_4_mini__asap2": 15,
+   "claude_haiku_4_5__asap2": 16,
+   "gemini_3_6_flash__asap2": 6,
+   "deepseek_v4_flash__asap2": 10
+  }
+ },
+ "gates.kappa_causes_most": {
+  "drops": 67,
+  "involving_kappa": 59,
+  "rho_only": 8,
+  "per_run": {
+   "gpt_5_4_mini__ellipse": {
+    "kappa_only": 5,
+    "rho_only": 2,
+    "both": 1
+   },
+   "claude_haiku_4_5__ellipse": {
+    "kappa_only": 11,
+    "rho_only": 1,
+    "both": 5
+   },
+   "gemini_3_6_flash__ellipse": {
+    "kappa_only": 11,
+    "rho_only": 1,
+    "both": 2
+   },
+   "deepseek_v4_flash__ellipse": {
+    "kappa_only": 8,
+    "rho_only": 0,
+    "both": 0
+   },
+   "gpt_5_4_mini__asap2": {
+    "kappa_only": 0,
+    "rho_only": 2,
+    "both": 1
+   },
+   "claude_haiku_4_5__asap2": {
+    "kappa_only": 2,
+    "rho_only": 0,
+    "both": 0
+   },
+   "gemini_3_6_flash__asap2": {
+    "kappa_only": 7,
+    "rho_only": 1,
+    "both": 3
+   },
+   "deepseek_v4_flash__asap2": {
+    "kappa_only": 2,
+    "rho_only": 1,
+    "both": 1
+   }
+  }
+ },
+ "gates.kappa_removes_frequent": {
+  "median_cite_rate_kappa_fail": 0.033,
+  "median_cite_rate_kappa_pass": 0.1905,
+  "runs_where_kappa_fails_are_LESS_cited_on_average": "7 of 8",
+  "kappa_fail_rate_by_citation_rate": {
+   "(0.0, 0.02]": "20/20",
+   "(0.02, 0.05]": "19/29",
+   "(0.05, 0.1]": "5/20",
+   "(0.1, 0.2]": "4/25",
+   "(0.2, 0.5]": "4/28",
+   "(0.5, 1.0]": "7/26"
+  },
+  "frequent_kappa_failures": [
+   {
+    "run": "gpt_5_4_mini__ellipse",
+    "canonical_name": "Organization",
+    "citation_rate": 0.953
+   },
+   {
+    "run": "gpt_5_4_mini__ellipse",
+    "canonical_name": "Development and Support",
+    "citation_rate": 0.888
+   },
+   {
+    "run": "claude_haiku_4_5__ellipse",
+    "canonical_name": "Organization and Coherence",
+    "citation_rate": 0.944
+   },
+   {
+    "run": "deepseek_v4_flash__ellipse",
+    "canonical_name": "Organization and coherence",
+    "citation_rate": 0.938
+   },
+   {
+    "run": "deepseek_v4_flash__ellipse",
+    "canonical_name": "Vocabulary range and word choice",
+    "citation_rate": 0.672
+   },
+   {
+    "run": "gemini_3_6_flash__asap2",
+    "canonical_name": "Structural Organization",
+    "citation_rate": 0.812
+   },
+   {
+    "run": "deepseek_v4_flash__asap2",
+    "canonical_name": "Evidence Use and Integration",
+    "citation_rate": 0.823
+   }
+  ]
+ },
+ "gates.sensitivity": {
+  "features_per_judge": {
+   "gpt-5.4-mini": 6,
+   "claude-haiku-4.5": 6,
+   "gemini-3.6-flash": 6,
+   "deepseek-v4-flash": 7
+  },
+  "three_judge_constructs": [
+   "Vocabulary",
+   "Sentence Variety and Complexity",
+   "Mechanics and Conventions",
+   "Idea Development",
+   "Grammar Accuracy"
+  ],
+  "three_judge_constructs_at_reported_gate": 7,
+  "features_per_judge_at_reported_gate": {
+   "gpt-5.4-mini": 9,
+   "claude-haiku-4.5": 9,
+   "gemini-3.6-flash": 9,
+   "deepseek-v4-flash": 7
+  },
+  "n_three_judge_constructs": 5
+ },
+ "gates.vocabulary": {
+  "construct_judges": [
+   "gpt-5.4-mini",
+   "claude-haiku-4.5",
+   "gemini-3.6-flash"
+  ],
+  "deepseek_feature": "Vocabulary range and word choice",
+  "rho": 0.927,
+  "kappa": 1183.4,
+  "kept": false
+ },
+ "denoising.ellipse": {
+  "mean_shrink_pct": 10.45,
+  "reordered": 10,
+  "n_criteria": 34
+ },
+ "sigma.gpt_most_compressed.ellipse": {
+  "gpt_smallest": 5,
+  "consensus_axes": 7
+ },
+ "sigma.gpt_most_compressed.asap2": {
+  "gpt_smallest": 4,
+  "consensus_axes": 8
+ },
+ "sigma.thesis_control": {
+  "range": [
+   0.9392,
+   1.0106
+  ],
+  "n_judges": 4
+ },
+ "sigma.sentence_level": {
+  "range": [
+   0.8152,
+   2.1129
+  ],
+  "n_judges": 4
+ },
+ "sigma.largest_single_judge": {
+  "ellipse": {
+   "construct": "Vocabulary",
+   "judge": "claude-haiku-4.5",
+   "denoised_sigma": 1.821,
+   "n_judges_on_axis": 3
+  },
+  "asap2": {
+   "construct": "Formal register",
+   "judge": "gpt-5.4-mini",
+   "denoised_sigma": 2.219,
+   "n_judges_on_axis": 2
+  }
+ },
+ "agreement.spearman.ellipse": {
+  "range": [
+   0.8863,
+   0.9203
+  ],
+  "per_judge": {
+   "gpt-5.4-mini": 0.9003,
+   "claude-haiku-4.5": 0.8863,
+   "gemini-3.6-flash": 0.9203,
+   "deepseek-v4-flash": 0.9034
+  }
+ },
+ "agreement.spearman.asap2": {
+  "range": [
+   0.7745,
+   0.8564
+  ],
+  "per_judge": {
+   "gpt-5.4-mini": 0.7745,
+   "claude-haiku-4.5": 0.8564,
+   "gemini-3.6-flash": 0.8245,
+   "deepseek-v4-flash": 0.8479
+  }
+ },
+ "position_bias": {
+  "max_abs_beta": 2.5987,
+  "rank_order_matches_win_rate": {
+   "ellipse": true,
+   "asap2": true
+  },
+  "per_run": {
+   "ellipse": [
+    {
+     "judge": "gpt-5.4-mini",
+     "beta": -1.0775,
+     "first_position_win_rate": 0.4235
+    },
+    {
+     "judge": "claude-haiku-4.5",
+     "beta": -0.4566,
+     "first_position_win_rate": 0.4775
+    },
+    {
+     "judge": "gemini-3.6-flash",
+     "beta": 0.3994,
+     "first_position_win_rate": 0.516
+    },
+    {
+     "judge": "deepseek-v4-flash",
+     "beta": 0.5937,
+     "first_position_win_rate": 0.5355
+    }
+   ],
+   "asap2": [
+    {
+     "judge": "gpt-5.4-mini",
+     "beta": -2.032,
+     "first_position_win_rate": 0.3745
+    },
+    {
+     "judge": "claude-haiku-4.5",
+     "beta": 0.536,
+     "first_position_win_rate": 0.507
+    },
+    {
+     "judge": "gemini-3.6-flash",
+     "beta": 0.8313,
+     "first_position_win_rate": 0.537
+    },
+    {
+     "judge": "deepseek-v4-flash",
+     "beta": 2.5987,
+     "first_position_win_rate": 0.602
+    }
+   ]
+  }
+ },
+ "calibration.winner_ece.ELLIPSE": {
+  "range": [
+   0.0118,
+   0.0275
+  ]
+ },
+ "calibration.winner_ece.ASAP-2": {
+  "range": [
+   0.0104,
+   0.0189
+  ]
+ },
+ "calibration.winner_oof_not_worse": {
+  "oof_le_in_sample": "8 of 8"
+ },
+ "calibration.citation_ece.in-sample": {
+  "range": [
+   0.0034,
+   0.011
+  ]
+ },
+ "calibration.citation_ece.out-of-fold": {
+  "range": [
+   0.0268,
+   0.0411
+  ]
+ },
+ "calibration.winner_bss.ELLIPSE": {
+  "vs_chance": [
+   0.803,
+   0.836
+  ],
+  "vs_empirical": [
+   0.798,
+   0.836
+  ],
+  "union_over_both_references": [
+   0.798,
+   0.836
+  ]
+ },
+ "calibration.winner_bss.ASAP-2": {
+  "vs_chance": [
+   0.741,
+   0.847
+  ],
+  "vs_empirical": [
+   0.724,
+   0.847
+  ],
+  "union_over_both_references": [
+   0.724,
+   0.847
+  ]
+ },
+ "calibration.citation_bss_habit": {
+  "range": [
+   0.034,
+   0.232
+  ],
+  "range_ELLIPSE": [
+   0.034,
+   0.197
+  ],
+  "range_ASAP-2": [
+   0.092,
+   0.232
+  ],
+  "smallest_lower_bound": 0.02
+ },
+ "calibration.winner_skills_coincide": {
+  "gpt-5.4-mini_ASAP-2": {
+   "vs_chance": 0.741,
+   "vs_empirical": 0.724,
+   "first_shown_rate": 0.374
+  }
+ }
+}

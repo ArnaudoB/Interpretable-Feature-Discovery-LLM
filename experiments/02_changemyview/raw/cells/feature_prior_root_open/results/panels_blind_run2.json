@@ -1,0 +1,716 @@
+[
+  {
+    "draw": 0,
+    "criteria": [
+      {
+        "name": "Direct relevance",
+        "definition": "The extent to which the reply addresses the exact belief, reasons, and question at issue rather than drifting to side matters."
+      },
+      {
+        "name": "Crux focus",
+        "definition": "The extent to which the reply engages the key assumptions or considerations whose revision would most likely change the original view."
+      },
+      {
+        "name": "Audience attunement",
+        "definition": "The extent to which the reply frames its case in terms of the original poster's stated values, background knowledge, and concerns."
+      },
+      {
+        "name": "Evidential grounding",
+        "definition": "The extent to which the reply backs its claims with specific, credible facts, examples, data, or sources."
+      },
+      {
+        "name": "Inferential strength",
+        "definition": "The extent to which the reply's reasons logically support its conclusion without major gaps, contradictions, or fallacies."
+      },
+      {
+        "name": "Counterargument handling",
+        "definition": "The extent to which the reply anticipates and answers strong objections, exceptions, or alternative explanations."
+      },
+      {
+        "name": "Fair representation",
+        "definition": "The extent to which the reply characterizes the opposing position accurately and charitably before criticizing it."
+      },
+      {
+        "name": "Claim specificity",
+        "definition": "The extent to which the reply makes concrete, precise points instead of relying on vague or generic assertions."
+      },
+      {
+        "name": "Clarity of expression",
+        "definition": "The extent to which the reply is easy to understand and follow on a first reading."
+      },
+      {
+        "name": "Argument economy",
+        "definition": "The extent to which the reply concentrates persuasive substance without unnecessary repetition, digression, or filler."
+      },
+      {
+        "name": "Epistemic calibration",
+        "definition": "The extent to which the reply matches its confidence and scope to what the support warrants, including acknowledging uncertainty or limits."
+      },
+      {
+        "name": "Novel insight",
+        "definition": "The extent to which the reply offers information, perspectives, or reframings that the original poster likely had not already considered."
+      },
+      {
+        "name": "Respectful tone",
+        "definition": "The extent to which the reply remains civil and non-contemptuous toward the person holding the view."
+      },
+      {
+        "name": "Empathic understanding",
+        "definition": "The extent to which the reply shows genuine understanding of why someone might hold the view and what concerns sustain it."
+      },
+      {
+        "name": "Emotional resonance",
+        "definition": "The extent to which the reply connects with values or feelings in a way that makes reconsideration feel compelling."
+      }
+    ],
+    "usage": {
+      "input_tokens": 284,
+      "output_tokens": 4653
+    }
+  },
+  {
+    "draw": 1,
+    "criteria": [
+      {
+        "name": "Core relevance",
+        "definition": "The extent to which the reply focuses on the central claim under dispute rather than on side issues or tangents."
+      },
+      {
+        "name": "Reason responsiveness",
+        "definition": "The extent to which the reply directly answers the specific reasons, evidence, or concerns the original poster gave for holding their view."
+      },
+      {
+        "name": "Charitable understanding",
+        "definition": "The extent to which the reply represents the original poster's position accurately and fairly before criticizing it."
+      },
+      {
+        "name": "Evidential backing",
+        "definition": "The extent to which the reply supports its claims with credible facts, examples, data, or sources."
+      },
+      {
+        "name": "Logical rigor",
+        "definition": "The extent to which the reply's conclusions follow coherently from its premises without major gaps, contradictions, or fallacies."
+      },
+      {
+        "name": "Mechanistic explanation",
+        "definition": "The extent to which the reply explains the underlying process or causal story that would make its conclusion true."
+      },
+      {
+        "name": "Counterargument handling",
+        "definition": "The extent to which the reply anticipates and addresses likely objections or competing interpretations."
+      },
+      {
+        "name": "Tradeoff weighing",
+        "definition": "The extent to which the reply compares the relative importance of competing considerations instead of merely listing them."
+      },
+      {
+        "name": "Specificity",
+        "definition": "The extent to which the reply uses concrete details, distinctions, or cases rather than broad or vague assertions."
+      },
+      {
+        "name": "Clarity",
+        "definition": "The extent to which the reply is easy to follow in its wording, structure, and intended conclusion."
+      },
+      {
+        "name": "Novel insight",
+        "definition": "The extent to which the reply offers perspectives or information that the original poster is unlikely to have already considered."
+      },
+      {
+        "name": "Constructive alternative",
+        "definition": "The extent to which the reply offers a clear and plausible alternative view or revised position for the original poster to adopt."
+      },
+      {
+        "name": "Value alignment",
+        "definition": "The extent to which the reply frames its case in terms of the original poster's stated or implied values, goals, or standards."
+      },
+      {
+        "name": "Respectful tone",
+        "definition": "The extent to which the reply engages in a civil, non-dismissive manner that reduces defensiveness."
+      },
+      {
+        "name": "Confidence calibration",
+        "definition": "The extent to which the reply expresses uncertainty, limits, and scope appropriately rather than overstating what it proves."
+      },
+      {
+        "name": "Practical significance",
+        "definition": "The extent to which the reply shows why accepting its conclusion would matter for real choices, outcomes, or beliefs."
+      }
+    ],
+    "usage": {
+      "input_tokens": 284,
+      "output_tokens": 2566
+    }
+  },
+  {
+    "draw": 2,
+    "criteria": [
+      {
+        "name": "Direct relevance",
+        "definition": "How directly the reply addresses the exact claim, question, or doubt that the original poster wants examined."
+      },
+      {
+        "name": "Position understanding",
+        "definition": "How well the reply shows an accurate grasp of the original poster's view, reasons, and intended meaning."
+      },
+      {
+        "name": "Core-point engagement",
+        "definition": "How much the reply engages the main reasons or assumptions supporting the original view rather than peripheral issues."
+      },
+      {
+        "name": "Evidence quality",
+        "definition": "How strong, credible, and well-chosen the evidence, examples, or sources are in supporting the reply's claims."
+      },
+      {
+        "name": "Logical strength",
+        "definition": "How well the reply's conclusions follow from its premises, with minimal gaps, contradictions, or fallacious moves."
+      },
+      {
+        "name": "Explanatory clarity",
+        "definition": "How easy the reply is to follow, with ideas expressed plainly and organized coherently."
+      },
+      {
+        "name": "Specificity",
+        "definition": "How precise and concrete the reply is, using definite claims, details, or examples instead of vague assertions."
+      },
+      {
+        "name": "Argument completeness",
+        "definition": "How fully the reply supplies the reasoning needed to make its case rather than leaving key steps unstated."
+      },
+      {
+        "name": "Novel insight",
+        "definition": "How much the reply offers information, distinctions, or perspectives likely to be new or non-obvious to the person holding the view."
+      },
+      {
+        "name": "Objection handling",
+        "definition": "How effectively the reply anticipates and answers likely counterarguments, doubts, or reservations."
+      },
+      {
+        "name": "Audience alignment",
+        "definition": "How well the reply connects its case to the original poster's values, goals, standards, or stated concerns."
+      },
+      {
+        "name": "Respectful tone",
+        "definition": "How civil, non-hostile, and non-condescending the reply is toward the original poster."
+      },
+      {
+        "name": "Intellectual fairness",
+        "definition": "How honestly the reply acknowledges uncertainty, nuance, and any valid points on the other side."
+      },
+      {
+        "name": "Stakes salience",
+        "definition": "How clearly the reply shows the practical, moral, or conceptual consequences that make changing the view matter."
+      },
+      {
+        "name": "Emotional resonance",
+        "definition": "How strongly the reply uses framing, examples, or narrative to make its point feel compelling on a human level."
+      }
+    ],
+    "usage": {
+      "input_tokens": 284,
+      "output_tokens": 2654
+    }
+  },
+  {
+    "draw": 3,
+    "criteria": [
+      {
+        "name": "Core relevance",
+        "definition": "How directly the reply engages the central claim or key premise that sustains the original view."
+      },
+      {
+        "name": "Audience understanding",
+        "definition": "How well the reply demonstrates an accurate grasp of the other person's reasons, concerns, and framing."
+      },
+      {
+        "name": "Evidence quality",
+        "definition": "How strong, credible, and pertinent the support is for the reply's factual claims."
+      },
+      {
+        "name": "Reasoning strength",
+        "definition": "How compellingly the reply's premises, explanations, and comparisons justify its conclusion or weaken the original view."
+      },
+      {
+        "name": "Counterargument coverage",
+        "definition": "How effectively the reply anticipates and answers likely objections, exceptions, or competing arguments."
+      },
+      {
+        "name": "Comparative weighing",
+        "definition": "How well the reply shows that its considerations outweigh the reasons for keeping the original view."
+      },
+      {
+        "name": "Specificity",
+        "definition": "How much the reply relies on concrete details, examples, distinctions, or mechanisms rather than vague assertions."
+      },
+      {
+        "name": "Explanatory clarity",
+        "definition": "How easy the reply is to follow and interpret without confusion or ambiguity."
+      },
+      {
+        "name": "Intellectual fairness",
+        "definition": "How much the reply acknowledges uncertainty, nuance, and valid points on the other side without distorting them."
+      },
+      {
+        "name": "Value alignment",
+        "definition": "How well the reply connects its case to the other person's stated or apparent values, goals, or standards of judgment."
+      },
+      {
+        "name": "Defensiveness reduction",
+        "definition": "How much the reply's tone and framing reduce resistance and keep the reader open rather than feeling attacked."
+      },
+      {
+        "name": "Face-saving path",
+        "definition": "How much the reply gives the other person a psychologically easy way to revise their view without humiliation or needless self-repudiation."
+      },
+      {
+        "name": "Emotional resonance",
+        "definition": "How strongly the reply makes the issue feel important, real, or personally felt rather than merely abstract."
+      },
+      {
+        "name": "Novel insight",
+        "definition": "How much the reply offers a non-obvious consideration, reframing, or connection the other person is unlikely to have already absorbed."
+      },
+      {
+        "name": "Practical salience",
+        "definition": "How clearly the reply shows meaningful real-world consequences or decisions that turn on accepting its point."
+      },
+      {
+        "name": "Rhetorical vividness",
+        "definition": "How strikingly the reply uses wording, analogy, or imagery to make its point memorable and hard to dismiss."
+      },
+      {
+        "name": "Economy",
+        "definition": "How much persuasive work the reply does without unnecessary digression, repetition, or filler."
+      }
+    ],
+    "usage": {
+      "input_tokens": 284,
+      "output_tokens": 5027
+    }
+  },
+  {
+    "draw": 4,
+    "criteria": [
+      {
+        "name": "Direct relevance",
+        "definition": "How directly the reply bears on the specific claim or decision the original poster is being asked to reconsider."
+      },
+      {
+        "name": "Responsiveness to concerns",
+        "definition": "How well the reply engages the original poster's stated reasons, doubts, or objections rather than arguing past them."
+      },
+      {
+        "name": "Charitable framing",
+        "definition": "How accurately and fairly the reply presents the original view and its strongest plausible rationale before criticizing it."
+      },
+      {
+        "name": "Evidential support",
+        "definition": "How strong, credible, and appropriately applied the facts, examples, data, or sources are that the reply uses to support its case."
+      },
+      {
+        "name": "Logical coherence",
+        "definition": "How consistently and validly the reply's conclusions follow from its premises without contradictions, non sequiturs, or obvious fallacies."
+      },
+      {
+        "name": "Explanatory depth",
+        "definition": "How well the reply explains the mechanisms, principles, or causal story that make its conclusion understandable."
+      },
+      {
+        "name": "Counterargument handling",
+        "definition": "How effectively the reply anticipates and answers the most relevant objections or alternative explanations."
+      },
+      {
+        "name": "Comparative weighing",
+        "definition": "How well the reply shows that its supporting considerations matter more than the best competing considerations or tradeoffs."
+      },
+      {
+        "name": "Novel insight",
+        "definition": "How much the reply introduces relevant considerations or perspectives that the original poster is unlikely to have already accounted for."
+      },
+      {
+        "name": "Value alignment",
+        "definition": "How effectively the reply connects its case to values, goals, or commitments likely shared by the original poster."
+      },
+      {
+        "name": "Consequence salience",
+        "definition": "How clearly the reply shows the practical, moral, or personal stakes of keeping versus changing the view."
+      },
+      {
+        "name": "Source credibility",
+        "definition": "How much the reply makes its author seem knowledgeable, sincere, and trustworthy as a guide on the issue."
+      },
+      {
+        "name": "Respectful tone",
+        "definition": "How much the reply reduces defensiveness by addressing the original poster with civility, humility, and regard."
+      },
+      {
+        "name": "Reasoning clarity",
+        "definition": "How easy the reply's main claim, structure, and supporting logic are to follow on a first reading."
+      },
+      {
+        "name": "Emotional resonance",
+        "definition": "How strongly the reply uses framing, imagery, or examples that make its conclusion feel compelling at an emotional level."
+      },
+      {
+        "name": "Uncertainty calibration",
+        "definition": "How well the reply's confidence, caveats, and concessions are proportionate to the strength and limits of its case."
+      }
+    ],
+    "usage": {
+      "input_tokens": 284,
+      "output_tokens": 5331
+    }
+  },
+  {
+    "draw": 5,
+    "criteria": [
+      {
+        "name": "Claim relevance",
+        "definition": "How directly the reply bears on the specific view being challenged rather than drifting to side issues."
+      },
+      {
+        "name": "Position understanding",
+        "definition": "How accurately the reply reflects the original poster's actual position, reasons, and assumptions."
+      },
+      {
+        "name": "Concern responsiveness",
+        "definition": "How well the reply engages the particular doubts, evidence, or motivations the original poster explicitly raised."
+      },
+      {
+        "name": "Evidential support",
+        "definition": "How strong, credible, and pertinent the facts, examples, or sources are that the reply offers for its claims."
+      },
+      {
+        "name": "Logical coherence",
+        "definition": "How consistently and validly the reply's conclusions follow from its premises without contradiction or non sequitur."
+      },
+      {
+        "name": "Explanatory depth",
+        "definition": "How well the reply explains the mechanisms, principles, or causal links that make its conclusion believable."
+      },
+      {
+        "name": "Concrete specificity",
+        "definition": "How much the reply uses precise, concrete detail instead of vague or purely abstract assertions."
+      },
+      {
+        "name": "Counterargument handling",
+        "definition": "How effectively the reply anticipates and addresses plausible objections or competing explanations."
+      },
+      {
+        "name": "Value alignment",
+        "definition": "How well the reply connects its case to the original poster's stated values, goals, or priorities."
+      },
+      {
+        "name": "Emotional attunement",
+        "definition": "How well the reply shows awareness of the feelings, identities, or lived stakes that make the view matter to the original poster."
+      },
+      {
+        "name": "Novel insight",
+        "definition": "How much the reply offers a fresh perspective or information that the original poster likely had not already considered."
+      },
+      {
+        "name": "Clarity and structure",
+        "definition": "How easy the reply is to follow because its language, sequencing, and emphasis make the argument readily understandable."
+      },
+      {
+        "name": "Intellectual fairness",
+        "definition": "How much the reply seems honest and well-calibrated by conceding valid points, acknowledging uncertainty, and avoiding overstatement."
+      },
+      {
+        "name": "Respectful tone",
+        "definition": "How civil, non-hostile, and non-condescending the reply is in the way it addresses disagreement."
+      },
+      {
+        "name": "Constructive alternative",
+        "definition": "How well the reply gives the original poster a plausible alternative belief, interpretation, or compromise position to move toward."
+      }
+    ],
+    "usage": {
+      "input_tokens": 284,
+      "output_tokens": 4375
+    }
+  },
+  {
+    "draw": 6,
+    "criteria": [
+      {
+        "name": "Direct relevance",
+        "definition": "How directly the reply bears on the central claim and main considerations under dispute."
+      },
+      {
+        "name": "Contextual responsiveness",
+        "definition": "How specifically the reply engages the original poster's stated reasons, examples, and circumstances rather than making a generic case."
+      },
+      {
+        "name": "Inferential strength",
+        "definition": "How strongly the reply's reasons, if accepted, support its conclusion without major logical gaps."
+      },
+      {
+        "name": "Evidence quality",
+        "definition": "How much the reply relies on credible, sufficient, and well-interpreted evidence, examples, or sources."
+      },
+      {
+        "name": "Claim specificity",
+        "definition": "How precise and concrete the reply's claims, distinctions, and illustrations are rather than vague or purely abstract."
+      },
+      {
+        "name": "Explanatory depth",
+        "definition": "How fully the reply uncovers underlying mechanisms, assumptions, or tradeoffs instead of stopping at surface assertions."
+      },
+      {
+        "name": "Objection handling",
+        "definition": "How effectively the reply anticipates and answers the strongest likely objections or alternative explanations."
+      },
+      {
+        "name": "Argument clarity",
+        "definition": "How easy the reply is to understand and follow on a first reading."
+      },
+      {
+        "name": "Economy of expression",
+        "definition": "How efficiently the reply delivers its persuasive content without unnecessary repetition, digression, or bloat."
+      },
+      {
+        "name": "Fair representation",
+        "definition": "How accurately and charitably the reply presents the opposing view and acknowledges any valid points in it."
+      },
+      {
+        "name": "Respectful tone",
+        "definition": "How much the reply maintains a civil, non-contemptuous manner that keeps the reader open rather than defensive."
+      },
+      {
+        "name": "Empathic attunement",
+        "definition": "How well the reply shows understanding of the other person's motives, concerns, and identity stakes."
+      },
+      {
+        "name": "Value alignment",
+        "definition": "How well the reply frames its reasons in terms of principles, goals, or standards the other person is likely to care about."
+      },
+      {
+        "name": "Novel insight",
+        "definition": "How much the reply offers information, distinctions, or perspectives that are genuinely new or non-obvious within the discussion."
+      },
+      {
+        "name": "Stakes salience",
+        "definition": "How clearly the reply shows why the issue matters by connecting its conclusion to meaningful practical, moral, or personal consequences."
+      },
+      {
+        "name": "Author credibility",
+        "definition": "How much the reply makes its author seem knowledgeable, honest, and appropriately calibrated about uncertainty."
+      },
+      {
+        "name": "Emotional resonance",
+        "definition": "How effectively the reply evokes feelings that reinforce openness to its conclusion."
+      }
+    ],
+    "usage": {
+      "input_tokens": 284,
+      "output_tokens": 5358
+    }
+  },
+  {
+    "draw": 7,
+    "criteria": [
+      {
+        "name": "Targeted engagement",
+        "definition": "How directly the reply addresses the original poster's central claim and the main reasons they gave for holding it."
+      },
+      {
+        "name": "Evidential support",
+        "definition": "How strong, relevant, and sufficient the reply's supporting evidence, examples, or sources are."
+      },
+      {
+        "name": "Logical rigor",
+        "definition": "How well the reply's conclusion follows from its premises without contradiction, non sequiturs, or obvious fallacies."
+      },
+      {
+        "name": "Explanatory depth",
+        "definition": "How fully the reply explains the mechanisms, distinctions, or reasoning that make its position more convincing than the alternative."
+      },
+      {
+        "name": "Objection handling",
+        "definition": "How effectively the reply anticipates and answers likely counterarguments, exceptions, or doubts."
+      },
+      {
+        "name": "Audience fit",
+        "definition": "How well the reply builds from premises, values, language, and background knowledge the original poster is likely to accept."
+      },
+      {
+        "name": "Novel insight",
+        "definition": "How much the reply introduces new considerations, frames, or information the original poster likely had not already weighed."
+      },
+      {
+        "name": "Expression clarity",
+        "definition": "How easy the reply is to follow, with a clear main point, understandable wording, and coherent structure."
+      },
+      {
+        "name": "Intellectual fairness",
+        "definition": "How accurately and charitably the reply represents the original poster's view and competing positions before criticizing them."
+      },
+      {
+        "name": "Confidence calibration",
+        "definition": "How well the reply matches its level of certainty to the strength and limits of the case, including appropriate nuance and caveats."
+      },
+      {
+        "name": "Respectful tone",
+        "definition": "How civil, non-dismissive, and non-hostile the reply's manner of expression is."
+      },
+      {
+        "name": "Empathic understanding",
+        "definition": "How much the reply shows genuine understanding of why a reasonable person might hold the original poster's view."
+      },
+      {
+        "name": "Concrete illustration",
+        "definition": "How effectively the reply uses specific examples, analogies, or scenarios to make its reasoning tangible."
+      },
+      {
+        "name": "Stakes salience",
+        "definition": "How clearly the reply brings out the practical, moral, or personal consequences of accepting or rejecting the view."
+      }
+    ],
+    "usage": {
+      "input_tokens": 284,
+      "output_tokens": 4698
+    }
+  },
+  {
+    "draw": 8,
+    "criteria": [
+      {
+        "name": "Topical Relevance",
+        "definition": "It measures how directly the reply bears on whether the stated view should be revised, rather than digressing to side issues."
+      },
+      {
+        "name": "Reason Responsiveness",
+        "definition": "It measures how directly the reply engages the original poster's stated reasons, assumptions, or sticking points."
+      },
+      {
+        "name": "Audience Alignment",
+        "definition": "It measures how well the reply frames its case in terms of premises, values, or language the original poster is likely to accept."
+      },
+      {
+        "name": "Logical Coherence",
+        "definition": "It measures how clearly and consistently the reply's conclusion follows from its premises without contradiction or non sequiturs."
+      },
+      {
+        "name": "Evidential Support",
+        "definition": "It measures how strong, relevant, and well-integrated the facts, examples, sources, or experiences offered in support are."
+      },
+      {
+        "name": "Specificity and Concreteness",
+        "definition": "It measures how much the reply relies on precise claims, mechanisms, and concrete examples rather than vague generalities."
+      },
+      {
+        "name": "Clarity of Expression",
+        "definition": "It measures how easy the reply is to understand, follow, and mentally organize."
+      },
+      {
+        "name": "Coverage of Key Issues",
+        "definition": "It measures how fully the reply addresses the most important considerations that bear on the view."
+      },
+      {
+        "name": "Objection Handling",
+        "definition": "It measures how well the reply anticipates, acknowledges, or answers likely counterarguments and alternative interpretations."
+      },
+      {
+        "name": "Intellectual Fairness",
+        "definition": "It measures how accurately and charitably the reply represents competing views and how honestly it acknowledges uncertainty or limits in its own case."
+      },
+      {
+        "name": "Respectful Engagement",
+        "definition": "It measures how much the reply conveys civility, empathy, and good faith toward the person whose view it seeks to change."
+      },
+      {
+        "name": "Emotional Resonance",
+        "definition": "It measures how strongly the reply makes the stakes feel vivid, important, or personally meaningful."
+      },
+      {
+        "name": "Novel Insight",
+        "definition": "It measures how much the reply introduces new information, distinctions, or reframing that the reader is unlikely to have already considered."
+      },
+      {
+        "name": "Persuasive Efficiency",
+        "definition": "It measures how much substantive persuasive force the reply delivers relative to its length and filler."
+      }
+    ],
+    "usage": {
+      "input_tokens": 284,
+      "output_tokens": 3043
+    }
+  },
+  {
+    "draw": 9,
+    "criteria": [
+      {
+        "name": "Topical relevance",
+        "definition": "Measures how directly the reply addresses the specific claim or decision the other person is asking about."
+      },
+      {
+        "name": "Concern responsiveness",
+        "definition": "Measures how well the reply engages the other person's stated reasons, priorities, or sticking points."
+      },
+      {
+        "name": "Reason weight",
+        "definition": "Measures how important the considerations raised are to the core issue rather than to minor side points."
+      },
+      {
+        "name": "Logical force",
+        "definition": "Measures how strongly the reply's reasoning connects its premises to its conclusion."
+      },
+      {
+        "name": "Evidence quality",
+        "definition": "Measures the credibility, strength, and sufficiency of the evidence, examples, or sources the reply provides."
+      },
+      {
+        "name": "Counterargument coverage",
+        "definition": "Measures how effectively the reply anticipates and answers plausible objections or alternative explanations."
+      },
+      {
+        "name": "Fair representation",
+        "definition": "Measures how accurately and charitably the reply presents the view it is trying to change."
+      },
+      {
+        "name": "Clarity",
+        "definition": "Measures how easy the reply is to understand and follow."
+      },
+      {
+        "name": "Specificity",
+        "definition": "Measures how concrete, precise, and definite the reply is rather than vague or generic."
+      },
+      {
+        "name": "Completeness",
+        "definition": "Measures how fully the reply addresses the major considerations needed to evaluate the issue."
+      },
+      {
+        "name": "Nuance",
+        "definition": "Measures how well the reply handles complexity, exceptions, and uncertainty without oversimplifying."
+      },
+      {
+        "name": "Novel insight",
+        "definition": "Measures how much the reply adds non-obvious considerations the reader is unlikely to have already fully accounted for."
+      },
+      {
+        "name": "Audience fit",
+        "definition": "Measures how well the reply frames its case in terms the target reader's values, assumptions, and context."
+      },
+      {
+        "name": "Emotional resonance",
+        "definition": "Measures how effectively the reply evokes feelings that support openness to reconsidering the view."
+      },
+      {
+        "name": "Respectfulness",
+        "definition": "Measures how much the reply maintains a civil, non-dismissive tone that keeps the reader receptive."
+      },
+      {
+        "name": "Concision",
+        "definition": "Measures how efficiently the reply advances its persuasive case without unnecessary repetition or digression."
+      },
+      {
+        "name": "Apparent credibility",
+        "definition": "Measures how trustworthy, informed, and intellectually honest the reply appears."
+      }
+    ],
+    "usage": {
+      "input_tokens": 284,
+      "output_tokens": 4026
+    }
+  }
+]

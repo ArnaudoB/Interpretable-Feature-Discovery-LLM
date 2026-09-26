@@ -1,0 +1,27 @@
+\begin{table}[t]
+\centering
+\small
+\setlength{\tabcolsep}{3pt}
+\begin{tabular}{l r r ccccc}
+\toprule
+Method & Cost & $K$ & Tracked & Stat.R. & Sem.R. & Attrib. & LK$\downarrow$ \\
+\midrule
+\textbf{Ours} & 3.45 & 21 & \textbf{100.0\%} & \textbf{0.850} & \textbf{100.0\%} & \textbf{76.2\%} & \textbf{0.090} \\
+\band{\quad resampling matchings} & & \band{[16.2, 22.0]} & \band{[87.5, 93.8]} & \band{[0.737, 0.805]} & \band{[81.2, 93.8]} & \band{[71.4, 87.5]} & \band{[0.087, 0.095]} \\
+\addlinespace
+Direct LLM & \textbf{0.26} & 21 & 81.2\% & 0.732 & 81.2\% & 61.9\% & 0.109 \\
+\band{\quad resampling letters} & & \band{[17.2, 25.0]} & \band{[68.8, 87.5]} & \band{[0.649, 0.825]} & \band{[62.5, 87.5]} & \band{[40.6, 69.6]} & \band{[0.109, 0.135]} \\
+\addlinespace
+Direct LLM--Multi-score & 3.42 & 21 & 81.2\% & 0.787 & 81.2\% & 66.7\% & 0.118 \\
+\band{\quad resampling letters} & & \band{[21.0, 21.0]} & \band{[81.2, 81.2]} & \band{[0.788, 0.807]} & \band{[81.2, 81.2]} & \band{[57.1, 66.7]} & \band{[0.119, 0.145]} \\
+\addlinespace
+Local LLMs & 2.35 & 23 & 75.0\% & 0.702 & 68.8\% & 47.8\% & 0.110 \\
+\band{\quad resampling elicitation subsets} & & \band{[22.2, 27.8]} & \band{[75.0, 87.5]} & \band{[0.696, 0.789]} & \band{[62.5, 87.5]} & \band{[44.0, 55.7]} & \band{[0.103, 0.120]} \\
+\addlinespace
+Local LLMs--Multi-score & 3.27 & 23 & 75.0\% & 0.737 & 68.8\% & 47.8\% & 0.113 \\
+\band{\quad resampling letters} & & \band{[23.0, 23.0]} & \band{[75.0, 75.0]} & \band{[0.737, 0.761]} & \band{[68.8, 68.8]} & \band{[39.1, 52.2]} & \band{[0.115, 0.136]} \\
+\bottomrule
+\end{tabular}
+\caption{Per-method point estimates with run-variance bands. Tracked, Sem.R., Attrib. in \%; Stat.R. and LK are correlations; bands are in the same units as the column. Below each method's point estimates, the gray row gives that method's \textbf{own} run-variance band ($[2.5,\,97.5]$ percentiles across replicates), obtained by resampling the unit named at the left of the row. These bands are \textbf{not} confidence intervals for the point estimates above them -- the point estimates come from the single full-data run, the bands from re-runs on resampled data, so a point estimate may fall outside its band -- and they \textbf{must not be compared across methods}, since the arms resample different units. Paired, comparable contrasts: Table~\ref{tab:paired}.}
+\label{tab:main-bands}
+\end{table}

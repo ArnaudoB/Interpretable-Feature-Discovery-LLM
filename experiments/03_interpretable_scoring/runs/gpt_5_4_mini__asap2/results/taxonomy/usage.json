@@ -1,0 +1,10 @@
+{
+  "model": "gpt-5.4-2026-03-05",
+  "reasoning_effort": "high",
+  "input_tokens": 10442,
+  "output_tokens": 53450,
+  "realized_usd_sync": 0.560605,
+  "n_phrases_in": 324,
+  "n_criteria": 19,
+  "citation_share_retained": 0.918650592645122
+}

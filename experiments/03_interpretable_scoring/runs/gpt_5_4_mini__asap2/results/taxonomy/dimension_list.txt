@@ -1,0 +1,324 @@
+[0] academic tone (cited 23x): It maintains a more serious argumentative voice suited to the task.
+[1] acknowledgment of counterargument (cited 5x): It briefly recognizes the opposing view before restating its own position.
+[2] acknowledgment of counterpoint (cited 3x): It shows more awareness of opposing or mixed evidence by briefly conceding possible benefits before restating its position.
+[3] analysis (cited 13x): It goes beyond repeating facts by interpreting what the details mean for safety, convenience, and legal issues.
+[4] analysis of implications (cited 3x): It does more than repeat facts by interpreting what those features would mean for drivers and adoption.
+[5] analytical reasoning (cited 3x): The essay often explains why a fact matters instead of only mentioning it.
+[6] argument balance (cited 12x): The essay acknowledges potential benefits before explaining why the negatives still outweigh them.
+[7] argument breadth (cited 12x): It addresses a wider range of relevant considerations from the article and its implications.
+[8] argument clarity (cited 5x): The essay states a focused position early and keeps returning to it so the reader always knows what it is trying to prove.
+[9] argument closure (cited 8x): It ends by tying the main reasons back together in a more complete concluding paragraph.
+[10] argument coherence (cited 9x): The essay keeps a consistent stance and develops it through connected reasons rather than drifting between unrelated points.
+[11] argument consistency (cited 5x): It keeps the same line of reasoning throughout and ends by reinforcing the central claim.
+[12] argument depth (cited 11x): It addresses a more complex consequence of driverless cars beyond simple personal preference.
+[13] argument development (cited 269x): It builds a sustained case for its stance rather than just stating opinions, using multiple relevant points from the source.
+[14] argument elaboration (cited 10x): It explains how the evidence supports the claim instead of only mentioning facts from the article.
+[15] argument focus (cited 68x): The essay states a defensible claim early and previews the main reasons it will argue for.
+[16] argument organization (cited 18x): It develops the claim in separate, focused points instead of moving through ideas in a more list-like way.
+[17] argument persistence (cited 3x): It keeps the position and supporting claims consistent from introduction through conclusion.
+[18] argument relevance (cited 8x): The reasons stay closely tied to practical benefits of the technology rather than drifting into general opinion.
+[19] argument structure (cited 17x): It organizes the response into a clear introduction, body, and conclusion with reasons that build the case.
+[20] argument support (cited 3x): It backs its claim with relevant evidence from the source instead of relying mostly on personal enthusiasm.
+[21] argumentation (cited 9x): It acknowledges an objection and answers it, which makes the case more persuasive.
+[22] argumentative balance (cited 13x): The essay acknowledges counterarguments and then tries to weigh them against its own evidence rather than simply asserting a claim.
+[23] argumentative clarity (cited 11x): It states a firm position early and keeps that position consistent throughout the essay.
+[24] argumentative closure (cited 5x): It ends by restating the stance and synthesizing the main reasons in a clear closing statement.
+[25] argumentative complexity (cited 6x): It acknowledges the legal and practical complications of the issue rather than presenting only one-sided praise.
+[26] argumentative conclusion (cited 4x): The essay ends by clearly restating the main claim and framing a final judgment on the issue.
+[27] argumentative control (cited 11x): It maintains a consistent position and organizes its points around that claim throughout the essay.
+[28] argumentative depth (cited 6x): The essay moves beyond simple opinion by considering consequences and responsibility issues tied to the topic.
+[29] argumentative development (cited 16x): It more fully develops a claim by acknowledging objections and then explaining why the benefits outweigh the drawbacks.
+[30] argumentative elaboration (cited 9x): It explains why the concerns matter rather than only stating opinions, which makes the stance more convincing.
+[31] argumentative emphasis (cited 3x): The essay maintains a consistent critical stance and reinforces its position throughout.
+[32] argumentative engagement (cited 11x): It raises a concrete counterexample to support the position, showing more effort to persuade than just listing benefits.
+[33] argumentative focus (cited 128x): It states a definite position early and keeps the essay centered on defending that claim.
+[34] argumentative force (cited 8x): The essay uses stronger, more direct claims about risk to press its case against driverless cars.
+[35] argumentative framing (cited 17x): The essay explicitly frames the topic as a debatable issue instead of just describing the subject.
+[36] argumentative reasoning (cited 10x): It shows clearer cause-and-effect reasoning about why driverless cars create legal and safety problems.
+[37] argumentative stance (cited 35x): It states a defendable claim and keeps returning to reasons supporting that claim rather than just summarizing the topic.
+[38] argumentative tone (cited 3x): Uses a more consistently essay-like, serious register that strengthens the persuasive voice.
+[39] assertive stance (cited 3x): The essay states its position more forcefully and consistently, which gives the argument a stronger sense of conviction.
+[40] assertiveness (cited 3x): The essay presents a more forceful and confident stance that keeps the argument centered on its position.
+[41] audience awareness (cited 4x): It broadens the argument beyond the driver to consider safety effects on others.
+[42] balance (cited 15x): The essay shows more awareness of both advantages and drawbacks, which makes the argument feel more considered.
+[43] balanced acknowledgment (cited 3x): It briefly concedes a benefit before explaining why the downside still outweighs it.
+[44] balanced argumentation (cited 7x): The essay weighs positives and negatives instead of only repeating one side, which makes the position feel more considered.
+[45] balanced consideration (cited 8x): It shows awareness of the other side and responds to it instead of ignoring it.
+[46] balanced reasoning (cited 50x): The essay shows more argumentative development by acknowledging a downside and then responding to it.
+[47] basic organization (cited 8x): The essay follows a recognizable argumentative structure with an introduction, body, and conclusion.
+[48] breadth of reasoning (cited 7x): The essay supports its position with several kinds of reasons rather than repeating one simple objection.
+[49] breadth of support (cited 13x): It supports the claim with a wider range of impacts on different groups and uses, making the argument feel more fully considered.
+[50] causal reasoning (cited 3x): It explains how a failure or delayed human response could lead to a crash, showing a basic chain of consequences.
+[51] cause-and-effect reasoning (cited 18x): It explains how the technology would lead to safer driving by linking behavior to results.
+[52] cause-effect reasoning (cited 3x): It explains a plausible chain from driverless features to inattentiveness and danger.
+[53] claim clarity (cited 23x): The essay states its stance immediately and leaves no doubt about the argument it will defend.
+[54] claim development (cited 26x): It develops a stronger central argument by explaining multiple effects of driverless cars rather than making only one negative point.
+[55] claim support (cited 4x): It explains why the position should be accepted instead of only naming facts from the article.
+[56] clarity (cited 28x): Its sentences are clearer and more direct, so the main points are easier to understand.
+[57] clarity of claim (cited 5x): The position is stated more directly and kept consistently in view throughout the essay.
+[58] clarity of expression (cited 6x): Despite errors, its ideas are generally easier to follow than the more abstract and densely written alternative.
+[59] clarity of position (cited 4x): The essay states its stance plainly and keeps that position easy to follow throughout.
+[60] clear claim (cited 9x): It makes the writer’s stance explicit and previews the main grounds for the argument.
+[61] clear conclusion (cited 4x): The ending restates the main judgment in a more general, summarizing way rather than just repeating details.
+[62] clear line of reasoning (cited 5x): The essay keeps an identifiable stance and generally stays focused on why automated cars should be developed.
+[63] clear organization (cited 3x): The essay develops a more coherent line of argument by introducing a main claim and then building body paragraphs around distinct reasons.
+[64] clear position (cited 60x): The essay states its stance immediately and keeps that position explicit throughout.
+[65] clear stance (cited 58x): It states a more direct position and keeps the essay focused on that claim throughout.
+[66] clear thesis (cited 31x): The essay states a definite position early and keeps that position visible throughout.
+[67] closing emphasis (cited 3x): It ends by reinforcing the argument with a strong takeaway about the danger of depending on technology.
+[68] closure (cited 14x): It ends with a recognizable conclusion that wraps up the argument rather than trailing off.
+[69] coherence (cited 84x): Its ideas are linked more smoothly, so the argument reads as a developing line of thought rather than separate comments.
+[70] cohesion (cited 45x): It uses more transitions and linking language to move between points smoothly.
+[71] cohesive conclusion (cited 3x): It closes by tying the main points together in a more organized and complete way.
+[72] cohesive flow (cited 4x): The essay connects ideas more smoothly, which helps the argument read as a connected whole.
+[73] commentary (cited 5x): The essay adds more original reflective discussion about priorities and social tradeoffs beyond simply repeating source details.
+[74] comparative reasoning (cited 4x): The essay directly contrasts human drivers with driverless cars to explain why humans are safer in specific road situations.
+[75] conciseness (cited 5x): The argument states its point more efficiently and with less digression than the other essay.
+[76] concluding closure (cited 9x): It ends by summarizing the position and reinforcing the main recommendation in a clear final statement.
+[77] concluding effectiveness (cited 4x): It ends by restating the argument and leaving the reader with a positive final thought.
+[78] concluding emphasis (cited 14x): The ending leaves the reader with a strong final warning that reinforces the argument's urgency.
+[79] concluding force (cited 11x): It ends by directly pressing the audience to consider the position, giving the essay a stronger finish.
+[80] concluding synthesis (cited 20x): Its conclusion does more than repeat the topic by tying together the argument's main points.
+[81] concluding wrap-up (cited 6x): It ends by restating the main claim in a concise way that reinforces the overall argument.
+[82] conclusion (cited 421x): It ends by summarizing the argument and reinforcing the overall claim.
+[83] conclusion control (cited 9x): The essay ends by tying its reasons back to the position in a clear closing statement.
+[84] conclusion development (cited 48x): Its conclusion more fully synthesizes the argument and reinforces the position.
+[85] conclusion effectiveness (cited 23x): The essay ends with a more purposeful conclusion that reinforces the main claim.
+[86] conclusion of argument (cited 6x): The essay closes by summarizing its main objections in a way that reinforces the position.
+[87] conclusion quality (cited 5x): The ending does more than repeat the thesis by tying the argument to future development and a call for continued research.
+[88] conclusion strength (cited 69x): It ends by reinforcing the main claim with a wider takeaway about what could happen if technology replaces human skills.
+[89] conclusion synthesis (cited 10x): Its conclusion pulls together the main claims instead of simply repeating a general opinion.
+[90] concrete elaboration (cited 3x): It develops ideas with specific examples, making the benefits feel more vivid and fully explained.
+[91] concrete illustration (cited 6x): It makes its point more vivid by giving everyday examples that readers can picture.
+[92] concrete reasoning (cited 4x): The essay develops its argument with specific consequences that make the opposition to driverless cars easier to follow.
+[93] concrete support (cited 6x): It connects the source to specific real-world benefits in a way that makes the reasons feel more convincing.
+[94] conditional reasoning (cited 6x): It shows better reasoning about real-world adoption by tying support to improved safety rather than making an unconditional claim.
+[95] contextual framing (cited 3x): It gives the reader an immediate sense of the issue and situates the argument in the source text.
+[96] control of conventions (cited 3x): Although it has errors, the writing is generally more readable and controlled than the other essay’s more frequent disruptions.
+[97] control of expression (cited 5x): Its writing is generally clearer and easier to follow despite some mistakes.
+[98] conventional control (cited 5x): Its sentence-level errors are present but less severe, so the writing is more readable overall.
+[99] conventions (cited 11x): It is more readable because it has fewer distracting errors in spelling and word choice.
+[100] conventions control (cited 6x): It shows better control of sentence-level writing, with fewer disruptive errors than the other essay.
+[101] counterargument (cited 12x): It acknowledges an opposing view and responds to it, which makes the argument feel more considered.
+[102] counterargument anticipation (cited 4x): The essay repeatedly raises failure scenarios to address possible weaknesses in the opposing view before they arise.
+[103] counterargument awareness (cited 145x): It acknowledges a major risk and weighs it against the benefits, which makes the argument more balanced.
+[104] counterargument development (cited 8x): The essay develops a concrete objection about ethical decision-making rather than only listing opinions.
+[105] counterargument engagement (cited 5x): It more directly addresses the liability question and the conflict it could create.
+[106] counterargument handling (cited 355x): It acknowledges a possible objection and responds to it instead of ignoring the opposing side.
+[107] counterpoint awareness (cited 9x): It recognizes the limits of driverless cars and explains why those limits matter to the argument.
+[108] counterpoint handling (cited 4x): The essay acknowledges an appealing side before restating its opposition, which makes the argument feel more balanced.
+[109] critical analysis (cited 3x): It engages with a concrete issue from the article and explores its implications more thoughtfully.
+[110] developed reasoning (cited 7x): It explains its claims with extended analogies and cause-and-effect reasoning rather than just listing objections.
+[111] developed support (cited 5x): It offers more elaboration for each reason instead of relying mainly on questions and general concerns.
+[112] development (cited 286x): The essay develops its points more fully by expanding on how the article’s details support driverless cars.
+[113] development of argument (cited 13x): It develops the position with multiple supporting points and counterpoints rather than mostly repeating approval.
+[114] development of claims (cited 9x): It expands each point with more explanation instead of just restating a simple opinion.
+[115] development of concerns (cited 3x): The essay expands its opposition with multiple plausible problems rather than relying on a single objection.
+[116] development of counterargument (cited 3x): It more directly engages a potential weakness in the proposal and uses that concern to support its position.
+[117] development of ideas (cited 37x): It develops each point by explaining how driverless cars would work and why that matters.
+[118] development of reasoning (cited 66x): It gives a bit more explanation for why the technology seems feasible and useful rather than only listing facts.
+[119] development of reasons (cited 64x): It gives multiple reasons for its position and expands them with brief examples instead of making a single unsupported claim.
+[120] development of support (cited 22x): It develops its claim with multiple reasons that are tied to the article rather than relying on a single point.
+[121] effective conclusion (cited 7x): The essay ends by summarizing its main points and reinforcing its argument in a closing statement.
+[122] elaborated reasoning (cited 3x): It gives more extended cause-and-effect reasoning rather than brief unsupported assertions.
+[123] elaboration (cited 153x): The essay more fully explains each claim with added reasoning rather than just listing article facts.
+[124] ending coherence (cited 3x): It ends by clearly tying the conclusion back to the central claim rather than drifting into unrelated ideas.
+[125] engagement (cited 9x): The essay begins in a way that grabs attention and frames the issue as a serious debate.
+[126] engaging introduction (cited 16x): It opens with a hook and quickly states a clear position, which gives the argument a more effective entry point.
+[127] engaging lead (cited 13x): It opens with a more purposeful hook that sets up the argument and frames the issue.
+[128] essay closure (cited 3x): The essay ends by revisiting its main argument rather than simply stopping.
+[129] essay completeness (cited 11x): It more fully satisfies the task by presenting a full argumentative essay rather than a short response.
+[130] essay organization (cited 11x): It has a more recognizable argumentative structure with an introduction, body support, and conclusion.
+[131] essay structure (cited 37x): The essay more clearly includes the expected introduction, body, and conclusion for the assignment.
+[132] evidence integration (cited 23x): It uses details from the article more directly and effectively to support its claims.
+[133] evidence use (cited 45x): It draws on multiple relevant details from the source article to support its claims.
+[134] evidentiary support (cited 7x): The essay draws on more specific details from the source to back up its position.
+[135] explanation (cited 8x): It explains how the article’s technology works and connects those details back to its position.
+[136] explanation of evidence (cited 7x): It explains how the article’s facts support the writer’s position rather than just listing them.
+[137] explanatory clarity (cited 3x): It makes the article details easy to understand by spelling out the effect on the driver.
+[138] explanatory depth (cited 5x): The essay does more to explain why the technology now makes driverless cars more feasible rather than just mentioning the idea.
+[139] explanatory detail (cited 5x): The essay gives cause-and-effect explanations that make its claims feel more developed.
+[140] explanatory development (cited 20x): It spends more effort unpacking why its main concern matters rather than making brief unsupported claims.
+[141] explanatory elaboration (cited 9x): The essay does more to spell out how the evidence is supposed to support the writer's position.
+[142] explanatory reasoning (cited 6x): It more clearly connects evidence to the claim by explaining why semi-autonomous features could still create danger.
+[143] explanatory specificity (cited 3x): The essay states its claims in a more specific, elaborated way, showing more of the causal chain behind the position.
+[144] explanatory support (cited 6x): It explains how the quoted evidence supports the claim rather than just dropping in facts.
+[145] explicit claim (cited 14x): It states a definite position right away and frames the rest of the essay around that argument.
+[146] explicit position (cited 15x): The essay states its stance directly and keeps that opposition visible throughout.
+[147] explicit stance (cited 14x): The essay states its position immediately and leaves no doubt about what it is arguing.
+[148] explicit thesis (cited 24x): The essay states a clear position early and frames the argument in a focused way.
+[149] focus (cited 45x): It stays centered on a single argumentative position instead of drifting into side comments and personal jokes.
+[150] focused claim (cited 7x): It states a specific position early and keeps the essay centered on that claim throughout.
+[151] focused development (cited 3x): It develops a single main line of argument with repeated support, instead of branching into several loosely related concerns.
+[152] focused reasoning (cited 5x): It develops one main concern with some elaboration instead of only listing points.
+[153] focused thesis (cited 10x): The essay states a direct, sustained position early and returns to it throughout the response.
+[154] formal tone (cited 10x): The essay uses a more academic, essay-like voice rather than a casual or conversational one.
+[155] idea development (cited 71x): The essay expands its reasons with multiple supporting points instead of relying on brief assertions.
+[156] idea elaboration (cited 10x): It gives more elaboration on why driverless cars might matter, expanding points beyond a single sentence.
+[157] idea organization (cited 3x): It groups reasons into distinct paragraphs that create a clearer argumentative structure.
+[158] introductory framing (cited 4x): It opens with a more purposeful setup that leads into the argument instead of jumping straight to opinions.
+[159] issue analysis (cited 8x): It engages an extra article-based concern in a more nuanced way than the other essay.
+[160] issue awareness (cited 4x): The essay shows awareness of a real consequence of the policy debate by raising liability and safety concerns.
+[161] issue framing (cited 3x): It identifies a specific problem raised by the article, showing awareness of the legal and safety questions surrounding driverless cars.
+[162] language control (cited 3x): It shows stronger command of sentence-level clarity and spelling than the other essay, which is more repetitive and loosely organized.
+[163] line of reasoning (cited 3x): The essay maintains a consistent argument and connects each paragraph back to supporting the development of driverless cars.
+[164] logical development (cited 14x): It connects evidence to the claim in a clear chain of reasoning instead of just listing ideas.
+[165] logical organization (cited 6x): The argument is divided into distinct points that make the essay easy to follow.
+[166] logical progression (cited 4x): It moves through points in a deliberate sequence that builds the case rather than repeating the same idea.
+[167] logical reasoning (cited 7x): This captures the essay’s stronger attention to cause-and-effect and responsibility issues in the argument.
+[168] nuance (cited 14x): The essay acknowledges both positive effects and remaining problems, which makes the argument feel more considered.
+[169] nuanced claim (cited 3x): The essay distinguishes between fully driverless use and optional driver control, showing a more developed and specific position.
+[170] nuanced conclusion (cited 4x): It ends with a more balanced final claim rather than only repeating a simple refusal.
+[171] nuanced reasoning (cited 15x): The essay acknowledges both benefits and risks and explains that the outcome depends on how well the technology is developed.
+[172] nuanced stance (cited 15x): The essay presents a qualified position that acknowledges complexity instead of sounding one-sided or simplistic.
+[173] organization (cited 1232x): The essay is arranged into distinct points that make the argument easier to follow.
+[174] organizational clarity (cited 9x): The essay is organized into distinct body paragraphs that each develop a separate reason.
+[175] organizational closure (cited 5x): The essay ends with a brief conclusion that signals a wrap-up and restates its balanced view.
+[176] organizational coherence (cited 15x): It develops its argument in a more structured way, with ideas grouped into separate paragraphs rather than running together.
+[177] organizational control (cited 67x): The essay is more clearly structured into parts that guide the reader through the argument.
+[178] organizational development (cited 5x): It develops the argument in a more extended, structured way with separate points that build on one another.
+[179] organizational structure (cited 54x): It has a more recognizable essay structure with an opening, supporting paragraphs, and a closing statement.
+[180] organized conclusion (cited 3x): It closes by summarizing the main points in a way that gives the essay a clear sense of completion.
+[181] organized development (cited 25x): The essay develops its argument in separate, easy-to-follow points instead of repeating the same idea.
+[182] organized introduction (cited 3x): It sets up the topic and states a defensible position before moving into the argument.
+[183] organized line of reasoning (cited 3x): It develops the argument in distinct body sections that each advance a specific supporting point.
+[184] organized reasoning (cited 19x): It connects multiple relevant points into a more coherent line of argument instead of presenting scattered claims.
+[185] organized structure (cited 9x): It develops its argument in separate reasons with a clear introduction, body, and conclusion.
+[186] organized support (cited 5x): It develops the argument in separate points instead of piling ideas together in one vague stream.
+[187] overall coherence (cited 10x): The essay stays focused on a single claim and maintains that claim from introduction through conclusion.
+[188] overall organization (cited 51x): It has a clearer essay structure that helps the reader follow the line of reasoning.
+[189] personal connection (cited 13x): The essay brings in a personal observation that adds immediacy and strengthens the argument’s credibility.
+[190] personal engagement (cited 5x): It grounds the argument in the writer’s own experience, which makes the stance feel more immediate and purposeful.
+[191] personal relevance (cited 7x): The essay connects the issue to the writer's own experience and priorities, making the argument more engaging and grounded.
+[192] persuasive closing (cited 3x): The conclusion directly urges the reader to think carefully and ends with a memorable warning.
+[193] persuasive conclusion (cited 5x): The ending restates the claim in a more developed way and leaves the reader with a stronger closing appeal.
+[194] persuasive elaboration (cited 5x): The essay expands its main claim with multiple supporting benefits instead of offering only one simple assertion.
+[195] persuasive emphasis (cited 23x): The essay uses stronger rhetorical language to underline the seriousness of its claim and engage the reader.
+[196] persuasive force (cited 3x): It uses pointed questions and scenarios to make the criticism feel more convincing and vivid.
+[197] persuasive tone (cited 6x): It writes with a more forceful, argumentative voice that pushes the reader toward agreement.
+[198] persuasive voice (cited 18x): The writing tries to engage the reader and make the argument feel immediate and convincing.
+[199] policy reasoning (cited 3x): It moves beyond opinion to propose a concrete condition or solution for making the technology safer.
+[200] position clarity (cited 56x): The essay states its stance immediately and keeps that position unmistakable throughout.
+[201] position consistency (cited 5x): The essay keeps the same argument from beginning to end instead of wavering between support and opposition.
+[202] position control (cited 6x): It states a consistent overall stance and keeps returning to that position throughout the essay.
+[203] positioning (cited 61x): It more directly takes a side and frames the response as an argument rather than a loose opinion.
+[204] practical concern (cited 5x): The essay argues against driverless cars on concrete real-world grounds like expense and risk.
+[205] practical reasoning (cited 4x): It offers a concrete conditional solution instead of only praising or condemning the idea.
+[206] qualification (cited 4x): It presents a more nuanced stance by supporting driverless cars while setting limits on how far automation should go.
+[207] qualified claim (cited 7x): It makes a more nuanced argument by setting conditions rather than claiming driverless cars are always good now.
+[208] qualified reasoning (cited 4x): It presents a more nuanced judgment by weighing benefits against drawbacks instead of arguing in a single flat direction.
+[209] qualified stance (cited 3x): The essay’s position is firm but not absolute, which makes the argument sound more thoughtful and credible.
+[210] range of support (cited 8x): The essay offers several distinct reasons against driverless cars instead of relying on only one objection.
+[211] range of supporting points (cited 3x): The essay supports its position with several distinct reasons, giving the argument more breadth than the other essay.
+[212] range of supporting reasons (cited 3x): The essay offers a broader set of benefits to support its position.
+[213] reason development (cited 6x): The essay builds its argument through several distinct supporting points instead of relying on a single complaint.
+[214] reasoned analysis (cited 31x): It links details from the article to realistic driving problems in a way that strengthens the argument.
+[215] reasoned argument (cited 5x): The essay develops its opposition by tracing consequences and policy implications instead of just listing reasons.
+[216] reasoned argumentation (cited 6x): The essay develops a clearer chain of reasoning that connects the article’s facts to its position.
+[217] reasoned claim (cited 3x): It gives a central reason for its position rather than only listing article facts.
+[218] reasoned conclusion (cited 4x): The essay ends by restating the central concern and bringing the argument back to its main claim.
+[219] reasoned development (cited 73x): The essay expands its points with explanations rather than just making brief assertions.
+[220] reasoned elaboration (cited 69x): It explains its concerns with multiple connected consequences instead of only listing dangers.
+[221] reasoned explanation (cited 48x): It explains how the technology would work to improve safety instead of just listing benefits.
+[222] reasoned organization (cited 3x): It develops the case in separate points that move logically from safety concerns to legal concerns.
+[223] reasoned progression (cited 3x): It builds a clearer sense of progress by linking past attempts to current advances and using that sequence to justify the position.
+[224] reasoned rebuttal (cited 4x): It anticipates an opposing view and answers it instead of only repeating its own opinion.
+[225] reasoned stance (cited 3x): It frames the conclusion in terms of a clear safety concern, making the position feel more logically grounded and persuasive.
+[226] reasoned support (cited 124x): It develops several distinct arguments that explain why the writer opposes driverless cars rather than relying on one simple claim.
+[227] reasoning (cited 287x): The essay connects evidence to its position with more cause-and-effect explanation instead of leaving the link implicit.
+[228] reasoning about consequences (cited 5x): The essay follows an idea through to its practical legal and social results instead of stopping at a claim.
+[229] reasoning depth (cited 172x): It goes beyond restating the source by explaining why the legal and safety issues matter for the argument.
+[230] reasoning development (cited 65x): The essay expands its opposition with multiple reasons rather than just stating an opinion.
+[231] reasoning elaboration (cited 3x): The essay does more than mention evidence by explaining how it supports the idea that driverless cars are beneficial.
+[232] reasoning range (cited 3x): It considers several distinct concerns instead of relying on one narrow objection.
+[233] relevance (cited 4x): The reasons chosen are tightly connected to the prompt and the article’s main concerns.
+[234] relevance of evidence (cited 3x): It selects article details that directly strengthen the argument against driverless cars.
+[235] relevance of support (cited 5x): It uses article ideas and related reasoning that more directly connect to the debate over whether driverless cars should be developed.
+[236] relevant elaboration (cited 8x): Specific everyday examples are used to make the safety argument more concrete and persuasive.
+[237] relevant evidence use (cited 11x): It supports its claims with details that actually connect to the article's discussion of risks and limitations.
+[238] relevant reasoning (cited 12x): It gives a plausible cause-and-effect reason tied directly to the article’s warning that drivers must remain alert.
+[239] relevant support (cited 49x): The essay uses multiple article-based reasons that directly support its claim against driverless cars.
+[240] relevant textual support (cited 3x): The essay anchors its argument in a specific detail from the source rather than speaking only in generalities.
+[241] rhetorical development (cited 7x): It uses pointed questions to develop the argument and make the concern feel more serious.
+[242] rhetorical emphasis (cited 6x): The conclusion uses a pointed rhetorical question to reinforce the writer's stance and leave a stronger closing impression.
+[243] rhetorical engagement (cited 12x): It uses questions and emphatic language to make the argument feel more persuasive and forceful.
+[244] rhetorical force (cited 3x): It uses more emphatic and varied language to make the conclusion sound more persuasive.
+[245] rhetorical framing (cited 3x): It uses pointed rhetorical questions to sharpen the central concern and keep the reader engaged.
+[246] rhetorical questioning (cited 4x): It uses questions to push the reader toward the writer’s concerns and make the argument feel more interactive.
+[247] sentence clarity (cited 6x): Its wording is generally understandable and less disrupted by errors than the other essay.
+[248] sentence control (cited 58x): Its sentence boundaries and grammar are more controlled, making the argument easier to follow.
+[249] sentence fluency (cited 10x): It reads more smoothly because it uses a wider range of sentence structures and linking words.
+[250] source integration (cited 37x): The essay explicitly connects its claims to the source article rather than relying only on general opinion.
+[251] source use (cited 37x): It draws on article details to support its claims about how driverless cars work and why they may improve safety.
+[252] source-based reasoning (cited 6x): It connects the argument to relevant ideas from the article and uses those details to support its position.
+[253] source-based support (cited 18x): The essay uses more specific details from the article to ground its claims and connect them to the position.
+[254] specific counterargument (cited 4x): It engages a more substantive concern about safety and moral decision-making, which strengthens the argumentative depth.
+[255] specific elaboration (cited 10x): It adds concrete personal examples that make the argument feel more grounded and vivid.
+[256] specific evidence use (cited 6x): The essay uses concrete details from the article and connects them to a clear point about why driverless cars should be developed.
+[257] specific illustration (cited 3x): It includes a personalized example that makes one of the reasons feel more grounded and vivid.
+[258] specific reasoning (cited 13x): The essay more often explains how the source details lead to a broader benefit or consequence.
+[259] specific support (cited 48x): It uses more concrete details from the article to support its claims instead of mostly repeating broad ideas.
+[260] specific supporting detail (cited 3x): It uses more concrete examples to show how driverless cars could fail in everyday road situations.
+[261] specificity (cited 12x): The essay grounds its points in concrete consequences and policy issues instead of only broad claims.
+[262] stance clarity (cited 123x): It states a definite position early and keeps that position consistent throughout the essay.
+[263] stance consistency (cited 14x): It maintains a clear argumentative position throughout instead of drifting into unrelated or contradictory reasons.
+[264] stance control (cited 10x): It maintains a consistent, focused argument against driverless cars instead of drifting into contradictory or off-topic points.
+[265] stance development (cited 14x): The essay presents a clear position and tries to defend it rather than merely listing facts.
+[266] stated claim (cited 3x): The essay explicitly takes a position and offers a general recommendation rather than drifting into summary.
+[267] stated position (cited 3x): The essay makes its stance explicit right away, so the reader immediately knows what it is arguing.
+[268] structural coherence (cited 11x): Its paragraphs move in a more deliberate sequence, making the essay easier to follow as an argument.
+[269] structural organization (cited 10x): The essay develops its argument in distinct paragraphs that each advance a separate reason.
+[270] structure (cited 6x): The essay shows a clearer overall organization, with distinct parts that guide the reader through the argument.
+[271] style control (cited 4x): Its language is more developed and readable overall, with fewer distracting breakdowns in wording and grammar.
+[272] support breadth (cited 3x): It draws on a wider range of details from the article to support its position.
+[273] support development (cited 26x): It gives several linked reasons to back the claim rather than relying on a single unsupported opinion.
+[274] support elaboration (cited 4x): It expands each source detail with explanation of why it matters to the argument.
+[275] support integration (cited 6x): It incorporates several relevant facts from the source and links them back to the claim instead of listing them.
+[276] supporting detail (cited 29x): The essay uses several concrete points from the topic to back up its view instead of relying on general warnings.
+[277] supporting detail use (cited 3x): The essay develops a point with a specific personal example rather than only making general claims.
+[278] supporting development (cited 4x): The argument is developed with multiple body paragraphs that expand the reasons behind the writer’s stance.
+[279] supporting elaboration (cited 18x): It develops the main concern with a specific example that shows why the technology could be risky.
+[280] supporting evidence (cited 33x): It draws on multiple relevant facts from the source to back up its claim rather than relying mostly on unsupported opinion.
+[281] supporting evidence use (cited 8x): It uses article details more substantively to back up each claim rather than relying mostly on general assertions.
+[282] supporting explanation (cited 6x): It does more than cite facts by explaining why those facts matter to the writer's position.
+[283] supporting reasoning (cited 7x): The essay connects driverless cars to a broader safety outcome and explains the logic behind that effect.
+[284] supporting reasons (cited 10x): The essay backs up its claim with more than one objection rather than relying on a single unsupported opinion.
+[285] supportive elaboration (cited 4x): The essay develops its points with follow-up concerns about cost, dependence, and safety rather than only listing opinions.
+[286] supportive reasoning (cited 4x): It develops its position with several distinct reasons rather than relying on a single concern.
+[287] task focus (cited 3x): It remains centered on the assigned topic and avoids drifting into unrelated digressions.
+[288] text evidence use (cited 3x): It supports claims with specific details and direct references from the source article.
+[289] text integration (cited 5x): The essay incorporates quoted material from the source to strengthen its argument instead of only paraphrasing loosely.
+[290] text-based evidence (cited 6x): It uses explicit details from the source article to support each point rather than relying only on opinion.
+[291] text-based evidence use (cited 6x): It uses multiple details from the article to support its claims rather than relying mainly on general opinion.
+[292] text-based support (cited 42x): The essay connects its argument to details from the source article instead of relying only on personal opinion.
+[293] textual evidence (cited 27x): The essay uses details from the article to support its argument rather than relying only on general opinions.
+[294] textual evidence use (cited 57x): It ties the argument to specific information from the source article instead of speaking only in generalities.
+[295] textual grounding (cited 8x): It ties its argument to specific article details rather than relying only on personal opinion.
+[296] textual integration (cited 25x): It more consistently grounds its claims in specifics from the source rather than broad generalizations.
+[297] textual reference (cited 3x): It connects its argument to the article with a specific reference and uses source-based details to justify its points.
+[298] textual support (cited 522x): It uses specific details from the source article to back up its claims.
+[299] textual use (cited 7x): It explicitly pulls in details from the source article to support its claims.
+[300] thesis and conclusion (cited 12x): It states a position up front and returns to it at the end, giving the piece a more complete argumentative shape.
+[301] thesis clarity (cited 374x): It states a definite position early and keeps that position visible throughout the essay.
+[302] thesis consistency (cited 17x): The essay stays focused on its main position and returns to the same central objections throughout.
+[303] thesis control (cited 20x): It states a position up front and returns to it at the end, giving the argument a clearer controlling idea.
+[304] thesis development (cited 6x): It states a position early and keeps returning to that central claim throughout the essay.
+[305] thesis focus (cited 4x): The essay states a direct claim early and keeps returning to the same position instead of wavering.
+[306] tone (cited 5x): It maintains a more formal, essay-like voice that fits argumentative writing better.
+[307] tone control (cited 12x): It maintains a more essay-like, academic tone with fewer conversational interruptions.
+[308] transitional control (cited 4x): The essay uses clearer transitions to connect ideas and signal shifts in the argument.
+[309] transitional flow (cited 3x): The essay uses linking words and sentence-to-sentence transitions to connect its points more smoothly.
+[310] transitions (cited 13x): The essay uses more explicit linking words to move between counterargument, support, and conclusion.
+[311] use of evidence (cited 144x): The essay brings in specific details from the source article and connects them to its claims.
+[312] use of source details (cited 34x): The essay brings in more specific information from the article to ground its claims in evidence.
+[313] use of source evidence (cited 240x): The essay draws on several specific details from the article to support its claims.
+[314] use of source ideas (cited 3x): It brings in several relevant article-based concerns to support the argument, even if some are loosely phrased.
+[315] use of source support (cited 3x): The essay connects its opinion to details from the article rather than relying only on unsupported claims.
+[316] use of source-based evidence (cited 15x): The essay supports its position with multiple details tied to the article rather than relying mainly on personal opinion.
+[317] use of source-based reasoning (cited 4x): It draws on the article’s discussion of accident responsibility and turns it into an argument against the cars.
+[318] use of source-based support (cited 11x): The essay grounds its claims in details from the article rather than relying mainly on personal reaction.
+[319] use of support (cited 6x): The essay uses more concrete reasons and situational details to back up its argument.
+[320] use of supporting details (cited 5x): It uses article-based examples to back up its position in a more relevant way.
+[321] use of supporting evidence (cited 4x): It supports claims with specific details from the article and a personal example instead of relying only on opinion.
+[322] use of textual evidence (cited 35x): The essay more consistently supports its points with details drawn from the article.
+[323] voice (cited 9x): It uses a more personal and engaged voice that makes the position feel more grounded and intentional.

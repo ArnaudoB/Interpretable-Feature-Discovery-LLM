@@ -1,0 +1,10 @@
+{
+  "n_specs": 1200,
+  "n_present": 1200,
+  "R": 6,
+  "n_letters": 200,
+  "n_dims": 23,
+  "mode": "sync",
+  "reported_basis": "batch",
+  "realized_usd_batch": 1.1054899999999996
+}

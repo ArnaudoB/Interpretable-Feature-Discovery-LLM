@@ -1,0 +1,327 @@
+[0] academic register (cited 11x): Measures the essay's use of an appropriately formal writing style rather than overly casual or colloquial expressions.
+[1] academic tone (cited 36x): Captures the use of formal, precise, and mature word choices appropriate for persuasive writing.
+[2] accuracy of source integration (cited 3x): Reflects how faithfully and correctly the essay uses facts from the provided reading text to support its claims.
+[3] advanced vocabulary (cited 3x): The essay consistently uses precise, high-level vocabulary to articulate complex thoughts effectively.
+[4] analogical reasoning (cited 8x): The essay uses relatable real-world comparisons to make abstract technical risks understandable and persuasive to the reader.
+[5] analytical depth (cited 43x): Captures how thoroughly the essay analyzes source details rather than merely listing them.
+[6] analytical elaboration (cited 3x): Captures the depth of explanation provided when connecting source details back to the central thesis.
+[7] analytical reasoning (cited 4x): The argument goes beyond summarizing facts by explaining the logical implications and practical consequences of the evidence.
+[8] appropriate academic register (cited 5x): Reflects the use of an objective, formal tone and style suited for academic tasks rather than informal personal narrative or casual slang.
+[9] appropriate academic tone (cited 10x): Reflects the degree to which the essay maintains a formal, assignment-appropriate voice suitable for an argumentative task.
+[10] appropriate argumentative tone (cited 3x): Evaluates the degree to which the writing maintains an objective, formal, and reasoned voice suited to academic writing.
+[11] appropriate tone (cited 10x): Reflects the student's ability to maintain a suitable, serious tone for an academic argumentative essay.
+[12] appropriate tone and register (cited 11x): The response maintains an academic, task-appropriate register suitable for formal argumentative writing.
+[13] appropriate tone and style (cited 3x): Assesses the writer's ability to sustain a professional, analytical voice suitable for argumentative writing.
+[14] appropriate writing register (cited 4x): Evaluates the degree to which the essay maintains a formal, objective, and task-appropriate voice suitable for academic writing.
+[15] argument depth (cited 5x): The writer explores the topic more thoroughly by examining multiple dimensions of the issue and addressing potential drawbacks.
+[16] argument development (cited 23x): The essay expands on its main claim by supporting each sub-point with reasoning and logical explanations.
+[17] argument elaboration (cited 9x): Captures the extent to which main claims are developed with thorough explanations and reasoning.
+[18] argument synthesis (cited 6x): Captures the ability to integrate information from the source text with original reasoning to build a persuasive thesis.
+[19] argumentative clarity (cited 3x): Captures the extent to which the essay articulates clear, cohesive claims that directly support the chosen position.
+[20] argumentative coherence (cited 11x): The essay presents a clear position and develops consistent reasoning to persuade the reader.
+[21] argumentative cohesion (cited 3x): The essay presents a clear central thesis supported by relevant claims and source evidence.
+[22] argumentative complexity (cited 4x): The essay explores multiple nuanced aspects and potential roadblocks surrounding driverless technology rather than relying on simple, repetitive statements.
+[23] argumentative consistency (cited 5x): Represents the essay's ability to maintain a clear, unified stance throughout without sending mixed messages or shifting viewpoints.
+[24] argumentative depth (cited 38x): The essay develops a reasoned counter-argument by analyzing practical, technological, and legal challenges associated with the topic.
+[25] argumentative development (cited 19x): Measures the extent to which a writer builds an explicit, reasoned claim and supports it with commentary rather than just summarizing source text.
+[26] argumentative elaboration (cited 57x): Captures how fully a writer expands upon key points through extended reasoning, specific details, and vivid scenarios.
+[27] argumentative elaborations (cited 5x): Captures the depth to which a writer extends their central claims through detailed logical reasoning and hypotheticals.
+[28] argumentative focus (cited 57x): The writer maintains a consistent, serious task-oriented focus on the debate topic without getting distracted by irrelevant off-topic tangents.
+[29] argumentative focus and coherence (cited 4x): Captures the writer's ability to stay on topic and construct a logically sound argument without straying into irrelevant tangents.
+[30] argumentative framing (cited 5x): The essay connects details from the source text directly to a larger thesis about solving real-world driving safety problems.
+[31] argumentative purpose (cited 3x): Source details are integrated to support an overarching claim rather than provided as unstructured summary.
+[32] argumentative reasoning (cited 16x): Captures the depth of logical elaboration provided to explain why specific evidence supports the author's central claim.
+[33] argumentative scope (cited 4x): The breadth and variety of distinct supporting points brought to bear in defense of the main thesis.
+[34] argumentative sophistication (cited 3x): Captures the writer's ability to address complex sides of an issue and synthesize counterarguments into a clear overall position.
+[35] argumentative stance (cited 5x): The essay develops a persuasive, objective position aimed at convincing the reader through logical points rather than personal preference.
+[36] argumentative structure (cited 10x): Captures the logical flow and coherence of ideas that build toward a strong central thesis.
+[37] argumentative synthesis (cited 11x): The writer integrates text evidence into a broader original argument rather than just summarizing facts.
+[38] balanced argumentation (cited 10x): The writer explicitly addresses opposing concerns about potential machine malfunctions while still maintaining a persuasive stance.
+[39] balanced perspective (cited 3x): The essay considers counterarguments and potential drawbacks rather than relying entirely on exaggerated scenarios.
+[40] breadth of argument (cited 3x): The essay considers multiple distinct aspects of the topic rather than repeating a single point.
+[41] clarity of argument (cited 11x): The essay establishes a clear central stance early on that guides the reader through the paper.
+[42] clarity of argumentative position (cited 3x): The essay explicitly states a central claim and maintains a clear, purposeful line of reasoning throughout.
+[43] clarity of claim (cited 22x): The writer clearly articulates a clear central stance on the topic early in the text.
+[44] clarity of expression (cited 7x): Measures how clearly thoughts are phrased without confusing logic or awkward sentence constructions.
+[45] clarity of position (cited 23x): Measures how clearly and decisively the writer establishes an overall thesis statement.
+[46] clarity of reasoning (cited 3x): The writer clearly explains the logical cause-and-effect relationship behind their arguments.
+[47] clarity of stance (cited 30x): The essay establishes and maintains a recognizable position throughout the text.
+[48] clear thesis statement (cited 5x): Explicitly declares the author's primary argument and stance early in the text.
+[49] coherence and flow (cited 4x): Reflects how smoothly ideas connect and transition between sentences and paragraphs.
+[50] cohesion and flow (cited 33x): The writer uses transitional phrasing to connect ideas and create a logical progression of thought.
+[51] cohesion and paragraph development (cited 4x): The essay moves logically from one distinct sub-topic to the next using purposeful transitional phrases between cohesive paragraphs.
+[52] cohesion and transitional flow (cited 3x): Measures how logical connectors and signposts guide the reader smoothly from one point to the next.
+[53] cohesion and transitions (cited 21x): Captures the smooth flow of ideas between sentences and paragraphs through explicit transitional language.
+[54] cohesive essay structure (cited 4x): Measures the extent to which a text functions as an intentional essay with coherent thematic focus rather than fragmented text excerpts.
+[55] cohesive paragraph structure (cited 3x): The writer uses clear structural transitions that connect logical points smoothly across the body paragraphs to the conclusion.
+[56] cohesive paragraph transitions (cited 8x): Paragraphs flow logically from one main point to the next, maintaining a clear overall structure.
+[57] cohesive progression (cited 14x): The essay uses clear structural transitions to link claims logically from paragraph to paragraph, building a unified line of reasoning.
+[58] cohesive structural organization (cited 3x): The essay employs clear transitions and logical thematic grouping across paragraphs to guide the reader through a multi-faceted argument.
+[59] cohesive transitions (cited 28x): The text smoothly connects ideas across paragraphs using natural transitional phrases that guide the reader through the argument.
+[60] command of conventions (cited 241x): Captures the writer's control over standard English grammar, mechanics, spelling, and sentence structure.
+[61] command of conventions and mechanics (cited 5x): The writing demonstrates stronger control over grammar, punctuation, and sentence construction.
+[62] command of grammar and mechanics (cited 9x): Measures the writer's adherence to standard English conventions including spelling, syntax, and phrasing.
+[63] command of language (cited 30x): Evaluates the sophistication and range of vocabulary and sentence patterns used throughout the writing.
+[64] command of language and conventions (cited 13x): The writing demonstrates control over sentence structure, grammar, usage, and mechanics.
+[65] command of language and mechanics (cited 21x): The accurate use of grammar, spelling, and sentence structures to convey ideas clearly and professionally.
+[66] command of language and register (cited 4x): Evaluates the sophistication, variety, and appropriateness of vocabulary and sentence structures for an argumentative essay.
+[67] command of language and style (cited 5x): The writing demonstrates a mature control of vocabulary, sentence structure, and formal academic tone.
+[68] command of language and tone (cited 8x): Captures the writer's control over vocabulary, phrasing, and appropriate academic tone throughout the piece.
+[69] command of language conventions (cited 56x): captures accuracy in sentence structure, grammar, mechanics, and spelling.
+[70] command of language mechanics (cited 35x): Assesses the writer's control over standard English spelling, punctuation, and sentence structure.
+[71] command of mechanics (cited 34x): This quality captures the accuracy and correctness of grammar, sentence structure, word choice, and mechanics.
+[72] command of mechanics and conventions (cited 3x): Captures the general level of correctness in spelling, grammar, and sentence structure.
+[73] command of mechanics and grammar (cited 4x): The writer's proficiency in using standard punctuation, capitalization, and grammatically complete sentences.
+[74] command of mechanics and syntax (cited 4x): Captures the level of control over sentence construction, spelling, and standard written English conventions.
+[75] command of sentence mechanics (cited 7x): The mastery of standard English grammar, spelling, punctuation, and complete sentence structure.
+[76] command of sentence structure (cited 3x): Demonstrates sophisticated syntax and stylistic control across the entire text.
+[77] command of vocabulary (cited 7x): Captures the sophistication and accuracy of word choice used to articulate complex ideas.
+[78] comparative reasoning (cited 3x): Evaluates the writer's ability to draw meaningful parallels to real-world examples outside the source text to strengthen an argument.
+[79] concluding synthesis (cited 18x): Captures the effectiveness of bringing the essay's main points together into a final, logical judgment rather than just ending abruptly.
+[80] conclusion effectiveness (cited 9x): The final section re-articulates the core thesis by summarizing the primary sub-arguments rather than just repeating a stance.
+[81] control of conventions (cited 34x): The essay exhibits a stronger grasp of basic grammar, punctuation, and spelling, making it easier to read.
+[82] control of conventions and mechanics (cited 3x): Demonstrates strong command over sentence structure, spelling, grammar, and formal writing standards.
+[83] control of sentence mechanics (cited 3x): The writer's accuracy in punctuation, spelling, and sentence boundaries to maintain readable prose.
+[84] conventions (cited 3x): The essay maintains strong control over sentence mechanics, punctuation, and standard English usage.
+[85] conventions and mechanics (cited 5x): Assesses accuracy in standard written English grammar, usage, punctuation, and spelling.
+[86] counter-argument addressing (cited 3x): Reflects how well the writer anticipates, presents, and responds to opposing viewpoints or potential drawbacks.
+[87] counter-argument integration (cited 6x): Anticipates opposing viewpoints thoroughly and offers targeted rebuttals to strengthen the main stance.
+[88] counterargument acknowledgment (cited 4x): Measures the essay's ability to recognize opposing viewpoints while maintaining its primary position.
+[89] counterargument addressing (cited 10x): Anticipates opposing viewpoints and directly pushes back against them to strengthen the position.
+[90] counterargument analysis (cited 18x): Captures how well the writing acknowledges opposing viewpoints and systematically refutes them to strengthen the primary argument.
+[91] counterargument and complexity (cited 12x): Reflects the writer's ability to introduce and explore nuanced logical challenges related to the essay prompt.
+[92] counterargument and concession (cited 3x): The essay acknowledges opposing viewpoints or positive aspects of the alternative before refuting them or placing them in context.
+[93] counterargument and rebuttal (cited 17x): Anticipates opposing claims and systematically addresses them to strengthen the overall position.
+[94] counterargument and rebuttal integration (cited 10x): Captures how effectively the writer anticipates potential counterarguments or limitations and offers reasoned, logical solutions.
+[95] counterargument and risk analysis (cited 3x): Reflects the author's ability to acknowledge potential drawbacks or safety risks and explain how technology mitigates them to strengthen the thesis.
+[96] counterargument consideration (cited 92x): The essay addresses opposing viewpoints and attempts to reconcile them with its primary stance.
+[97] counterargument engagement (cited 5x): How effectively the writer acknowledges and rebuts potential opposing views or nuanced arguments.
+[98] counterargument handling (cited 35x): The writer addresses potential drawbacks or limitations raised in the text while maintaining their overall thesis.
+[99] counterargument integration (cited 277x): The essay acknowledges potential flaws and complications associated with the topic before reinforcing its main claim.
+[100] counterargument presentation (cited 4x): The essay explicitly addresses opposing considerations or complications before reaffirming its main position.
+[101] counterargument recognition (cited 26x): The essay considers multiple sides of the topic rather than presenting a one-dimensional point of view.
+[102] counterargumentation (cited 19x): The extent to which the writing acknowledges and addresses opposing viewpoints.
+[103] counterargumentation and nuance (cited 3x): Captures how well the writer considers complexity, potential safety flaws, and practical counter-perspectives within their stance.
+[104] counterargumentation and rebuttal (cited 3x): Captures how effectively the writer anticipates, addresses, and refutes opposing viewpoints or common assumptions.
+[105] critical analysis (cited 3x): The ability to evaluate the source text critically rather than merely summarizing its points.
+[106] critical reasoning (cited 31x): Measures the extent to which the essay evaluates details critically and unpacks logical implications rather than taking source claims at face value.
+[107] depth of analysis (cited 24x): The writer extends source information into well-reasoned logical implications rather than just summarizing facts.
+[108] depth of argument (cited 7x): Measures the extent to which the writing goes beyond surface-level summary to offer thoughtful analysis and nuanced reasoning.
+[109] depth of argumentation (cited 18x): Reflects how thoroughly the essay develops its claims using clear reasoning rather than rhetorical questions.
+[110] depth of argumentative analysis (cited 8x): Reflects how thoroughly the essay explores the nuances and implications of an argument rather than relying on brief, surface-level reactions.
+[111] depth of argumentative development (cited 16x): Captures the extent to which the essay expands upon its points with relevant reasoning and real-world considerations.
+[112] depth of argumentative reasoning (cited 19x): Captures the extent to which the essay explores nuances, addresses multiple perspectives, and develops logical explanations for its claims.
+[113] depth of argumentative support (cited 3x): Captures how thoroughly an essay expands upon its main points through reasoning and specific examples.
+[114] depth of counterargumentation (cited 3x): captures the extent to which an essay explores multiple facets and real-world implications of its core claim
+[115] depth of critical analysis (cited 3x): Moves beyond simple summary to critically analyze the broader societal, behavioral, and ethical implications of the topic.
+[116] depth of critical thinking (cited 4x): Measures the author's ability to explore nuanced, complex ethical dilemmas rather than relying on superficial observations.
+[117] depth of elaboration (cited 5x): The essay thoroughly explores multiple reasoning points and explains the practical benefits of the topic in detail.
+[118] depth of evidence integration (cited 3x): Measures how thoroughly source text details and factual examples are incorporated to support claims.
+[119] depth of explanation (cited 6x): Measures the extent to which an essay explains the logical links between textual evidence and its broader claims.
+[120] depth of reasoning (cited 77x): The writer extends points from the source text by analyzing the logical consequences and real-world implications of self-driving technology.
+[121] effective use of analogy (cited 3x): Captures the author's ability to explain abstract or complex concepts using clear, relatable everyday comparisons.
+[122] effective use of evidence (cited 6x): The essay integrates concrete source details directly into its reasoning to support its main arguments.
+[123] elaborated reasoning (cited 11x): Captures the extent to which the writer explains the connections between source evidence and their own overarching claims.
+[124] elaboration (cited 8x): Explores main claims thoroughly by offering vivid real-world scenarios and logical extensions of the evidence.
+[125] elaboration and analysis (cited 7x): Captures how well the writer expands upon evidence from the text by adding relevant commentary, cause-and-effect reasoning, and logical explanations.
+[126] elaboration and commentary (cited 12x): Measures the extent to which the writer explains and expands upon cited evidence to build a fully realized argument.
+[127] elaboration and depth (cited 3x): Captures the degree to which ideas are thoroughly explained and extended with logical detail.
+[128] elaboration and depth of analysis (cited 3x): Measures how thoroughly the essay builds upon source details by adding logical explanation and real-world context.
+[129] elaboration and depth of argument (cited 4x): The argument thoroughly develops its points by discussing nuances, potential solutions, and counter-arguments rather than relying on brief statements.
+[130] elaboration and depth of reasoning (cited 5x): Measures how thoroughly the essay expands on its claims with detailed explanations and contextual analysis.
+[131] elaboration and evidence integration (cited 3x): Measures how thoroughly source text details and real-world context are expanded upon to support the main thesis.
+[132] elaboration and explanation (cited 6x): The essay extends text evidence by explaining the reasoning behind why those source details support the student's central argument.
+[133] elaboration and idea development (cited 5x): Captures the thoroughness with which an author expands on main points through detailed explanation and logical connections.
+[134] elaboration and reasoning (cited 74x): The depth to which the writer explains and expands upon evidence through critical analysis, logic, and illustration.
+[135] elaboration and scenario building (cited 3x): Measures how effectively the essay creates relevant context and detailed illustrations to unpack arguments rather than just quoting text.
+[136] elaboration of argument (cited 4x): Measures how thoroughly and logically a writer develops and explains their main points using reasoning and analogies.
+[137] elaboration of arguments (cited 73x): The writer extends claims by explaining the logical chain of events and reasoning behind potential safety risks.
+[138] elaboration of evidence (cited 72x): The degree to which textual details are expanded upon with logical commentary and real-world implications.
+[139] elaboration of ideas (cited 23x): Captures the depth and detail with which an essay unpacks, explains, and expands upon its main points.
+[140] elaboration of points (cited 6x): The thoroughness with which the writer explains and expands upon evidence to build a logical argument.
+[141] elaboration of reasoning (cited 17x): The essay extends simple textual claims by constructing logical scenarios and explaining the broader implications of the argument.
+[142] elaboration of supporting claims (cited 3x): The essay expands on its main points by explaining how features like sensors and reduced fossil fuel usage contribute to the overall argument.
+[143] elaboration of supporting details (cited 5x): The writer explains the connection between the evidence presented and the real-world implications of self-driving technology.
+[144] elaboration of supporting ideas (cited 14x): Reflects the depth to which the writer expands upon textual facts with original reasoning and contextual analysis.
+[145] elaboration of supporting points (cited 25x): Fully explains and expands upon claims rather than stating them briefly or tangentially.
+[146] elaboration on evidence (cited 5x): Captures how thoroughly the essay explains and develops the connection between quoted text and the overall thesis.
+[147] elaboration through concrete examples (cited 3x): The writer uses detailed hypothetical scenarios and relatable analogies to make abstract arguments vivid and persuasive.
+[148] elaborative analysis (cited 3x): Captures the extent to which evidence is unpacked and explained in depth rather than left as standalone source quotes.
+[149] elaborative explanation (cited 4x): Captures how thoroughly the essay develops its supporting arguments by tracing cause-and-effect sequences.
+[150] elaborative reasoning (cited 24x): The degree to which an author expands on evidence by explaining implications, consequences, and original logical connections.
+[151] engaging hook (cited 9x): Captures the reader's interest early with vivid scenarios or illustrative anecdotes that introduce the main topic.
+[152] engaging introduction (cited 23x): Captures the reader's interest using a vivid hypothetical scene to frame the central issue of the essay.
+[153] engaging introductory hook (cited 5x): Captures the reader's interest early on by establishing context through a creative narrative frame.
+[154] engaging narrative hook (cited 3x): Captures the reader's interest immediately by setting up a vivid, concrete illustrative scenario to introduce the topic.
+[155] engaging rhetorical framing (cited 3x): Uses relevant, relatable analogies and rhetorical questions to make a persuasive point accessible to the reader.
+[156] engaging voice (cited 3x): The writer maintains an expressive and persuasive voice that connects the topic to real-world experience.
+[157] essay structure (cited 7x): Captures the logical organization of ideas into distinct paragraphs with clear transitions and a unified flow.
+[158] evidence analysis (cited 3x): Measures how thoroughly the essay analyzes and contextualizes source details rather than just summarizing them.
+[159] evidence elaboration (cited 8x): The essay explicitly connects source material back to the main thesis through commentary after each cited detail.
+[160] evidence integration (cited 216x): Captures the extent to which source material and textual details are seamlessly embedded to substantiate arguments.
+[161] evidence integration and analysis (cited 5x): The essay smoothly incorporates textual details and builds analytical arguments around them rather than just dropping in quotes.
+[162] evidence-based argument development (cited 4x): The extent to which source material is synthesized purposefully to support and advance the author's main claims.
+[163] evidence-based reasoning (cited 11x): Captures the ability to weave textual details from the source article directly into an active, analytical argument.
+[164] focus and coherence (cited 10x): Reflects how well an essay stays focused on its core thesis without distracting or irrelevant digressions.
+[165] focus and relevance (cited 3x): Captures the extent to which the writing stays centered on relevant, meaningful central claims throughout the essay.
+[166] focus and stance maintenance (cited 4x): The essay maintains a strong, clear position from beginning to end without drifting off-topic.
+[167] formal register (cited 7x): The essay maintains a serious, academic tone appropriate for school-based argumentative writing.
+[168] formal writing tone (cited 3x): The maintenance of a clear, objective, and professional voice suitable for an argumentative essay.
+[169] grammar and mechanics (cited 4x): Captures adherence to standard written English conventions and sentence structure control.
+[170] grammatical accuracy (cited 5x): Captures adherence to standard written English mechanics, spelling, and usage norms.
+[171] grammatical control (cited 42x): The writing demonstrates consistent syntactic control without abrupt sentence fragments or dropped endings.
+[172] grammatical control and conventions (cited 3x): Evaluates the degree to which proper syntax, mechanics, and spelling facilitate smooth reading.
+[173] grammatical correctness (cited 3x): The writing follows standard English grammar rules more consistently, resulting in clearer sentence structures.
+[174] handling of counterarguments (cited 3x): Captures the author's ability to address opposing viewpoints and weigh them against their main position.
+[175] illustrative reasoning (cited 3x): Measures the use of concrete hypothetical scenarios to make abstract logical points vivid and accessible.
+[176] independent argumentation (cited 3x): The essay formulates and advances original claims rather than merely summarizing the provided source text.
+[177] independent reasoning (cited 3x): The essay presents original thoughts and logical inferences rather than relying almost entirely on extracted text fragments.
+[178] integration of source details (cited 5x): The essay incorporates relevant evidence from the source text regarding sensor limitations and human driver requirements to build its claims.
+[179] integration of source evidence (cited 32x): Reflects how effectively the writer incorporates factual information from the reference text to ground their arguments.
+[180] integration of text evidence (cited 6x): Captures how well the essay incorporates specific textual details and quotes to ground its arguments.
+[181] introduction quality (cited 8x): Captures how effectively the opening paragraph hooks the reader, introduces the debate, and naturally leads to a clear thesis statement.
+[182] introductory engagement (cited 3x): Captures how skillfully an writer hooks the reader and introduces the topic's context before presenting a thesis.
+[183] introductory framing (cited 29x): Captures the audience's attention effectively while clearly establishing the central argument and context of the essay.
+[184] introductory hook (cited 3x): Captures the reader's interest early using creative contextualization or vivid imagery.
+[185] logical argument development (cited 3x): The writer builds an active argument by proposing practical solutions and raising logical questions about safety and technology.
+[186] logical argumentation (cited 4x): Builds a coherent, reasoned argument that directly supports the writer's thesis rather than relying on personal tangents.
+[187] logical coherence (cited 8x): The writer presents realistic connections between cause and effect throughout the argument.
+[188] logical cohesion (cited 5x): Reflects how smoothly ideas flow from one paragraph to the next without abrupt shifts or awkward evidence insertion.
+[189] logical consistency (cited 3x): Captures the degree to which claims throughout the essay align without contradicting each other.
+[190] logical elaboration (cited 14x): The essay extends its main points by explaining the cause-and-effect relationships behind its arguments.
+[191] logical flow (cited 7x): Captures how smoothly the essay transitions between points to build a cumulative, unified argument.
+[192] logical paragraph organization (cited 3x): Measures how effectively paragraphs are ordered and connected to build a smooth, logical progression of ideas.
+[193] logical reasoning (cited 26x): Draws sound inferences from evidence to build a progressive, coherent thread of reasoning.
+[194] mechanics and command of language (cited 4x): Evaluates adherence to standard written English conventions, including punctuation, grammar, and sentence complete-ness.
+[195] mechanics and conventions (cited 46x): Measures adherence to standard English grammar, spelling, punctuation, and sentence structure.
+[196] mechanics and language control (cited 3x): Captures accuracy in spelling, grammar, punctuation, and general sentence mechanics.
+[197] nuanced argumentation (cited 10x): Captures the ability to weigh opposing viewpoints and analyze gray areas rather than presenting simplified, black-and-white claims.
+[198] nuanced counterargument integration (cited 3x): Captures the ability to weigh opposing perspectives and concessions rather than treating the topic as entirely black-and-white.
+[199] nuanced counterargumentation (cited 7x): The writer considers multiple sides of the debate rather than presenting a one-dimensional argument.
+[200] nuanced reasoning (cited 9x): Captures the author's ability to present a balanced, multi-faceted stance rather than an oversimplified absolute position.
+[201] original argument generation (cited 3x): The writer articulates clear, student-generated claims about the potential drawbacks of automated driving rather than just stringing source quotes together.
+[202] original argumentation (cited 24x): Captures the author's ability to elaborate on text evidence with original analysis, logical reasoning, and independent thinking.
+[203] original argumentative development (cited 3x): The writer extends beyond simple text summary to build original rhetorical points and practical counterarguments.
+[204] original argumentative reasoning (cited 7x): Extends beyond simply repeating source quotes by integrating independent commentary and creative hypothetical scenarios.
+[205] original critical thinking (cited 3x): Measures the writer's ability to extrapolate beyond the text and generate plausible original arguments.
+[206] original expression (cited 4x): The writer uses their own phrasing to construct argument points instead of pasting disjointed excerpts from the text.
+[207] original reasoning (cited 18x): Measures the student's ability to extrapolate beyond the text to build logical, real-world arguments.
+[208] originality of argumentation (cited 5x): Measures the extent to which the writer goes beyond mere source summaries to present novel, insight-driven reasoning.
+[209] originality of thought (cited 4x): Reflects the student's ability to generate original reasoning and explanations rather than relying on copied source text.
+[210] paragraph coherence (cited 3x): Captures how effectively each paragraph focuses on a single, well-developed supporting idea without shifting topics.
+[211] paragraph development (cited 12x): Captures how well individual paragraphs systematically introduce, elaborate on, and conclude specific supporting arguments.
+[212] paragraph focus (cited 4x): Measures the extent to which each paragraph centers on a distinct, well-developed sub-topic.
+[213] paragraph organization (cited 43x): Captures the extent to which each paragraph stays focused on a clear, single supporting idea.
+[214] paragraph structure (cited 46x): Evaluates how effectively the writer organizes thoughts into distinct, logical paragraph divisions.
+[215] paragraph structure and development (cited 3x): Captures how effectively each body paragraph focuses on a single major sub-point and develops it thoroughly before moving on.
+[216] paragraph structure and flow (cited 6x): The writer organizes ideas logically into clear paragraphs with smooth transitions between different facets of the argument.
+[217] paragraph transitions (cited 5x): Clear transitional sentences articulate the relationship between different body paragraphs and main points.
+[218] persuasive framing (cited 4x): The essay frames the central thesis around broader positive impacts, making a more compelling overall argument.
+[219] persuasive reasoning (cited 9x): Captures the essay's ability to use logical analogies and scenario-building to make abstract points grounded and convincing.
+[220] persuasive tone (cited 4x): Measures the essay's ability to engage the reader directly and make a compelling pitch for its stance.
+[221] persuasive voice (cited 6x): Evaluates how effectively the writer establishes an engaging, deliberate rhetorical stance to persuade the reader.
+[222] position consistency (cited 6x): Captures how firmly the writer maintains a single cohesive perspective rather than oscillating between sides.
+[223] positional clarity (cited 4x): Measures how clearly and consistently the author maintains a single position throughout the entire paper without confusing shifts in stance.
+[224] reasoning and analysis (cited 11x): The clarity and depth of the logical connections drawn between the evidence provided and the main thesis.
+[225] reasoning and argument development (cited 12x): The writer presents logical, distinct points that build a coherent case against driverless cars rather than repeating simple claims.
+[226] reasoning and argumentation (cited 6x): Evaluates the depth and logical coherence of the reasoning used to support the central claim.
+[227] reasoning and critical thinking (cited 14x): The writer evaluates practical scenarios and complications to form logical claims rather than just summarizing text details.
+[228] reasoning and elaboration (cited 13x): The essay offers thoughtful explanations that unpack why specific facts from the text support the writer's underlying claims.
+[229] reasoning and explanation (cited 12x): Reflects the writer's ability to explain how evidence from the source text supports their core argument.
+[230] reasoning and logical flow (cited 3x): Captures the extent to which the essay builds a logical chain of reasoning to support its claims rather than simply restating facts from the source text.
+[231] reasoning depth (cited 8x): The writer offers developed explanations and logical extensions of the evidence provided in the text.
+[232] reasoning development (cited 5x): Reflects the degree to which reasons supporting the position are logically extended and explained.
+[233] reasoning quality (cited 9x): Captures the extent to which the essay goes beyond mere source summary to develop logical, original supporting arguments.
+[234] register and tone (cited 6x): The essay maintains a mature, objective tone suitable for academic argumentative writing.
+[235] rhetorical effectiveness (cited 3x): The writer uses persuasive techniques such as rhetorical questions and direct address to engage and convince the reader.
+[236] rhetorical engagement (cited 13x): Captures the author's ability to involve the reader directly through hypothetical questions and relatable analogies.
+[237] rhetorical framing (cited 5x): The writing uses purposeful framing techniques at the beginning and end to engage the reader and reinforce the main claim.
+[238] rhetorical skill (cited 3x): The effective use of framing, metaphor, and persuasive language to craft an engaging argument.
+[239] rhetorical sophistication (cited 3x): Uses engaging framing and vivid stylistic choices to make a compelling and memorable persuasive argument.
+[240] rhetorical strategy (cited 4x): The essay uses relatable analogies and rhetorical questions to make a compelling case to the reader.
+[241] sentence clarity (cited 12x): Captures the extent to which individual sentences convey coherent thoughts that can be easily understood by the reader.
+[242] sentence clarity and control (cited 7x): Captures the writer's command over sentence structure, phrasing, and grammatical coherence.
+[243] sentence clarity and mechanics (cited 3x): Reflects adherence to standard syntax, punctuation, and mechanics that make the essay easy to read and understand.
+[244] sentence clarity and syntax (cited 3x): Reflects the degree to which individual sentences are readable, complete, and grammatically standard.
+[245] sentence control (cited 3x): The writer's ability to construct clear, grammatically sound sentences that flow naturally.
+[246] sentence fluency (cited 28x): The writing flows naturally with varied sentence structures and engaging linguistic cadences.
+[247] sentence mechanics (cited 34x): The essay demonstrates stronger control over basic sentence boundaries, capitalization, and punctuation.
+[248] sentence mechanics and clarity (cited 8x): Standard conventions of grammar, spelling, and sentence construction are maintained sufficiently well to allow smooth reading.
+[249] sentence mechanics and control (cited 11x): Evaluates grammatical accuracy, proper punctuation, and sentence clarity.
+[250] sentence mechanics and fluency (cited 3x): The writer demonstrates control over grammar, sentence structure, and punctuation, leading to a clear and readable text.
+[251] sentence mechanics and syntax (cited 4x): Evaluates grammatical correctness, proper sentence structure, and readable syntax.
+[252] sentence structure (cited 4x): The command of sentence construction and grammatical completeness across paragraphs.
+[253] sentence structure and mechanics (cited 11x): Reflects the degree of control over standard English grammar, sentence boundaries, and syntax.
+[254] sentence structure fluency (cited 3x): Measures the grammatical correctness, completeness, and natural flow of the phrasing throughout the text.
+[255] sentence syntax (cited 3x): Captures grammatical accuracy in complete sentence construction and sentence structure control.
+[256] sentence variety (cited 3x): Captures the sophistication and diversity of sentence structures used to convey complex ideas clearly.
+[257] sentence variety and control (cited 3x): The writing demonstrates better syntactical complexity and fewer mechanical errors.
+[258] sentence variety and vocabulary (cited 5x): Assesses the writer's range of sentence structures and precise word choice to convey complex ideas.
+[259] sophisticated vocabulary (cited 5x): Reflects the author's ability to use precise, elevated language to communicate complex ideas.
+[260] source evidence integration (cited 17x): The essay effectively incorporates specific textual facts and examples from the source material to support its claims.
+[261] source integration (cited 22x): captures how effectively source evidence is incorporated to support an argumentative point.
+[262] source material integration (cited 44x): Captures how effectively and accurately the writing incorporates specific details and evidence from the provided text to build an argument.
+[263] source text integration (cited 31x): The writer weaves direct quotations and details from the provided source text smoothly into their own commentary.
+[264] source textual integration (cited 6x): Captures how smoothly and relevantly details from the reading passage are woven into the author's own argument.
+[265] source-based evidence integration (cited 13x): Evaluates how well details from the source text are selected and explained to build a persuasive case.
+[266] spelling accuracy (cited 10x): Spelling accuracy captures the writer's command of correct word forms and freedom from typographical errors.
+[267] stance clarity (cited 11x): The writer clearly communicates a personal position on the topic rather than presenting a collection of facts.
+[268] stance consistency (cited 18x): Establishes and maintains a clear position without introducing contradictory statements about the main argument.
+[269] structural clarity (cited 30x): Captures the logical organization and progression of ideas across distinct, cohesive paragraphs.
+[270] structural coherence (cited 71x): Measures how effectively an essay organizes its ideas into an understandable, logical sequence with recognizable essay components.
+[271] structural coherence and organization (cited 4x): The essay logically moves from point to point with well-developed paragraphs that build a clear overall argument.
+[272] structural cohesion (cited 92x): Reflects the logical progression of ideas across paragraphs toward a compelling central thesis.
+[273] structural cohesion and flow (cited 6x): Captures how smoothly and logically paragraph transitions and idea progressions move the argument forward.
+[274] structural completeness (cited 64x): Measures whether the essay includes a complete, well-developed introduction, body, and conclusion.
+[275] structural flow (cited 5x): Measures how effectively transitions and paragraphing guide the reader through a logical progression of ideas.
+[276] structural framing (cited 8x): Captures the essay's ability to open and close with a cohesive narrative thread that unifies the overall argument.
+[277] structural organization (cited 1313x): Measures how effectively the essay uses paragraphing and organizational frameworks to guide the reader through the argument.
+[278] structural organization and flow (cited 4x): Captures the logical progression of ideas from sentence to sentence and paragraph to paragraph.
+[279] structural progression (cited 30x): Captures the logical ordering of paragraphs and smooth flow of ideas from the introduction to the conclusion.
+[280] structural transitions (cited 4x): Captures the use of transitional words and phrases to guide the reader through the progression of the argument.
+[281] substantive argumentation (cited 3x): The depth and development of reasoned claims supported by logical analysis rather than brief surface observations.
+[282] substantive reasoning (cited 5x): Captures how effectively the writer connects facts and evidence to logically explain and justify their main position.
+[283] syntactic clarity (cited 5x): The readability and grammatical clarity of individual sentences throughout the essay.
+[284] syntactic coherence (cited 6x): The writer uses grammatical, connected sentences that build a continuous and understandable line of thought.
+[285] syntactic completeness (cited 5x): Captures whether sentences and paragraphs are fully written out without abrupt truncation or missing text.
+[286] syntactic complexity (cited 10x): Measures the writer's command over varied and grammatically coherent sentence structures.
+[287] syntactic control (cited 19x): The essay demonstrates command over varied sentence structures and maintains grammatical coherence across all paragraphs.
+[288] syntactic fluency (cited 10x): Reflects the student's ability to construct grammatical, readable sentences that flow logically into one another.
+[289] synthesis of source material (cited 3x): Reflects the student's ability to integrate multiple distinct pieces of evidence from the prompt into a coherent, overarching argument.
+[290] task alignment (cited 3x): Takes a direct position on the topic itself rather than analyzing the gaps in the prompt's source text.
+[291] task focus (cited 8x): Assesses the degree to which the writing remains focused on the primary prompt and topic without introducing distracting off-topic concepts.
+[292] task relevance (cited 4x): Captures how directly and accurately the response addresses the prompt's instructions to build a clear position using text evidence.
+[293] text-based evidence integration (cited 24x): The essay effectively uses specific facts, details, and context from the source text to build its argument rather than relying solely on opinion.
+[294] textual accuracy (cited 3x): The writer correctly understands and presents information from the source text rather than misinterpreting key facts.
+[295] textual cohesion (cited 5x): The essay employs clear structural signposts to guide the reader through the logical progression of ideas.
+[296] textual engagement (cited 7x): Captures the extent to which the essay incorporates concepts and details from the provided source text into its argument.
+[297] textual evidence (cited 4x): Measures the extent to which accurate and relevant details from the stimulus passage are incorporated into the response.
+[298] textual evidence integration (cited 469x): Measures how effectively the essay incorporates direct quotes and facts from the source text to ground its claims.
+[299] textual evidence support (cited 6x): How well the essay incorporates specific textual citations and explicitly connects them to the main argument.
+[300] textual evidence usage (cited 17x): How effectively the writer incorporates and integrates relevant details and citations from the provided source text.
+[301] textual evidence utilization (cited 4x): The essay uses specific details from the source text to build a relevant, central argument.
+[302] textual integration (cited 29x): The essay incorporates relevant facts, examples, and details from the source passage to back up its assertions.
+[303] thesis clarity (cited 55x): Measures how clearly and explicitly the writer states their overarching position or main argument.
+[304] thesis clarity and focus (cited 8x): Captures how explicitly an author presents a central argument and keeps the essay focused on defending that stance.
+[305] thesis focus (cited 3x): Captures how consistently the author maintains and reinforces a single, clear controlling idea throughout the entire piece.
+[306] thesis statement clarity (cited 3x): The writer clearly articulates and maintains a central argument throughout the piece.
+[307] tone and register (cited 7x): Reflects the use of appropriate academic language and focus, avoiding distracting meta-references or off-topic personal anecdotes.
+[308] tone appropriateness (cited 4x): The use of a respectful, formal, and academic register suited for persuasive writing.
+[309] topic focus (cited 7x): The writer maintains a consistent focus on the central prompt rather than off-topic commentary.
+[310] topical cohesion (cited 3x): Captures how smoothly sentences and paragraphs connect to build a unified and flowing argument.
+[311] topical focus (cited 18x): The ability to remain consistently on-topic without drifting into irrelevant personal anecdotes or unrelated observations.
+[312] topical progression (cited 3x): The argument moves smoothly from one logical point to the next, building a cohesive line of reasoning throughout the text.
+[313] transitional cohesion (cited 3x): Captures how smoothly the writer connects ideas within and between paragraphs.
+[314] transitional flow (cited 5x): Captures the smooth progression of ideas both within paragraphs and across paragraph transitions.
+[315] transitions and flow (cited 7x): Measures the effective use of transitional words and phrases to connect ideas across paragraphs and sentences.
+[316] use of source evidence (cited 61x): Captures how effectively the essay incorporates facts, details, and examples from the provided text.
+[317] use of source material (cited 3x): Reflects how accurately and effectively a writer integrates facts, details, and context from the provided text to support their claims.
+[318] use of source text (cited 3x): Integrates direct evidence and concepts from the provided reading passage to support claims.
+[319] use of source text evidence (cited 3x): The extent to which an essay integrates direct quotes and factual details from the provided source material to support its claims.
+[320] use of textual evidence (cited 12x): The essay integrates specific facts and quotes from the provided source text to ground and support its claims.
+[321] use of transitional devices (cited 3x): The writer uses explicit signal words to guide the reader smoothly from one claim to the next.
+[322] vocabulary and word choice (cited 4x): Evaluates the sophistication, variety, and appropriateness of the writer's vocabulary.
+[323] vocabulary sophistication (cited 5x): Reflects the author's advanced word choice and precise use of elevated diction.
+[324] voice and audience engagement (cited 4x): The writer uses an expressive tone and interactive phrasing to actively engage the reader in their viewpoint.
+[325] voice and engagement (cited 9x): Captures the writer's ability to establish a compelling personal tone and maintain reader interest throughout the essay.
+[326] voice and rhetorical engagement (cited 4x): Captures the writer's ability to engage the reader through sophisticated phrasing, compelling tone, and rhetorical flair.

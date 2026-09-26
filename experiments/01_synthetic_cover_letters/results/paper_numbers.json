@@ -1,0 +1,295 @@
+{
+  "experiment": "01_synthetic_cover_letters",
+  "n": 21,
+  "numbers": [
+    {
+      "id": "results.tracked",
+      "where": "Sec. sec:feature_extraction_empirical_results",
+      "what": "dials tracked by Ours and by Direct LLM, the dials Direct LLM misses, and whether Direct LLM--Multi-score tracks the same set",
+      "value": {
+        "Ours": 16,
+        "Direct LLM": 13,
+        "Direct LLM missed": [
+          "employer_prestige",
+          "n_languages",
+          "school_prestige"
+        ],
+        "same_set_Multi_score": true
+      }
+    },
+    {
+      "id": "results.attributable",
+      "where": "Sec. sec:feature_extraction_empirical_results",
+      "what": "attributable features (AF x K) for Ours and Direct LLM, and K",
+      "value": {
+        "Ours": 16,
+        "Direct LLM": 13,
+        "K": [
+          21.0,
+          21.0
+        ]
+      }
+    },
+    {
+      "id": "results.leakage",
+      "where": "Sec. sec:feature_extraction_empirical_results",
+      "what": "leakage LK of Ours and of Direct LLM",
+      "value": [
+        0.0904,
+        0.1088
+      ]
+    },
+    {
+      "id": "results.cost",
+      "where": "Sec. sec:feature_extraction_empirical_results",
+      "what": "cost in USD of Direct LLM and of Ours",
+      "value": [
+        0.2588,
+        3.4497
+      ]
+    },
+    {
+      "id": "ablations.vs_ours",
+      "where": "Sec. sec:feature_extraction_empirical_results",
+      "what": "ablation arms: attributable features, leakage and Stat.R. per arm, and the Multi-score arm's cost relative to Ours",
+      "value": {
+        "attributable": {
+          "32": 13,
+          "32m": 14,
+          "21": 14,
+          "21m": 14
+        },
+        "LK": {
+          "32": 0.0934,
+          "32m": 0.104,
+          "21": 0.0976,
+          "21m": 0.1026
+        },
+        "Stat.R.": {
+          "32": 0.7628,
+          "32m": 0.8602,
+          "21": 0.7919,
+          "21m": 0.8681
+        },
+        "cost_ratio_multi_score": 1.9
+      }
+    },
+    {
+      "id": "ablations.filtering",
+      "where": "Sec. sec:feature_extraction_empirical_results",
+      "what": "effect of reliability filtering and of statistical scoring: attributable features / K of the two Multi-score ablations and of Ours, and Tracked / Sem.R. of the filtered Multi-score arm",
+      "value": {
+        "32m": [
+          14,
+          32
+        ],
+        "21m": [
+          14,
+          21
+        ],
+        "Ours": 16,
+        "SF_SR_21m": [
+          1.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "id": "dataset.orthogonality",
+      "where": "App. app:dataset",
+      "what": "max |r| over non-structural dial pairs and max |r| with letter length, on the balanced pool and on the full corpus",
+      "value": {
+        "balanced": [
+          0.1459,
+          0.2018
+        ],
+        "full": [
+          0.195,
+          0.2191
+        ]
+      }
+    },
+    {
+      "id": "metrics.eta",
+      "where": "App. app:metrics",
+      "what": "semantic-acceptance threshold eta (95th percentile of the Hungarian-rejected cosines)",
+      "value": 0.4058
+    },
+    {
+      "id": "metrics.tau",
+      "where": "App. app:metrics",
+      "what": "tracking threshold tau, its permutation floor, the tau sweep, and whether Tracked / Sem.R. / Attrib. are constant over it",
+      "value": {
+        "tau": 0.4,
+        "floor": 0.154,
+        "taus": [
+          0.3,
+          0.35,
+          0.4,
+          0.45,
+          0.5
+        ],
+        "Tracked_SemR_Attrib_constant_over_taus": true
+      }
+    },
+    {
+      "id": "feats.gate",
+      "where": "tab:feats-ours",
+      "what": "surfaced and kept features and the kappa / rho gate thresholds (kept: kappa <= kappa_max and rho > rho)",
+      "value": {
+        "K_total": 33,
+        "K_kept": 21,
+        "kappa_max": 10.0,
+        "rho": 0.75
+      }
+    },
+    {
+      "id": "feats.beta",
+      "where": "tab:feats-ours",
+      "what": "fitted position bias beta and its 95% sandwich CI",
+      "value": [
+        0.00505,
+        -0.033,
+        0.0431
+      ]
+    },
+    {
+      "id": "variance.discovered",
+      "where": "App. app:variance-bands",
+      "what": "mean number of discovered features over the Ours bootstrap replicates, and the number of replicates",
+      "value": {
+        "mean": 28.939,
+        "B": 49
+      }
+    },
+    {
+      "id": "paired.budget",
+      "where": "App. app:paired-design",
+      "what": "pairs retained and average degree under letter resampling, K of Ours at that budget, and the costs of Ours at degree 25 and 40 and of Local LLMs",
+      "value": {
+        "pairs_retained": 1602.78,
+        "average_degree": 25.261,
+        "ours_K_at_reduced_budget": 16.12,
+        "usd_comparative_at_degree_25": 2.244,
+        "usd_ours_degree_40": 3.45,
+        "usd_local_llms": 2.346
+      }
+    },
+    {
+      "id": "paired.canonical_fusion",
+      "where": "App. app:paired-design",
+      "what": "mean paired differences (Ours - Local LLMs) per metric, conditioning on the canonical fusion",
+      "value": {
+        "SF": 0.1775,
+        "SM": 0.0802,
+        "SR": 0.1775,
+        "AF": 0.466,
+        "LK": -0.0155
+      }
+    },
+    {
+      "id": "paired.per_fusion_range",
+      "where": "App. app:paired-design",
+      "what": "range over fusions of the mean paired differences, per metric",
+      "value": {
+        "SF": [
+          0.0525,
+          0.1775
+        ],
+        "SM": [
+          -0.0027,
+          0.0929
+        ],
+        "SR": [
+          -0.01,
+          0.24
+        ],
+        "AF": [
+          0.3622,
+          0.5051
+        ],
+        "LK": [
+          -0.023,
+          -0.0075
+        ]
+      }
+    },
+    {
+      "id": "beta.significant",
+      "where": "App. app:beta-orthogonality",
+      "what": "likelihood-ratio test of equal per-feature position biases beta_k, and the number of individually significant beta_k",
+      "value": {
+        "LR_chi2": 261.5,
+        "df": 20,
+        "p": 5.382702425796209e-44,
+        "n_significant": "14 of 21"
+      }
+    },
+    {
+      "id": "beta.median_shift",
+      "where": "App. app:beta-orthogonality",
+      "what": "median absolute score shift under the beta_k refit, relative to the per-feature score spread (cell-wise)",
+      "value": 0.0105
+    },
+    {
+      "id": "beta.p90_shift",
+      "where": "App. app:beta-orthogonality",
+      "what": "90th percentile of the relative score shift, cell-wise and per feature, and the per-feature median",
+      "value": {
+        "cellwise_p90": 0.0582,
+        "per_feature_p90": 0.0518,
+        "per_feature_median": 0.0158
+      }
+    },
+    {
+      "id": "beta.shift_vs_beta",
+      "where": "App. app:beta-orthogonality",
+      "what": "Pearson r between a feature's mean absolute score shift and |beta_k|",
+      "value": 0.8695
+    },
+    {
+      "id": "beta.slot_imbalance",
+      "where": "App. app:beta-orthogonality",
+      "what": "theoretical and realized standard deviation of each letter's first-slot share",
+      "value": {
+        "degree": [
+          40
+        ],
+        "theoretical_sd": 0.0791,
+        "realized_sd": 0.079,
+        "mean_first_share": 0.5
+      }
+    },
+    {
+      "id": "calibration.all",
+      "where": "App. sec:synthetic-calibration",
+      "what": "cell counts, ECE and Brier skill scores (with 95% bootstrap CIs) of the citation and direction gates, out of fold and in sample; keys are regime/gate/column of results/calibration/metrics.csv",
+      "value": {
+        "oof/citation/n": 84000,
+        "oof/direction/n": 29030,
+        "oof/direction/ece": 0.01,
+        "oof/direction/ece_lo": 0.008,
+        "oof/direction/ece_hi": 0.014,
+        "in_sample/direction/ece": 0.019,
+        "oof/citation/ece": 0.046,
+        "oof/citation/ece_lo": 0.044,
+        "oof/citation/ece_hi": 0.049,
+        "in_sample/citation/ece": 0.03,
+        "oof/citation/bss_emp": 0.069,
+        "oof/citation/bss_emp_lo": 0.063,
+        "oof/citation/bss_emp_hi": 0.076,
+        "in_sample/citation/bss_emp": 0.168,
+        "oof/citation/bss_chance": 0.266,
+        "oof/citation/bss_chance_lo": 0.26,
+        "oof/citation/bss_chance_hi": 0.272,
+        "oof/direction/bss_chance": 0.548,
+        "oof/direction/bss_chance_lo": 0.538,
+        "oof/direction/bss_chance_hi": 0.557,
+        "oof/direction/bss_emp": 0.545,
+        "oof/direction/bss_emp_lo": 0.536,
+        "oof/direction/bss_emp_hi": 0.554,
+        "in_sample/direction/bss_chance": 0.623
+      }
+    }
+  ]
+}

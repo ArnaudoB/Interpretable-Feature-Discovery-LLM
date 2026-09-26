@@ -1,0 +1,70 @@
+{
+ "n_features": 16,
+ "source": "experiments/winning_args/feature_discovery_root (kappa<=50, rho>0.75; 4 OP-side criteria excluded - they difference out within a matched pair)",
+ "criteria": [
+  {
+   "name": "Abstract or technical framing",
+   "definition": "The exchange reasons at a more theoretical, philosophical, scientific, or specialized level rather than in everyday concrete terms."
+  },
+  {
+   "name": "Alternative proposal and guidance",
+   "definition": "The challenger offers concrete substitute policies, remedies, or practical steps instead of only criticizing."
+  },
+  {
+   "name": "Analogical reasoning",
+   "definition": "The argument persuades by comparing the case to parallel real or hypothetical cases, including extended analogies and thought experiments."
+  },
+  {
+   "name": "Challenger evidentiary support",
+   "definition": "The challenger backs the rebuttal with external evidence, citations, factual corrections, or expert authority."
+  },
+  {
+   "name": "Challenger experiential grounding",
+   "definition": "The challenger or exchange relies on firsthand experience, self-disclosure, or identity-based testimony as support."
+  },
+  {
+   "name": "Conceptual clarification",
+   "definition": "The challenger disputes definitions, categories, meanings, or criteria in order to reframe the disagreement."
+  },
+  {
+   "name": "Concrete illustration",
+   "definition": "The argument makes its case through specific, vivid, or worked-through examples rather than abstraction alone."
+  },
+  {
+   "name": "Confrontational tone",
+   "definition": "The reply relies on combative, loaded, mocking, or emotionally aggressive rhetoric."
+  },
+  {
+   "name": "Consistency challenge",
+   "definition": "The reply pressures the OP by showing that their own standard, principle, or rule yields inconsistency or self-undermining conclusions."
+  },
+  {
+   "name": "Counterexample use",
+   "definition": "The challenger undermines the OP with exceptions, alternative cases, or edge-case scenarios that break the generalization."
+  },
+  {
+   "name": "Exchange empirical framing",
+   "definition": "The exchange is framed in empirical or quantitative terms, emphasizing measurement, data, or evidentiary specificity."
+  },
+  {
+   "name": "Mechanistic explanation",
+   "definition": "The challenger explains or critiques the causal mechanism by which the disputed outcome would arise."
+  },
+  {
+   "name": "Normative and rights appeal",
+   "definition": "The challenger argues from moral principle, fairness, rights, duty, or harm rather than only from descriptive claims."
+  },
+  {
+   "name": "Practical consequences and feasibility",
+   "definition": "The challenger evaluates the view in terms of real-world effects, costs, risks, tradeoffs, or implementability."
+  },
+  {
+   "name": "Qualified rebuttal",
+   "definition": "The challenger narrows the claim, marks exceptions, or emphasizes contextual dependence instead of arguing absolutely."
+  },
+  {
+   "name": "Structured rebuttal development",
+   "definition": "The challenger builds an organized, multi-step, or multi-pronged case rather than a single bare point."
+  }
+ ]
+}

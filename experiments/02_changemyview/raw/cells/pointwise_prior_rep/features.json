@@ -1,0 +1,70 @@
+{
+  "n_features": 16,
+  "source": "REPEAT measurement of the prior-elicited 16, reshuffled order (seed 7)",
+  "criteria": [
+    {
+      "name": "Value Alignment",
+      "definition": "It measures the degree to which the reply connects its argument to the other person's stated values, goals, or concerns."
+    },
+    {
+      "name": "View Understanding",
+      "definition": "It measures the degree to which the reply accurately represents the other person's position before challenging it."
+    },
+    {
+      "name": "Counterargument Handling",
+      "definition": "It measures the degree to which the reply anticipates and answers plausible objections to its own case."
+    },
+    {
+      "name": "Nuance and Balance",
+      "definition": "It measures the degree to which the reply acknowledges complexity, uncertainty, or limits rather than overstating its case."
+    },
+    {
+      "name": "Economy of Argument",
+      "definition": "It measures the degree to which the reply makes its case efficiently without unnecessary length or repetition."
+    },
+    {
+      "name": "Respectful Tone",
+      "definition": "It measures the degree to which the reply treats the other person charitably and without dismissiveness or contempt."
+    },
+    {
+      "name": "Core Claim Relevance",
+      "definition": "It measures the degree to which the reply focuses on the central claim under dispute rather than drifting to side issues."
+    },
+    {
+      "name": "Emotional Resonance",
+      "definition": "It measures the degree to which the reply evokes fitting emotions that make its point more compelling."
+    },
+    {
+      "name": "Concrete Specificity",
+      "definition": "It measures the degree to which the reply uses precise details or examples instead of vague generalities."
+    },
+    {
+      "name": "Evidence Strength",
+      "definition": "It measures the degree to which the reply supports its claims with substantial, pertinent evidence or examples."
+    },
+    {
+      "name": "Consequence Salience",
+      "definition": "It measures the degree to which the reply makes the practical or moral implications of the issue vivid and important."
+    },
+    {
+      "name": "Source Trustworthiness",
+      "definition": "It measures the degree to which the reply relies on credible, authoritative, and verifiable sources when offering support."
+    },
+    {
+      "name": "Reason Engagement",
+      "definition": "It measures the degree to which the reply directly addresses the original poster's stated reasons, premises, or assumptions."
+    },
+    {
+      "name": "Clarity of Expression",
+      "definition": "It measures the degree to which the reply is easy to follow because its wording and structure are clear."
+    },
+    {
+      "name": "Novel Insight",
+      "definition": "It measures the degree to which the reply offers a fresh framing, distinction, or information the reader is unlikely to have already considered."
+    },
+    {
+      "name": "Logical Coherence",
+      "definition": "It measures the degree to which the reply's conclusions follow clearly and consistently from its premises."
+    }
+  ]
+}

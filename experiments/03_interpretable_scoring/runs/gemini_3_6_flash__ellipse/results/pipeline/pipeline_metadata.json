@@ -1,0 +1,22 @@
+{
+  "cell_label": "interpretable_scoring_gemini_3_6_flash__ellipse",
+  "judge": "gemini-3.6-flash",
+  "dataset": "ellipse",
+  "prompt_variant": "comparative_verdict_qualities",
+  "T_before": 2000,
+  "T_after": 2000,
+  "n": 100,
+  "K": 23,
+  "canonicalization": {
+    "method": "llm_taxonomy",
+    "model": "gpt-5.4-2026-03-05",
+    "reasoning_effort": "high",
+    "n_phrases_in": 316,
+    "n_criteria_raw": 24,
+    "n_criteria_after_other_and_floor": 23,
+    "min_cite": 3,
+    "citation_share_retained": 0.8515851964127826,
+    "n_phrases_in_other": 3,
+    "share_floor": 0.0
+  }
+}

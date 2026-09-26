@@ -1,0 +1,33 @@
+{
+  "rho_min": 0.5,
+  "kappa_max": 100.0,
+  "K_before": 23,
+  "K_after": 9,
+  "kept": [
+    "Overall Organization",
+    "Vocabulary Range and Precision",
+    "Elaboration and Support",
+    "Sentence Variety and Complexity",
+    "Grammatical Accuracy",
+    "Transitions and Cohesive Devices",
+    "Paragraph Organization",
+    "Mechanics and Conventions",
+    "Topic Focus"
+  ],
+  "dropped": [
+    "Spelling and Orthography",
+    "Coherence and Flow",
+    "Sentence Formation",
+    "Sentence Boundary Control",
+    "Counterargument Integration",
+    "Clarity of Expression",
+    "Argument Coherence",
+    "Idiomaticity",
+    "Narrative Development",
+    "Text Completeness",
+    "Register and Tone",
+    "Rhetorical Engagement",
+    "Descriptive Language",
+    "Target Language Use"
+  ]
+}

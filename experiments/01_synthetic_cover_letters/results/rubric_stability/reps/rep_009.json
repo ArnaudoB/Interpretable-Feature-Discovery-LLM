@@ -1,0 +1,476 @@
+{
+  "rep": 9,
+  "seed": 3697939688,
+  "sample_size": 40,
+  "sample_letter_ids": [
+    "L0120",
+    "L0047",
+    "L0129",
+    "L0065",
+    "L0167",
+    "L0164",
+    "L0003",
+    "L0075",
+    "L0097",
+    "L0041",
+    "L0111",
+    "L0119",
+    "L0096",
+    "L0013",
+    "L0079",
+    "L0001",
+    "L0038",
+    "L0050",
+    "L0035",
+    "L0000",
+    "L0004",
+    "L0053",
+    "L0098",
+    "L0151",
+    "L0121",
+    "L0058",
+    "L0084",
+    "L0124",
+    "L0010",
+    "L0016",
+    "L0064",
+    "L0027",
+    "L0026",
+    "L0099",
+    "L0169",
+    "L0196",
+    "L0039",
+    "L0071",
+    "L0040",
+    "L0057"
+  ],
+  "model": "gpt-5.4-2026-03-05",
+  "n_features": 19,
+  "features": [
+    {
+      "evidence": "automated vulnerability-report queue into a classification and routing pipeline",
+      "name": "Vulnerability automation ownership",
+      "description": "Captures how directly and concretely the letter shows experience building systems that automate vulnerability intake, triage, or handling.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "No relevant example; security interest is general or vulnerability work is not mentioned."
+        },
+        {
+          "score": 2,
+          "descriptor": "Mentions security automation or queue work, but the applicant's role or the linkage to vulnerability handling is vague."
+        },
+        {
+          "score": 3,
+          "descriptor": "Clearly states that they built or owned automation for vulnerability reports, triage, routing, prioritization, or deduplication."
+        },
+        {
+          "score": 4,
+          "descriptor": "Explains the triage automation clearly enough to show ownership and impact, such as classification logic, routing design, variant analysis, or major reduction of manual work."
+        }
+      ]
+    },
+    {
+      "evidence": "Python agents act within Go-enforced permissions and audit trails",
+      "name": "Agentic tooling architecture",
+      "description": "Captures whether the applicant has designed agent-based systems similar to the role's Python agents and Go back-end infrastructure.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "No agentic or autonomous-tooling experience is mentioned."
+        },
+        {
+          "score": 2,
+          "descriptor": "Mentions agents or automation in broad terms, but without clear design responsibility or architecture detail."
+        },
+        {
+          "score": 3,
+          "descriptor": "Shows direct experience building agentic systems or pairing agents with back-end services."
+        },
+        {
+          "score": 4,
+          "descriptor": "Describes a clear agent architecture with bounded actions, supervision, permissions, auditing, or Go guardrails that show mature design thinking."
+        }
+      ]
+    },
+    {
+      "evidence": "shipped LLM-backed features with evaluation scaffolding",
+      "name": "Applied AI production maturity",
+      "description": "Captures how far the applicant goes beyond naming AI to showing real production experience with model-based systems.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "No AI experience is mentioned."
+        },
+        {
+          "score": 2,
+          "descriptor": "Mentions AI interest or light exposure, but not real shipped work."
+        },
+        {
+          "score": 3,
+          "descriptor": "States that they shipped model-backed or LLM-backed functionality in production."
+        },
+        {
+          "score": 4,
+          "descriptor": "Shows production AI maturity by pairing shipped features with evaluation, hardening, reliability work, or discussion of failure modes and trustworthiness."
+        }
+      ]
+    },
+    {
+      "evidence": "threat models, code reviews, and remediation verification",
+      "name": "Security assessment practice",
+      "description": "Captures the amount and sophistication of hands-on security assessment work described in the letter.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "No security assessment work is mentioned."
+        },
+        {
+          "score": 2,
+          "descriptor": "Mentions assessments only vaguely, or leans on general security interest without specific activities."
+        },
+        {
+          "score": 3,
+          "descriptor": "Describes concrete assessment work such as threat modeling, service reviews, code review for vulnerability classes, or formal assessments."
+        },
+        {
+          "score": 4,
+          "descriptor": "Shows a mature assessment practice by explaining method or mindset, such as probing design assumptions, reviewing across the stack, or verifying remediation after findings."
+        }
+      ]
+    },
+    {
+      "evidence": "Python as workhorse for services, automation, and tooling",
+      "name": "Python operational depth",
+      "description": "Captures how substantial the applicant's practical Python usage is, especially for the automation layers central to this role.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "Python is absent or only named in passing."
+        },
+        {
+          "score": 2,
+          "descriptor": "Python is mentioned as one of several languages or for light scripting."
+        },
+        {
+          "score": 3,
+          "descriptor": "Shows regular Python use for tooling, automation, analysis, prototypes, or services."
+        },
+        {
+          "score": 4,
+          "descriptor": "Shows production-grade Python ownership, especially for internal platforms, typed or tested services, or agent layers that other engineers rely on."
+        }
+      ]
+    },
+    {
+      "evidence": "Go as principal language for production back-end systems",
+      "name": "Go backend depth",
+      "description": "Captures how central Go is to the applicant's production engineering experience.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "Go is absent or its use is unclear."
+        },
+        {
+          "score": 2,
+          "descriptor": "Go is mentioned, but the depth of use is limited or generic."
+        },
+        {
+          "score": 3,
+          "descriptor": "Go is clearly a primary language used on production services or back-end systems."
+        },
+        {
+          "score": 4,
+          "descriptor": "Go is presented as central to back-end architecture, especially in systems relevant to security tooling, platform work, or agent control."
+        }
+      ]
+    },
+    {
+      "evidence": "replaced brute-force or brittle heuristics with better algorithms",
+      "name": "Algorithmic problem-solving",
+      "description": "Captures whether the letter demonstrates real fluency with data structures and algorithms through concrete engineering examples.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "No algorithmic strength is mentioned."
+        },
+        {
+          "score": 2,
+          "descriptor": "Claims strong data-structure or algorithm knowledge, but without a concrete example."
+        },
+        {
+          "score": 3,
+          "descriptor": "Gives at least one concrete example of improving a system through better algorithm or data-structure choice."
+        },
+        {
+          "score": 4,
+          "descriptor": "Uses a specific, nontrivial example to show strong algorithmic judgment and a meaningful systems improvement."
+        }
+      ]
+    },
+    {
+      "evidence": "builder's eye, attacker perspective, and secure defaults",
+      "name": "Security reasoning depth",
+      "description": "Captures how thoughtfully the letter explains the applicant's way of thinking about secure systems, not just that they want to work in security.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "Security is mostly a keyword or destination, with little indication of how the applicant thinks about it."
+        },
+        {
+          "score": 2,
+          "descriptor": "Expresses sincere security interest, but methods or principles remain broad."
+        },
+        {
+          "score": 3,
+          "descriptor": "Explains a recognizable approach, such as threat modeling, attacker perspective, guardrails, or secure-by-default design."
+        },
+        {
+          "score": 4,
+          "descriptor": "Shows mature security judgment through multiple applied principles, such as bounded autonomy, adversarial thinking, design-level reasoning, or framing security as quiet resilience."
+        }
+      ]
+    },
+    {
+      "evidence": "helping busy developers do the secure thing by default",
+      "name": "Developer-centric security orientation",
+      "description": "Captures whether the letter frames security tooling as something that should make other engineers faster, safer, and less burdened.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "Little or no reference to downstream engineers or the usability of security work."
+        },
+        {
+          "score": 2,
+          "descriptor": "Makes a general statement about helping teams or reducing manual work."
+        },
+        {
+          "score": 3,
+          "descriptor": "Explicitly frames success as making secure behavior easy, default, or low-friction for other engineers."
+        },
+        {
+          "score": 4,
+          "descriptor": "Consistently centers downstream users through ideas like proximity to the teams served, removing friction, scaling capacity, or respecting the people who build on the tooling."
+        }
+      ]
+    },
+    {
+      "evidence": "scaling scarce security judgment across Google's development lifecycle",
+      "name": "Role-specific mission fit",
+      "description": "Captures how specifically the applicant connects their motivations and experience to this team's Google-scale security automation charter.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "Expresses generic desire to work at Google or in security, with little role-specific connection."
+        },
+        {
+          "score": 2,
+          "descriptor": "Mentions scale, impact, or a backend-security mix in broad terms."
+        },
+        {
+          "score": 3,
+          "descriptor": "Clearly ties their background to platform security automation, vulnerability response, or development-lifecycle hardening."
+        },
+        {
+          "score": 4,
+          "descriptor": "Shows nuanced understanding of this exact role, such as treating it as central security infrastructure or as a way to scale scarce expert judgment through tooling."
+        }
+      ]
+    },
+    {
+      "evidence": "specific stories about queues, algorithms, and tools",
+      "name": "Achievement concreteness",
+      "description": "Captures how much the letter supports claims with specific examples, mechanisms, and outcomes instead of generic assertions.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "Mostly lists traits, interests, or keywords with little supporting evidence."
+        },
+        {
+          "score": 2,
+          "descriptor": "Includes some examples, but they remain brief, abstract, or light on outcomes."
+        },
+        {
+          "score": 3,
+          "descriptor": "Gives multiple concrete examples that show actions taken or results achieved."
+        },
+        {
+          "score": 4,
+          "descriptor": "Makes accomplishments easy to picture through specific mechanisms, ownership, and visible effect."
+        }
+      ]
+    },
+    {
+      "evidence": "typos, misspellings, and sentence fragments",
+      "name": "Writing polish",
+      "description": "Captures the professionalism and readability of the prose, especially spelling, grammar, and sentence construction.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "Frequent typos, misspellings, or fragments noticeably distract and weaken the application."
+        },
+        {
+          "score": 2,
+          "descriptor": "Some obvious errors or stiff templated phrasing are present, but the letter remains understandable."
+        },
+        {
+          "score": 3,
+          "descriptor": "The writing is clean and coherent, with only minor slips."
+        },
+        {
+          "score": 4,
+          "descriptor": "The prose is polished, fluent, and feels deliberate and ready to send."
+        }
+      ]
+    },
+    {
+      "evidence": "Security+ and OSCP certifications",
+      "name": "Security credential strength",
+      "description": "Captures the strength of formal security credentials used to substantiate security interest.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "No security certification is mentioned."
+        },
+        {
+          "score": 2,
+          "descriptor": "Mentions a baseline credential such as Security+ that signals foundational knowledge."
+        },
+        {
+          "score": 3,
+          "descriptor": "Mentions an advanced hands-on credential such as OSCP that signals tested practical offensive skill."
+        }
+      ]
+    },
+    {
+      "evidence": "capture-the-flag participation with near-top finishes",
+      "name": "Offensive security practice",
+      "description": "Captures whether the applicant maintains adversarial thinking through recurring hands-on security practice outside ordinary development work.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "No hands-on offensive practice is mentioned."
+        },
+        {
+          "score": 2,
+          "descriptor": "Mentions occasional or casual capture-the-flag participation or similar practice."
+        },
+        {
+          "score": 3,
+          "descriptor": "Shows regular ongoing capture-the-flag participation or serious self-directed offensive practice."
+        },
+        {
+          "score": 4,
+          "descriptor": "Shows unusually strong offensive engagement through high placements, repeated serious competition, or other sustained evidence of advanced practice."
+        }
+      ]
+    },
+    {
+      "evidence": "patches upstream or maintains an open-source project",
+      "name": "Open-source stewardship",
+      "description": "Captures evidence that the applicant contributes to or maintains shared engineering infrastructure beyond their employer.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "No open-source contribution is mentioned."
+        },
+        {
+          "score": 2,
+          "descriptor": "Mentions occasional upstream fixes or one-off patches."
+        },
+        {
+          "score": 3,
+          "descriptor": "Shows regular contributions or an actively used public project."
+        },
+        {
+          "score": 4,
+          "descriptor": "Shows maintainer-level responsibility, such as reviewing contributions, setting direction, or handling releases for a project with outside users."
+        }
+      ]
+    },
+    {
+      "evidence": "replicated cache, scheduler, or rate-limiter side project",
+      "name": "Personal systems project ambition",
+      "description": "Captures how substantial and role-relevant the applicant's independent technical projects are.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "No personal project is mentioned."
+        },
+        {
+          "score": 2,
+          "descriptor": "Mentions a modest utility or simple application with limited systems depth."
+        },
+        {
+          "score": 3,
+          "descriptor": "Mentions a substantial independent build that shows backend, operational, or infrastructure thinking."
+        },
+        {
+          "score": 4,
+          "descriptor": "Mentions a complex systems or distributed project that tackles hard issues like failover, recovery, compaction, coordination, or consistency."
+        }
+      ]
+    },
+    {
+      "evidence": "3 to 7 years testing, maintaining, and launching software",
+      "name": "Professional tenure",
+      "description": "Captures the depth of post-school software experience explicitly stated in the letter.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "Roughly 2 to 3 years of experience, meeting the minimum bar but with limited time in role."
+        },
+        {
+          "score": 2,
+          "descriptor": "Roughly 4 to 5 years of experience, showing solid mid-level depth."
+        },
+        {
+          "score": 3,
+          "descriptor": "6 or more years of experience, suggesting seasoned production engineering experience."
+        }
+      ]
+    },
+    {
+      "evidence": "launched 2 to 6 production services",
+      "name": "Production scope",
+      "description": "Captures how broad the applicant's direct record of testing, maintaining, and launching production services appears.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "Only one or two launched or maintained services are mentioned, or the scope is vague."
+        },
+        {
+          "score": 2,
+          "descriptor": "Roughly three or four services are mentioned, showing repeated production ownership."
+        },
+        {
+          "score": 3,
+          "descriptor": "Five or more services are mentioned, with explicit launch, maintenance, or testing responsibility."
+        }
+      ]
+    },
+    {
+      "evidence": "Bachelor's, Master's, or Doctoral degree in computer science",
+      "name": "Degree attainment",
+      "description": "Captures the level of formal academic preparation stated in the letter.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "Bachelor's degree, equivalent experience, or no advanced degree is indicated."
+        },
+        {
+          "score": 2,
+          "descriptor": "Master's degree in a relevant technical field is indicated."
+        },
+        {
+          "score": 3,
+          "descriptor": "Doctoral degree in a relevant technical field is indicated."
+        }
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14827,
+    "output_tokens": 10147
+  }
+}

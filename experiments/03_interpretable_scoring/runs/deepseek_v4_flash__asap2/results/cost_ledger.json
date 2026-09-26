@@ -1,0 +1,11 @@
+{
+  "model": "deepseek-v4-flash",
+  "provider": "deepseek",
+  "mode": "sync",
+  "n_batched_records": 0,
+  "n_pairs": 2000,
+  "n_cached_records": 2000,
+  "input_tokens": 7194720,
+  "output_tokens": 844168,
+  "realized_usd": 2.1399892799999978
+}

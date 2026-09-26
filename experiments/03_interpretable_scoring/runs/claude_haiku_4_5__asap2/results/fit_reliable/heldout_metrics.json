@@ -1,0 +1,7 @@
+{
+  "acc": 0.935,
+  "n_train": 1600,
+  "n_test": 400,
+  "holdout_frac": 0.2,
+  "seed_split": 42
+}

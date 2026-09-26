@@ -1,0 +1,174 @@
+{
+  "n_features": 42,
+  "source": "data-informed elicitation, gpt-5.4-2026-03-05 effort=high, draw 0 of 1, 752 blind (OP, reply A, reply B) exchanges from the pooled 400 train + 800 test pairs, budget 900,000 est tokens; no outcomes shown (experiments/winning_args/feature_sample_root/elicitation_sample.py)",
+  "criteria": [
+    {
+      "name": "Topical responsiveness",
+      "definition": "How directly a reply addresses the poster's actual view rather than pivoting to meta-issues or adjacent topics."
+    },
+    {
+      "name": "Premise targeting",
+      "definition": "Whether a reply attacks the core assumption or inference supporting the view instead of focusing on side details."
+    },
+    {
+      "name": "Clarification demand",
+      "definition": "How much a reply advances the discussion by asking the poster to specify vague claims, terms, or examples."
+    },
+    {
+      "name": "Conceptual reframing",
+      "definition": "Whether a reply changes the frame of the debate by redefining the key concept or explaining that the dispute is really about something else."
+    },
+    {
+      "name": "Thought experiment",
+      "definition": "Whether a reply uses an invented scenario to test the implications or consistency of the poster's view."
+    },
+    {
+      "name": "Analogy use",
+      "definition": "How much a reply explains its point by mapping the issue onto a different familiar domain."
+    },
+    {
+      "name": "Consistency test",
+      "definition": "Whether a reply probes the poster's logic by applying it to parallel cases and checking whether the result is acceptable."
+    },
+    {
+      "name": "Reductio extension",
+      "definition": "Whether a reply undermines a view by extending it to an absurd or unacceptable conclusion."
+    },
+    {
+      "name": "Counterexample case",
+      "definition": "Whether a reply primarily challenges a general claim by presenting a concrete case that does not fit it."
+    },
+    {
+      "name": "Firsthand testimony",
+      "definition": "How much a reply relies on the writer's own experiences or preferences as evidence or illustration."
+    },
+    {
+      "name": "Stakeholder perspective",
+      "definition": "Whether a reply argues from direct membership in the affected group or a role that gives special practical exposure to the issue."
+    },
+    {
+      "name": "Empirical citation",
+      "definition": "How much a reply supports its claims with studies, data, or directly linked factual evidence."
+    },
+    {
+      "name": "Expert consensus appeal",
+      "definition": "Whether a reply leans on the agreement of qualified experts as a reason to update the view."
+    },
+    {
+      "name": "Legal mechanics",
+      "definition": "How much a reply explains the governing law, procedure, or institutional rules behind the issue."
+    },
+    {
+      "name": "Implementation realism",
+      "definition": "Whether a reply evaluates how workable a proposal would be once logistics, administration, and real-world constraints are considered."
+    },
+    {
+      "name": "Economic reasoning",
+      "definition": "How much a reply argues in terms of prices, incentives, resources, employment, or market effects."
+    },
+    {
+      "name": "Quantified argument",
+      "definition": "Whether a reply strengthens its case by attaching numerical magnitude or rates to the claims it makes."
+    },
+    {
+      "name": "Causal mechanism",
+      "definition": "Whether a reply explains the process by which one thing is supposed to produce another, rather than merely asserting a correlation or outcome."
+    },
+    {
+      "name": "Function reframing",
+      "definition": "Whether a reply challenges the view by arguing that the institution or behavior serves a different purpose than the poster assumes."
+    },
+    {
+      "name": "Use-case focus",
+      "definition": "Whether a reply argues from the specific practical situations in which the disputed thing works especially well or badly."
+    },
+    {
+      "name": "Institutional purpose",
+      "definition": "How much a reply justifies or criticizes something by appealing to the purpose of the larger system it belongs to."
+    },
+    {
+      "name": "Common-ground signaling",
+      "definition": "Whether a reply explicitly agrees with part of the poster's position before presenting disagreement."
+    },
+    {
+      "name": "Empathetic tone",
+      "definition": "Whether a reply validates the poster's feelings or perspective in a supportive way while disagreeing."
+    },
+    {
+      "name": "Motive attack",
+      "definition": "Whether a reply questions the poster's motives, sincerity, or openness instead of mainly addressing the substance of the claim."
+    },
+    {
+      "name": "Confrontational tone",
+      "definition": "How much a reply uses insult, scorn, or aggressive language toward the poster or target."
+    },
+    {
+      "name": "Humor deployment",
+      "definition": "Whether a reply uses jokes, playful phrasing, or irony as part of its persuasive approach."
+    },
+    {
+      "name": "Declared stance framing",
+      "definition": "Whether a reply explicitly frames itself as devil's advocate, partial agreement, or some other interpretive stance before arguing."
+    },
+    {
+      "name": "Epistemic caution",
+      "definition": "How much a reply qualifies its claims, notes uncertainty, or avoids overstating what it can prove."
+    },
+    {
+      "name": "Conditional reasoning",
+      "definition": "Whether a reply limits its claim to specific conditions or exceptions instead of treating the issue as all-or-nothing."
+    },
+    {
+      "name": "Abstraction level",
+      "definition": "Whether a reply operates mainly at a high-level philosophical or theoretical plane rather than a concrete one."
+    },
+    {
+      "name": "Explanatory correction",
+      "definition": "Whether a reply mainly persuades by supplying overlooked background information or correcting a misunderstanding."
+    },
+    {
+      "name": "Personal remedy suggestion",
+      "definition": "Whether a reply addresses the issue by recommending a practical step the poster could take in their own life."
+    },
+    {
+      "name": "Audience reframing",
+      "definition": "Whether a reply changes the evaluation of the thing in question by showing it was made for a different audience or goal than the poster assumes."
+    },
+    {
+      "name": "Scope challenge",
+      "definition": "Whether a reply argues that the poster's principle is too narrow to handle the full range of relevant cases."
+    },
+    {
+      "name": "Temporal horizon",
+      "definition": "Whether a reply evaluates the claim by emphasizing long-term effects rather than immediate ones, or vice versa."
+    },
+    {
+      "name": "Norm distinction",
+      "definition": "Whether a reply distinguishes between what is logically valid, socially useful, morally justified, or legally allowed rather than treating them as the same question."
+    },
+    {
+      "name": "Tradition appeal",
+      "definition": "Whether a reply supports or critiques a position by invoking established custom, continuity, or inherited social practice."
+    },
+    {
+      "name": "Privacy sensitivity",
+      "definition": "Whether a reply foregrounds the need to protect personal vulnerability, anonymity, or intimate information when evaluating the issue."
+    },
+    {
+      "name": "Collective agency framing",
+      "definition": "Whether a reply explains outcomes as the aggregate result of many individuals' choices rather than the intent of a single actor."
+    },
+    {
+      "name": "Resource referral",
+      "definition": "Whether a reply mainly tries to persuade by handing off a longer external resource instead of making the argument in the reply itself."
+    },
+    {
+      "name": "Form substance split",
+      "definition": "Whether a reply distinguishes between objection to labels, rhetoric, or presentation and objection to the underlying idea itself."
+    },
+    {
+      "name": "Meta-argumentation",
+      "definition": "Whether a reply persuades by analyzing the quality or structure of the argument itself rather than primarily debating the topic."
+    }
+  ]
+}

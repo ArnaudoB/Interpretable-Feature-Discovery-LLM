@@ -1,0 +1,120 @@
+{
+  "n_anchor": 800,
+  "n_test": 1600,
+  "n_features": 16,
+  "test_nan": 0,
+  "per_feature": [
+    {
+      "feature": "Abstract or technical framing",
+      "n_pairs": 6400,
+      "beta": -0.862,
+      "win_rate_A": 0.449,
+      "score_sd": 4.533
+    },
+    {
+      "feature": "Alternative proposal and guidance",
+      "n_pairs": 6400,
+      "beta": -0.654,
+      "win_rate_A": 0.452,
+      "score_sd": 3.584
+    },
+    {
+      "feature": "Analogical reasoning",
+      "n_pairs": 6400,
+      "beta": -0.95,
+      "win_rate_A": 0.427,
+      "score_sd": 3.853
+    },
+    {
+      "feature": "Challenger evidentiary support",
+      "n_pairs": 6400,
+      "beta": -0.822,
+      "win_rate_A": 0.453,
+      "score_sd": 4.955
+    },
+    {
+      "feature": "Challenger experiential grounding",
+      "n_pairs": 6400,
+      "beta": -0.645,
+      "win_rate_A": 0.447,
+      "score_sd": 3.949
+    },
+    {
+      "feature": "Conceptual clarification",
+      "n_pairs": 6400,
+      "beta": -2.265,
+      "win_rate_A": 0.362,
+      "score_sd": 4.471
+    },
+    {
+      "feature": "Concrete illustration",
+      "n_pairs": 6400,
+      "beta": -0.229,
+      "win_rate_A": 0.472,
+      "score_sd": 3.306
+    },
+    {
+      "feature": "Confrontational tone",
+      "n_pairs": 6400,
+      "beta": -0.006,
+      "win_rate_A": 0.497,
+      "score_sd": 3.888
+    },
+    {
+      "feature": "Consistency challenge",
+      "n_pairs": 6400,
+      "beta": -0.96,
+      "win_rate_A": 0.417,
+      "score_sd": 3.555
+    },
+    {
+      "feature": "Counterexample use",
+      "n_pairs": 6400,
+      "beta": -1.81,
+      "win_rate_A": 0.323,
+      "score_sd": 2.729
+    },
+    {
+      "feature": "Exchange empirical framing",
+      "n_pairs": 6400,
+      "beta": -1.739,
+      "win_rate_A": 0.421,
+      "score_sd": 5.833
+    },
+    {
+      "feature": "Mechanistic explanation",
+      "n_pairs": 6400,
+      "beta": -1.131,
+      "win_rate_A": 0.428,
+      "score_sd": 4.584
+    },
+    {
+      "feature": "Normative and rights appeal",
+      "n_pairs": 6400,
+      "beta": -0.607,
+      "win_rate_A": 0.465,
+      "score_sd": 4.776
+    },
+    {
+      "feature": "Practical consequences and feasibility",
+      "n_pairs": 6400,
+      "beta": -1.056,
+      "win_rate_A": 0.446,
+      "score_sd": 5.274
+    },
+    {
+      "feature": "Qualified rebuttal",
+      "n_pairs": 6400,
+      "beta": -1.604,
+      "win_rate_A": 0.33,
+      "score_sd": 2.708
+    },
+    {
+      "feature": "Structured rebuttal development",
+      "n_pairs": 6400,
+      "beta": -2.865,
+      "win_rate_A": 0.343,
+      "score_sd": 4.873
+    }
+  ]
+}

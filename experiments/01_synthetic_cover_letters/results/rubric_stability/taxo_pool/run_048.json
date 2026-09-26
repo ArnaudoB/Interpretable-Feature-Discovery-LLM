@@ -1,0 +1,686 @@
+{
+  "run": 48,
+  "picked_reps": [
+    2,
+    4,
+    6,
+    7,
+    8,
+    9,
+    14,
+    18,
+    19,
+    20,
+    23,
+    24,
+    25,
+    26,
+    28,
+    30,
+    34,
+    35,
+    37,
+    38,
+    41,
+    42,
+    43,
+    45,
+    47,
+    48,
+    49
+  ],
+  "n_pooled_features": 523,
+  "n_features": 25,
+  "validation": {
+    "n_input": 523,
+    "n_placed": 523,
+    "n_unplaced": 0,
+    "n_duplicate_members": 0,
+    "n_invented_indices": 0,
+    "n_name_mismatches": 0
+  },
+  "features": [
+    {
+      "name": "Academic attainment",
+      "description": "The highest formal technical education or degree level the applicant presents as preparation for the role.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "Bachelor's degree or equivalent practical background only."
+        },
+        {
+          "score": 2,
+          "descriptor": "Master's degree in computer science or a related technical field."
+        },
+        {
+          "score": 3,
+          "descriptor": "Doctoral degree in computer science or a related technical field."
+        }
+      ],
+      "n_members": 26,
+      "n_runs": 26,
+      "medoid_name": "Academic attainment"
+    },
+    {
+      "name": "Agentic systems design",
+      "description": "Direct design ownership of agent-based systems, including how autonomy is bounded, supervised, or integrated with backend control infrastructure.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "No agent-based tooling experience is shown."
+        },
+        {
+          "score": 2,
+          "descriptor": "The letter mentions agents or autonomous workflows only in general terms."
+        },
+        {
+          "score": 3,
+          "descriptor": "The letter describes a recognizable agent architecture, typically pairing Python agents with Go services."
+        },
+        {
+          "score": 4,
+          "descriptor": "The letter shows deliberate control design for agents, such as permissions, auditability, bounded actions, or explicit end-to-end ownership."
+        }
+      ],
+      "n_members": 28,
+      "n_runs": 27,
+      "medoid_name": "Agentic systems design"
+    },
+    {
+      "name": "Algorithmic problem solving",
+      "description": "Evidence of practical fluency with data structures and algorithms applied to real engineering problems.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "No algorithmic strength is mentioned."
+        },
+        {
+          "score": 2,
+          "descriptor": "Claims strong data-structure or algorithm knowledge, but without a concrete example."
+        },
+        {
+          "score": 3,
+          "descriptor": "Gives at least one concrete example of improving a system through better algorithm or data-structure choice."
+        },
+        {
+          "score": 4,
+          "descriptor": "Uses a specific, nontrivial example to show strong algorithmic judgment and a meaningful systems improvement."
+        }
+      ],
+      "n_members": 27,
+      "n_runs": 27,
+      "medoid_name": "Algorithmic problem-solving"
+    },
+    {
+      "name": "Applied AI production experience",
+      "description": "The extent of hands-on experience shipping AI-enabled systems in production, especially with attention to reliability, evaluation, or guardrails.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "No AI experience is mentioned."
+        },
+        {
+          "score": 2,
+          "descriptor": "Mentions AI or LLM exposure without concrete deployment detail."
+        },
+        {
+          "score": 3,
+          "descriptor": "Describes shipped AI features or workflows in production."
+        },
+        {
+          "score": 4,
+          "descriptor": "Describes shipped AI work plus evaluation, hardening, guardrails, or trustworthiness practices."
+        }
+      ],
+      "n_members": 27,
+      "n_runs": 27,
+      "medoid_name": "AI production maturity"
+    },
+    {
+      "name": "Collaboration posture",
+      "description": "The applicant's willingness and humility to partner closely with security specialists and other internal stakeholders.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "Does not mention collaboration with security partners."
+        },
+        {
+          "score": 2,
+          "descriptor": "Implies support for other engineers, but not specifically partnership with security specialists."
+        },
+        {
+          "score": 3,
+          "descriptor": "Explicitly states readiness to work with security engineers or build for their workflows."
+        },
+        {
+          "score": 4,
+          "descriptor": "Shows explicit partnership mindset plus concrete evidence of learning from, serving, or collaborating with security specialists."
+        }
+      ],
+      "n_members": 3,
+      "n_runs": 3,
+      "medoid_name": "Security-partner orientation"
+    },
+    {
+      "name": "Developer enablement philosophy",
+      "description": "Whether the letter frames security engineering as helping developers through better defaults, lower friction, and user-centered tooling.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "Does not address developer experience or frames security mainly as control."
+        },
+        {
+          "score": 2,
+          "descriptor": "Shows general willingness to work with developers."
+        },
+        {
+          "score": 3,
+          "descriptor": "Explicitly emphasizes reducing friction or making secure behavior easier for developers."
+        },
+        {
+          "score": 4,
+          "descriptor": "Makes developer enablement a central security philosophy and ties examples to that philosophy."
+        }
+      ],
+      "n_members": 24,
+      "n_runs": 24,
+      "medoid_name": "Developer enablement mindset"
+    },
+    {
+      "name": "Evidence specificity",
+      "description": "How concretely the letter supports claims with specific examples, mechanisms, scope, or technical detail.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "Mostly offers generic assertions or checklist-style requirement matching."
+        },
+        {
+          "score": 2,
+          "descriptor": "Provides some specifics, but major claims remain abstract or unsubstantiated."
+        },
+        {
+          "score": 3,
+          "descriptor": "Gives several concrete, role-relevant examples showing what was built or changed."
+        },
+        {
+          "score": 4,
+          "descriptor": "Repeatedly backs claims with precise mechanisms, context, and outcomes that make the applicant's contribution easy to picture."
+        }
+      ],
+      "n_members": 22,
+      "n_runs": 22,
+      "medoid_name": "Evidence specificity"
+    },
+    {
+      "name": "Go fluency",
+      "description": "How central and substantial Go appears in the applicant's professional engineering work.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "No meaningful Go evidence."
+        },
+        {
+          "score": 2,
+          "descriptor": "Mentions Go, but without clear depth or ownership."
+        },
+        {
+          "score": 3,
+          "descriptor": "Shows regular production use of Go in recent work."
+        },
+        {
+          "score": 4,
+          "descriptor": "Makes Go clearly central, such as a principal language or daily driver tied to sustained backend ownership."
+        }
+      ],
+      "n_members": 12,
+      "n_runs": 12,
+      "medoid_name": "Go depth"
+    },
+    {
+      "name": "Impact articulation",
+      "description": "How clearly the letter states the outcomes or effects of the applicant's work, not just responsibilities or technologies.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "The letter relies mostly on broad claims of fit, skill, or interest without outcomes."
+        },
+        {
+          "score": 2,
+          "descriptor": "The letter gives some concrete examples of work, but the effect on users, systems, or teams is unclear."
+        },
+        {
+          "score": 3,
+          "descriptor": "The letter ties accomplishments to visible improvements, such as faster systems, cleaner queues, or reduced manual work."
+        },
+        {
+          "score": 4,
+          "descriptor": "The letter gives specific accomplishments plus clear operational or organizational outcomes, ideally quantified or sharply contrasted with the prior state."
+        }
+      ],
+      "n_members": 8,
+      "n_runs": 8,
+      "medoid_name": "impact specificity"
+    },
+    {
+      "name": "Narrative coherence",
+      "description": "Whether the letter forms a connected story or career arc rather than a disconnected list of claims.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "The letter reads like disconnected bullets, fragments, or stacked claims."
+        },
+        {
+          "score": 2,
+          "descriptor": "The letter has some structure, but transitions or the overall arc are uneven."
+        },
+        {
+          "score": 3,
+          "descriptor": "The letter coherently links background, technical experience, and interest in the role."
+        },
+        {
+          "score": 4,
+          "descriptor": "The letter presents an especially well-shaped narrative that makes the applicant's trajectory and fit feel natural."
+        }
+      ],
+      "n_members": 6,
+      "n_runs": 5,
+      "medoid_name": "Narrative cohesion"
+    },
+    {
+      "name": "Narrative distinctiveness",
+      "description": "Whether the letter has a memorable voice, opening, or organizing thesis rather than sounding generic.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "The letter reads like an interchangeable template or a flat list of qualifications."
+        },
+        {
+          "score": 2,
+          "descriptor": "The letter is competent but generic, with limited individuality in framing or voice."
+        },
+        {
+          "score": 3,
+          "descriptor": "The letter has a distinctive opening, viewpoint, or sustained framing device."
+        },
+        {
+          "score": 4,
+          "descriptor": "The letter is memorable and cohesive, with a clear throughline linking the opening idea, past work, and motivation for this role."
+        }
+      ],
+      "n_members": 11,
+      "n_runs": 11,
+      "medoid_name": "Narrative distinctiveness"
+    },
+    {
+      "name": "Offensive security practice",
+      "description": "Ongoing attacker-oriented practice outside ordinary development work, such as CTFs or similar exercises.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "No offensive-practice evidence is mentioned."
+        },
+        {
+          "score": 2,
+          "descriptor": "Mentions casual or occasional participation with little detail."
+        },
+        {
+          "score": 3,
+          "descriptor": "Shows regular participation presented as deliberate skill maintenance."
+        },
+        {
+          "score": 4,
+          "descriptor": "Shows strong results or serious competitive commitment that signals sustained offensive practice."
+        }
+      ],
+      "n_members": 27,
+      "n_runs": 27,
+      "medoid_name": "Offensive security practice"
+    },
+    {
+      "name": "Open-source stewardship",
+      "description": "Responsibility for contributing to or maintaining software used outside the applicant's employer or immediate team.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "No open-source activity is mentioned."
+        },
+        {
+          "score": 2,
+          "descriptor": "Mentions occasional patches or minor contributions."
+        },
+        {
+          "score": 3,
+          "descriptor": "Shows regular contributions or maintainership of a small project."
+        },
+        {
+          "score": 4,
+          "descriptor": "Maintains a project with outside users or community responsibilities such as reviews, releases, issue handling, or roadmap decisions."
+        }
+      ],
+      "n_members": 27,
+      "n_runs": 27,
+      "medoid_name": "Open-source stewardship"
+    },
+    {
+      "name": "Personal project ambition",
+      "description": "The technical ambition, rigor, and self-directedness of projects built outside formal work.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "No personal project is mentioned."
+        },
+        {
+          "score": 2,
+          "descriptor": "The project mentioned is small and mainly serves as lightweight practice or curiosity."
+        },
+        {
+          "score": 3,
+          "descriptor": "The project shows substantial self-directed engineering with meaningful system design or operational concerns."
+        },
+        {
+          "score": 4,
+          "descriptor": "The project is an ambitious systems build that tackles hard distributed-systems, storage, or reliability problems."
+        }
+      ],
+      "n_members": 27,
+      "n_runs": 27,
+      "medoid_name": "Personal project ambition"
+    },
+    {
+      "name": "Platform leverage orientation",
+      "description": "Motivation for foundational infrastructure or tooling whose benefits compound across many teams or products.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "No platform or foundational orientation is expressed."
+        },
+        {
+          "score": 2,
+          "descriptor": "Shows a general desire for impact or infrastructure work, but not strongly."
+        },
+        {
+          "score": 3,
+          "descriptor": "Clearly expresses a preference for foundational or central platform work."
+        },
+        {
+          "score": 4,
+          "descriptor": "Makes downstream leverage a primary career motive and connects prior choices to that preference."
+        }
+      ],
+      "n_members": 23,
+      "n_runs": 23,
+      "medoid_name": "platform leverage orientation"
+    },
+    {
+      "name": "Production delivery track record",
+      "description": "The breadth and depth of hands-on responsibility the applicant shows for testing, maintaining, launching, and operating real production software systems.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "Only one or two launched or maintained services are mentioned, or the scope is vague."
+        },
+        {
+          "score": 2,
+          "descriptor": "Roughly three or four services are mentioned, showing repeated production ownership."
+        },
+        {
+          "score": 3,
+          "descriptor": "Five or more services are mentioned, with explicit launch, maintenance, or testing responsibility."
+        }
+      ],
+      "n_members": 26,
+      "n_runs": 26,
+      "medoid_name": "Production scope"
+    },
+    {
+      "name": "Python depth",
+      "description": "How concretely and seriously the letter shows Python as a real production language for services, tooling, automation, or agents.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "Python is absent or appears only incidentally."
+        },
+        {
+          "score": 2,
+          "descriptor": "Python is mentioned as a tool or companion language, but depth is unclear."
+        },
+        {
+          "score": 3,
+          "descriptor": "The letter shows regular production Python use for tooling, automation, prototypes, or services."
+        },
+        {
+          "score": 4,
+          "descriptor": "Python is portrayed as a major production language with broad, concrete use across services, automation, and agent behavior."
+        }
+      ],
+      "n_members": 27,
+      "n_runs": 27,
+      "medoid_name": "Python depth"
+    },
+    {
+      "name": "Relevant software tenure",
+      "description": "The amount of directly relevant professional software-engineering time the applicant claims.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "Below the role minimum or unclear on relevant experience length."
+        },
+        {
+          "score": 2,
+          "descriptor": "Roughly meets the minimum, around 2 to 3 years of relevant experience."
+        },
+        {
+          "score": 3,
+          "descriptor": "Shows solid mid-level experience, around 4 to 5 years."
+        },
+        {
+          "score": 4,
+          "descriptor": "Shows strong experience depth, around 6 or more years."
+        }
+      ],
+      "n_members": 14,
+      "n_runs": 14,
+      "medoid_name": "Relevant software tenure"
+    },
+    {
+      "name": "Reliability and maintainer mindset",
+      "description": "Emphasis on rigor, maintainability, careful operation, testing, resilience, and long-term ownership over pure feature shipping.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "Shows little sign of care for maintainability, testing, or long-term operation."
+        },
+        {
+          "score": 2,
+          "descriptor": "Mentions maintenance or correctness only generically."
+        },
+        {
+          "score": 3,
+          "descriptor": "Explicitly emphasizes dependable systems, careful engineering, or maintainer habits."
+        },
+        {
+          "score": 4,
+          "descriptor": "Shows multiple reinforcing signals such as typed or tested tooling, careful releases, production standards, or pride in quiet reliability."
+        }
+      ],
+      "n_members": 14,
+      "n_runs": 14,
+      "medoid_name": "Reliability mindset"
+    },
+    {
+      "name": "Role-specific fit and motivation",
+      "description": "How specifically and convincingly the letter explains why this exact role or team fits the applicant's background, interests, and mission.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "The motivation is formulaic and could fit almost any software-engineering application."
+        },
+        {
+          "score": 2,
+          "descriptor": "The letter shows some interest in security or Google, but the rationale is still fairly generic."
+        },
+        {
+          "score": 3,
+          "descriptor": "The letter gives clear, role-relevant motivation tied to the team's mission, working model, or problem space."
+        },
+        {
+          "score": 4,
+          "descriptor": "The letter gives memorable, well-tailored motivation that shows the applicant has thought specifically about this team's security-automation challenge."
+        }
+      ],
+      "n_members": 16,
+      "n_runs": 15,
+      "medoid_name": "Role-specific motivation"
+    },
+    {
+      "name": "Security assessment practice",
+      "description": "The depth of hands-on experience assessing systems for security weaknesses and following findings through remediation.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "No security assessment work is mentioned."
+        },
+        {
+          "score": 2,
+          "descriptor": "Mentions security reviews or assessments only in general terms."
+        },
+        {
+          "score": 3,
+          "descriptor": "Describes concrete assessment work such as threat models, design reviews, or attack-surface analysis."
+        },
+        {
+          "score": 4,
+          "descriptor": "Shows repeated, substantive assessment work with follow-through such as documented findings, remediation validation, or attacker-style code reading."
+        }
+      ],
+      "n_members": 27,
+      "n_runs": 27,
+      "medoid_name": "Security assessment practice"
+    },
+    {
+      "name": "Security automation insight",
+      "description": "Understanding of the role as a systems problem of scaling scarce security expertise through automation and security-at-scale tooling.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "The letter shows little understanding of the specific security problem this team solves."
+        },
+        {
+          "score": 2,
+          "descriptor": "The letter shows general interest in security engineering, but mostly at a broad level."
+        },
+        {
+          "score": 3,
+          "descriptor": "The letter clearly articulates goals like reducing manual security work or making the secure path easier for developers."
+        },
+        {
+          "score": 4,
+          "descriptor": "The letter shows nuanced insight into bottlenecks such as scarce expert attention, vulnerability triage, lifecycle embedding, bounded agents, or similar operational realities."
+        }
+      ],
+      "n_members": 16,
+      "n_runs": 16,
+      "medoid_name": "Security automation insight"
+    },
+    {
+      "name": "Security credential strength",
+      "description": "The presence and rigor of formal external security certifications or credentials.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "No relevant security certification is stated."
+        },
+        {
+          "score": 2,
+          "descriptor": "A baseline or survey credential such as Security+ is stated."
+        },
+        {
+          "score": 3,
+          "descriptor": "A rigorous hands-on credential such as OSCP or a similarly demanding practical certification is stated."
+        }
+      ],
+      "n_members": 27,
+      "n_runs": 27,
+      "medoid_name": "Security credential strength"
+    },
+    {
+      "name": "Vulnerability triage automation",
+      "description": "Experience automating vulnerability-report intake, classification, routing, deduplication, prioritization, or related security workflows.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "No past vulnerability-handling automation is mentioned."
+        },
+        {
+          "score": 2,
+          "descriptor": "The letter expresses interest in this problem, but gives no concrete example of having automated it."
+        },
+        {
+          "score": 3,
+          "descriptor": "A concrete example of triage, intake, routing, or report-handling automation is described."
+        },
+        {
+          "score": 4,
+          "descriptor": "The letter shows strong end-to-end automation of vulnerability handling, with clear workflow transformation or operational value."
+        }
+      ],
+      "n_members": 27,
+      "n_runs": 27,
+      "medoid_name": "Vulnerability automation"
+    },
+    {
+      "name": "Writing polish",
+      "description": "The surface professionalism and readability of the letter, including spelling, grammar, proofreading, and copy accuracy.",
+      "levels": [
+        {
+          "score": 1,
+          "descriptor": "Frequent errors, misspellings, or naming mistakes noticeably distract from the application."
+        },
+        {
+          "score": 2,
+          "descriptor": "Several noticeable errors appear, but the letter remains readable."
+        },
+        {
+          "score": 3,
+          "descriptor": "Mostly clean writing with only minor slips."
+        },
+        {
+          "score": 4,
+          "descriptor": "Polished, professional, and essentially error-free throughout."
+        }
+      ],
+      "n_members": 26,
+      "n_runs": 26,
+      "medoid_name": "Writing polish"
+    }
+  ],
+  "other": {
+    "name": "Other",
+    "description": "Idiosyncratic or sparsely recurring constructs that do not fit the larger shared criteria, such as extra language breadth, generic security reasoning, or claimed autonomy level.",
+    "levels": [
+      {
+        "score": 1,
+        "descriptor": "No additional languages are mentioned."
+      },
+      {
+        "score": 2,
+        "descriptor": "Mentions 1 to 2 additional languages."
+      },
+      {
+        "score": 3,
+        "descriptor": "Mentions 3 to 5 additional languages."
+      },
+      {
+        "score": 4,
+        "descriptor": "Mentions more than 5 additional languages."
+      }
+    ],
+    "n_members": 5,
+    "n_runs": 5,
+    "medoid_name": "Language breadth"
+  },
+  "usage": {
+    "input_tokens": 17318,
+    "output_tokens": 26237
+  }
+}

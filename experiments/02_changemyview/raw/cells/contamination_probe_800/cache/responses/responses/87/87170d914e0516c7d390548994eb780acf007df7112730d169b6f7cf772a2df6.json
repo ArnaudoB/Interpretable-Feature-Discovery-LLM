@@ -1,0 +1,1 @@
+{"request_hash": "87170d914e0516c7d390548994eb780acf007df7112730d169b6f7cf772a2df6", "custom_id": "p2:heldout_delta_p_3575", "model": "gpt-5.4-mini-2026-03-17", "endpoint": "/v1/responses", "text": "{\"changed_view\":\"yes\"}", "usage": {"input_tokens": 798, "output_tokens": 14}, "source": "realtime", "batch_id": null, "error": null}

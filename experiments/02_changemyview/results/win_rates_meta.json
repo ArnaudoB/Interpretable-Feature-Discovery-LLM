@@ -1,0 +1,12 @@
+{
+  "n_criteria": 29,
+  "n_pairs": 800,
+  "n_significant_bh05": 19,
+  "all_significant_are_positive": true,
+  "length_reference_win_rate": 0.593125,
+  "cells": [
+    "pointwise_discovered_full",
+    "pointwise_dropped_full"
+  ],
+  "note": "ties split; 95% Wald intervals; BH across all criteria"
+}

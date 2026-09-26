@@ -1,0 +1,62 @@
+{
+  "n_features": 14,
+  "source": "REPEAT measurement, bundle B of 2 (seed 7)",
+  "criteria": [
+    {
+      "name": "Consistency challenge",
+      "definition": "The reply pressures the OP by showing that their own standard, principle, or rule yields inconsistency or self-undermining conclusions."
+    },
+    {
+      "name": "Confrontational tone",
+      "definition": "The reply relies on combative, loaded, mocking, or emotionally aggressive rhetoric."
+    },
+    {
+      "name": "Alternative proposal and guidance",
+      "definition": "The challenger offers concrete substitute policies, remedies, or practical steps instead of only criticizing."
+    },
+    {
+      "name": "Structured rebuttal development",
+      "definition": "The challenger builds an organized, multi-step, or multi-pronged case rather than a single bare point."
+    },
+    {
+      "name": "Concrete illustration",
+      "definition": "The argument makes its case through specific, vivid, or worked-through examples rather than abstraction alone."
+    },
+    {
+      "name": "Concessionary rebuttal",
+      "definition": "The challenger softens resistance by explicitly granting part of the OP's point before disagreeing."
+    },
+    {
+      "name": "Scope broadening",
+      "definition": "The exchange expands or contracts the discussion by moving between narrow cases and wider principles or issue areas."
+    },
+    {
+      "name": "Conceptual clarification",
+      "definition": "The challenger disputes definitions, categories, meanings, or criteria in order to reframe the disagreement."
+    },
+    {
+      "name": "Audience tailoring",
+      "definition": "The challenger tailors the argument to particular subgroups, audiences, or the OP's specific situation."
+    },
+    {
+      "name": "Rhetorical vividness",
+      "definition": "The argument uses especially vivid phrasing, storytelling, or memorable imagery to make the point stick."
+    },
+    {
+      "name": "Analogical reasoning",
+      "definition": "The argument persuades by comparing the case to parallel real or hypothetical cases, including extended analogies and thought experiments."
+    },
+    {
+      "name": "Historical framing and legacy",
+      "definition": "The argument appeals to historical context, precedent, innovation, or long-run cultural legacy."
+    },
+    {
+      "name": "Counterexample use",
+      "definition": "The challenger undermines the OP with exceptions, alternative cases, or edge-case scenarios that break the generalization."
+    },
+    {
+      "name": "Mechanistic explanation",
+      "definition": "The challenger explains or critiques the causal mechanism by which the disputed outcome would arise."
+    }
+  ]
+}

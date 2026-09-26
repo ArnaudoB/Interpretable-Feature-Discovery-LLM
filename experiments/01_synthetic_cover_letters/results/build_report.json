@@ -1,0 +1,17 @@
+{
+  "n_letters": 200,
+  "n_matchings": 40,
+  "n_pairs": 4000,
+  "seed": 42,
+  "n_duplicate_pairs": 0,
+  "n_self_pairs": 0,
+  "graph": {
+    "regular": true,
+    "connected": true,
+    "deg_min": 40,
+    "deg_max": 40,
+    "components": 1,
+    "fiedler": 28.989866538970734
+  },
+  "all_ok": true
+}

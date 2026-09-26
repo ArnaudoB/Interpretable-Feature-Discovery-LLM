@@ -1,0 +1,27 @@
+{
+  "rho_min": 0.5,
+  "kappa_max": 100.0,
+  "K_before": 17,
+  "K_after": 6,
+  "kept": [
+    "Source Evidence Integration",
+    "Reasoning and Elaboration",
+    "Conventions and Mechanics",
+    "Thesis and Stance",
+    "Cohesion and Transitions",
+    "Focus and Task Relevance"
+  ],
+  "dropped": [
+    "Structural Organization",
+    "Counterargument and Nuance",
+    "Sentence Fluency and Syntax",
+    "Academic Tone and Register",
+    "Paragraph Development",
+    "Rhetorical Engagement",
+    "Introduction and Framing",
+    "Originality of Thought",
+    "Vocabulary and Style",
+    "Conclusion",
+    "Source Accuracy"
+  ]
+}

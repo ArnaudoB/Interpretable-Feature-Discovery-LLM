@@ -1,0 +1,1 @@
+{"request_hash": "049ffe74e65907c1b19cce20f23121b731234512d909f0baea33004b22cc68d5", "custom_id": "rubric:elicit", "model": "gpt-5.4-2026-03-05", "endpoint": "/v1/responses", "text": "", "usage": {"input_tokens": 14964, "output_tokens": 10000}, "source": "realtime", "batch_id": null, "error": null}

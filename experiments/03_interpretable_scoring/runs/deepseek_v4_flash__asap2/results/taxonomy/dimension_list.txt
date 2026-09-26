@@ -1,0 +1,506 @@
+[0] academic language control (cited 4x): Essay A demonstrates more mature vocabulary and sentence variety appropriate to argumentative writing, whereas Essay B relies on simpler, more repetitive phrasing.
+[1] academic register (cited 15x): The essay maintains a formal, school-appropriate tone appropriate for argumentative writing.
+[2] academic tone (cited 10x): The essay sustains a school-appropriate argumentative voice rather than slipping into casual slang and conversational asides.
+[3] accurate interpretation of source (cited 3x): The essay does not distort or overgeneralize article details, whereas Essay B misrepresents the 25 mph figure as a blanket speed limit.
+[4] accurate source integration (cited 6x): Quoted material is correctly attributed and woven into the writer's own prose to support the argument.
+[5] accurate source use (cited 9x): The essay represents the source material faithfully rather than misreading or overgeneralizing what the article says.
+[6] accurate use of source evidence (cited 10x): The essay integrates specific, correctly represented facts from the article to support its claims.
+[7] accurate use of source material (cited 4x): The essay correctly represents the article's content in service of its argument, whereas Essay B misquotes and distorts source details.
+[8] acknowledgment of complexity (cited 5x): The essay recognizes the issue has two sides before committing to a position, showing more mature argumentation.
+[9] acknowledgment of counterargument (cited 6x): The essay briefly concedes the appeal of driverless cars before restating why the risks outweigh the benefits, strengthening the persuasiveness of the argument.
+[10] acknowledgment of counterarguments (cited 7x): The essay anticipates and responds to a potential objection to its position, strengthening its persuasiveness.
+[11] acknowledgment of opposing considerations (cited 8x): The essay engages with potential objections and explains why the technology still addresses them.
+[12] acknowledgment of opposing view (cited 3x): Essay A briefly concedes the potential benefits of driverless cars before rebutting them, showing more balanced reasoning than Essay B.
+[13] advanced academic language (cited 4x): The essay demonstrates a mature command of formal, academic diction and syntax appropriate to persuasive writing.
+[14] analogical reasoning (cited 4x): The essay strengthens its risk argument by drawing a concrete parallel to a real-world technological failure.
+[15] analytical commentary (cited 4x): The essay moves beyond restating source material to offer its own interpretation and reasoning about the implications.
+[16] analytical depth (cited 41x): The essay pushes beyond surface claims to examine consequences and complications, such as the legal and accountability problems raised by driverless cars.
+[17] analytical reasoning (cited 80x): The essay moves beyond restating facts to draw logical inferences about the implications and contradictions of the technology.
+[18] analytical use of evidence (cited 4x): The essay does more than cite the source; it interprets and draws reasoned inferences from the article's details to support its position.
+[19] appropriate academic register (cited 5x): The essay sustains a serious, school-appropriate voice suited to argumentative writing rather than casual conversational musing.
+[20] appropriate academic tone (cited 5x): The essay sustains a formal, controlled register suitable for argumentative writing rather than slipping into casual or colloquial language.
+[21] appropriate register (cited 5x): The essay maintains a school-appropriate argumentative voice rather than the informal, chatty tone found in Essay A.
+[22] appropriate tone (cited 7x): The essay maintains a measured, persuasive register rather than resorting to exaggerated emotional appeals.
+[23] argument development (cited 77x): The essay elaborates each supporting reason with explanation and consequence rather than merely asserting it.
+[24] argumentative breadth (cited 7x): The essay advances several distinct, developed reasons against driverless cars rather than restating a single idea.
+[25] argumentative coherence (cited 26x): The essay presents a focused, logically connected set of reasons against driverless cars that build toward a clear position.
+[26] argumentative control (cited 7x): The essay maintains disciplined focus on its thesis, supporting each point with relevant evidence rather than drifting into speculation.
+[27] argumentative depth (cited 24x): The essay pushes its argument into wider implications, showing independent critical thinking beyond the source text.
+[28] argumentative development (cited 36x): The essay builds a coherent, multi-point case with each reason developed in its own paragraph rather than loosely repeating a single idea.
+[29] argumentative engagement (cited 5x): The essay actively argues a position by posing and reasoning through consequential questions rather than merely restating source text.
+[30] argumentative focus (cited 17x): The essay stays on task arguing the assigned topic instead of digressing into personal narrative.
+[31] argumentative framing (cited 3x): The essay establishes a clear overarching thesis that unifies its supporting points into a single persuasive stance.
+[32] argumentative nuance (cited 4x): The essay presents a qualified, balanced position that anticipates conditions and counterpoints rather than making an unqualified claim.
+[33] argumentative purpose (cited 4x): Essay B argues a case while Essay A largely paraphrases the article without advancing a position.
+[34] argumentative reasoning (cited 5x): Essay A attempts to build a case by linking human driving failures to the need for driverless technology, while Essay B merely poses unanswered hypothetical worries.
+[35] argumentative stance (cited 9x): Essay B takes and defends a position using the article's content, whereas Essay A mostly critiques the article's completeness instead of constructing its own argument.
+[36] argumentative structure (cited 14x): The essay sustains a coherent line of reasoning across introduction, body, and conclusion, with each paragraph advancing the position.
+[37] argumentative substance (cited 3x): The essay makes a substantive, evidence-based case rather than relying on enthusiasm and personal preference.
+[38] audience awareness (cited 4x): The essay connects its argument to the reader's experience and broader social concerns, making the position more persuasive and engaging.
+[39] authorial voice (cited 4x): The essay conveys a clear writer perspective that guides the reader through the argument.
+[40] avoidance of redundancy (cited 4x): Essay A avoids the repetitive restatement of claims that weakens Essay B's argumentative progression.
+[41] balanced argumentation (cited 37x): The essay considers opposing viewpoints and systematically addresses them rather than presenting a one-sided assertion.
+[42] balanced consideration (cited 36x): The essay acknowledges legitimate benefits of the technology while still defending its position, showing nuanced rather than one-sided thinking.
+[43] balanced consideration of both sides (cited 20x): The essay weighs positive and negative aspects rather than taking a one-sided stance.
+[44] balanced consideration of counterarguments (cited 32x): The essay weighs opposing viewpoints before committing to a position, showing more nuanced reasoning.
+[45] balanced consideration of counterpoints (cited 11x): The essay recognizes limitations of the technology while still supporting it, showing more nuanced thinking than Essay B's one-sided rejection.
+[46] balanced consideration of opposing viewpoints (cited 5x): The essay weighs both positive and negative aspects of driverless cars rather than presenting a one-sided argument.
+[47] balanced consideration of opposing views (cited 47x): The essay acknowledges strengths of driverless cars while developing counterarguments, showing more thorough reasoning.
+[48] balanced counterargument awareness (cited 3x): Essay A acknowledges opposing considerations and addresses them within its argument, whereas Essay B presents only one-sided assertions without engaging counterpoints.
+[49] balanced counterargument consideration (cited 7x): Essay A genuinely weighs opposing considerations and returns to its thesis, while Essay B's concession is brief and underdeveloped.
+[50] balanced counterargument handling (cited 10x): The essay concedes the opposing view's appeal before dismantling it, strengthening the persuasiveness of its own position.
+[51] balanced reasoning (cited 20x): Essay A weighs opposing considerations and justifies its position, whereas Essay B raises a question about fault but never resolves or integrates it into a reasoned stance.
+[52] breadth of argument (cited 8x): The essay considers a wider range of implications and consequences of driverless cars rather than repeating a single line of reasoning.
+[53] broader contextual framing (cited 11x): The essay elevates the argument by connecting driverless cars to larger societal and national concerns.
+[54] broader contextual reasoning (cited 4x): The essay extends its argument beyond the immediate topic to consider larger stakes, strengthening the persuasive appeal.
+[55] broader implications (cited 5x): Essay A frames the argument in terms of societal benefit and progress, giving the essay a wider significance beyond personal safety concerns.
+[56] broader significance (cited 3x): The essay extends its argument to wider societal and national implications, giving the position greater weight.
+[57] causal reasoning (cited 78x): The essay develops logical chains connecting technological failure and human inattention to potential accidents, building a coherent case.
+[58] clarity of expression (cited 28x): The essay communicates its ideas in straightforward, understandable sentences, while the other essay's errors interfere with comprehension.
+[59] clear and consistent thesis (cited 4x): The essay presents a definite position up front and sustains it across the whole piece, giving the argument coherence.
+[60] clear and sustained position (cited 4x): The essay states its stance upfront and keeps the argument focused on that position across introduction, body, and conclusion.
+[61] clear argumentative position (cited 3x): The essay takes and maintains a coherent stance on driverless cars rather than merely summarizing the source text.
+[62] clear argumentative structure (cited 44x): The essay presents a clear thesis and develops each supporting point in its own organized paragraph with a conclusion that reinforces the position.
+[63] clear authorial stance (cited 3x): The essay maintains a consistent, clearly stated position throughout and connects each point back to its overall advocacy.
+[64] clear authorial voice (cited 3x): The essay sustains a clear personal position throughout while grounding it in developed arguments.
+[65] clear consistent position (cited 9x): The essay commits to a single stance and sustains it from introduction through conclusion.
+[66] clear essay structure (cited 3x): Essay A has a discernible introduction, body, and conclusion that advance the argument, while Essay B is loosely organized and repetitive.
+[67] clear organizational structure (cited 37x): The essay follows a recognizable argumentative structure with an introduction, body paragraphs each devoted to one reason, and a conclusion that restates the position.
+[68] clear position (cited 59x): The essay takes an unambiguous stance on driverless cars and sustains it rather than hedging between both sides.
+[69] clear position and argumentative stance (cited 8x): Essay A takes and maintains a discernible position on driverless cars, whereas Essay B merely strings together fragments from the source article without asserting any viewpoint.
+[70] clear position and argumentative structure (cited 5x): Essay A states a definite stance and builds a coherent argument around it, whereas Essay B never commits to a clear position on driverless cars.
+[71] clear position and coherent argument (cited 5x): The essay maintains a consistent, clearly stated stance throughout and builds a connected argument around it.
+[72] clear position and focus (cited 13x): Essay B states its stance upfront and maintains a coherent, single-line argument, whereas Essay A wanders across unrelated topics.
+[73] clear position and structure (cited 6x): The essay states its position explicitly, addresses opposing views, and returns to its thesis, giving it a recognizable argumentative arc.
+[74] clear position and sustained argument (cited 4x): Essay A takes an explicit stance and develops it with multiple supporting reasons, whereas Essay B mostly restates fragments from the article without taking or defending a position.
+[75] clear position and thesis (cited 13x): Essay A maintains a coherent argumentative stance throughout, while Essay B mostly summarizes the article without taking a clear position.
+[76] clear position statement (cited 45x): The essay maintains a consistent, explicit stance throughout that the reader can easily follow.
+[77] clear position with textual support (cited 4x): Essay A commits to a definite stance and anchors each body paragraph in concrete evidence quoted from the source article.
+[78] clear position-taking (cited 4x): The essay commits firmly to a stance rather than circling around uncertainty about what to believe.
+[79] clear sustained position (cited 88x): The essay maintains a consistent, clearly stated argumentative stance from introduction through conclusion.
+[80] clear sustained thesis (cited 5x): The essay maintains a consistent, explicit position throughout its introduction, body, and conclusion.
+[81] clear thesis and argumentative structure (cited 4x): Essay A presents a direct, sustained position with organized supporting reasons, whereas Essay B mostly summarizes the article without taking a clear stance.
+[82] clear thesis and consistent stance (cited 4x): The essay opens with an unambiguous position and every subsequent point supports that stance.
+[83] clear thesis and focus (cited 15x): The essay maintains a consistent, clearly stated argumentative position from introduction through conclusion.
+[84] clear thesis and framing (cited 4x): Essay A establishes a nuanced, clearly stated position up front and returns to it throughout, while Essay B's stance is muddled and shifts between economic and safety concerns.
+[85] clear thesis and organization (cited 22x): Essay B presents a focused argument with a structured introduction, body, and conclusion, while Essay A meanders through questions without a clear stance.
+[86] clear thesis and organized structure (cited 3x): The essay presents a focused, upfront position and organizes supporting arguments into coherent paragraphs that each develop a single reason.
+[87] clear thesis and position (cited 12x): Essay B presents an explicit, identifiable stance early on, whereas Essay A never states a position for or against driverless cars.
+[88] clear thesis and stance (cited 19x): The essay maintains a consistent, explicit position throughout that frames the entire argument.
+[89] clear thesis and structure (cited 7x): The essay presents an explicit position up front and develops it through organized, topic-driven body paragraphs.
+[90] clear thesis and sustained argument (cited 3x): Essay B takes an explicit, consistent position and develops it throughout with supporting reasons, whereas Essay A mostly summarizes the article without taking a clear stance.
+[91] clear thesis and sustained position (cited 7x): The essay announces its stance up front and maintains it consistently throughout, giving the argument a clear through-line.
+[92] clear thesis development (cited 4x): The essay states a definite stance up front and carries it through every section of the piece.
+[93] clear thesis statement (cited 12x): The introduction states a firm position and previews the argument's structure, giving the essay direction.
+[94] coherence and cohesion (cited 3x): Essay A maintains a logical flow linking each paragraph to its thesis, whereas Essay B's points feel disconnected and list-like.
+[95] coherence and flow (cited 7x): Essay A's ideas follow a logical progression tied to its thesis, while Essay B's sentences jump between unrelated copied passages with no connecting logic.
+[96] coherence and fluency (cited 3x): The essay presents disconnected fragments rather than a sustained, flowing argument that builds toward a conclusion.
+[97] coherent argument development (cited 28x): The essay ties evidence to claims in a way that cumulatively advances its overall argument.
+[98] coherent argument structure (cited 52x): Essay A organizes its argument around a central claim with a clear introduction, body, and conclusion that reinforce the position.
+[99] coherent argumentation (cited 27x): The essay maintains a consistent position and supports it with multiple connected reasons rather than repeating unsupported enthusiasm.
+[100] coherent argumentative arc (cited 4x): The essay maintains a consistent line of reasoning from introduction through body to a conclusion that follows from the points made.
+[101] coherent argumentative development (cited 3x): The essay advances a sustained, organized argument rather than listing disconnected questions and concerns.
+[102] coherent argumentative focus (cited 20x): The essay keeps every paragraph tied to its central position, with clear topic sentences and transitions that reinforce the overall argument.
+[103] coherent argumentative reasoning (cited 7x): Each supporting point is tied back to the central claim, building a unified case rather than listing disconnected observations.
+[104] coherent argumentative stance (cited 12x): The essay sustains a clear position throughout while integrating nuance, so the conclusion follows naturally from the reasoning presented.
+[105] coherent argumentative structure (cited 63x): The essay maintains a clear, unified line of reasoning from introduction through conclusion.
+[106] coherent argumentative thread (cited 8x): The essay maintains a consistent skeptical position and returns to it across paragraphs, giving the argument a unified direction.
+[107] coherent conclusion (cited 48x): Essay B's conclusion reinforces its central argument and gives the essay a sense of closure, while Essay A ends abruptly with an informal question to the reader.
+[108] coherent essay structure (cited 5x): The essay maintains a recognizable argumentative organization, while Essay A largely repeats the same claims in its introduction, body, and conclusion.
+[109] coherent focus (cited 4x): Every paragraph returns to the essay's core thesis about danger and unreliability, keeping the argument tightly unified.
+[110] coherent line of argument (cited 4x): The essay maintains a single, focused thesis throughout and connects each body paragraph back to that central claim.
+[111] coherent line of reasoning (cited 9x): The essay maintains a logical thread from thesis through supporting points to conclusion, with each idea building on the previous one.
+[112] coherent organization (cited 27x): Essay B maintains a clear structure with a stated position, developed body paragraphs each on a distinct benefit, and a conclusion that returns to the thesis.
+[113] coherent organizational structure (cited 13x): The essay moves logically from introducing the debate, to supporting reasons, to counterpoints, to a concluding stance.
+[114] coherent paragraph development (cited 16x): Paragraphs are unified around a single controlling idea that is then developed with evidence and analysis.
+[115] coherent paragraph organization (cited 6x): Essay A uses distinct paragraphs for introduction, development, and conclusion, giving the essay a logical progression.
+[116] coherent paragraph structure (cited 3x): Essay B organizes ideas into logical paragraphs each advancing a single argument, whereas Essay A's paragraphs drift between loosely connected points.
+[117] coherent prose (cited 11x): Essay A's sentences are largely grammatical and its ideas flow logically, whereas Essay B's writing is fragmented and frequently breaks down into unclear or incomplete statements.
+[118] coherent prose and sentence control (cited 3x): The essay demonstrates command of sentence construction and paragraph development, producing readable, connected prose.
+[119] coherent reasoning (cited 22x): Essay A's points logically follow from one another and connect back to its thesis, while Essay B's reasoning is disjointed and often tangential.
+[120] coherent stance (cited 4x): The writer sustains a clear, consistent position against driverless cars from introduction through conclusion.
+[121] coherent structure (cited 15x): The essay presents a clear thesis and develops it through logically ordered body paragraphs leading to a conclusion.
+[122] coherent sustained position (cited 4x): The essay holds a consistent argumentative stance from introduction through conclusion without drifting or contradicting itself.
+[123] coherent thesis development (cited 29x): The essay keeps its central position in view and connects each supporting point back to the overall argument.
+[124] cohesive argumentation (cited 5x): Essay A keeps each point tied to its central claim about driverless cars as development tools rather than necessities, giving the essay unity that Essay B lacks.
+[125] cohesive conclusion (cited 40x): The ending recaps the main arguments and returns to the thesis, giving the essay a sense of closure.
+[126] cohesive flow (cited 4x): The essay links paragraphs and ideas with transitional language, making the argument easier to follow.
+[127] cohesive framing (cited 32x): The essay uses a consistent overarching idea that ties the introduction, body, and conclusion together into a unified argument.
+[128] cohesive paragraph development (cited 3x): The essay uses linking transitions and topic sentences so each paragraph builds coherently on the argument.
+[129] cohesive paragraphing (cited 4x): The essay links paragraphs and ideas with signposting that makes the argument easy to follow.
+[130] cohesive structure (cited 3x): The essay maintains a clear thesis-and-support organization with a conclusion that reinforces the position.
+[131] cohesive transitions (cited 33x): The essay uses linking phrases to guide the reader smoothly between points and sections.
+[132] command of language (cited 6x): Essay B demonstrates stronger control over diction and syntax, while Essay A contains informal phrasing and multiple spelling errors.
+[133] command of written conventions (cited 10x): The essay demonstrates stronger sentence control, grammar, and word choice, with fewer mechanical errors than the comparison essay.
+[134] complete argumentative frame (cited 3x): The essay has a clear introduction, developed body, and concluding paragraph that bookend the argument.
+[135] complete argumentative framework (cited 3x): The essay has a recognizable introduction, developed body paragraphs, and a conclusion that ties the argument together, whereas Essay A lacks a clear introduction and collapses into a brief repetitive conclusion.
+[136] complete argumentative structure (cited 4x): The essay follows the introduction-body-conclusion format with each section serving a clear rhetorical purpose.
+[137] complete essay form (cited 6x): The essay follows the full introduction-body-conclusion structure expected of argumentative writing, whereas Essay B trails off without a developed conclusion.
+[138] complete essay framework (cited 3x): The essay has a recognizable introduction, body, and conclusion that frame the argument effectively.
+[139] complete essay structure (cited 12x): The essay has a recognizable introduction, developed body paragraphs, and a conclusion that frames the argument within a broader perspective.
+[140] concluding synthesis (cited 9x): The essay ends by reaffirming its central claim, providing a sense of completeness that Essay B lacks.
+[141] concrete illustration (cited 8x): The essay grounds abstract claims in specific, relatable scenarios that make the argument vivid and persuasive.
+[142] concrete illustrative examples (cited 8x): The essay grounds its claims in vivid, specific scenarios that make the argument tangible and persuasive.
+[143] concrete illustrative reasoning (cited 13x): The essay develops a vivid hypothetical scenario that makes the abstract liability problem tangible and compelling.
+[144] concrete reasoning (cited 7x): The essay grounds its claims in tangible, relatable driving situations that make the argument vivid and persuasive.
+[145] concrete supporting detail (cited 4x): The essay grounds its claims in specific, relatable examples that make the argument vivid and persuasive.
+[146] consequence analysis (cited 3x): The essay reasons through the downstream implications and complications of the technology, showing deeper critical thinking.
+[147] consideration of broader implications (cited 6x): The essay extends individual concerns to societal scale, strengthening the argument by showing larger stakes.
+[148] consideration of counterarguments (cited 5x): The essay weighs opposing concerns and complications, showing balanced critical thinking rather than one-sided advocacy.
+[149] consideration of implications (cited 6x): The essay extends its argument to a meaningful consequence—legal responsibility—drawn from the article.
+[150] consideration of opposing views (cited 3x): The essay anticipates and responds to potential defenses of driverless cars rather than ignoring them.
+[151] consistent argumentative focus (cited 13x): Essay B sustains its position across the whole essay, whereas Essay A shifts between describing the technology and asserting its benefits without a steady line of reasoning.
+[152] consistent argumentative stance (cited 13x): The essay sustains a clear, coherent personal position across all paragraphs.
+[153] consistent argumentative voice (cited 6x): The essay sustains a clear personal position that is reinforced across each section of the argument.
+[154] consistent formal register (cited 17x): The essay sustains an appropriate argumentative tone appropriate to the assignment, unlike Essay B's informal personal narrative.
+[155] consistent formal tone (cited 14x): The essay sustains an academic voice and avoids the informal asides and rhetorical questions that weaken the other essay's authority.
+[156] consistent formal voice (cited 3x): The essay sustains a serious, academic tone and clear thesis-driven prose across all paragraphs.
+[157] consistent position (cited 15x): The essay maintains a firm, sustained stance across all paragraphs rather than drifting or hedging between positions.
+[158] consistent position and focus (cited 3x): The essay maintains a single clear argumentative stance throughout, with each paragraph advancing that position rather than drifting into meta-commentary about the article.
+[159] consistent stance (cited 4x): Essay A holds one clear position throughout, whereas Essay B's stance is muddled by contradictory supporting points.
+[160] consistent thesis (cited 4x): The essay holds a coherent, nuanced stance from introduction through conclusion without drifting.
+[161] consistent thesis development (cited 3x): The essay sustains a clear, unified position from introduction through conclusion, with every body paragraph serving that central claim.
+[162] constructive proposal (cited 6x): The essay goes beyond critique to offer a forward-looking suggestion, strengthening the overall argument.
+[163] contextual framing (cited 4x): The essay situates the driverless car debate within a larger discussion of technological advancement, giving the argument wider significance.
+[164] control of written conventions (cited 11x): The essay demonstrates stronger command of grammar, spelling, and formal academic language.
+[165] controlled academic register (cited 3x): The essay sustains a consistent formal tone and precise word choice appropriate to argumentative writing.
+[166] controlled academic tone (cited 3x): The writing stays measured and objective, avoiding the informal and alarmist language that weakens the other essay's credibility.
+[167] controlled formal prose (cited 3x): The writing maintains consistent standard English with varied sentence structures and appropriate academic register.
+[168] controlled formal register (cited 14x): The essay maintains a consistent academic tone appropriate for argumentative writing.
+[169] controlled formal style (cited 3x): The essay uses consistent, appropriate academic language and organization suited to argumentative writing.
+[170] controlled formal tone (cited 4x): The essay maintains a consistent, appropriately formal voice throughout, which supports its credibility as an argument.
+[171] controlled prose (cited 5x): The essay maintains a more formal register and clearer sentence boundaries, aiding readability and credibility.
+[172] controlled tone (cited 3x): The essay argues its position with restraint and reasoned language rather than dramatic or alarmist claims.
+[173] conventional control (cited 12x): The essay demonstrates stronger sentence-level control and fewer mechanical errors than the comparison essay.
+[174] conventional control of language (cited 6x): The writing is more mechanically accurate and readable, allowing the argument to come through without constant distraction.
+[175] conventional correctness (cited 8x): The essay demonstrates greater control over spelling, punctuation, and sentence mechanics than the comparison essay.
+[176] conventional language control (cited 12x): The essay demonstrates greater command of spelling, grammar, and sentence mechanics, making it more readable and credible.
+[177] conventional language use (cited 5x): The essay demonstrates more standard spelling, grammar, and word choice that keep the writing clear.
+[178] conventional mechanics (cited 65x): The essay demonstrates stronger control over spelling, punctuation, and sentence structure than the comparison essay.
+[179] conventional sentence control (cited 5x): The essay maintains readable, mostly grammatical sentences that convey meaning clearly.
+[180] conventional spelling and mechanics (cited 6x): The essay shows control over spelling and punctuation conventions rather than pervasive errors that impede readability.
+[181] conventional writing mechanics (cited 10x): The essay demonstrates stronger control over spelling, punctuation, and sentence structure than the comparison essay.
+[182] conventional written expression (cited 18x): The essay demonstrates more mature control of language conventions than the informal, error-laden style of Essay A.
+[183] conventional written language (cited 16x): The essay demonstrates greater control over standard written English, making the argument clearer and more credible.
+[184] conventions and clarity (cited 45x): The essay demonstrates control over spelling, grammar, and sentence structure, making the argument easy to follow.
+[185] conventions and clarity of writing (cited 5x): Essay B demonstrates strong command of standard written English, making the argument clear and credible.
+[186] conventions and control (cited 66x): The essay demonstrates stronger command of spelling, punctuation, and sentence construction.
+[187] conventions and control of language (cited 27x): The essay demonstrates stronger command of spelling, grammar, and formal word choice appropriate to argumentative writing.
+[188] conventions and correctness (cited 5x): The essay demonstrates stronger command of spelling, grammar, and word choice, which supports clarity and credibility.
+[189] conventions and editing (cited 49x): Essay A demonstrates greater control over spelling and mechanics, which supports clearer communication of its argument.
+[190] conventions and formal control (cited 3x): The essay demonstrates stronger command of standard written English, sentence structure, and paragraphing than Essay B.
+[191] conventions and formal register (cited 5x): The essay demonstrates control over spelling and maintains an appropriately formal tone for academic argumentative writing.
+[192] conventions and mechanics (cited 36x): The essay demonstrates control over spelling, punctuation, and sentence structure that the other essay lacks.
+[193] conventions and sentence control (cited 3x): Essay A demonstrates stronger command of grammar, spelling, and sentence variety than Essay B, which has numerous mechanical errors.
+[194] conventions and word choice (cited 3x): Essay A demonstrates stronger command of spelling, grammar, and formal academic vocabulary, while Essay B contains frequent errors ('aurthor,' 'driversless,' 'interduced,' 'tha tthe,' 'save to drive').
+[195] conventions control (cited 35x): The essay demonstrates stronger command of spelling, punctuation, and sentence mechanics.
+[196] conventions mastery (cited 4x): The essay demonstrates strong command of standard written English with no distracting mechanical errors.
+[197] conventions of standard english (cited 6x): The essay demonstrates control over spelling, grammar, and mechanics, making it readable and credible.
+[198] conventions of standard written english (cited 4x): The essay demonstrates control of spelling, grammar, and mechanics that make it readable and credible.
+[199] conventions of writing (cited 10x): The essay demonstrates stronger control over spelling, punctuation, and sentence mechanics than the comparison essay.
+[200] conventions of written english (cited 47x): The essay demonstrates control over spelling, punctuation, and sentence boundaries that make the writing clear and readable.
+[201] counterargument acknowledgment (cited 64x): The essay anticipates and responds to a potential objection, strengthening the overall argument.
+[202] counterargument acknowledgment and rebuttal (cited 3x): Essay B addresses opposing viewpoints and systematically refutes them, strengthening the persuasiveness of its position.
+[203] counterargument and rebuttal (cited 18x): The essay anticipates and responds to the opposing position, strengthening its own argument, whereas Essay A never engages with alternative perspectives.
+[204] counterargument awareness (cited 51x): Essay A anticipates and responds to the opposing view, strengthening its own position.
+[205] counterargument consideration (cited 99x): The essay anticipates opposing views and concedes some merits of driverless cars, strengthening its overall credibility.
+[206] counterargument engagement (cited 134x): The essay anticipates and addresses opposing viewpoints rather than only asserting its own position.
+[207] counterargument handling (cited 245x): The essay anticipates an opposing view and responds to it, strengthening the overall argument.
+[208] counterargument resolution (cited 3x): Essay B acknowledges the opposing concern about who is at fault in an accident and offers a reasoned way to address it, whereas Essay A merely poses the question and leaves it unanswered.
+[209] counterpoint acknowledgment (cited 10x): The essay anticipates and responds to limitations of the technology rather than ignoring them, strengthening the overall argument.
+[210] counterpoint handling (cited 12x): The essay acknowledges opposing evidence from the article and reasons through why it does not undermine the argument.
+[211] critical analysis (cited 13x): The essay moves beyond restating the article to analyze tensions and evaluate the reasonableness of current restrictions.
+[212] critical analysis of implications (cited 3x): Essay A examines deeper societal and legal consequences of driverless cars, showing analytical depth that Essay B lacks.
+[213] critical engagement with evidence (cited 4x): The essay does not just cite the source but actively analyzes and challenges the adequacy of the evidence it presents.
+[214] critical engagement with source (cited 10x): Essay A interprets and pushes back against the article's content rather than merely summarizing it, showing analytical thinking about the source material.
+[215] critical questioning (cited 6x): The essay raises substantive concerns about the technology's reliability and human oversight.
+[216] critical reasoning (cited 17x): The essay examines implications and complications of the technology rather than simply asserting a position.
+[217] critical thinking (cited 7x): Essay A engages with the complexity of the issue by weighing competing considerations, while Essay B shows no independent analysis of the ideas it borrows.
+[218] depth of analysis (cited 11x): The essay explores more nuanced implications of driverless cars, such as legal ambiguity and enforcement problems, showing deeper critical thinking.
+[219] depth of argument development (cited 5x): Essay A elaborates each claim with extended reasoning and consequences, whereas Essay B mostly asserts benefits and drawbacks without sustained analysis.
+[220] depth of argumentation (cited 5x): The essay develops a sustained, multi-faceted argument rather than restating a single point.
+[221] depth of critical analysis (cited 5x): The essay engages critically with the article's claims, questioning what is left unsaid about safety, testing, and broader consequences.
+[222] depth of development (cited 6x): Essay B elaborates each claim with extended reasoning, analogies, and hypothetical scenarios rather than stating a point and moving on.
+[223] depth of elaboration (cited 3x): Essay A expands each claim with detailed explanation of the problem and how the technology solves it, giving the argument greater substance.
+[224] depth of reasoning (cited 36x): The essay elaborates on its claims with reasoning and implications rather than restating a single concern.
+[225] developed argument structure (cited 3x): Essay A builds a sustained multi-point argument with each body paragraph advancing a separate, elaborated reason against driverless cars.
+[226] developed argumentation (cited 15x): The essay advances and develops its points rather than merely listing unresolved worries and hypotheticals.
+[227] developed causal reasoning (cited 6x): The essay traces logical chains from a premise to a consequence, giving depth to its central concern about computer failure.
+[228] developed reasoning (cited 181x): Each claim is supported with explanation and elaboration rather than being asserted without development.
+[229] developed reasoning with concrete scenarios (cited 5x): The essay explores a specific, elaborated example to support its concern rather than making unsupported claims.
+[230] developed reasoning with multiple supporting points (cited 3x): The essay presents several distinct, elaborated arguments rather than merely summarizing the article.
+[231] developed supporting arguments (cited 4x): Essay B elaborates each claim with reasoning and article-based evidence, whereas Essay A merely strings together partial quotations without building an argument.
+[232] developed supporting reasons (cited 3x): The essay offers multiple distinct, elaborated reasons for its position rather than asserting support in general terms.
+[233] development and elaboration (cited 3x): Essay A elaborates its points with supporting detail across multiple paragraphs, whereas Essay B offers only a short, thinly developed argument.
+[234] development of ideas (cited 3x): Essay A elaborates each point with supporting details and examples from the article, whereas Essay B states claims with minimal expansion.
+[235] development of reasoning (cited 7x): Essay A elaborates on each of its claims with some explanation, whereas Essay B states unsupported opinions without developing them into an argument.
+[236] effective analogical reasoning (cited 3x): The essay uses concrete, relatable analogies to make abstract concerns about skill loss and loss of control vivid and persuasive.
+[237] effective conclusion (cited 111x): The conclusion restates and unifies the argument's key benefits, whereas Essay B's conclusion drifts into vague speculation.
+[238] effective conclusion synthesis (cited 3x): The conclusion reinforces the thesis while adding new supporting context rather than merely restating earlier points.
+[239] effective evidence integration (cited 18x): The essay weaves source details into its reasoning and explicitly explains how the evidence supports the claim being made.
+[240] effective source integration (cited 3x): The essay weaves relevant details from the article into its own reasoning rather than merely quoting or gesturing at them.
+[241] effective use of analogy (cited 5x): The essay employs concrete analogies that make abstract concerns about skill loss and reduced control vivid and persuasive.
+[242] effective use of evidence (cited 5x): The essay integrates specific details from the article to support each claim rather than merely listing them.
+[243] effective use of source evidence (cited 32x): The essay integrates specific details and quotations from the article to support its claims rather than merely paraphrasing or copying text.
+[244] effective use of source material (cited 4x): Essay A integrates relevant ideas from the article into a coherent argument, whereas Essay B's references to the source are confused and inaccurate.
+[245] effective use of textual evidence (cited 34x): The essay integrates specific quoted details from the source and explains how each supports its argument.
+[246] elaborated reasoning (cited 147x): The essay extends its points through extended hypothetical examples and causal chains rather than stating them briefly, giving the argument depth.
+[247] elaboration and development (cited 25x): Each claim is expanded with several concrete supporting points and explanations rather than being stated once and left undeveloped.
+[248] elaboration and reasoning (cited 17x): The essay extends each claim with explanation of its implications rather than merely listing facts.
+[249] elaboration and reasoning depth (cited 3x): The essay extends the article's ideas into concrete, extended reasoning rather than merely restating them, showing deeper critical thinking.
+[250] elaboration of claims (cited 12x): The essay extends each point with concrete explanation of how and why the benefit would occur.
+[251] elaboration of ideas (cited 16x): The essay expands each claim with reasoning and development rather than listing points briefly.
+[252] elaboration of reasoning (cited 32x): Essay A connects each piece of evidence to its argumentative purpose, explaining why the features described make driverless cars beneficial.
+[253] elaboration of reasons (cited 3x): Each supporting point is expanded with explanation and concrete illustration rather than being merely asserted.
+[254] elaborative reasoning (cited 4x): The essay extends its claims with concrete scenarios and logical inferences that deepen the argument beyond restating the source.
+[255] engagement with counterarguments (cited 6x): Essay B acknowledges and grapples with a substantive objection to driverless cars rather than presenting only one-sided support.
+[256] engagement with source content (cited 6x): The essay draws on and responds to concrete ideas and details from the article rather than only stating general opinions.
+[257] engagement with source material (cited 9x): The essay connects its argument to ideas presented in the source article rather than only offering personal opinion.
+[258] engaging introduction (cited 12x): The essay hooks the reader with a concrete, dramatic scenario before presenting its position, making the argument more compelling from the start.
+[259] engaging introduction with clear thesis (cited 6x): Essay B opens with a vivid hypothetical scenario that hooks the reader and leads into an explicit, well-framed position statement.
+[260] engaging rhetorical development (cited 3x): Essay A brings its argument to life with concrete imagined situations and rhetorical questions that make the reasoning vivid and persuasive.
+[261] engaging rhetorical opening (cited 5x): Essay A hooks the reader with a concrete, dramatic hypothetical that frames its argument, whereas Essay B begins with broad, unfocused musings.
+[262] engaging voice (cited 3x): The essay uses rhetorical devices and personal perspective to make the argument compelling and readable.
+[263] essay structure (cited 3x): Essay A organizes its content into recognizable introduction, body, and conclusion sections, whereas Essay B is a disconnected series of fragments and copied sentences.
+[264] evidence analysis (cited 3x): The essay engages with source material by quoting it and then critically examining what the evidence does and does not show.
+[265] evidence development (cited 4x): The essay connects article details to its supporting points and elaborates on how they support the argument rather than merely listing them.
+[266] evidence integration (cited 382x): The essay grounds its claims in concrete details from the source article rather than relying on hypothetical scenarios.
+[267] evidence integration and analysis (cited 6x): The essay connects quoted evidence from the article to its own reasoning, explaining the implications rather than merely citing the source.
+[268] evidence use (cited 8x): The essay grounds its argument in concrete, specific details from the source article rather than vague generalities.
+[269] evidence-based argumentation (cited 28x): The essay grounds its claims in concrete details from the source article rather than relying on personal opinion.
+[270] evidence-based claims (cited 7x): The essay supports its assertions with textual details and logical reasoning rather than unsupported personal opinions.
+[271] evidence-based reasoning (cited 17x): Essay B supports its claims with source material while Essay A relies on unsubstantiated assertions.
+[272] evidence-based support (cited 23x): Essay A selects and deploys article details to back its claims, while Essay B merely lists facts without connecting them to an argument.
+[273] evidence-to-claim reasoning (cited 4x): The essay explicitly explains how each piece of quoted evidence supports its argument rather than leaving the connection implicit.
+[274] explanatory reasoning (cited 9x): The essay connects causes to effects, explaining how the technology works to produce the safety benefits it claims.
+[275] extended causal reasoning (cited 4x): The essay traces the logical implications and ripple effects of its claims, considering scale and real-world scenarios.
+[276] extended critical reasoning (cited 3x): The essay draws wider analogies to technology misuse, showing deeper critical thinking about the implications of autonomous systems.
+[277] extended implications (cited 10x): The essay broadens its argument to consider opportunity costs and larger societal values, strengthening its position.
+[278] extended reasoning (cited 16x): The essay traces implications of the technology beyond the immediate topic, showing deeper analytical thinking.
+[279] fidelity to source (cited 4x): The essay accurately represents what the article actually says, without inventing or distorting details to fit the argument.
+[280] fidelity to source content (cited 3x): The essay grounds its arguments in the article's actual content about laws, liability, and semi-autonomous testing states, while Essay A introduces speculative scenarios like viruses and hacking not tied to the source.
+[281] fidelity to source material (cited 5x): The essay argues from the article's actual content rather than introducing unsubstantiated hypotheticals.
+[282] focused argument development (cited 9x): Essay A keeps each argument tied to its stated reason, whereas Essay B drifts across loosely connected ideas.
+[283] focused argumentation (cited 145x): Every paragraph advances the central argument for continued development of driverless cars, keeping the essay on-task.
+[284] focused argumentative coherence (cited 18x): Essay A sustains one clear position and ties each body paragraph back to it, whereas Essay B's structure wanders between listing pros and cons without a tight controlling thread.
+[285] focused argumentative stance (cited 10x): The essay maintains a consistent, clearly articulated position that guides the development of each supporting point.
+[286] focused argumentative structure (cited 12x): Essay A sustains a coherent argument for driverless cars from introduction through conclusion, while Essay B wavers between optimism and doubt without resolving its stance.
+[287] focused conclusion (cited 3x): Essay A closes by tying together its main arguments and restating its position, while Essay B's conclusion drifts into unfocused speculation.
+[288] focused development (cited 3x): The essay stays on a clear argumentative track rather than drifting between loosely related facts.
+[289] focused organization (cited 6x): The essay stays on one controlling idea throughout rather than jumping between disconnected excerpts from the article.
+[290] focused paragraph development (cited 10x): Essay B gives each supporting idea its own developed paragraph rather than piling loosely connected points together.
+[291] focused reasoning (cited 6x): The essay maintains a tight logical thread from claim to evidence to conclusion without wandering off topic.
+[292] focused relevance (cited 10x): The essay stays on task with its argument rather than drifting into tangential personal reflections.
+[293] focused thesis adherence (cited 18x): Essay B sustains one clear position throughout, whereas Essay A wavers between praising the technology and dismissing it as unnecessary.
+[294] focused thesis development (cited 36x): Essay A keeps its argument tightly aligned to its stated position, while Essay B's stance and reasoning are less consistently developed.
+[295] formal academic register (cited 104x): The essay maintains a consistent formal tone appropriate for argumentative writing.
+[296] formal academic tone (cited 57x): The essay sustains a serious, school-appropriate voice appropriate to argumentative writing.
+[297] formal academic voice (cited 7x): The essay sustains a consistent, appropriately formal tone suitable for argumentative writing.
+[298] formal register (cited 11x): The essay sustains an appropriately formal academic tone appropriate for argumentative writing.
+[299] formal tone (cited 3x): The essay maintains a consistent formal, academic voice appropriate for argumentative writing.
+[300] forward-looking extrapolation (cited 5x): The essay extends its argument to consider long-term societal consequences of the technology, strengthening the case against it.
+[301] forward-looking proposal (cited 3x): The essay goes beyond critique to offer a constructive vision for how the technology could be improved, strengthening the overall argument.
+[302] forward-looking reasoning (cited 4x): The essay extends its argument to future consequences rather than only immediate ones.
+[303] framing and closure (cited 4x): The essay opens with a clear thesis and closes by tying the argument together, giving it a complete argumentative arc.
+[304] framing and context (cited 4x): The essay situates the specific issue within a larger intellectual context, giving the argument more weight and significance.
+[305] grammatical control (cited 13x): The essay demonstrates basic sentence-level correctness and readability, whereas Essay A contains frequent fragments, run-ons, and misspellings that impede comprehension.
+[306] grounded use of source evidence (cited 4x): The essay anchors its argument in specific details from the article rather than relying on vague or invented scenarios.
+[307] grounding in source material (cited 3x): The essay builds its argument from specific details and concepts presented in the source article rather than from unrelated speculation.
+[308] idea development (cited 17x): Essay A elaborates its supporting points with reasoning and personal context, whereas Essay B states objections without developing them.
+[309] illustrative analogies (cited 3x): The essay employs concrete comparisons that make abstract concerns about control and skill loss more vivid and understandable.
+[310] illustrative examples (cited 5x): Concrete hypothetical scenarios make the argument vivid and help the reader grasp the practical implications of the claim.
+[311] illustrative reasoning (cited 14x): Essay A uses varied concrete examples and analogies to make its argument vivid and persuasive, whereas Essay B offers few concrete illustrations.
+[312] independent argumentation (cited 10x): The essay advances its own claims and reasoning rather than merely restating the source text.
+[313] independent critical reasoning (cited 4x): Essay A extends beyond the source text to construct its own arguments and hypothetical scenarios, while Essay B largely restates article content.
+[314] independent critical thinking (cited 11x): Essay A goes beyond the article's content to raise an original concern about hacking and control, showing independent analysis rather than just restating source material.
+[315] independent reasoning (cited 14x): Essay A develops its own lines of thought about how driverless cars would affect safety and behavior, while Essay B mostly restates fragments of the article.
+[316] inferential reasoning (cited 4x): Essay A draws out implications and causal chains from the source material rather than simply restating it.
+[317] integrated evidence use (cited 12x): Essay B weaves source details into its own reasoning to advance the argument rather than dropping them in without connection.
+[318] integrated source evidence (cited 3x): Article details are woven into the argument to support a specific claim rather than being summarized or listed.
+[319] integrated source use (cited 4x): The essay incorporates details from the source article naturally into its own argument rather than merely quoting or referencing paragraph numbers.
+[320] integrated textual evidence (cited 84x): The essay weaves specific quoted details from the source article into its reasoning to support each claim.
+[321] integrated use of evidence (cited 7x): Essay A weaves textual evidence into its own reasoning to advance the argument, whereas Essay B inserts quotations with minimal analysis of how they support the position.
+[322] integrated use of source evidence (cited 9x): The essay incorporates details from the article as functional support for its own reasoning rather than listing them separately.
+[323] integration of source evidence (cited 9x): The essay uses details from the article and actively builds its own argument on top of them rather than merely summarizing.
+[324] language control (cited 23x): The essay demonstrates more sophisticated vocabulary and sentence variety appropriate to argumentative writing.
+[325] language sophistication (cited 4x): The essay demonstrates a more developed command of vocabulary and sentence variety appropriate to persuasive writing.
+[326] logical argument development (cited 4x): The essay builds a reasoned causal chain from driverless operation to safety outcomes rather than merely asserting dangers.
+[327] logical coherence (cited 3x): The essay presents a clear, internally consistent line of reasoning rather than shifting between support and fear without resolution.
+[328] logical development (cited 5x): The argument unfolds through connected, causally linked points rather than jumping between loosely related hypothetical scenarios.
+[329] logical organization (cited 6x): The essay moves from acknowledging current limits to envisioning future improvement to offering a reasoned choice, giving it a clearer argumentative structure.
+[330] logical reasoning (cited 35x): The essay connects claims to consequences through coherent cause-and-effect chains rather than disconnected assertions.
+[331] logical reasoning and development (cited 5x): Essay B builds a connected sequence of reasoning that develops its claim, while Essay A offers disconnected assertions without a developed line of thought.
+[332] logical reasoning development (cited 3x): The essay builds multi-step reasoning connecting technology failure to broader societal consequences.
+[333] mature academic style (cited 4x): The essay demonstrates advanced word choice and complex syntax appropriate to persuasive academic writing.
+[334] mature language use (cited 3x): The essay demonstrates stronger command of sentence variety and word choice appropriate to argumentative writing.
+[335] mature prose style (cited 12x): The writing demonstrates control of formal register, complex sentences, and precise vocabulary appropriate to argumentative writing.
+[336] mechanical accuracy (cited 4x): Essay A shows far greater control over spelling and sentence boundaries than Essay B, which is marred by frequent errors.
+[337] mechanical control (cited 4x): The essay demonstrates consistent command of spelling, grammar, and sentence structure that supports readability.
+[338] mechanical correctness (cited 10x): Essay B maintains consistent spelling, grammar, and sentence control, while Essay A contains repeated misspellings such as 'driveless' and 'manfacturer' and informal phrasing.
+[339] multiple developed reasons (cited 3x): The essay offers several distinct, logically connected reasons that build the case against driverless cars.
+[340] nuanced argumentation (cited 16x): Essay A qualifies its claims and acknowledges complexity, making the argument more measured and credible.
+[341] nuanced handling of counterevidence (cited 5x): The essay anticipates and addresses potential objections by conceding limitations while reframing them as progress toward the larger vision.
+[342] nuanced position (cited 8x): The essay develops a balanced, qualified stance that weighs pros and cons rather than asserting a flat one-sided view.
+[343] nuanced position-taking (cited 7x): The essay presents a qualified, reasoned stance that weighs both benefits and drawbacks rather than a flat dismissal.
+[344] nuanced reasoning (cited 38x): The essay considers the capabilities of driverless cars while explaining their limitations, showing more balanced critical thinking.
+[345] nuanced thesis (cited 7x): The essay stakes out a more sophisticated middle-ground position that acknowledges complexity rather than offering a simple refusal.
+[346] on-topic focus (cited 4x): The essay stays on the argumentative task and avoids irrelevant personal tangents that do not advance the position.
+[347] organizational clarity (cited 11x): The essay is divided into distinct paragraphs that each advance a clear part of the argument.
+[348] organizational coherence (cited 78x): Essay A maintains a clear overall structure with each paragraph advancing the argument, while Essay B's points are loosely connected and its structure is less defined.
+[349] organizational structure (cited 467x): The essay follows a recognizable argumentative structure with distinct introduction, body, and conclusion sections.
+[350] organized argument structure (cited 85x): The essay presents a clear introduction, multiple developed body paragraphs each addressing a separate point, and a conclusion that ties the argument together.
+[351] organized argumentation (cited 7x): The essay presents a coherent, logically sequenced argument with a clear thesis, developed body points, and a conclusion.
+[352] organized argumentative structure (cited 155x): The essay follows a recognizable introduction-body-conclusion format with a clear thesis and developed supporting paragraphs.
+[353] organized essay structure (cited 62x): The essay follows a recognizable argumentative structure with distinct introduction, body, and conclusion sections.
+[354] organized multi-point argument (cited 3x): The essay presents several separate, developed reasons for its position in a structured progression rather than restating one idea.
+[355] organized multi-point argument structure (cited 6x): The essay presents several clearly separated supporting arguments, each developed in its own section, rather than restating the same few points.
+[356] organized multi-point structure (cited 7x): The essay is divided into clear sections each addressing a separate concern, giving it a coherent body with developed reasoning, while Essay A repeats a single idea in a short, undifferentiated structure.
+[357] organized paragraph development (cited 8x): The essay presents a clear structure with each body paragraph developing a distinct supporting idea in an orderly way.
+[358] organized paragraph structure (cited 13x): The essay uses well-developed paragraphs with clear topic sentences that build the argument in a logical order.
+[359] organized progression (cited 4x): The essay flows in an orderly sequence of ideas rather than shifting abruptly between unrelated subjects.
+[360] organized structure (cited 270x): The essay follows a recognizable argumentative structure with introduction, body, and conclusion.
+[361] original argumentation (cited 14x): Essay B advances its own viewpoint with supporting reasoning, whereas Essay A merely reproduces source text without forming an argument.
+[362] original insight (cited 3x): Essay A offers an independently reasoned observation about consumer behavior and the car's name, going beyond simply restating article content.
+[363] original reasoning (cited 15x): The essay goes beyond restating the article by generating its own plausible ideas to address the problems it identifies.
+[364] paragraph coherence (cited 5x): Each paragraph in Essay A focuses on a single developed idea with a clear topic sentence and supporting elaboration.
+[365] paragraph development (cited 11x): Each body paragraph is fully fleshed out with explanation and illustration rather than being thin or underdeveloped.
+[366] paragraph organization (cited 9x): Each body paragraph develops a single distinct supporting point introduced by a clear topic sentence, giving the essay a coherent structure.
+[367] personal engagement (cited 6x): The writer connects the argument to their own lived experience, making the reasoning more concrete and persuasive.
+[368] personal relevance (cited 3x): The essay grounds one of its arguments in the writer's own experience, adding authenticity and a concrete stake in the issue.
+[369] personal voice and engagement (cited 3x): The essay draws on first-hand experience to lend authenticity and investment to the argument.
+[370] personal voice and perspective (cited 3x): The essay grounds its argument in the writer's own experience and stage of life, giving the position authenticity and relevance.
+[371] persuasive conclusion (cited 3x): Essay A closes with a memorable, emphatic statement of position, while Essay B trails off with a flat, underdeveloped final line.
+[372] persuasive voice (cited 7x): Essay A employs an energetic, persuasive tone that actively advocates for its position, while Essay B's tone is more tentative and reflective.
+[373] positional coherence (cited 4x): The essay sustains a single clear argumentative stance from introduction to conclusion without wavering.
+[374] precise academic vocabulary (cited 3x): The essay employs formal, topic-appropriate word choice that conveys the argument with clarity and maturity.
+[375] precise word choice (cited 6x): The essay selects specific, deliberate language to convey its argument rather than relying on informal slang and vague phrasing.
+[376] purposeful conclusion (cited 56x): The essay ends by reinforcing its argument and looking forward, rather than merely restating that both sides exist.
+[377] purposeful evidence integration (cited 3x): Essay A uses source details to advance its claims, while Essay B lists article facts without connecting them to a coherent argument.
+[378] purposeful evidence use (cited 7x): The essay selects and deploys article details in service of its argument rather than merely retelling them.
+[379] purposeful use of evidence (cited 10x): The essay selects and deploys source details in service of its own argument rather than reciting them without purpose.
+[380] purposeful use of source evidence (cited 10x): Essay A selects and deploys details from the article in service of its own argument, rather than copying them without purpose.
+[381] range of argumentative points (cited 4x): The essay engages multiple dimensions of the issue—technical, human, and legal—rather than repeating a single concern.
+[382] range of developed arguments (cited 4x): The essay advances several distinct, elaborated points against driverless cars rather than repeating a single idea.
+[383] range of supporting reasons (cited 5x): The essay offers multiple distinct lines of support for its position rather than a single point.
+[384] reason development (cited 19x): The essay elaborates each supporting point with explanation of how and why the risk would occur rather than merely asserting it.
+[385] reason elaboration (cited 3x): The essay extends each claim by explaining the real-world consequences and implications rather than merely stating it.
+[386] reasoned analysis (cited 27x): The essay elaborates on why each piece of evidence matters rather than merely listing or asserting it.
+[387] reasoned argumentation (cited 30x): Essay B grounds its claims in the article's content and plausible reasoning, whereas Essay A's argument rests on dramatic, unsupported hypotheticals.
+[388] reasoned causal analysis (cited 9x): Essay A explains how each cited feature actually works to prevent accidents, showing the logical chain from technology to safety outcome.
+[389] reasoned causal argumentation (cited 3x): The essay explains how driverless technology would produce safer outcomes through a logical chain of reasoning.
+[390] reasoned causal explanation (cited 3x): Essay B explains the mechanism by which driverless cars would improve safety rather than merely asserting a preference or fear.
+[391] reasoned comparison (cited 3x): The essay builds a logical case by contrasting human driving abilities with technological limitations.
+[392] reasoned conclusion (cited 3x): The essay ends with a synthesized argumentative point, while Essay A trails off into vague speculation about future improvements.
+[393] reasoned elaboration (cited 59x): The essay explains why each negative aspect matters and connects evidence to its overall claim through logical analysis.
+[394] reasoned justification (cited 3x): The essay supports its position with logical reasons tied to safety and convenience rather than unsupported personal preference.
+[395] reasoned problem-solving (cited 7x): The essay anticipates objections and offers concrete, thoughtful responses to the challenges it identifies.
+[396] reasoned support (cited 11x): The essay connects evidence to reasons and addresses counterpoints with logical explanation rather than just listing facts.
+[397] reasoned support for claims (cited 7x): The essay explains how each piece of evidence supports the overall position rather than merely asserting opinions.
+[398] reasoned tone (cited 4x): Essay A argues with measured, logical language appropriate to persuasive writing, whereas Essay B resorts to fear-based exaggeration and informal outbursts.
+[399] reasoning and elaboration (cited 11x): Essay A connects evidence to broader reasoning about why driverless cars are valuable, whereas Essay B offers no such interpretive analysis.
+[400] reasoning and explanation (cited 5x): The essay goes beyond citing facts to explain the mechanisms by which driverless cars would produce the claimed benefits.
+[401] reasoning depth (cited 9x): The essay elaborates on each claim with extended reasoning rather than merely asserting a point.
+[402] reasoning development (cited 25x): The essay elaborates on each claim with explanation and personal reasoning rather than merely asserting a point.
+[403] relevance and focus (cited 9x): Essay A stays on task while Essay B drifts into tangential musings that do not advance its argument.
+[404] relevance of argument (cited 4x): The essay stays on task arguing about the development of driverless cars rather than drifting into unrelated personal opinions.
+[405] relevance of reasoning (cited 6x): The essay's supporting points are logically tied to the topic and the source material rather than tangential or unrelated.
+[406] relevance of support (cited 3x): Essay B's evidence and reasoning stay tied to the article's content and the argumentative task, whereas Essay A drifts into self-serving and off-task justifications.
+[407] relevance of supporting reasons (cited 3x): The essay's reasons connect to substantive arguments about the technology rather than tangential personal concerns.
+[408] relevance to source (cited 3x): The essay stays anchored to the source text's actual content rather than introducing tangential or unsupported scenarios.
+[409] relevance to task (cited 4x): Essay A stays on the assigned topic of driverless car development while Essay B digresses into unrelated disaster and science-fiction speculation.
+[410] relevance to the assignment (cited 3x): Essay B stays focused on the driverless car debate using the article's content, whereas Essay A wanders into general driving advice unrelated to the source text.
+[411] relevant evidence integration (cited 12x): The essay grounds its claims in specific details from the source article and uses them to support its position.
+[412] relevant evidence use (cited 26x): The essay selects and accurately represents details from the article that directly support its argumentative claims.
+[413] relevant reasoning (cited 6x): The essay develops logical, plausible consequences tied to the article's discussion of liability and technology limits.
+[414] relevant source integration (cited 5x): The essay weaves details from the article into its argument rather than merely listing facts.
+[415] relevant textual evidence (cited 4x): The essay supports each claim with specific details drawn from the source article.
+[416] relevant use of source material (cited 3x): The essay draws on and responds to ideas from the article to build its argument, whereas Essay A mostly copies passages from the article without integrating them into an argument.
+[417] resolved conclusion (cited 3x): Essay A closes by restating its position and proposing a specific alternative course of action, giving the essay a sense of closure that Essay B's repetitive conclusion lacks.
+[418] rhetorical awareness (cited 3x): The essay shows deliberate attention to argumentative technique and framing, indicating a more self-conscious approach to persuasion.
+[419] rhetorical cohesion (cited 3x): The essay bookends its argument with engaging framing that ties the introduction and conclusion together.
+[420] rhetorical control (cited 13x): The essay employs deliberate, effective word choice that sharpens the argument and gives it a persuasive voice.
+[421] rhetorical development (cited 10x): Essay A uses vivid hypotheticals and rhetorical moves to strengthen persuasion, while Essay B's prose is more flat and repetitive.
+[422] rhetorical effectiveness (cited 19x): The essay uses rhetorical devices to strengthen the persuasive appeal of its points.
+[423] rhetorical engagement (cited 69x): The essay uses rhetorical questions to draw the reader into the argument and reinforce its points.
+[424] rhetorical flourish (cited 4x): The essay employs more expressive and varied language that gives the argument personality and engagement.
+[425] rhetorical fluency (cited 5x): The essay uses varied, developed sentences that convey conviction and connect ideas smoothly.
+[426] rhetorical force (cited 5x): The essay uses vivid, memorable language to give its argument persuasive impact.
+[427] rhetorical framing (cited 26x): The essay uses framing devices that give the argument a distinctive voice and reinforce its persuasive purpose.
+[428] rhetorical polish (cited 4x): The essay employs rhetorical devices that give the argument a persuasive and memorable finish.
+[429] rhetorical questioning (cited 5x): The essay uses rhetorical questions to engage the reader and reinforce its points persuasively.
+[430] rhetorical reasoning (cited 5x): Essay B consistently links evidence to meaningful consequences and audience benefits, building a persuasive cumulative case, while Essay A's reasoning is thin and repetitive.
+[431] rhetorical sophistication (cited 24x): The essay uses rhetorical devices and reflective framing to engage the reader and elevate the argument.
+[432] sentence clarity (cited 4x): The essay uses grammatically complete, readable sentences that convey ideas clearly.
+[433] sentence completeness (cited 4x): The essay contains largely complete thoughts and sentences, whereas the comparison essay ends with fragmented, unfinished ideas.
+[434] sentence control (cited 53x): The essay demonstrates more consistent command of sentence structure and grammar.
+[435] sentence control and clarity (cited 6x): The essay demonstrates stronger command of sentence construction and word choice, making the prose readable and clear.
+[436] sentence fluency (cited 5x): The essay uses more sophisticated and varied sentence structures that develop ideas fully and read smoothly.
+[437] sentence fluency and control (cited 14x): The writing demonstrates more developed sentence structure and clearer expression of ideas compared to Essay A's fragmented and repetitive phrasing.
+[438] sentence fluency and word choice (cited 9x): The writing demonstrates greater syntactic variety and more precise, mature vocabulary than the comparison essay.
+[439] sentence-level clarity (cited 13x): The writing is comprehensible and flows smoothly, allowing the argument to be followed without decoding errors.
+[440] sentence-level clarity and control (cited 4x): Essay A demonstrates more controlled, readable writing, while Essay B's frequent errors and awkward phrasing undermine comprehension.
+[441] sentence-level coherence (cited 5x): The writing presents ideas in understandable, connected sentences rather than broken fragments that obscure meaning.
+[442] sentence-level control (cited 28x): Essay A demonstrates basic sentence control and comprehensibility, while Essay B contains frequent grammatical and syntactic breakdowns that obscure meaning.
+[443] sophisticated academic language (cited 3x): The essay employs advanced, precise vocabulary and rhetorical flourishes that demonstrate a mature command of language.
+[444] sophisticated academic register (cited 3x): The writing employs mature vocabulary and syntax appropriate to formal argumentative discourse.
+[445] sophisticated framing (cited 3x): Essay B establishes a distinctive intellectual frame for its position and returns to it, giving the essay rhetorical cohesion that Essay A lacks.
+[446] sophisticated language control (cited 3x): The writing demonstrates command of formal vocabulary and complex syntax appropriate to argumentative writing.
+[447] sophisticated language use (cited 12x): The essay demonstrates more mature and precise word choice and sentence control than the comparison essay.
+[448] sophisticated reasoning (cited 3x): The essay extends its argument beyond personal convenience to consider wider societal and economic implications.
+[449] sophisticated word choice (cited 3x): The essay employs formal, precise academic language appropriate to persuasive writing.
+[450] source engagement (cited 4x): The essay responds to the article's content and context rather than introducing speculative concerns disconnected from the provided material.
+[451] source fidelity (cited 3x): Essay A stays grounded in the article's actual content while Essay B introduces unsupported claims and misinterprets the source material.
+[452] source integration (cited 89x): The essay grounds its argument in specific details and quotations from the source article rather than relying on general assertions.
+[453] source-based argumentation (cited 25x): The essay grounds its claims in specific details and quotations from the article rather than relying on personal anecdote and opinion.
+[454] source-based reasoning (cited 5x): The essay builds its argument from details and ideas actually present in the source article rather than fabricating unrelated claims.
+[455] source-based support (cited 4x): The essay grounds its argument in specific content from the source article, showing engagement with the provided material.
+[456] specific evidence integration (cited 3x): The essay grounds its claims in concrete details from the source and uses them to build its reasoning.
+[457] specific evidence use (cited 11x): The essay grounds its argument in concrete, accurately cited details from the source text.
+[458] specific textual evidence (cited 17x): The essay grounds its argument in concrete, named details from the source article rather than vague references.
+[459] specificity of proposals (cited 4x): The essay offers detailed, concrete suggestions for how driverless cars should be made safe, showing substantive engagement with the topic.
+[460] stronger language control (cited 4x): Essay A demonstrates more mature word choice and syntax than Essay B, which relies on short, repetitive exclamatory sentences.
+[461] structural coherence (cited 13x): The essay follows a clear organizational arc with a stated thesis, developed supporting sections, and a concluding return to the position.
+[462] structural completeness (cited 10x): The essay maintains a clear introduction, body, and conclusion with each body paragraph developing a distinct argumentative point.
+[463] structural development (cited 4x): Essay B moves through distinct points and builds toward a conclusion, while Essay A largely restates its opening without advancing the argument.
+[464] structural organization (cited 60x): The essay follows a coherent argumentative structure with distinct sections that build the case logically.
+[465] structured argumentation (cited 27x): The essay presents a coherent introduction, body, and conclusion with a clear thesis and organized supporting points.
+[466] structured argumentative organization (cited 6x): The essay follows an introduction-body-conclusion structure with a stated thesis and a coherent line of reasoning throughout.
+[467] structured essay organization (cited 3x): The essay follows a deliberate introduction-body-conclusion structure with each section serving a clear rhetorical purpose.
+[468] structured organization (cited 224x): The essay follows a clear argumentative structure with distinct introduction, body, and conclusion sections.
+[469] substantiated claims (cited 3x): Essay B supports its assertions with reasoning and source material, whereas Essay A largely states opinions without backing.
+[470] substantive argumentation (cited 6x): The essay builds its case around meaningful, defensible reasons such as reducing human error and improving safety, rather than trivial or self-serving justifications.
+[471] substantive development (cited 4x): Essay B develops its points with explanation and detail rather than restating the same opinion in different words.
+[472] substantive engagement with source material (cited 3x): Essay A uses details from the article to build and support its reasoning, while Essay B makes only a passing reference to the article.
+[473] substantive reasoning (cited 19x): The essay advances specific, concrete reasons for its position instead of repeatedly asserting that the article lacks information or that questions remain unanswered.
+[474] substantive support (cited 3x): The essay provides concrete, developed points tied to the argument rather than circular or unsupported assertions.
+[475] sustained argument development (cited 3x): Essay A elaborates its central claim through extended reasoning and concrete scenarios, whereas Essay B states points briefly without developing them.
+[476] sustained argumentative focus (cited 8x): The essay keeps its position in view across multiple paragraphs and develops it with supporting reasoning, while Essay A shifts between positions without clear development.
+[477] sustained argumentative position (cited 3x): The essay maintains a consistent, reasoned position on driverless cars and supports it with evidence rather than merely expressing excitement.
+[478] sustained position (cited 3x): The essay keeps its stance clear and consistent from introduction through conclusion, reinforcing its thesis at each step.
+[479] synthesis of source material (cited 3x): The essay integrates source details into the writer's own reasoning rather than relying on extended direct quotations.
+[480] synthesizing conclusion (cited 30x): Essay A's conclusion draws together its distinct arguments into a coherent final position, whereas Essay B's conclusion largely restates its opening claims.
+[481] task adherence (cited 25x): The essay follows the argumentative essay format requested by the assignment and stays on the assigned topic throughout.
+[482] textual evidence integration (cited 77x): The essay supports its claims with direct quotations from the source article, grounding the argument in the text.
+[483] textual evidence use (cited 6x): The essay grounds its claims in specific quoted details from the source article with citations, strengthening the argument's credibility.
+[484] textual grounding (cited 18x): The essay anchors its claims in specific cited evidence from the source article, strengthening the argument's credibility.
+[485] textual integration (cited 5x): The essay incorporates specific evidence from the source article and develops an argument from that evidence rather than making unsupported claims.
+[486] thematic coherence (cited 4x): The essay maintains a consistent central theme about preserving the human factor and ties its conclusion back to that idea.
+[487] thesis clarity (cited 5x): The essay states its position and signals the structure of the argument up front.
+[488] thesis coherence (cited 23x): Essay A states its position up front and consistently ties each body point back to that central claim.
+[489] thesis development (cited 4x): The essay maintains a clear, consistent argumentative stance from introduction through conclusion.
+[490] tone control (cited 5x): The essay maintains a calm, analytical tone appropriate to argumentative writing.
+[491] topical focus (cited 3x): The essay remains consistently relevant to the assignment, whereas Essay B drifts into unrelated movie scenarios and environmental tangents.
+[492] use of evidence (cited 4x): The essay grounds its claims in concrete technical details drawn from the source article.
+[493] use of source details (cited 26x): The essay grounds its argument in specific details from the source article rather than speaking in generalities.
+[494] use of source evidence (cited 193x): The essay integrates specific details and quotations from the source article to support its claims.
+[495] use of source material (cited 25x): The essay grounds its argument in details from the article, connecting its claims to the source text.
+[496] use of source-based evidence (cited 21x): The essay grounds its claims in specific details drawn from the source article.
+[497] use of specific evidence (cited 15x): The essay grounds its argument in concrete facts and examples drawn from the source article rather than vague generalities.
+[498] use of specific supporting evidence (cited 23x): The essay grounds its claims in concrete details from the source article rather than vague assertions.
+[499] use of specific textual evidence (cited 27x): The essay grounds its argument in concrete, named details from the source article rather than vague references.
+[500] use of supporting evidence (cited 31x): The essay grounds its argument in concrete facts and examples drawn from the source article.
+[501] use of supporting evidence from the source (cited 5x): The essay grounds its claims in concrete details drawn from the article rather than relying on vague assertions.
+[502] use of textual evidence (cited 222x): The essay integrates specific details and quotations from the source article to support its claims.
+[503] writing clarity (cited 5x): The essay communicates its ideas in clear, accessible prose with fewer mechanical errors that interfere with meaning.
+[504] writing clarity and control (cited 3x): The essay demonstrates more polished, precise sentence-level writing that communicates ideas clearly and effectively.
+[505] writing control (cited 13x): The essay maintains grammatical clarity and standard academic language, free of the spelling and usage errors that disrupt Essay A.

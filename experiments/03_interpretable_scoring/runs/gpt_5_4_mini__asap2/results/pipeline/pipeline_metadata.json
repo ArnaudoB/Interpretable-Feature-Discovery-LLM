@@ -1,0 +1,22 @@
+{
+  "cell_label": "interpretable_scoring_gpt_5_4_mini__asap2",
+  "judge": "gpt-5.4-mini-2026-03-17",
+  "dataset": "asap2_driverless",
+  "prompt_variant": "comparative_verdict_qualities_asap2_srcarticle",
+  "T_before": 2000,
+  "T_after": 2000,
+  "n": 100,
+  "K": 18,
+  "canonicalization": {
+    "method": "llm_taxonomy",
+    "model": "gpt-5.4-2026-03-05",
+    "reasoning_effort": "high",
+    "n_phrases_in": 324,
+    "n_criteria_raw": 19,
+    "n_criteria_after_other_and_floor": 18,
+    "min_cite": 3,
+    "citation_share_retained": 0.918650592645122,
+    "n_phrases_in_other": 2,
+    "share_floor": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "rho_min": 0.5,
+  "kappa_max": 100.0,
+  "K_before": 18,
+  "K_after": 16,
+  "kept": [
+    "Organization and Structural Coherence",
+    "Evidence Integration and Textual Support",
+    "Logical Reasoning and Explanation",
+    "Counterargument Engagement",
+    "Mechanics, Grammar, and Sentence Control",
+    "Argument Focus and Thesis",
+    "Nuance, Complexity, and Broader Implications",
+    "Argument Development and Breadth",
+    "Conclusion Effectiveness and Closure",
+    "Concrete Illustration and Specificity",
+    "Source Understanding and Engagement",
+    "Contextual Framing and Introduction",
+    "Style, Register, and Voice",
+    "Rhetorical Effectiveness and Audience Engagement",
+    "Task Fulfillment and Completeness",
+    "Accurate Source Representation"
+  ],
+  "dropped": [
+    "Solution Orientation",
+    "Comparative and Analogical Reasoning"
+  ]
+}

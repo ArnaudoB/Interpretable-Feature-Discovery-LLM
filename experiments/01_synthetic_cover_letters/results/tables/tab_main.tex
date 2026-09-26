@@ -1,0 +1,26 @@
+\begin{table}[t]
+\centering
+\small
+\setlength{\tabcolsep}{4pt}
+\resizebox{\linewidth}{!}{%
+\begin{tabular}{@{}c l r r ccccc@{}}
+\toprule
+ & Method & Cost & $K$ & Tracked & Stat.R. & Sem.R. & Attrib. & LK$\downarrow$ \\
+\midrule
+ & \textbf{Ours} & 3.45 & 21 & \textbf{100.0\%} & 0.850 & \textbf{100.0\%} & \textbf{76.2\%} & \textbf{0.090} \\
+\midrule
+\multirow{4}{*}{\rotatebox{90}{\textcolor{black}{\scriptsize Benchmarks}}} & Direct LLM & \textbf{0.26} & 21 & 81.2\% & 0.732 & 81.2\% & 61.9\% & 0.109 \\
+ & Direct LLM--Multi-score & 3.42 & 21 & 81.2\% & 0.787 & 81.2\% & 66.7\% & 0.118 \\
+ & Local LLMs & 2.35 & 23 & 75.0\% & 0.702 & 68.8\% & 47.8\% & 0.110 \\
+ & Local LLMs--Multi-score & 3.27 & 23 & 75.0\% & 0.737 & 68.8\% & 47.8\% & 0.113 \\
+\midrule
+\multirow{4}{*}{\rotatebox{90}{\textcolor{black}{\scriptsize Ablations}}} & Pairwise comparisons + LLM scoring & 3.67 & 32 & 93.8\% & 0.763 & 87.5\% & 40.6\% & 0.093 \\
+ & Pairwise comparisons + LLM scoring--Multi-score & 6.55 & 32 & \textbf{100.0\%} & 0.860 & \textbf{100.0\%} & 43.8\% & 0.104 \\
+ & Reliable features + LLM scoring & 3.60 & 21 & 93.8\% & 0.792 & 93.8\% & 66.7\% & 0.098 \\
+ & Reliable features + LLM scoring--Multi-score & 6.54 & 21 & \textbf{100.0\%} & \textbf{0.868} & \textbf{100.0\%} & 66.7\% & 0.103 \\
+\bottomrule
+\end{tabular}%
+}
+\caption{Per-method point estimates on the single full-data run. Costs are Batch-API prices in USD; $K$ is the number of features the method reports. Tracked, Sem.R., Attrib. in \%; Stat.R. and LK are correlations.}
+\label{tab:main}
+\end{table}

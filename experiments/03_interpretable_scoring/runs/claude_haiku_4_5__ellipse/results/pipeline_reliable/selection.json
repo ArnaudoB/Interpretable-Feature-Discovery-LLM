@@ -1,0 +1,36 @@
+{
+  "rho_min": 0.5,
+  "kappa_max": 100.0,
+  "K_before": 26,
+  "K_after": 9,
+  "kept": [
+    "Sentence Variety",
+    "Support and Elaboration",
+    "Grammar Accuracy",
+    "Vocabulary Control",
+    "Thesis Focus",
+    "Counterargument and Nuance",
+    "Mechanics",
+    "Reasoning and Explanation",
+    "Rhetorical Sophistication"
+  ],
+  "dropped": [
+    "Organization and Coherence",
+    "Spelling",
+    "Sentence Construction",
+    "Technical Accuracy",
+    "Argument Development",
+    "Comprehensibility",
+    "Register",
+    "Narrative Development",
+    "Conceptual Sophistication",
+    "Source Integration",
+    "Audience Awareness",
+    "Genre Awareness",
+    "Conclusion",
+    "Completeness",
+    "Language Consistency",
+    "Voice",
+    "Conciseness"
+  ]
+}

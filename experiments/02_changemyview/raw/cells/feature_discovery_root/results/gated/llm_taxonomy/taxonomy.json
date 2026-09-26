@@ -1,0 +1,2924 @@
+{
+  "criteria": [
+    {
+      "name": "Consistency challenge",
+      "definition": "The reply pressures the OP by showing that their own standard, principle, or rule yields inconsistency or self-undermining conclusions.",
+      "members": [
+        {
+          "index": 0,
+          "name": "direct rebuttal"
+        },
+        {
+          "index": 249,
+          "name": "normative pressure"
+        },
+        {
+          "index": 531,
+          "name": "consistency challenge"
+        },
+        {
+          "index": 628,
+          "name": "consistency pressure"
+        },
+        {
+          "index": 658,
+          "name": "internal inconsistency"
+        }
+      ]
+    },
+    {
+      "name": "Analogical reasoning",
+      "definition": "The argument persuades by comparing the case to parallel real or hypothetical cases, including extended analogies and thought experiments.",
+      "members": [
+        {
+          "index": 1,
+          "name": "analogy use"
+        },
+        {
+          "index": 59,
+          "name": "analogy density"
+        },
+        {
+          "index": 130,
+          "name": "moral analogy"
+        },
+        {
+          "index": 132,
+          "name": "analogical framing"
+        },
+        {
+          "index": 144,
+          "name": "rhetorical analogy"
+        },
+        {
+          "index": 165,
+          "name": "analogical support"
+        },
+        {
+          "index": 190,
+          "name": "concrete analogy"
+        },
+        {
+          "index": 196,
+          "name": "counterfactual framing"
+        },
+        {
+          "index": 200,
+          "name": "illustrative analogy"
+        },
+        {
+          "index": 214,
+          "name": "analogy breadth"
+        },
+        {
+          "index": 215,
+          "name": "thought experiment use"
+        },
+        {
+          "index": 219,
+          "name": "analogical reasoning"
+        },
+        {
+          "index": 231,
+          "name": "everyday analogy"
+        },
+        {
+          "index": 233,
+          "name": "comparative analogy"
+        },
+        {
+          "index": 250,
+          "name": "analogy"
+        },
+        {
+          "index": 280,
+          "name": "thought experiment"
+        },
+        {
+          "index": 333,
+          "name": "analogy vividness"
+        },
+        {
+          "index": 388,
+          "name": "analogy usage"
+        },
+        {
+          "index": 460,
+          "name": "analogical rebuttal"
+        },
+        {
+          "index": 485,
+          "name": "structural analogy"
+        },
+        {
+          "index": 514,
+          "name": "counterfactual reasoning"
+        },
+        {
+          "index": 516,
+          "name": "analogical illustration"
+        },
+        {
+          "index": 554,
+          "name": "counterexample reasoning"
+        },
+        {
+          "index": 575,
+          "name": "workplace analogy"
+        },
+        {
+          "index": 600,
+          "name": "analogy richness"
+        },
+        {
+          "index": 638,
+          "name": "extended analogy"
+        },
+        {
+          "index": 646,
+          "name": "analogical breadth"
+        }
+      ]
+    },
+    {
+      "name": "Challenger experiential grounding",
+      "definition": "The challenger or exchange relies on firsthand experience, self-disclosure, or identity-based testimony as support.",
+      "members": [
+        {
+          "index": 2,
+          "name": "personal anecdote"
+        },
+        {
+          "index": 34,
+          "name": "self-disclosure"
+        },
+        {
+          "index": 39,
+          "name": "personal experience"
+        },
+        {
+          "index": 41,
+          "name": "self-positioning"
+        },
+        {
+          "index": 105,
+          "name": "anecdotal grounding"
+        },
+        {
+          "index": 107,
+          "name": "firsthand experience"
+        },
+        {
+          "index": 121,
+          "name": "personalization"
+        },
+        {
+          "index": 123,
+          "name": "personal vulnerability"
+        },
+        {
+          "index": 145,
+          "name": "first-person testimony"
+        },
+        {
+          "index": 157,
+          "name": "personal example"
+        },
+        {
+          "index": 172,
+          "name": "personal identification"
+        },
+        {
+          "index": 197,
+          "name": "personal credibility"
+        },
+        {
+          "index": 275,
+          "name": "personal counterexample"
+        },
+        {
+          "index": 310,
+          "name": "experiential appeal"
+        },
+        {
+          "index": 313,
+          "name": "firsthand testimony"
+        },
+        {
+          "index": 407,
+          "name": "personal testimonial"
+        },
+        {
+          "index": 547,
+          "name": "personal stance"
+        },
+        {
+          "index": 593,
+          "name": "lived experience"
+        },
+        {
+          "index": 602,
+          "name": "firsthand grounding"
+        },
+        {
+          "index": 620,
+          "name": "personal experience grounding"
+        },
+        {
+          "index": 642,
+          "name": "personal anecdotal grounding"
+        }
+      ]
+    },
+    {
+      "name": "Concessionary rebuttal",
+      "definition": "The challenger softens resistance by explicitly granting part of the OP's point before disagreeing.",
+      "members": [
+        {
+          "index": 4,
+          "name": "concession"
+        },
+        {
+          "index": 104,
+          "name": "concessionary tone"
+        },
+        {
+          "index": 148,
+          "name": "explicit concession"
+        },
+        {
+          "index": 156,
+          "name": "conditional concession"
+        },
+        {
+          "index": 175,
+          "name": "balanced concession"
+        },
+        {
+          "index": 181,
+          "name": "concession framing"
+        },
+        {
+          "index": 228,
+          "name": "concession and qualification"
+        },
+        {
+          "index": 230,
+          "name": "concessionary framing"
+        },
+        {
+          "index": 240,
+          "name": "concessive tone"
+        },
+        {
+          "index": 266,
+          "name": "concession and nuance"
+        },
+        {
+          "index": 268,
+          "name": "concession balance"
+        },
+        {
+          "index": 314,
+          "name": "concession to opponent"
+        },
+        {
+          "index": 403,
+          "name": "concession style"
+        },
+        {
+          "index": 410,
+          "name": "normative concession"
+        },
+        {
+          "index": 506,
+          "name": "concession to OP"
+        },
+        {
+          "index": 517,
+          "name": "concession strength"
+        },
+        {
+          "index": 543,
+          "name": "qualified disagreement"
+        },
+        {
+          "index": 544,
+          "name": "conciliatory tone"
+        },
+        {
+          "index": 582,
+          "name": "hedged concession"
+        },
+        {
+          "index": 641,
+          "name": "concession and reframing"
+        }
+      ]
+    },
+    {
+      "name": "OP empirical grounding",
+      "definition": "The OP supports the original view with concrete evidence, statistics, or sourced comparisons.",
+      "members": [
+        {
+          "index": 5,
+          "name": "empirical support"
+        },
+        {
+          "index": 272,
+          "name": "evidentiary grounding"
+        },
+        {
+          "index": 296,
+          "name": "evidentiary specificity"
+        },
+        {
+          "index": 301,
+          "name": "quantitative grounding"
+        },
+        {
+          "index": 375,
+          "name": "comparative evidence"
+        }
+      ]
+    },
+    {
+      "name": "OP openness and revision",
+      "definition": "The OP presents the view tentatively, signals willingness to update, or explicitly revises it.",
+      "members": [
+        {
+          "index": 6,
+          "name": "openness to revision"
+        },
+        {
+          "index": 9,
+          "name": "epistemic humility"
+        },
+        {
+          "index": 48,
+          "name": "openness to persuasion"
+        },
+        {
+          "index": 103,
+          "name": "epistemic modesty"
+        },
+        {
+          "index": 118,
+          "name": "self-qualification"
+        },
+        {
+          "index": 131,
+          "name": "partial concession"
+        },
+        {
+          "index": 136,
+          "name": "epistemic openness"
+        },
+        {
+          "index": 139,
+          "name": "openness to update"
+        },
+        {
+          "index": 140,
+          "name": "self-awareness"
+        },
+        {
+          "index": 158,
+          "name": "view revision"
+        },
+        {
+          "index": 173,
+          "name": "self-revision"
+        },
+        {
+          "index": 244,
+          "name": "preemptive concession"
+        },
+        {
+          "index": 307,
+          "name": "self-critique"
+        },
+        {
+          "index": 339,
+          "name": "openness to correction"
+        },
+        {
+          "index": 355,
+          "name": "receptiveness"
+        },
+        {
+          "index": 382,
+          "name": "openness"
+        },
+        {
+          "index": 391,
+          "name": "epistemic hedging"
+        },
+        {
+          "index": 425,
+          "name": "openness to concession"
+        },
+        {
+          "index": 432,
+          "name": "openness to evidence"
+        },
+        {
+          "index": 494,
+          "name": "self-doubt"
+        },
+        {
+          "index": 546,
+          "name": "concession and revision"
+        },
+        {
+          "index": 607,
+          "name": "tentativeness"
+        }
+      ]
+    },
+    {
+      "name": "OP causal explanation",
+      "definition": "The OP explains the view with a causal, mechanistic, or psychological account of why the phenomenon occurs.",
+      "members": [
+        {
+          "index": 7,
+          "name": "mechanistic explanation"
+        },
+        {
+          "index": 128,
+          "name": "psychological explanation"
+        },
+        {
+          "index": 323,
+          "name": "causal specificity"
+        },
+        {
+          "index": 529,
+          "name": "causal attribution"
+        }
+      ]
+    },
+    {
+      "name": "Counterexample use",
+      "definition": "The challenger undermines the OP with exceptions, alternative cases, or edge-case scenarios that break the generalization.",
+      "members": [
+        {
+          "index": 8,
+          "name": "counterexample use"
+        },
+        {
+          "index": 21,
+          "name": "counterexample breadth"
+        },
+        {
+          "index": 45,
+          "name": "counterexample specificity"
+        },
+        {
+          "index": 75,
+          "name": "counterexample handling"
+        },
+        {
+          "index": 96,
+          "name": "concrete counterexample"
+        },
+        {
+          "index": 135,
+          "name": "counterexample framing"
+        },
+        {
+          "index": 186,
+          "name": "counterexample rebuttal"
+        },
+        {
+          "index": 201,
+          "name": "counterexample pressure"
+        },
+        {
+          "index": 222,
+          "name": "counterexample appeal"
+        },
+        {
+          "index": 224,
+          "name": "counterexample"
+        },
+        {
+          "index": 317,
+          "name": "counterexample richness"
+        },
+        {
+          "index": 341,
+          "name": "specific counterexample"
+        },
+        {
+          "index": 357,
+          "name": "counterexample support"
+        },
+        {
+          "index": 358,
+          "name": "positive exemplification"
+        },
+        {
+          "index": 378,
+          "name": "counterexample variety"
+        },
+        {
+          "index": 404,
+          "name": "counterexample construction"
+        },
+        {
+          "index": 445,
+          "name": "counterexample style"
+        },
+        {
+          "index": 508,
+          "name": "counterexample diversity"
+        },
+        {
+          "index": 515,
+          "name": "comparative rebuttal"
+        },
+        {
+          "index": 548,
+          "name": "concrete counterexamples"
+        },
+        {
+          "index": 557,
+          "name": "counterexample structure"
+        },
+        {
+          "index": 561,
+          "name": "counterexamples"
+        },
+        {
+          "index": 577,
+          "name": "counterexample challenge"
+        },
+        {
+          "index": 606,
+          "name": "counterexample concreteness"
+        },
+        {
+          "index": 661,
+          "name": "direct counterexample"
+        }
+      ]
+    },
+    {
+      "name": "Qualified rebuttal",
+      "definition": "The challenger narrows the claim, marks exceptions, or emphasizes contextual dependence instead of arguing absolutely.",
+      "members": [
+        {
+          "index": 10,
+          "name": "qualified concession"
+        },
+        {
+          "index": 16,
+          "name": "scope narrowing"
+        },
+        {
+          "index": 29,
+          "name": "hedging"
+        },
+        {
+          "index": 36,
+          "name": "epistemic caution"
+        },
+        {
+          "index": 38,
+          "name": "nuance"
+        },
+        {
+          "index": 42,
+          "name": "exception handling"
+        },
+        {
+          "index": 57,
+          "name": "conditional nuance"
+        },
+        {
+          "index": 60,
+          "name": "nuanced qualification"
+        },
+        {
+          "index": 67,
+          "name": "nuanced concession"
+        },
+        {
+          "index": 78,
+          "name": "scope clarification"
+        },
+        {
+          "index": 91,
+          "name": "epistemic uncertainty"
+        },
+        {
+          "index": 137,
+          "name": "qualified rebuttal"
+        },
+        {
+          "index": 146,
+          "name": "scope restriction"
+        },
+        {
+          "index": 202,
+          "name": "context sensitivity"
+        },
+        {
+          "index": 246,
+          "name": "context dependence"
+        },
+        {
+          "index": 261,
+          "name": "complexity emphasis"
+        },
+        {
+          "index": 286,
+          "name": "balanced framing"
+        },
+        {
+          "index": 290,
+          "name": "self-effacement"
+        },
+        {
+          "index": 298,
+          "name": "conditional openness"
+        },
+        {
+          "index": 360,
+          "name": "scope distinction"
+        },
+        {
+          "index": 373,
+          "name": "nuance and qualification"
+        },
+        {
+          "index": 389,
+          "name": "qualifying nuance"
+        },
+        {
+          "index": 419,
+          "name": "conditionality"
+        },
+        {
+          "index": 533,
+          "name": "contextual qualification"
+        },
+        {
+          "index": 558,
+          "name": "conditional qualification"
+        },
+        {
+          "index": 586,
+          "name": "hedged conclusion"
+        },
+        {
+          "index": 616,
+          "name": "policy nuance"
+        },
+        {
+          "index": 622,
+          "name": "hedged stance"
+        }
+      ]
+    },
+    {
+      "name": "Normative and rights appeal",
+      "definition": "The challenger argues from moral principle, fairness, rights, duty, or harm rather than only from descriptive claims.",
+      "members": [
+        {
+          "index": 11,
+          "name": "moral framing"
+        },
+        {
+          "index": 15,
+          "name": "normative framing"
+        },
+        {
+          "index": 28,
+          "name": "moral condemnation"
+        },
+        {
+          "index": 35,
+          "name": "normative reframing"
+        },
+        {
+          "index": 40,
+          "name": "moral reframing"
+        },
+        {
+          "index": 82,
+          "name": "rights framing"
+        },
+        {
+          "index": 100,
+          "name": "rights-based framing"
+        },
+        {
+          "index": 120,
+          "name": "moral absolutism"
+        },
+        {
+          "index": 126,
+          "name": "philosophical reframing"
+        },
+        {
+          "index": 178,
+          "name": "distributional impact"
+        },
+        {
+          "index": 180,
+          "name": "normative appeal"
+        },
+        {
+          "index": 232,
+          "name": "normative challenge"
+        },
+        {
+          "index": 255,
+          "name": "normative justification"
+        },
+        {
+          "index": 260,
+          "name": "principled rebuttal"
+        },
+        {
+          "index": 274,
+          "name": "moral appeal"
+        },
+        {
+          "index": 324,
+          "name": "consent skepticism"
+        },
+        {
+          "index": 356,
+          "name": "normative rebuttal"
+        },
+        {
+          "index": 368,
+          "name": "fairness framing"
+        },
+        {
+          "index": 412,
+          "name": "normative intensity"
+        },
+        {
+          "index": 433,
+          "name": "moral abstraction"
+        },
+        {
+          "index": 439,
+          "name": "normative distinction"
+        },
+        {
+          "index": 487,
+          "name": "autonomy appeal"
+        },
+        {
+          "index": 496,
+          "name": "moral urgency"
+        },
+        {
+          "index": 505,
+          "name": "harm framing"
+        },
+        {
+          "index": 520,
+          "name": "pluralism appeal"
+        },
+        {
+          "index": 527,
+          "name": "equity concern"
+        },
+        {
+          "index": 530,
+          "name": "principled framing"
+        },
+        {
+          "index": 538,
+          "name": "moral distinction"
+        },
+        {
+          "index": 567,
+          "name": "autonomy framing"
+        },
+        {
+          "index": 594,
+          "name": "fairness appeal"
+        },
+        {
+          "index": 596,
+          "name": "principled distinction"
+        },
+        {
+          "index": 619,
+          "name": "moral exhortation"
+        },
+        {
+          "index": 626,
+          "name": "moral accusation"
+        },
+        {
+          "index": 627,
+          "name": "normative qualification"
+        },
+        {
+          "index": 650,
+          "name": "normative clarification"
+        }
+      ]
+    },
+    {
+      "name": "OP policy specification",
+      "definition": "The OP states a concrete policy, institutional design, or rule with specific boundaries or implementation details.",
+      "members": [
+        {
+          "index": 12,
+          "name": "policy specificity"
+        },
+        {
+          "index": 179,
+          "name": "policy framing"
+        },
+        {
+          "index": 199,
+          "name": "institutional specificity"
+        },
+        {
+          "index": 326,
+          "name": "policy prescription"
+        },
+        {
+          "index": 343,
+          "name": "practical workaround"
+        },
+        {
+          "index": 634,
+          "name": "rule specification"
+        },
+        {
+          "index": 656,
+          "name": "policy alternative"
+        }
+      ]
+    },
+    {
+      "name": "Mechanistic explanation",
+      "definition": "The challenger explains or critiques the causal mechanism by which the disputed outcome would arise.",
+      "members": [
+        {
+          "index": 13,
+          "name": "mechanism explanation"
+        },
+        {
+          "index": 37,
+          "name": "causal explanation"
+        },
+        {
+          "index": 62,
+          "name": "mechanism specificity"
+        },
+        {
+          "index": 77,
+          "name": "causal mechanism"
+        },
+        {
+          "index": 80,
+          "name": "mechanism detail"
+        },
+        {
+          "index": 92,
+          "name": "causal rebuttal"
+        },
+        {
+          "index": 94,
+          "name": "causal framing"
+        },
+        {
+          "index": 163,
+          "name": "technical explanation"
+        },
+        {
+          "index": 166,
+          "name": "mechanistic reasoning"
+        },
+        {
+          "index": 167,
+          "name": "mechanistic detail"
+        },
+        {
+          "index": 245,
+          "name": "causal complexity"
+        },
+        {
+          "index": 254,
+          "name": "mechanism rebuttal"
+        },
+        {
+          "index": 258,
+          "name": "mechanism critique"
+        },
+        {
+          "index": 269,
+          "name": "mechanistic rebuttal"
+        },
+        {
+          "index": 271,
+          "name": "economic mechanism"
+        },
+        {
+          "index": 336,
+          "name": "psychological mechanism"
+        },
+        {
+          "index": 370,
+          "name": "causal chain"
+        },
+        {
+          "index": 399,
+          "name": "mechanism analysis"
+        },
+        {
+          "index": 411,
+          "name": "multi-causal explanation"
+        },
+        {
+          "index": 431,
+          "name": "technical mechanism"
+        },
+        {
+          "index": 443,
+          "name": "explanatory depth"
+        },
+        {
+          "index": 470,
+          "name": "mechanism focus"
+        },
+        {
+          "index": 474,
+          "name": "operational detail"
+        },
+        {
+          "index": 576,
+          "name": "mechanistic specificity"
+        },
+        {
+          "index": 584,
+          "name": "causal elaboration"
+        },
+        {
+          "index": 588,
+          "name": "causal breadth"
+        },
+        {
+          "index": 608,
+          "name": "causal reframing"
+        },
+        {
+          "index": 635,
+          "name": "mechanism depth"
+        }
+      ]
+    },
+    {
+      "name": "Conceptual clarification",
+      "definition": "The challenger disputes definitions, categories, meanings, or criteria in order to reframe the disagreement.",
+      "members": [
+        {
+          "index": 14,
+          "name": "conceptual clarification"
+        },
+        {
+          "index": 20,
+          "name": "conceptual reframing"
+        },
+        {
+          "index": 26,
+          "name": "conceptual distinction"
+        },
+        {
+          "index": 56,
+          "name": "self-correction"
+        },
+        {
+          "index": 85,
+          "name": "definition dispute"
+        },
+        {
+          "index": 160,
+          "name": "conceptual correction"
+        },
+        {
+          "index": 176,
+          "name": "definition challenge"
+        },
+        {
+          "index": 220,
+          "name": "conceptual rebuttal"
+        },
+        {
+          "index": 223,
+          "name": "definition correction"
+        },
+        {
+          "index": 242,
+          "name": "interpretive reframing"
+        },
+        {
+          "index": 300,
+          "name": "definition framing"
+        },
+        {
+          "index": 346,
+          "name": "conceptual challenge"
+        },
+        {
+          "index": 347,
+          "name": "conceptual clarity"
+        },
+        {
+          "index": 430,
+          "name": "definition precision"
+        },
+        {
+          "index": 476,
+          "name": "scope correction"
+        },
+        {
+          "index": 509,
+          "name": "textual ambiguity"
+        },
+        {
+          "index": 541,
+          "name": "strawman correction"
+        },
+        {
+          "index": 589,
+          "name": "conceptual objection"
+        },
+        {
+          "index": 610,
+          "name": "conceptual definition"
+        }
+      ]
+    },
+    {
+      "name": "Reframing and normalization",
+      "definition": "The challenger tries to shift the evaluative lens by redescribing the issue, normalizing it, or offering an alternative way to view it.",
+      "members": [
+        {
+          "index": 25,
+          "name": "reframing"
+        },
+        {
+          "index": 71,
+          "name": "positive reframing"
+        },
+        {
+          "index": 109,
+          "name": "social framing"
+        },
+        {
+          "index": 110,
+          "name": "comparative normalization"
+        },
+        {
+          "index": 129,
+          "name": "counterframing"
+        },
+        {
+          "index": 205,
+          "name": "comparative framing"
+        },
+        {
+          "index": 229,
+          "name": "meta-level reframing"
+        },
+        {
+          "index": 256,
+          "name": "reassurance"
+        },
+        {
+          "index": 303,
+          "name": "risk minimization"
+        },
+        {
+          "index": 316,
+          "name": "conditional reframing"
+        },
+        {
+          "index": 335,
+          "name": "alternative explanation"
+        },
+        {
+          "index": 384,
+          "name": "alternative framework"
+        },
+        {
+          "index": 393,
+          "name": "credibility signaling"
+        },
+        {
+          "index": 424,
+          "name": "stigma rebuttal"
+        },
+        {
+          "index": 504,
+          "name": "psychological reframing"
+        },
+        {
+          "index": 522,
+          "name": "subjective meaning"
+        },
+        {
+          "index": 523,
+          "name": "aesthetic appeal"
+        },
+        {
+          "index": 553,
+          "name": "comparative contrast"
+        },
+        {
+          "index": 556,
+          "name": "empathetic reframing"
+        },
+        {
+          "index": 559,
+          "name": "alternative framing"
+        },
+        {
+          "index": 570,
+          "name": "explanatory reframing"
+        },
+        {
+          "index": 611,
+          "name": "normalization"
+        },
+        {
+          "index": 618,
+          "name": "positive character defense"
+        },
+        {
+          "index": 623,
+          "name": "pragmatic reframing"
+        },
+        {
+          "index": 654,
+          "name": "consensus appeal"
+        },
+        {
+          "index": 657,
+          "name": "subjective framing"
+        }
+      ]
+    },
+    {
+      "name": "Historical framing and legacy",
+      "definition": "The argument appeals to historical context, precedent, innovation, or long-run cultural legacy.",
+      "members": [
+        {
+          "index": 17,
+          "name": "historical analogy"
+        },
+        {
+          "index": 55,
+          "name": "historical framing"
+        },
+        {
+          "index": 74,
+          "name": "historical context"
+        },
+        {
+          "index": 133,
+          "name": "historical precedent"
+        },
+        {
+          "index": 221,
+          "name": "historical grounding"
+        },
+        {
+          "index": 320,
+          "name": "innovation emphasis"
+        },
+        {
+          "index": 381,
+          "name": "historical contextualization"
+        },
+        {
+          "index": 455,
+          "name": "historical breadth"
+        },
+        {
+          "index": 458,
+          "name": "legacy appeal"
+        },
+        {
+          "index": 462,
+          "name": "legacy emphasis"
+        },
+        {
+          "index": 492,
+          "name": "cultural impact"
+        },
+        {
+          "index": 573,
+          "name": "historical exemplification"
+        },
+        {
+          "index": 578,
+          "name": "historical evidence"
+        },
+        {
+          "index": 633,
+          "name": "historical illustration"
+        }
+      ]
+    },
+    {
+      "name": "Exchange empirical framing",
+      "definition": "The exchange is framed in empirical or quantitative terms, emphasizing measurement, data, or evidentiary specificity.",
+      "members": [
+        {
+          "index": 18,
+          "name": "empirical grounding"
+        },
+        {
+          "index": 23,
+          "name": "quantitative support"
+        },
+        {
+          "index": 44,
+          "name": "empirical specificity"
+        },
+        {
+          "index": 93,
+          "name": "quantitative evidence"
+        },
+        {
+          "index": 102,
+          "name": "quantification"
+        },
+        {
+          "index": 161,
+          "name": "empirical evidence"
+        },
+        {
+          "index": 188,
+          "name": "empirical framing"
+        },
+        {
+          "index": 209,
+          "name": "quantitative reasoning"
+        },
+        {
+          "index": 217,
+          "name": "quantitative framing"
+        },
+        {
+          "index": 248,
+          "name": "empirical illustration"
+        },
+        {
+          "index": 253,
+          "name": "quantitative specificity"
+        },
+        {
+          "index": 327,
+          "name": "evidence specificity"
+        },
+        {
+          "index": 352,
+          "name": "evidence use"
+        },
+        {
+          "index": 383,
+          "name": "statistical framing"
+        },
+        {
+          "index": 418,
+          "name": "evidence style"
+        },
+        {
+          "index": 437,
+          "name": "illustrative evidence"
+        },
+        {
+          "index": 473,
+          "name": "forensic specificity"
+        },
+        {
+          "index": 614,
+          "name": "local specificity"
+        },
+        {
+          "index": 651,
+          "name": "controlled comparison"
+        }
+      ]
+    },
+    {
+      "name": "Challenger evidentiary support",
+      "definition": "The challenger backs the rebuttal with external evidence, citations, factual corrections, or expert authority.",
+      "members": [
+        {
+          "index": 69,
+          "name": "factual correction"
+        },
+        {
+          "index": 81,
+          "name": "evidentiary support"
+        },
+        {
+          "index": 90,
+          "name": "empirical rebuttal"
+        },
+        {
+          "index": 111,
+          "name": "evidential support"
+        },
+        {
+          "index": 113,
+          "name": "external support"
+        },
+        {
+          "index": 143,
+          "name": "scientific grounding"
+        },
+        {
+          "index": 147,
+          "name": "external citation"
+        },
+        {
+          "index": 164,
+          "name": "external evidence"
+        },
+        {
+          "index": 177,
+          "name": "evidentiary grounding"
+        },
+        {
+          "index": 182,
+          "name": "empirical citation"
+        },
+        {
+          "index": 213,
+          "name": "evidence density"
+        },
+        {
+          "index": 225,
+          "name": "statistical support"
+        },
+        {
+          "index": 243,
+          "name": "quantitative rebuttal"
+        },
+        {
+          "index": 251,
+          "name": "external authority"
+        },
+        {
+          "index": 252,
+          "name": "factual rebuttal"
+        },
+        {
+          "index": 285,
+          "name": "textual grounding"
+        },
+        {
+          "index": 321,
+          "name": "empirical backing"
+        },
+        {
+          "index": 340,
+          "name": "use of external evidence"
+        },
+        {
+          "index": 345,
+          "name": "citation density"
+        },
+        {
+          "index": 362,
+          "name": "textual citation"
+        },
+        {
+          "index": 366,
+          "name": "appeal to evidence"
+        },
+        {
+          "index": 369,
+          "name": "appeal to consensus"
+        },
+        {
+          "index": 380,
+          "name": "external sourcing"
+        },
+        {
+          "index": 408,
+          "name": "empirical scaffolding"
+        },
+        {
+          "index": 441,
+          "name": "source citation"
+        },
+        {
+          "index": 457,
+          "name": "empirical sourcing"
+        },
+        {
+          "index": 464,
+          "name": "source support"
+        },
+        {
+          "index": 482,
+          "name": "use of evidence"
+        },
+        {
+          "index": 483,
+          "name": "supporting evidence"
+        },
+        {
+          "index": 495,
+          "name": "credentialed expertise"
+        },
+        {
+          "index": 599,
+          "name": "empirical correction"
+        },
+        {
+          "index": 603,
+          "name": "external corroboration"
+        }
+      ]
+    },
+    {
+      "name": "Rhetorical questioning",
+      "definition": "The challenger presses the point through pointed questions or requests for clarification rather than only direct assertion.",
+      "members": [
+        {
+          "index": 47,
+          "name": "rhetorical questioning"
+        },
+        {
+          "index": 438,
+          "name": "clarification request"
+        },
+        {
+          "index": 545,
+          "name": "Socratic probing"
+        },
+        {
+          "index": 555,
+          "name": "clarifying question"
+        },
+        {
+          "index": 605,
+          "name": "probing questions"
+        },
+        {
+          "index": 636,
+          "name": "clarification seeking"
+        }
+      ]
+    },
+    {
+      "name": "Structured rebuttal development",
+      "definition": "The challenger builds an organized, multi-step, or multi-pronged case rather than a single bare point.",
+      "members": [
+        {
+          "index": 22,
+          "name": "argument structure"
+        },
+        {
+          "index": 154,
+          "name": "structured reasoning"
+        },
+        {
+          "index": 168,
+          "name": "argument elaboration"
+        },
+        {
+          "index": 236,
+          "name": "multi-pronged support"
+        },
+        {
+          "index": 241,
+          "name": "multi-pronged rebuttal"
+        },
+        {
+          "index": 332,
+          "name": "formal reasoning"
+        },
+        {
+          "index": 395,
+          "name": "scope of rebuttal"
+        },
+        {
+          "index": 428,
+          "name": "argument complexity"
+        },
+        {
+          "index": 459,
+          "name": "counterargument breadth"
+        },
+        {
+          "index": 463,
+          "name": "argument depth"
+        },
+        {
+          "index": 512,
+          "name": "multi-pronged justification"
+        }
+      ]
+    },
+    {
+      "name": "Confrontational tone",
+      "definition": "The reply relies on combative, loaded, mocking, or emotionally aggressive rhetoric.",
+      "members": [
+        {
+          "index": 24,
+          "name": "emotional intensity"
+        },
+        {
+          "index": 31,
+          "name": "adversarial tone"
+        },
+        {
+          "index": 51,
+          "name": "dismissive tone"
+        },
+        {
+          "index": 83,
+          "name": "rhetorical intensity"
+        },
+        {
+          "index": 185,
+          "name": "confrontational tone"
+        },
+        {
+          "index": 284,
+          "name": "moralizing tone"
+        },
+        {
+          "index": 289,
+          "name": "rhetorical force"
+        },
+        {
+          "index": 325,
+          "name": "rhetorical aggressiveness"
+        },
+        {
+          "index": 330,
+          "name": "emotive intensity"
+        },
+        {
+          "index": 338,
+          "name": "catastrophic framing"
+        },
+        {
+          "index": 353,
+          "name": "adversarial framing"
+        },
+        {
+          "index": 359,
+          "name": "rhetorical confrontation"
+        },
+        {
+          "index": 394,
+          "name": "loaded framing"
+        },
+        {
+          "index": 398,
+          "name": "tone"
+        },
+        {
+          "index": 409,
+          "name": "ad hominem tone"
+        },
+        {
+          "index": 440,
+          "name": "rhetorical escalation"
+        },
+        {
+          "index": 446,
+          "name": "emotive framing"
+        },
+        {
+          "index": 456,
+          "name": "rhetorical heat"
+        },
+        {
+          "index": 471,
+          "name": "rhetorical tone"
+        },
+        {
+          "index": 472,
+          "name": "rhetorical style"
+        },
+        {
+          "index": 507,
+          "name": "rhetorical skepticism"
+        },
+        {
+          "index": 562,
+          "name": "rhetorical aggression"
+        },
+        {
+          "index": 563,
+          "name": "informal tone"
+        },
+        {
+          "index": 585,
+          "name": "mocking tone"
+        },
+        {
+          "index": 590,
+          "name": "hostility"
+        },
+        {
+          "index": 663,
+          "name": "rhetorical sharpness"
+        }
+      ]
+    },
+    {
+      "name": "Rhetorical vividness",
+      "definition": "The argument uses especially vivid phrasing, storytelling, or memorable imagery to make the point stick.",
+      "members": [
+        {
+          "index": 95,
+          "name": "rhetorical flourish"
+        },
+        {
+          "index": 101,
+          "name": "rhetorical vividness"
+        },
+        {
+          "index": 226,
+          "name": "narrative appeal"
+        },
+        {
+          "index": 400,
+          "name": "emotional vividness"
+        },
+        {
+          "index": 461,
+          "name": "concrete anecdote"
+        },
+        {
+          "index": 601,
+          "name": "emotive vividness"
+        }
+      ]
+    },
+    {
+      "name": "Concrete illustration",
+      "definition": "The argument makes its case through specific, vivid, or worked-through examples rather than abstraction alone.",
+      "members": [
+        {
+          "index": 27,
+          "name": "concrete examples"
+        },
+        {
+          "index": 65,
+          "name": "concrete example"
+        },
+        {
+          "index": 68,
+          "name": "concrete illustration"
+        },
+        {
+          "index": 79,
+          "name": "concreteness"
+        },
+        {
+          "index": 84,
+          "name": "concrete exemplification"
+        },
+        {
+          "index": 108,
+          "name": "worked example"
+        },
+        {
+          "index": 207,
+          "name": "supporting examples"
+        },
+        {
+          "index": 276,
+          "name": "example density"
+        },
+        {
+          "index": 291,
+          "name": "specificity of examples"
+        },
+        {
+          "index": 312,
+          "name": "use of concrete examples"
+        },
+        {
+          "index": 334,
+          "name": "illustrative example"
+        },
+        {
+          "index": 374,
+          "name": "specific examples"
+        },
+        {
+          "index": 377,
+          "name": "concrete example use"
+        },
+        {
+          "index": 423,
+          "name": "use of examples"
+        },
+        {
+          "index": 442,
+          "name": "concrete scenario"
+        },
+        {
+          "index": 489,
+          "name": "concrete exemplars"
+        },
+        {
+          "index": 511,
+          "name": "illustrative specificity"
+        },
+        {
+          "index": 528,
+          "name": "concreteness of examples"
+        },
+        {
+          "index": 568,
+          "name": "example breadth"
+        },
+        {
+          "index": 615,
+          "name": "example specificity"
+        }
+      ]
+    },
+    {
+      "name": "Legal and institutional framing",
+      "definition": "The challenger grounds the rebuttal in law, institutions, official roles, or procedural distinctions.",
+      "members": [
+        {
+          "index": 30,
+          "name": "institutional framing"
+        },
+        {
+          "index": 43,
+          "name": "legal framing"
+        },
+        {
+          "index": 134,
+          "name": "legal specificity"
+        },
+        {
+          "index": 150,
+          "name": "legal precision"
+        },
+        {
+          "index": 183,
+          "name": "constitutional framing"
+        },
+        {
+          "index": 203,
+          "name": "institutional critique"
+        },
+        {
+          "index": 263,
+          "name": "legal nuance"
+        },
+        {
+          "index": 273,
+          "name": "legal grounding"
+        },
+        {
+          "index": 319,
+          "name": "institutional rebuttal"
+        },
+        {
+          "index": 367,
+          "name": "role separation"
+        },
+        {
+          "index": 534,
+          "name": "institutional grounding"
+        },
+        {
+          "index": 537,
+          "name": "legal distinction"
+        },
+        {
+          "index": 643,
+          "name": "legal doctrine"
+        }
+      ]
+    },
+    {
+      "name": "Meta-level epistemic challenge",
+      "definition": "The challenger contests the framing, method, evidence standards, or burden of proof rather than only the first-order claim.",
+      "members": [
+        {
+          "index": 63,
+          "name": "burden shifting"
+        },
+        {
+          "index": 152,
+          "name": "meta-critique"
+        },
+        {
+          "index": 189,
+          "name": "methodological framing"
+        },
+        {
+          "index": 194,
+          "name": "evidentiary demand"
+        },
+        {
+          "index": 210,
+          "name": "alternative epistemology"
+        },
+        {
+          "index": 299,
+          "name": "meta-argumentation"
+        },
+        {
+          "index": 337,
+          "name": "epistemic critique"
+        },
+        {
+          "index": 365,
+          "name": "meta-level critique"
+        },
+        {
+          "index": 397,
+          "name": "epistemic burden"
+        },
+        {
+          "index": 434,
+          "name": "meta-level framing"
+        },
+        {
+          "index": 493,
+          "name": "burden shift"
+        },
+        {
+          "index": 500,
+          "name": "meta-framing"
+        },
+        {
+          "index": 524,
+          "name": "epistemic scope"
+        },
+        {
+          "index": 598,
+          "name": "burden-shifting"
+        },
+        {
+          "index": 621,
+          "name": "source criticism"
+        },
+        {
+          "index": 630,
+          "name": "argument framing"
+        },
+        {
+          "index": 647,
+          "name": "empirical invitation"
+        },
+        {
+          "index": 660,
+          "name": "counterevidence"
+        }
+      ]
+    },
+    {
+      "name": "Practical consequences and feasibility",
+      "definition": "The challenger evaluates the view in terms of real-world effects, costs, risks, tradeoffs, or implementability.",
+      "members": [
+        {
+          "index": 73,
+          "name": "economic framing"
+        },
+        {
+          "index": 87,
+          "name": "downstream consequences"
+        },
+        {
+          "index": 97,
+          "name": "practical consequences"
+        },
+        {
+          "index": 116,
+          "name": "tradeoff framing"
+        },
+        {
+          "index": 124,
+          "name": "cost-benefit framing"
+        },
+        {
+          "index": 138,
+          "name": "practical feasibility"
+        },
+        {
+          "index": 142,
+          "name": "risk framing"
+        },
+        {
+          "index": 218,
+          "name": "benefit enumeration"
+        },
+        {
+          "index": 227,
+          "name": "instrumental justification"
+        },
+        {
+          "index": 237,
+          "name": "practical rebuttal"
+        },
+        {
+          "index": 259,
+          "name": "policy feasibility"
+        },
+        {
+          "index": 282,
+          "name": "career specificity"
+        },
+        {
+          "index": 292,
+          "name": "functional justification"
+        },
+        {
+          "index": 306,
+          "name": "cost framing"
+        },
+        {
+          "index": 318,
+          "name": "harm severity"
+        },
+        {
+          "index": 331,
+          "name": "misuse risk"
+        },
+        {
+          "index": 342,
+          "name": "practical necessity"
+        },
+        {
+          "index": 363,
+          "name": "practical convenience"
+        },
+        {
+          "index": 364,
+          "name": "countervailing benefits"
+        },
+        {
+          "index": 392,
+          "name": "strategic framing"
+        },
+        {
+          "index": 402,
+          "name": "practical consequence"
+        },
+        {
+          "index": 420,
+          "name": "pragmatic framing"
+        },
+        {
+          "index": 435,
+          "name": "practical stakes"
+        },
+        {
+          "index": 436,
+          "name": "pragmatic justification"
+        },
+        {
+          "index": 447,
+          "name": "pragmatic compromise"
+        },
+        {
+          "index": 448,
+          "name": "policy consequences"
+        },
+        {
+          "index": 449,
+          "name": "cost emphasis"
+        },
+        {
+          "index": 468,
+          "name": "practical tradeoff framing"
+        },
+        {
+          "index": 480,
+          "name": "time horizon"
+        },
+        {
+          "index": 490,
+          "name": "self-interest appeal"
+        },
+        {
+          "index": 491,
+          "name": "cost-benefit reasoning"
+        },
+        {
+          "index": 498,
+          "name": "cost comparison"
+        },
+        {
+          "index": 501,
+          "name": "practical tradeoff"
+        },
+        {
+          "index": 503,
+          "name": "future regret appeal"
+        },
+        {
+          "index": 532,
+          "name": "strategic rebuttal"
+        },
+        {
+          "index": 539,
+          "name": "secondary benefits"
+        },
+        {
+          "index": 569,
+          "name": "feasibility rebuttal"
+        },
+        {
+          "index": 587,
+          "name": "practical justification"
+        },
+        {
+          "index": 609,
+          "name": "feasibility critique"
+        },
+        {
+          "index": 612,
+          "name": "necessity framing"
+        },
+        {
+          "index": 649,
+          "name": "unintended consequences"
+        },
+        {
+          "index": 655,
+          "name": "consequential reasoning"
+        }
+      ]
+    },
+    {
+      "name": "Alternative proposal and guidance",
+      "definition": "The challenger offers concrete substitute policies, remedies, or practical steps instead of only criticizing.",
+      "members": [
+        {
+          "index": 46,
+          "name": "alternative proposal"
+        },
+        {
+          "index": 153,
+          "name": "procedural specificity"
+        },
+        {
+          "index": 162,
+          "name": "actionable advice"
+        },
+        {
+          "index": 206,
+          "name": "alternative solution"
+        },
+        {
+          "index": 208,
+          "name": "practical guidance"
+        },
+        {
+          "index": 264,
+          "name": "practical advice"
+        },
+        {
+          "index": 294,
+          "name": "proposal specificity"
+        },
+        {
+          "index": 308,
+          "name": "actionability"
+        },
+        {
+          "index": 309,
+          "name": "implementation detail"
+        },
+        {
+          "index": 315,
+          "name": "policy concreteness"
+        },
+        {
+          "index": 422,
+          "name": "solution orientation"
+        },
+        {
+          "index": 450,
+          "name": "practical alternatives"
+        },
+        {
+          "index": 453,
+          "name": "methodological rebuttal"
+        },
+        {
+          "index": 466,
+          "name": "behavioral prescription"
+        },
+        {
+          "index": 469,
+          "name": "counterproposal"
+        },
+        {
+          "index": 481,
+          "name": "alternative remedy"
+        },
+        {
+          "index": 551,
+          "name": "actionable guidance"
+        },
+        {
+          "index": 564,
+          "name": "compromise framing"
+        },
+        {
+          "index": 645,
+          "name": "action guidance"
+        },
+        {
+          "index": 648,
+          "name": "practical safety guidance"
+        }
+      ]
+    },
+    {
+      "name": "Structural explanation",
+      "definition": "The challenger explains the issue through broader social, cultural, or systemic forces rather than isolated choices.",
+      "members": [
+        {
+          "index": 122,
+          "name": "structural explanation"
+        },
+        {
+          "index": 141,
+          "name": "structural framing"
+        },
+        {
+          "index": 171,
+          "name": "market explanation"
+        },
+        {
+          "index": 212,
+          "name": "cultural framing"
+        },
+        {
+          "index": 257,
+          "name": "contextualization"
+        },
+        {
+          "index": 283,
+          "name": "contextual framing"
+        },
+        {
+          "index": 288,
+          "name": "internal factionalism"
+        },
+        {
+          "index": 354,
+          "name": "structural analysis"
+        },
+        {
+          "index": 429,
+          "name": "institutional inertia"
+        },
+        {
+          "index": 484,
+          "name": "systemic framing"
+        },
+        {
+          "index": 510,
+          "name": "meta framing"
+        },
+        {
+          "index": 591,
+          "name": "social explanation"
+        }
+      ]
+    },
+    {
+      "name": "Emotional appeal and empathy",
+      "definition": "The reply persuades through feelings, empathy, reassurance, or existential/personal significance.",
+      "members": [
+        {
+          "index": 98,
+          "name": "emotional appeal"
+        },
+        {
+          "index": 270,
+          "name": "emotional framing"
+        },
+        {
+          "index": 349,
+          "name": "existential framing"
+        },
+        {
+          "index": 350,
+          "name": "emotional tone"
+        },
+        {
+          "index": 405,
+          "name": "emotional reassurance"
+        },
+        {
+          "index": 560,
+          "name": "empathy appeal"
+        },
+        {
+          "index": 592,
+          "name": "perspective taking"
+        },
+        {
+          "index": 617,
+          "name": "emotional vulnerability"
+        },
+        {
+          "index": 632,
+          "name": "existential appeal"
+        }
+      ]
+    },
+    {
+      "name": "Abstract or technical framing",
+      "definition": "The exchange reasons at a more theoretical, philosophical, scientific, or specialized level rather than in everyday concrete terms.",
+      "members": [
+        {
+          "index": 19,
+          "name": "technical specificity"
+        },
+        {
+          "index": 33,
+          "name": "philosophical abstraction"
+        },
+        {
+          "index": 52,
+          "name": "theoretical framing"
+        },
+        {
+          "index": 54,
+          "name": "conceptual framing"
+        },
+        {
+          "index": 76,
+          "name": "theoretical abstraction"
+        },
+        {
+          "index": 86,
+          "name": "abstraction level"
+        },
+        {
+          "index": 193,
+          "name": "accessibility"
+        },
+        {
+          "index": 195,
+          "name": "technical reasoning"
+        },
+        {
+          "index": 238,
+          "name": "specificity"
+        },
+        {
+          "index": 277,
+          "name": "abstractness"
+        },
+        {
+          "index": 305,
+          "name": "technical grounding"
+        },
+        {
+          "index": 322,
+          "name": "technical detail"
+        },
+        {
+          "index": 348,
+          "name": "technical framing"
+        },
+        {
+          "index": 401,
+          "name": "metaphysical framing"
+        },
+        {
+          "index": 413,
+          "name": "scientific framing"
+        },
+        {
+          "index": 421,
+          "name": "abstract philosophical framing"
+        },
+        {
+          "index": 426,
+          "name": "abstract framing"
+        },
+        {
+          "index": 465,
+          "name": "diagnostic framing"
+        },
+        {
+          "index": 502,
+          "name": "abstraction"
+        },
+        {
+          "index": 518,
+          "name": "biological framing"
+        }
+      ]
+    },
+    {
+      "name": "Targeted rebuttal",
+      "definition": "The challenger engages the OP's specific claims, premises, or subpoints directly and often one by one.",
+      "members": [
+        {
+          "index": 106,
+          "name": "direct refutation"
+        },
+        {
+          "index": 119,
+          "name": "targeted rebuttal"
+        },
+        {
+          "index": 125,
+          "name": "point-by-point rebuttal"
+        },
+        {
+          "index": 159,
+          "name": "directness"
+        },
+        {
+          "index": 235,
+          "name": "directness of rebuttal"
+        },
+        {
+          "index": 344,
+          "name": "premise challenge"
+        },
+        {
+          "index": 376,
+          "name": "argument specificity"
+        },
+        {
+          "index": 427,
+          "name": "direct challenge"
+        },
+        {
+          "index": 454,
+          "name": "point-by-point engagement"
+        },
+        {
+          "index": 479,
+          "name": "rebuttal specificity"
+        },
+        {
+          "index": 499,
+          "name": "direct counterclaim"
+        },
+        {
+          "index": 540,
+          "name": "counterfactual rebuttal"
+        },
+        {
+          "index": 549,
+          "name": "counterargument engagement"
+        },
+        {
+          "index": 552,
+          "name": "granularity"
+        },
+        {
+          "index": 597,
+          "name": "direct engagement"
+        },
+        {
+          "index": 637,
+          "name": "specificity of rebuttal"
+        },
+        {
+          "index": 652,
+          "name": "premise rebuttal"
+        },
+        {
+          "index": 662,
+          "name": "specific rebuttal"
+        }
+      ]
+    },
+    {
+      "name": "OP personal grounding",
+      "definition": "The OP grounds the original view in personal context, self-description, or anecdotal observation.",
+      "members": [
+        {
+          "index": 3,
+          "name": "personal testimony"
+        },
+        {
+          "index": 99,
+          "name": "personal disclosure"
+        },
+        {
+          "index": 114,
+          "name": "anecdotal support"
+        },
+        {
+          "index": 361,
+          "name": "personal context"
+        },
+        {
+          "index": 371,
+          "name": "self-reflection"
+        },
+        {
+          "index": 415,
+          "name": "self-presentation"
+        },
+        {
+          "index": 571,
+          "name": "anecdotal illustration"
+        }
+      ]
+    },
+    {
+      "name": "OP personal stakes",
+      "definition": "The OP frames the issue in terms of personal frustration, emotional burden, self-interest, or consequences for loved ones.",
+      "members": [
+        {
+          "index": 72,
+          "name": "personal stakes"
+        },
+        {
+          "index": 127,
+          "name": "personal stake"
+        },
+        {
+          "index": 386,
+          "name": "existential finality"
+        },
+        {
+          "index": 452,
+          "name": "personal grievance"
+        },
+        {
+          "index": 513,
+          "name": "emotional detachment"
+        },
+        {
+          "index": 521,
+          "name": "emotional stakes"
+        },
+        {
+          "index": 525,
+          "name": "practical inconvenience"
+        },
+        {
+          "index": 526,
+          "name": "self-interest framing"
+        },
+        {
+          "index": 550,
+          "name": "personal distress"
+        },
+        {
+          "index": 644,
+          "name": "benefit framing"
+        }
+      ]
+    },
+    {
+      "name": "OP evidence orientation",
+      "definition": "The OP defines the debate around evidence standards, expertise, or who bears the burden of proof.",
+      "members": [
+        {
+          "index": 32,
+          "name": "appeal to authority"
+        },
+        {
+          "index": 149,
+          "name": "appeal to expertise"
+        },
+        {
+          "index": 155,
+          "name": "epistemic skepticism"
+        },
+        {
+          "index": 216,
+          "name": "evidence demand"
+        },
+        {
+          "index": 247,
+          "name": "epistemic framing"
+        },
+        {
+          "index": 293,
+          "name": "evidence orientation"
+        },
+        {
+          "index": 295,
+          "name": "burden of proof"
+        }
+      ]
+    },
+    {
+      "name": "OP qualification",
+      "definition": "The OP narrows the thesis with caveats, exclusions, or explicit limits.",
+      "members": [
+        {
+          "index": 50,
+          "name": "scope limitation"
+        },
+        {
+          "index": 58,
+          "name": "scope qualification"
+        },
+        {
+          "index": 66,
+          "name": "qualification"
+        },
+        {
+          "index": 174,
+          "name": "qualified stance"
+        },
+        {
+          "index": 328,
+          "name": "qualified claim"
+        },
+        {
+          "index": 536,
+          "name": "preemptive qualification"
+        },
+        {
+          "index": 565,
+          "name": "tone moderation"
+        }
+      ]
+    },
+    {
+      "name": "OP absolutism and generalization",
+      "definition": "The OP states the view in broad, categorical, sweeping, or high-certainty terms.",
+      "members": [
+        {
+          "index": 49,
+          "name": "scope of claim"
+        },
+        {
+          "index": 192,
+          "name": "assertive certainty"
+        },
+        {
+          "index": 265,
+          "name": "scope of concern"
+        },
+        {
+          "index": 267,
+          "name": "assertiveness"
+        },
+        {
+          "index": 278,
+          "name": "generalization breadth"
+        },
+        {
+          "index": 297,
+          "name": "generalization strength"
+        },
+        {
+          "index": 302,
+          "name": "normative absolutism"
+        },
+        {
+          "index": 379,
+          "name": "normative force"
+        },
+        {
+          "index": 417,
+          "name": "deterministic framing"
+        },
+        {
+          "index": 488,
+          "name": "absolute framing"
+        },
+        {
+          "index": 519,
+          "name": "normative certainty"
+        },
+        {
+          "index": 583,
+          "name": "absolute claim"
+        },
+        {
+          "index": 640,
+          "name": "fatalism"
+        }
+      ]
+    },
+    {
+      "name": "OP structured case",
+      "definition": "The OP lays out the view as an organized, multi-part case and may preempt objections within it.",
+      "members": [
+        {
+          "index": 61,
+          "name": "structured rebuttal"
+        },
+        {
+          "index": 89,
+          "name": "structured case"
+        },
+        {
+          "index": 112,
+          "name": "preemptive rebuttal"
+        },
+        {
+          "index": 169,
+          "name": "concession handling"
+        },
+        {
+          "index": 184,
+          "name": "illustrative examples"
+        },
+        {
+          "index": 234,
+          "name": "structured enumeration"
+        },
+        {
+          "index": 281,
+          "name": "multi-pronged case"
+        },
+        {
+          "index": 390,
+          "name": "structured argumentation"
+        },
+        {
+          "index": 566,
+          "name": "worked examples"
+        },
+        {
+          "index": 581,
+          "name": "argument style"
+        }
+      ]
+    },
+    {
+      "name": "OP definition-setting",
+      "definition": "The OP tries to control the debate by explicitly defining key terms or category boundaries.",
+      "members": [
+        {
+          "index": 88,
+          "name": "conceptual precision"
+        },
+        {
+          "index": 629,
+          "name": "definition setting"
+        },
+        {
+          "index": 639,
+          "name": "definition clarity"
+        }
+      ]
+    },
+    {
+      "name": "OP moral framing",
+      "definition": "The OP presents the issue in moral, ethical, rights-based, or blame-laden terms.",
+      "members": [
+        {
+          "index": 64,
+          "name": "philosophical framing"
+        },
+        {
+          "index": 170,
+          "name": "moralized framing"
+        },
+        {
+          "index": 387,
+          "name": "moral intensity"
+        },
+        {
+          "index": 406,
+          "name": "normative condemnation"
+        },
+        {
+          "index": 414,
+          "name": "moral alarm"
+        },
+        {
+          "index": 444,
+          "name": "moralization"
+        },
+        {
+          "index": 497,
+          "name": "normative abstraction"
+        },
+        {
+          "index": 535,
+          "name": "moral severity"
+        },
+        {
+          "index": 625,
+          "name": "harm escalation"
+        }
+      ]
+    },
+    {
+      "name": "OP dismissive framing",
+      "definition": "The OP characterizes opponents or alternatives as irrational, bad-faith, or ideologically suspect.",
+      "members": [
+        {
+          "index": 53,
+          "name": "conspiracy framing"
+        },
+        {
+          "index": 187,
+          "name": "rhetorical framing"
+        },
+        {
+          "index": 287,
+          "name": "dismissiveness"
+        },
+        {
+          "index": 304,
+          "name": "dismissive framing"
+        },
+        {
+          "index": 329,
+          "name": "ideological framing"
+        },
+        {
+          "index": 372,
+          "name": "skeptical framing"
+        }
+      ]
+    },
+    {
+      "name": "Scope broadening",
+      "definition": "The exchange expands or contracts the discussion by moving between narrow cases and wider principles or issue areas.",
+      "members": [
+        {
+          "index": 70,
+          "name": "argument breadth"
+        },
+        {
+          "index": 198,
+          "name": "scope expansion"
+        },
+        {
+          "index": 204,
+          "name": "policy breadth"
+        },
+        {
+          "index": 262,
+          "name": "generalization scope"
+        },
+        {
+          "index": 279,
+          "name": "scope control"
+        },
+        {
+          "index": 475,
+          "name": "scope broadening"
+        },
+        {
+          "index": 477,
+          "name": "generalization"
+        },
+        {
+          "index": 478,
+          "name": "policy scope"
+        },
+        {
+          "index": 624,
+          "name": "issue breadth"
+        },
+        {
+          "index": 659,
+          "name": "broad generalization"
+        }
+      ]
+    },
+    {
+      "name": "Audience tailoring",
+      "definition": "The challenger tailors the argument to particular subgroups, audiences, or the OP's specific situation.",
+      "members": [
+        {
+          "index": 211,
+          "name": "audience segmentation"
+        },
+        {
+          "index": 351,
+          "name": "conditional framing"
+        },
+        {
+          "index": 385,
+          "name": "audience tailoring"
+        },
+        {
+          "index": 467,
+          "name": "personalized rebuttal"
+        }
+      ]
+    },
+    {
+      "name": "OP meta-discussion",
+      "definition": "The OP explicitly sets discussion rules or requests a particular style of explanation before the substantive debate.",
+      "members": [
+        {
+          "index": 115,
+          "name": "meta-discussion"
+        },
+        {
+          "index": 542,
+          "name": "accessibility request"
+        }
+      ]
+    },
+    {
+      "name": "Psychological framing and diagnosis",
+      "definition": "The challenger interprets views or behavior in terms of motives, traits, psychology, or developmental state.",
+      "members": [
+        {
+          "index": 117,
+          "name": "psychological diagnosis"
+        },
+        {
+          "index": 151,
+          "name": "psychological framing"
+        },
+        {
+          "index": 191,
+          "name": "motive attribution"
+        },
+        {
+          "index": 574,
+          "name": "blame shifting"
+        },
+        {
+          "index": 604,
+          "name": "trait inference"
+        },
+        {
+          "index": 631,
+          "name": "psychological probing"
+        },
+        {
+          "index": 653,
+          "name": "developmental framing"
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "definition": "Genuinely distinct, debate-specific, or otherwise non-recurring dimensions that do not clearly collapse into a broader construct.",
+      "members": [
+        {
+          "index": 239,
+          "name": "binary framing"
+        },
+        {
+          "index": 311,
+          "name": "tool inventory"
+        },
+        {
+          "index": 396,
+          "name": "idealization"
+        },
+        {
+          "index": 416,
+          "name": "pathology framing"
+        },
+        {
+          "index": 451,
+          "name": "structural symmetry"
+        },
+        {
+          "index": 572,
+          "name": "aesthetic tradeoff"
+        },
+        {
+          "index": 579,
+          "name": "ideological positioning"
+        },
+        {
+          "index": 580,
+          "name": "economic reasoning"
+        },
+        {
+          "index": 595,
+          "name": "systemic critique"
+        },
+        {
+          "index": 613,
+          "name": "necessity claim"
+        }
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 22471,
+    "output_tokens": 48525
+  }
+}

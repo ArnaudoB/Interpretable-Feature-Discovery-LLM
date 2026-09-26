@@ -1,0 +1,533 @@
+{
+  "n_draws": 10,
+  "counts": [
+    15,
+    16,
+    15,
+    17,
+    16,
+    15,
+    17,
+    14,
+    14,
+    17
+  ],
+  "draw_vs_draw": [
+    {
+      "draw_a": 0,
+      "draw_b": 1,
+      "K_a": 15,
+      "K_b": 16,
+      "mean_best_cosine": 0.7863888144493103,
+      "n_above_080": 7
+    },
+    {
+      "draw_a": 0,
+      "draw_b": 2,
+      "K_a": 15,
+      "K_b": 15,
+      "mean_best_cosine": 0.7638322710990906,
+      "n_above_080": 6
+    },
+    {
+      "draw_a": 0,
+      "draw_b": 3,
+      "K_a": 15,
+      "K_b": 17,
+      "mean_best_cosine": 0.7577782273292542,
+      "n_above_080": 6
+    },
+    {
+      "draw_a": 0,
+      "draw_b": 4,
+      "K_a": 15,
+      "K_b": 16,
+      "mean_best_cosine": 0.7406779527664185,
+      "n_above_080": 6
+    },
+    {
+      "draw_a": 0,
+      "draw_b": 5,
+      "K_a": 15,
+      "K_b": 15,
+      "mean_best_cosine": 0.7540236115455627,
+      "n_above_080": 7
+    },
+    {
+      "draw_a": 0,
+      "draw_b": 6,
+      "K_a": 15,
+      "K_b": 17,
+      "mean_best_cosine": 0.8072665929794312,
+      "n_above_080": 8
+    },
+    {
+      "draw_a": 0,
+      "draw_b": 7,
+      "K_a": 15,
+      "K_b": 14,
+      "mean_best_cosine": 0.7568532824516296,
+      "n_above_080": 6
+    },
+    {
+      "draw_a": 0,
+      "draw_b": 8,
+      "K_a": 15,
+      "K_b": 14,
+      "mean_best_cosine": 0.7233446836471558,
+      "n_above_080": 4
+    },
+    {
+      "draw_a": 0,
+      "draw_b": 9,
+      "K_a": 15,
+      "K_b": 17,
+      "mean_best_cosine": 0.7581800818443298,
+      "n_above_080": 7
+    },
+    {
+      "draw_a": 1,
+      "draw_b": 2,
+      "K_a": 16,
+      "K_b": 15,
+      "mean_best_cosine": 0.7307342290878296,
+      "n_above_080": 6
+    },
+    {
+      "draw_a": 1,
+      "draw_b": 3,
+      "K_a": 16,
+      "K_b": 17,
+      "mean_best_cosine": 0.7368659377098083,
+      "n_above_080": 7
+    },
+    {
+      "draw_a": 1,
+      "draw_b": 4,
+      "K_a": 16,
+      "K_b": 16,
+      "mean_best_cosine": 0.792387843132019,
+      "n_above_080": 9
+    },
+    {
+      "draw_a": 1,
+      "draw_b": 5,
+      "K_a": 16,
+      "K_b": 15,
+      "mean_best_cosine": 0.7913389205932617,
+      "n_above_080": 10
+    },
+    {
+      "draw_a": 1,
+      "draw_b": 6,
+      "K_a": 16,
+      "K_b": 17,
+      "mean_best_cosine": 0.7417905330657959,
+      "n_above_080": 5
+    },
+    {
+      "draw_a": 1,
+      "draw_b": 7,
+      "K_a": 16,
+      "K_b": 14,
+      "mean_best_cosine": 0.7528160810470581,
+      "n_above_080": 6
+    },
+    {
+      "draw_a": 1,
+      "draw_b": 8,
+      "K_a": 16,
+      "K_b": 14,
+      "mean_best_cosine": 0.7094345092773438,
+      "n_above_080": 5
+    },
+    {
+      "draw_a": 1,
+      "draw_b": 9,
+      "K_a": 16,
+      "K_b": 17,
+      "mean_best_cosine": 0.7150408029556274,
+      "n_above_080": 5
+    },
+    {
+      "draw_a": 2,
+      "draw_b": 3,
+      "K_a": 15,
+      "K_b": 17,
+      "mean_best_cosine": 0.8098794221878052,
+      "n_above_080": 8
+    },
+    {
+      "draw_a": 2,
+      "draw_b": 4,
+      "K_a": 15,
+      "K_b": 16,
+      "mean_best_cosine": 0.7771221995353699,
+      "n_above_080": 9
+    },
+    {
+      "draw_a": 2,
+      "draw_b": 5,
+      "K_a": 15,
+      "K_b": 15,
+      "mean_best_cosine": 0.7995662093162537,
+      "n_above_080": 10
+    },
+    {
+      "draw_a": 2,
+      "draw_b": 6,
+      "K_a": 15,
+      "K_b": 17,
+      "mean_best_cosine": 0.800655722618103,
+      "n_above_080": 8
+    },
+    {
+      "draw_a": 2,
+      "draw_b": 7,
+      "K_a": 15,
+      "K_b": 14,
+      "mean_best_cosine": 0.8005741834640503,
+      "n_above_080": 8
+    },
+    {
+      "draw_a": 2,
+      "draw_b": 8,
+      "K_a": 15,
+      "K_b": 14,
+      "mean_best_cosine": 0.7655444741249084,
+      "n_above_080": 7
+    },
+    {
+      "draw_a": 2,
+      "draw_b": 9,
+      "K_a": 15,
+      "K_b": 17,
+      "mean_best_cosine": 0.7570164203643799,
+      "n_above_080": 8
+    },
+    {
+      "draw_a": 3,
+      "draw_b": 4,
+      "K_a": 17,
+      "K_b": 16,
+      "mean_best_cosine": 0.7339574098587036,
+      "n_above_080": 6
+    },
+    {
+      "draw_a": 3,
+      "draw_b": 5,
+      "K_a": 17,
+      "K_b": 15,
+      "mean_best_cosine": 0.727448046207428,
+      "n_above_080": 6
+    },
+    {
+      "draw_a": 3,
+      "draw_b": 6,
+      "K_a": 17,
+      "K_b": 17,
+      "mean_best_cosine": 0.7492302060127258,
+      "n_above_080": 7
+    },
+    {
+      "draw_a": 3,
+      "draw_b": 7,
+      "K_a": 17,
+      "K_b": 14,
+      "mean_best_cosine": 0.694355845451355,
+      "n_above_080": 5
+    },
+    {
+      "draw_a": 3,
+      "draw_b": 8,
+      "K_a": 17,
+      "K_b": 14,
+      "mean_best_cosine": 0.7064667344093323,
+      "n_above_080": 5
+    },
+    {
+      "draw_a": 3,
+      "draw_b": 9,
+      "K_a": 17,
+      "K_b": 17,
+      "mean_best_cosine": 0.7207485437393188,
+      "n_above_080": 5
+    },
+    {
+      "draw_a": 4,
+      "draw_b": 5,
+      "K_a": 16,
+      "K_b": 15,
+      "mean_best_cosine": 0.7998160123825073,
+      "n_above_080": 10
+    },
+    {
+      "draw_a": 4,
+      "draw_b": 6,
+      "K_a": 16,
+      "K_b": 17,
+      "mean_best_cosine": 0.7935905456542969,
+      "n_above_080": 9
+    },
+    {
+      "draw_a": 4,
+      "draw_b": 7,
+      "K_a": 16,
+      "K_b": 14,
+      "mean_best_cosine": 0.773267388343811,
+      "n_above_080": 9
+    },
+    {
+      "draw_a": 4,
+      "draw_b": 8,
+      "K_a": 16,
+      "K_b": 14,
+      "mean_best_cosine": 0.7185560464859009,
+      "n_above_080": 4
+    },
+    {
+      "draw_a": 4,
+      "draw_b": 9,
+      "K_a": 16,
+      "K_b": 17,
+      "mean_best_cosine": 0.7328925132751465,
+      "n_above_080": 5
+    },
+    {
+      "draw_a": 5,
+      "draw_b": 6,
+      "K_a": 15,
+      "K_b": 17,
+      "mean_best_cosine": 0.779689610004425,
+      "n_above_080": 8
+    },
+    {
+      "draw_a": 5,
+      "draw_b": 7,
+      "K_a": 15,
+      "K_b": 14,
+      "mean_best_cosine": 0.7838724851608276,
+      "n_above_080": 8
+    },
+    {
+      "draw_a": 5,
+      "draw_b": 8,
+      "K_a": 15,
+      "K_b": 14,
+      "mean_best_cosine": 0.755145788192749,
+      "n_above_080": 7
+    },
+    {
+      "draw_a": 5,
+      "draw_b": 9,
+      "K_a": 15,
+      "K_b": 17,
+      "mean_best_cosine": 0.7274187803268433,
+      "n_above_080": 4
+    },
+    {
+      "draw_a": 6,
+      "draw_b": 7,
+      "K_a": 17,
+      "K_b": 14,
+      "mean_best_cosine": 0.7569088935852051,
+      "n_above_080": 6
+    },
+    {
+      "draw_a": 6,
+      "draw_b": 8,
+      "K_a": 17,
+      "K_b": 14,
+      "mean_best_cosine": 0.7154566049575806,
+      "n_above_080": 3
+    },
+    {
+      "draw_a": 6,
+      "draw_b": 9,
+      "K_a": 17,
+      "K_b": 17,
+      "mean_best_cosine": 0.7657978534698486,
+      "n_above_080": 6
+    },
+    {
+      "draw_a": 7,
+      "draw_b": 8,
+      "K_a": 14,
+      "K_b": 14,
+      "mean_best_cosine": 0.7327486872673035,
+      "n_above_080": 6
+    },
+    {
+      "draw_a": 7,
+      "draw_b": 9,
+      "K_a": 14,
+      "K_b": 17,
+      "mean_best_cosine": 0.7246335744857788,
+      "n_above_080": 5
+    },
+    {
+      "draw_a": 8,
+      "draw_b": 9,
+      "K_a": 14,
+      "K_b": 17,
+      "mean_best_cosine": 0.8010926246643066,
+      "n_above_080": 8
+    }
+  ],
+  "draw_vs_discovered": [
+    {
+      "draw": 0,
+      "K": 15,
+      "mean_best_cosine": 0.4545893371105194,
+      "n_above_080": 0
+    },
+    {
+      "draw": 1,
+      "K": 16,
+      "mean_best_cosine": 0.4957655370235443,
+      "n_above_080": 0
+    },
+    {
+      "draw": 2,
+      "K": 15,
+      "mean_best_cosine": 0.45730647444725037,
+      "n_above_080": 0
+    },
+    {
+      "draw": 3,
+      "K": 17,
+      "mean_best_cosine": 0.46095383167266846,
+      "n_above_080": 0
+    },
+    {
+      "draw": 4,
+      "K": 16,
+      "mean_best_cosine": 0.4786580801010132,
+      "n_above_080": 0
+    },
+    {
+      "draw": 5,
+      "K": 15,
+      "mean_best_cosine": 0.49903562664985657,
+      "n_above_080": 0
+    },
+    {
+      "draw": 6,
+      "K": 17,
+      "mean_best_cosine": 0.45014074444770813,
+      "n_above_080": 0
+    },
+    {
+      "draw": 7,
+      "K": 14,
+      "mean_best_cosine": 0.49273207783699036,
+      "n_above_080": 0
+    },
+    {
+      "draw": 8,
+      "K": 14,
+      "mean_best_cosine": 0.4260609745979309,
+      "n_above_080": 0
+    },
+    {
+      "draw": 9,
+      "K": 17,
+      "mean_best_cosine": 0.4267815947532654,
+      "n_above_080": 0
+    }
+  ],
+  "draw0_nearest_discovered": [
+    {
+      "criterion": "Direct relevance",
+      "definition": "The extent to which the reply addresses the exact belief, reasons, and question at issue rather than drifting to side matters.",
+      "nearest_discovered": "Consistency challenge",
+      "cosine": 0.42150864005088806
+    },
+    {
+      "criterion": "Crux focus",
+      "definition": "The extent to which the reply engages the key assumptions or considerations whose revision would most likely change the original view.",
+      "nearest_discovered": "Qualified rebuttal",
+      "cosine": 0.46591687202453613
+    },
+    {
+      "criterion": "Audience attunement",
+      "definition": "The extent to which the reply frames its case in terms of the original poster's stated values, background knowledge, and concerns.",
+      "nearest_discovered": "Confrontational tone",
+      "cosine": 0.43023720383644104
+    },
+    {
+      "criterion": "Evidential grounding",
+      "definition": "The extent to which the reply backs its claims with specific, credible facts, examples, data, or sources.",
+      "nearest_discovered": "Challenger evidentiary support",
+      "cosine": 0.5538673996925354
+    },
+    {
+      "criterion": "Inferential strength",
+      "definition": "The extent to which the reply's reasons logically support its conclusion without major gaps, contradictions, or fallacies.",
+      "nearest_discovered": "Analogical reasoning",
+      "cosine": 0.41833171248435974
+    },
+    {
+      "criterion": "Counterargument handling",
+      "definition": "The extent to which the reply anticipates and answers strong objections, exceptions, or alternative explanations.",
+      "nearest_discovered": "Qualified rebuttal",
+      "cosine": 0.5742474794387817
+    },
+    {
+      "criterion": "Fair representation",
+      "definition": "The extent to which the reply characterizes the opposing position accurately and charitably before criticizing it.",
+      "nearest_discovered": "Qualified rebuttal",
+      "cosine": 0.4088362157344818
+    },
+    {
+      "criterion": "Claim specificity",
+      "definition": "The extent to which the reply makes concrete, precise points instead of relying on vague or generic assertions.",
+      "nearest_discovered": "Concrete illustration",
+      "cosine": 0.49387603998184204
+    },
+    {
+      "criterion": "Clarity of expression",
+      "definition": "The extent to which the reply is easy to understand and follow on a first reading.",
+      "nearest_discovered": "Consistency challenge",
+      "cosine": 0.3548276424407959
+    },
+    {
+      "criterion": "Argument economy",
+      "definition": "The extent to which the reply concentrates persuasive substance without unnecessary repetition, digression, or filler.",
+      "nearest_discovered": "Confrontational tone",
+      "cosine": 0.47625595331192017
+    },
+    {
+      "criterion": "Epistemic calibration",
+      "definition": "The extent to which the reply matches its confidence and scope to what the support warrants, including acknowledging uncertainty or limits.",
+      "nearest_discovered": "Consistency challenge",
+      "cosine": 0.4117116332054138
+    },
+    {
+      "criterion": "Novel insight",
+      "definition": "The extent to which the reply offers information, perspectives, or reframings that the original poster likely had not already considered.",
+      "nearest_discovered": "Consistency challenge",
+      "cosine": 0.41270896792411804
+    },
+    {
+      "criterion": "Respectful tone",
+      "definition": "The extent to which the reply remains civil and non-contemptuous toward the person holding the view.",
+      "nearest_discovered": "Confrontational tone",
+      "cosine": 0.5650051236152649
+    },
+    {
+      "criterion": "Empathic understanding",
+      "definition": "The extent to which the reply shows genuine understanding of why someone might hold the view and what concerns sustain it.",
+      "nearest_discovered": "Confrontational tone",
+      "cosine": 0.37615734338760376
+    },
+    {
+      "criterion": "Emotional resonance",
+      "definition": "The extent to which the reply connects with values or feelings in a way that makes reconsideration feel compelling.",
+      "nearest_discovered": "Confrontational tone",
+      "cosine": 0.4553518295288086
+    }
+  ],
+  "encoder": "text-embedding-3-large",
+  "embedding_usd": 0.0
+}
